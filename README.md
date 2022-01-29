@@ -1,2 +1,2 @@
-# omisalj-heritage
-Ionic app for Omisalj Tourist Board
+# visit-krk
+Ionic app for island of Krk cultural heritage.
