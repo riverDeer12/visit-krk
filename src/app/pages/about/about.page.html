@@ -1,0 +1,47 @@
+<ion-header>
+  <ion-toolbar class="header" color="primary">
+    <ion-menu-toggle>
+      <ion-button size="small" color="light" fill="clear">
+        <ion-icon size="large" slot="icon-only" name="menu-outline"></ion-icon>
+      </ion-button>
+    </ion-menu-toggle>
+    <ion-title>{{ 'navigation.about' | translate }}</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-row justify-content-center align-items-center>
+  <img src="assets/images/logo.png">
+</ion-row>
+
+<ion-content class="ion-padding" text-center>
+
+  <ion-text [innerHtml]="'about.description' | translate"></ion-text>
+
+  <ion-row class="center-content">
+    <a class="sponsor" href="http://cib.uniri.hr/">
+      <img src="assets/images/logos/about_cib.png" />
+    </a>
+
+    <a class="sponsor" href="https://www.croatia.hr/hr-HR">
+      <img src="assets/images/logos/about_hrvatska.png" />
+    </a>
+
+    <a class="sponsor" href="http://www.krk.hr/">
+      <img src="assets/images/logos/about_krk.png" />
+    </a>
+
+    <a class="sponsor" href="http://www.kvarner.hr/turizam">
+      <img src="assets/images/logos/about_kvarner.png" />
+    </a>
+
+    <a class="sponsor" href="https://www.visit-omisalj-njivice.hr/">
+      <img src="assets/images/logos/about_omisalj.png" />
+    </a>
+
+    <a class="sponsor" href="https://www.uniri.hr">
+      <img src="assets/images/logos/about_sur.png" />
+    </a>
+  </ion-row>
+
+
+</ion-content>

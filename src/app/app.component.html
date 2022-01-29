@@ -1,0 +1,45 @@
+<ion-app>
+
+  <ion-split-pane contentId="main-content">
+
+    <ion-menu contentId="main-content" type="overlay">
+      <ion-content>
+        <ion-list class="ion-no-padding" id="menu-list">
+          <ion-list-header class="menu-header-image"></ion-list-header>
+          <ion-note class="ion-padding-top">{{'app_name' | translate }}</ion-note>
+          <ion-menu-toggle auto-hide="false" *ngFor="let page of pages; let i = index">
+            <ion-item routerDirection="root" [routerLink]="[page.url]" lines="none" detail="false"
+              routerLinkActive="selected">
+              <img class="nav-icon" [src]="page.icon" />
+              <ion-label>{{ page.title | translate}}</ion-label>
+            </ion-item>
+          </ion-menu-toggle>
+        </ion-list>
+        <ion-list id="contact-list">
+          <ion-note class="ion-padding-bottom">{{'contact' | translate }}</ion-note>
+          <ion-menu-toggle auto-hide="false">
+            <ion-item (click)="share()" lines="none" detail="false">
+              <img class="nav-icon" src="assets/images/nav_icons/share.png" />
+              <ion-label>{{ 'navigation.share' | translate}}</ion-label>
+            </ion-item>
+          </ion-menu-toggle>
+          <ion-menu-toggle auto-hide="false">
+            <ion-item (click)="rate()" lines="none" detail="false">
+              <img class="nav-icon" src="assets/images/nav_icons/rate.png" />
+              <ion-label>{{ 'navigation.rate' | translate}}</ion-label>
+            </ion-item>
+          </ion-menu-toggle>
+          <ion-menu-toggle auto-hide="false">
+            <ion-item (click)="sendEmail()" lines="none" detail="false">
+              <img class="nav-icon" src="assets/images/nav_icons/send_mail.png" />
+              <ion-label>{{ 'navigation.send_mail' | translate}}</ion-label>
+            </ion-item>
+          </ion-menu-toggle>
+        </ion-list>
+      </ion-content>
+    </ion-menu>
+
+    <ion-router-outlet id="main-content"></ion-router-outlet>
+
+  </ion-split-pane>
+</ion-app>

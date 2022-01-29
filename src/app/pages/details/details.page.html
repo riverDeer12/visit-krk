@@ -1,0 +1,64 @@
+<ion-header [hidden]="loadingData">
+  <ion-toolbar class="header" color="dark">
+    <ion-menu-toggle>
+      <ion-button size="small" color="light" fill="clear">
+        <ion-icon size="large" slot="icon-only" name="menu-outline"></ion-icon>
+      </ion-button>
+    </ion-menu-toggle>
+    <ion-title>
+      {{sight.key + '.title' | translate }}
+    </ion-title>
+    <ion-button class="ion-float-right" fill="clear" size="small" color="light" (click)="goBack()">
+      <ion-icon size="large" slot="icon-only" name="return-up-back-outline"></ion-icon>
+    </ion-button>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [hidden]="loadingData">
+
+  <ion-slides pager="true" [options]="slideOpts">
+    <ion-slide *ngFor="let number of imagesNumber()" class="slide-image"
+      [style]="'background-image: url(assets/images/sights/' + sight.name + '_' + number + '.jpg);'">
+    </ion-slide>
+  </ion-slides>
+
+  <div class="ion-padding">
+    <ion-text [innerHtml]="sight.key + '.description' | translate"></ion-text>
+  </div>
+
+  <div class="ion-padding" [hidden]="loadingData && hasRelatedSights" *ngIf="hasRelatedSights">
+    <ion-card-subtitle>{{'related_sights' | translate }}</ion-card-subtitle>
+    <ion-card *ngFor="let relatedSight of relatedSights">
+      <img [src]="'assets/images/sights/' + relatedSight + '_1.jpg'" />
+      <ion-card-header>
+        <ion-card-subtitle class="ion-margin-bottom">{{ 'navigation.archeology_remains' | translate }}
+        </ion-card-subtitle>
+        <ion-card-title>{{ 'archeology_remains.' + relatedSight + '.title' | translate }}</ion-card-title>
+      </ion-card-header>
+      <ion-card-header class="ion-text-center">
+        <ion-button (click)="goToRelatedSightDetails(relatedSight)" fill="clear" expand="full" color="primary">
+          <ion-icon size="large" slot="icon-only" name="information-outline"></ion-icon>
+          {{ 'read_more' | translate}}
+        </ion-button>
+      </ion-card-header>
+    </ion-card>
+  </div>
+</ion-content>
+
+<ion-footer *ngIf="!hasRelatedSights">
+  <ion-toolbar>
+    <ion-button (click)="goToMap()" expand="full" fill="clear" color="dark">
+      <ion-icon size="large" slot="icon-only" name="locate-outline"></ion-icon>
+      <ion-text class="ion-margin-start">{{ 'show_on_map' | translate}}</ion-text>
+    </ion-button>
+  </ion-toolbar>
+</ion-footer>
+
+<ion-footer *ngIf="hasRelatedSights">
+  <ion-toolbar>
+    <ion-button (click)="goToTourMap()" expand="full" fill="clear" color="dark">
+      <ion-icon size="large" slot="icon-only" name="locate-outline"></ion-icon>
+      <ion-text class="ion-margin-start">{{ 'show_on_map' | translate}}</ion-text>
+    </ion-button>
+  </ion-toolbar>
+</ion-footer>

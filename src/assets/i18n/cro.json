@@ -1,0 +1,333 @@
+{
+  "app_name": "Visit Krk",
+  "language_picker": {
+    "choose_your_language": "Odaberite svoj jezik",
+    "english": "Engleski",
+    "croatian": "Hrvatski",
+    "german": "Njemački",
+    "italian": "Talijanski"
+  },
+  "sidebar_header_text": "Visit Krk",
+  "next": "Naprijed",
+  "contact": "Kontakt",
+  "back_to_quit": "Kliknite NATRAG ponovno kako biste izašli iz aplikacije",
+  "settings": "Postavke",
+  "try_again": "Pokušajte ponovno",
+  "back": "Natrag",
+  "refresh": "Osvježi",
+  "please_wait": "Molimo pričekajte...",
+  "show_on_map": "Prikaži na karti!",
+  "get_me_there": "Odvedi me tamo!",
+  "related_sights": "Povezane znamenitosti:",
+  "read_more": "Pročitaj više",
+  "navigation": {
+    "history": "Povijest",
+    "closest_point_of_interest": "Closest point of interest",
+    "archeology_remains": "Arheološki ostatci",
+    "archeology_remain": "Arheološki ostatak",
+    "churches": "Crkve",
+    "church": "Crkva",
+    "forts": "Utvrde",
+    "fort": "Utvrda",
+    "industrial_heritage": "Industrijska baština",
+    "localities": "Lokaliteti",
+    "locality": "Lokalitet",
+    "libraries": "Knjižnice",
+    "library": "Knjižnica",
+    "parks": "Parkovi",
+    "park": "Park",
+    "museums": "Muzeji",
+    "museum": "Muzej",
+    "cemeteries": "Groblja",
+    "cemetery": "Groblje",
+    "monuments": "Spomenici",
+    "monument": "Spomenik",
+    "lookouts": "Vidikovci",
+    "lookout": "Vidikovac",
+    "tours": "Obilasci",
+    "tour": "Obilazak",
+    "ethnographic_collections": "Zavičajne zbirke",
+    "ethnographic_collection": "Zavičajne zbirka",
+    "all_sights": "Sve znamenitosti",
+    "about": "O nama",
+    "communication": "Kontakt",
+    "share": "Podijeli",
+    "rate": "Ocjeni",
+    "send_mail": "Pošalji email",
+    "no_email_message": "Nemate instaliranu aplikaciju za slanje email-a"
+  },
+  "history": {
+    "title": "Povijest otoka Krka",
+    "description": "Dinamičnu povijest otoka Krka odredio je povoljan geografski položaj (sjecište trgovačkih putova), blaga klima, dovoljno obradive zemlje i,\n    znatan broj uzvisina za utvrđivanje naselja. Njegovi najraniji tragovi sežu u prapovijest. Iako još uvijek sustavno neistraženi, ostaci ove,\n    davne prošlosti pronađeni su na strateški pozicioniranim brežuljcima (oko crkve sv. Petra u Gabonjinu) i u špiljama otoka Krka.,\n    Razdoblje rimske prevlasti ostavilo je mnoštvo tragova na otoku Krku, sačuvanih podno Omišlja na arheološkom lokalitetu Fulfinum, u uvali,\n    Soline uokolo srednjovjekovne crkve na lokalitetu sv. Petar te unutar današnjih gradskih tkiva Baške i Krka. Najbolje sačuvani tragovi rimske,\n    kulture nalaze se u ugostiteljskim prostorima Volsonis i Mate u gradu Krku. Kafić Volsonis inkorporiran je u rimske bedeme grada, a u kafiću,\n    Mate nalazi se izvrsno očuvan rimski mozaik s prikazom mitskoga bića Tritona.,\n    Najraniji tragovi kršćanstva na otoku potječu iz petog stoljeća, kada vjeru prihvaća Carstvo. Tada se uza sama središta kasnoantičke moći,\n    grade važni sakralni objekti. Najraniji datirani i sačuvani objekti su starokršćanska bazilika u Mirinama sagrađena uz rimski grad Fulfinum,,\n    ostaci nekadašnje starokršćanske crkve podno crkve sv. Marka u Baški te pronađeni tragovi vrlo rano datiranoga sakralnog zdanja u temeljima krčke katedrale.,\n    Današnji otok Krk podijeljen je u sedam općina čiji su upravni centri veća mjesta: Omišalj, Malinska, Dobrinj, Vrbnik, Krk, Punat i Baška.,\n    Približno ovakva podjela otoka, izostavivši Punat i Malinsku kao mjesta mlađa po postanku, čuva se još od srednjeg vijeka kada je otočnim kaštelima,\n    pod budnim mletačkim okom upravljala kneževska obitelj Frankopan. Ova obitelj brinula se za održavanje mira na otoku, dobro uređene pravne odnose,,\n    njegovanje tradicije u obliku hrvatskog jezika i pisma glagoljice te održavanje sakralnih zdanja potrebnih za obavljanje bogoslužja. Nedaleko od,\n    mjesta Vrbnik sačuvan je stari frankopanski kaštel-utvrda nazvan Gradec, a u gradu Krku nalazi se velebni Frankopanski kaštel, reprezentativno,\n    obrambeno zdanje  i sastavni dio gradskih bedema.,\n    Nesiguran srednji vijek sugerirao je izgradnju mjesta na uzvisinama kako bi geografski položaj pružao mogućnost nadzora nad obradivim površinama i,\n    zaštitu od mogućih napada. Gradski bedemi sačuvani su samo u Krku, u drugim su mjestima, primjerice u Dobrinju, tragovi bedema tek vidljivi unutar,\n    debelih zidova kuća smještenih u vanjskom prstenu grada. Otočna su mjesta do danas sačuvala prepoznatljive elemente tradicijskoga graditeljstva u,\n    malim kamenim kućama radijalno postavljenima na uskim ulicama oko glavnoga gradskog trga, a kao zaštitni znakovi svakog naselja ponosno strše zvonici,\n    mjesnih crkvi (crkva sv. Stjepana – Dobrinj, crkva Uznesenja Blažene Djevice Marije – Vrbnik i crkva Uznesenja Marijina – Omišalj).,\n    Ovim je projektom na jednome mjestu sažeto bogato višestoljetno kulturno nasljeđe otoka Krka od njegove rimske do novovjekovne povijesti. Obuhvaćen je,\n    niz arheoloških lokaliteta, utvrda, starokršćanskih, srednjovjekovnih i novovjekovnih crkvenih zdanja i samostana te drugih reprezentativnih kulturnih, dobara krčkih otočnih mjesta."
+  },
+  "closest_point_of_interest": {
+    "closest_sight": "Najbliža lokacija",
+    "closest_tour": "Najbliži obilazak",
+    "no_navigation_alert": "Navigacijska aplikacija nije dostupna",
+    "no_internet": {
+      "title": "Nemate internet pristup!",
+      "description": "Ova funkcionalnost zahtjeva internet pristup."
+    },
+    "location_permission": {
+      "title": "Dopuštenje za lokaciju je potrebno!",
+      "description": "Ova funkcionalnost zahtjeva dopuštenje za lokaciju."
+    },
+    "gps": {
+      "title": "GPS nije uključen",
+      "description": "Ova funkcionalnost zahtjeva GPS."
+    }
+  },
+  "about": {
+    "title": "Visit Krk",
+    "description": "<b>Naručitelj:</b> TZO OMIŠALJ<br><br><b>Voditelj projekta:</b> Kristina Pandža<br><br><b>Text:</b> TZO OMIŠALJ<br><br><b>Lektura i korekcije:</b> Adverbum d.o.o.<br><br><b>Prijevod na engleski:</b> Adverbum d.o.o.<br><br><b>Prijevod na njemački:</b> Adverbum d.o.o.<br><br><b>Prijevod na talijanski:</b> Adverbum d.o.o.<br><br><b>Fotografija:</b> Luka Tabako, Srđan Hulak, Sanjin Ilić<br><br><b>Razvoj web stranice:</b> Ljiljana Brusić<br><br><b>Razvoj mobilne aplikacije:</b> R.D.D."
+  },
+  "archeology_remains": {
+    "glagolitic_inscription": {
+      "title": "Glagoljski natpis – nadvratnik portala, uzidan u kući Veli dvor 11",
+      "description": "<b>Glagoljski natpis Matije Franovića iz 1535. godine.</b><br><br>Glagoljski natpis upisan je u medaljonu uokolo križa na kamenom bloku uzidanom pri dnu pročelja obiteljske kuće. Natpis spominje svećenika Matiju Franovića i godinu 1535. Izvorno se, naravno, nije nalazio na ovom neuglednom mjestu. Kameni blok je bio nadvratnik portala svećenikove kuće a vlasnik je, kako je u vrijeme renesanse bilo uobičajeno, dovršetak izgradnje obilježio natpisom i križem koji je imao i apotropejsku funkciju odbijanja svakog zla od praga vlasnikove kuće. Nigdje na svijetu nema toliko sačuvanih glagoljskih natpisa na kamenu kao u gradićima na otoku Krku. Natpisi svjedoče o raširenoj pismenosti među pučanima otoka Krka. Nositelj glagoljske pismenosti bilo je brojno svećenstvo kaptola krčkih gradića, Omišlja, Dobrinja, Vrbnika i Baške koji su se tada zvali kaštelima.",
+      "numberOfImages": 2,
+      "latitude": 45.212041,
+      "longitude": 14.552886
+    },
+    "klancina": {
+      "title": "Klančina",
+      "description": "<b>Posljednja izvorna kamenom opločena ulica u Omišlju.</b><br><br>Ulica se stoljećima oblikovala uokolo udoline nastale erozijom uslijed djelovanja vodene bujice. Nalazi se u južnom dijelu omišaljske povijesne jezgre. Opločena je škrilom tj. prirodnim kamenim pločama, kamenom lomljencem i priklesanim kvadrima složenim u središnji niz.",
+      "numberOfImages": 1,
+      "latitude": 45.211217,
+      "longitude": 14.554656
+    },
+    "loza": {
+      "title": "Loža",
+      "description": "<b>Omišaljska javna građevina s kontinuitetom iz doba renesanse.</b><br><br>U vrijeme renesanse na Placi se nalazila gradska loža. U njoj su i pred njom Omišljani trgovali, vijećali i izabirali predstavnike u zajednička upravna tijela u okvirima autonomnih ovlasti koje je omišaljska općina kao zajednica slobodnih pučana imala i u vrijeme vlasti knezova Krčkih kao i u vrijeme vlasti Mletačke Republike. U njoj se obavljao težak izbor onih koji su morali služiti na mletačkim galijama, toj okosnici snage Mletačke Republike. Loža je pregrađena početkom 20. stoljeća. Danas je u njoj smještena Malakološka zbirka Omišalj, uspostavljena 2011. godine u suradnji sa stručnjacima Prirodoslovnog muzeja iz Rijeke. Kolekciju od 675 primjeraka puževa, školjkaša i glavonožaca Općini je darovala dr. Branka Hameder Isensee, rodom iz Vukovara. Kolekcija simbolički podsjeća i na jednu pretpostavku o imenu Omišlja, koje je prema dijelu stručnjaka nastalo kroatiziranjem srednjovjekovnoga latinskoga imena a musclu, u značenju Ad musculum u klasičnom latinskom, dakle mjesta kod sitnih školjki ili dagnji.",
+      "numberOfImages": 1,
+      "latitude": 45.211807,
+      "longitude": 14.553792
+    },
+    "pancirov": {
+      "title": "Panćirov",
+      "description": "<b>Zavojita ulica u jugoistočnom dijelu omišaljske povijesne jezgre.</b><br><br>U prošlosti je ova stara omišaljska ulica bila vrlo karakteristična po tradicijski oblikovanim, složenim višekatnim lučnim konstrukcijama s terasama i vanjskim stubištima pred pročeljima kuća.",
+      "numberOfImages": 1,
+      "latitude": 45.211308,
+      "longitude": 14.553835
+    },
+    "mirine_fulfinum_basilica": {
+      "title": "Mirine Fulfinum – Bazilika",
+      "description": "<b>Na periferiji grada, sredinom 5. stoljeća gradi se crkva na Mirinama. Riječ je o jednobrodnoj, longitudinalnoj bazilici čiji je temeljni oblik latinski križ.</b><br><br>Bazilika je sačuvana do visine krovišta i jedini je sačuvani sakralni objekt toga tipa ne samo na otoku Krku, nego i u cijelome Hrvatskom primorju.<br><br>S tom crkvom na ruševinama rimskoga grada Fulfinuma počeo je nicati novi kršćanski grad, no, njegove tajne stručnjaci tek trebaju otkriti. Lokalna tradicija crkvu povezuje s glagoljaškom benediktinskom opatijom Sv. Nikole, napuštenom u 15. stoljeću i preseljenom bliže Omišlju.<br><br>Radi se zaista o impozantnoj jednobrodnoj crkvenoj građevini. U izvornoj fazi gradnje posjedovala je u pročelju predvorje – narteks ili vestibul, trijem na južnoj strani, te dvije manje pobočne prostorije – preteče sakristiji – spojene sa ziđem svetišta. Samo svetište jednostavnog je oblika: začelje je ravno, a u njega je upisana slobodnostojeća klupa za svećenstvo. Pred klupom stoji dio svetišta zatvoren oltarnom pregradom, koji u svom središtu čuva oltarni grob u obliku križa. U prostoru predvorja, ukopan u živu stijenu i zaliven podnicom od žbuke, pronađen je sarkofag. Uz sarkofag naknadno je smješten i privilegiran grob s dva pokojnika, datiran u razdoblje između 7. i 8. stoljeća.<br><br>Vjerojatno je u isto vrijeme južnom trijemu nadozidan i atrij, koji u svojim krakovima također posjeduje nekoliko privilegiranih grobnica. Ova će se zajednica razviti kroz stoljeća koja slijede u dobro organiziranu redovničku zajednicu koja će preuzeti učenje svetog Benedikta, kako govore kasniji izvori koji spominju opatiju Svetog Nikole podno Omišlja. Unutar ovog samostanskog kompleksa, uz crkvu koja doživljava preinake prostora i iznutra, nalaze se sa istočne strane manji objekti, memorijalnog, pa zatim i gospodarskog karaktera.",
+      "numberOfImages": 3,
+      "latitude": 45.2039264,
+      "longitude": 14.5425719
+    },
+    "mirine_fulfinum_sarcophagus": {
+      "title": "Mirine Fulfinum - Sarkofag",
+      "description": "<b>U predvorju bazilike je pronađen sarkofag položen u šupljinu uklesanu u stijeni, koji nikada nije otvaran, a kasnije je u okolici pronađeno još grobnica.</b><br><br>Prilikom čišćenja predvorja bazilike, ispod goleme količine kamena pronađen je sarkofag in situ, vrlo rijetka dragocjenost tog kompleksa. Sarkofag, s originalnim poklopcem, stoji na svom mjestu otkad je postavljen, ukopan ispod crkve. Bez oskvrnjivanja groba, mikro kamerom je otkriveno da se unutra nalaze dva pokojnika.",
+      "numberOfImages": 2,
+      "latitude": 45.2039609,
+      "longitude": 14.54291
+    },
+    "mirine_fulfinum_forum": {
+      "title": "Mirine Fulfinum - Forum",
+      "description": "<b>Kao i svaki rimski grad Municipium Flavium Fulfinum posjedovao je u samom svom središtu FORUM – glavni gradski trg gdje su se susretale one glavne funkcije urbane sredine rimskog svijeta: političke, ekonomske, religijske i društvene.</b><br><br>Fulfinski forum nalazi se na krajnjem sjeverozapadnom dijelu grada, uz rub jedne od glavnih prometnica koja je tekla u gotovo pravocrtnoj liniji prateći orijentaciju obale kroz prostor čitavog naselja, pa vjerojatno i dalje u smjeru Krka, preko lokaliteta Mohorov i Njivice.<br><br>Glavni gradski trg očito je posjedovao sve one zgrade koje su bile potrebne za osnovno funkcioniranje grada, prema rimskom predlošku. Tako je u razvijenoj fazi datiranoj u kraj 1. st. poslije Krista u svom središnjem dijelu, ali povučen uz sjeverozapadni rub forumskog prostora koji je zauzimao 1300 m2, stajao glavni forumski hram, posvećen ili kapitolinskoj trijadi, odnosno trima glavnim božanstvima rimske religije Jupiteru, Junoni i Minervi, ili moguće rimskim carevima.<br><br>Hram jednostavnog izgleda, sa samo četiri stupa u pročelju i jednostavnom unutarnjom celom podignutom na visinu od otprilike jednog metra ponad hodne površine forumskog zrcala, bio je okružen posvećenim prostorom kojeg su tvorili obodni zidovi foruma zapadne i sjeverne strane te zid trijema s istočne. Uz zapadnu, dužu stranicu foruma tekao je niz prostorija – taverni – u koje se zacijelo nije moglo ući izravno s foruma, već sa suprotne strane okrenute moru. U istočnom dijelu foruma smjestila se se vrlo dugačka građevina sa svega tri omanje prostorije u svom sjevernom dijelu, kojima je prethodilo veliko unutarnje otvoreno dvorište omeđeno dvama trijemovima. U spomenuti prostor moglo se ući vratima otvorenima u zidu koji je omeđavao prostor forumskog zrcala s te strane. Naposljetku, ulaz u forumski prostor bio je označen portikom nad kojim je stajao natpis posvetnog karaktera.<br><br>Forum grada Fulfinuma doživjeti će veće preinake u 3. stoljeću, uređenjem intimnog trga sa sjeveroistočne strane glavnog hrama, u čijoj je sredini pronađena zidana baza u kojoj je zasigurno stajao spomenik – statua ili natpis – kojem se nažalost u potpunosti izgubio trag. U razdoblju prije konačnog napuštanja foruma, pa i samog grada, određeni su prostori bili privatizirani. Na forumu, simbolu javnog prostora rimskog grada pojavljuju se lake, drvane konstrukcije koje dokazuju gubljenje prvotne funkcije trga.",
+      "numberOfImages": 7,
+      "latitude": 45.2030764,
+      "longitude": 14.5445837
+    },
+    "mirine_fulfinum_comb": {
+      "title": "Mirinski češalj",
+      "description": "<b>Na arheološkom nalazištu kod drvenog mosta pronađen je jedinstveni arheološki predmet iz 5. stoljeća nazvan – Mirinski češalj.</b><br><br>Otkriven je u travnju 2017. godine tijekom francusko-hrvatskog istraživačkog projekta 'Arheološki park Mirine – Fulfinum' Općine Omišalj. Ovaj češalj od bjelokosti, vjerojatno liturgijske namijene, predstavlja arheološki nalaz izuzetne vrijednosti iz razdoblja ranog kršćanstva.<br><br>Češalj je restaurirao Arheološki muzej u Zagrebu, a nalaz su predstavili Sanjin Mihelić, ravnatelj Arheološkog muzeja u Zagrebu, Morana Čaušević-Bully, znanstvenica sa Sveučilišta Franche-Comté, Sébastien Bully, voditelj istraživanja u CNRS-u i Damir Doračić, restaurator Arheološkog muzeja u Zagrebu.<br><br>Mirinski je češalj ukrašen s obje strane reljefnim prikazima Kristovih čuda. S jedne strane prikazana je pretvorba vode u vino na svadbi u Kani, te čudesno umnažanje kruha. S druge strane može se prepoznati scena žene koja krvari, izliječene tako što je dotaknula Isusovo ruho. Uz nju, s lijeve strane, nalazi se drugi prikaz - vrlo moguće - žene pred Kristovim grobom. Njegov je nalaz jedinstven na našim prostorima koji upotpunjuje svjetski korpus od svega nekoliko sličnih predmeta, te svakako predstavlja jedan od značajnijih nalaza u recentnoj hrvatskoj ranokršćanskoj arheologiji.",
+      "numberOfImages": 2,
+      "latitude": 45.2053904,
+      "longitude": 14.5431302
+    }
+  },
+  "churches": {
+    "church_of_st_anthony_of_padua": {
+      "title": "Crkva sv. Antuna Padovanskoga (13/14. stoljeće)",
+      "description": "<b>Jednobrodna crkva zaključena polukružno istaknutom apsidom.</b><br><br>Crkva sv. Antona Padovanskoga na Dubcu prvi se put spominje 1685. godine, iako, sudeći po romaničkom stilu u kojem je građena, mora biti znatno starija. O njoj se brinula istoimena bratovština. Na južnom je zidu sačuvan gotički prozor. Oltarna slika sv. Antuna Padovanskoga je iz 18. stoljeća. Nad pročeljem se uzdiže preslica sa sačuvanim zvonom a pred njim je prigrađena prostrana sjenovita loža. Ljudi se pod ložom i unaokolo rado zadržavaju, posebice u večernjim satima toplih ljetnih mjeseci.",
+      "numberOfImages": 3,
+      "latitude": 45.213345,
+      "longitude": 14.553331
+    },
+    "church_of_st_helen": {
+      "title": "Crkva sv. Jelene",
+      "description": "<b>Jednobrodna crkva zaključena polukružno izbočenom apsidom (14./15. stoljeće).</b><br><br>Crkva sv. Jelene zidana je pravilno uslojenim klesancima. Pročelje joj je proviđeno gotičkim portalom šiljastoga luka i prozorčićem u obliku križa a kruni ga zvonik na preslicu. Smještena je odmah do zvonika i lože župne crkve; s nekoliko stuba podignuta je od glavnog trga Place. U izvorima se prvi put javlja 1458. godine, već kao ruševina. Naime, te ju je godine obnovio i priveo u današnje stanje Nikola Bozanić, te brigu o njoj, uz uporabu određenih posjeda, oporučno povjerio svojim nasljednicima, 15. travnja 1470. godine. Isprave javnih notara bilježe u narednim godinama više imena iz loze Bozanić koja su bila vezana uz kapelu. Tako se 1565. godine pojavljuje Vid Bozanić s juspatronatom, tj. s pravom raspolaganja s kapelom i njezinim zemljištima. Omišaljski župnik Anton Bozanić, oporukom od 16. kolovoza 1612. godine, povjerava brigu o kapeli kleriku Antonu Čubraniću, s time da nakon njegove smrti prijeđe opet Bozanićevu rodu. U kapeli se nalaze kameni oltar i oltarna slika sv. Jelene. Na dan sv. Jelene Križarice u njoj se slavi misa. Osim ove, u Omišlju postoje i ostaci druge, još starije istoimene crkve, sv. Jelena na Dolu.",
+      "numberOfImages": 2,
+      "latitude": 45.211886,
+      "longitude": 14.553894
+    },
+    "rose_window": {
+      "title": "Rozeta",
+      "description": "Pročelje crkve krasi rozeta, okrugli, reljefno ukrašeni kameni prozor s glagoljičnim natpisom iz 1405. godine. Rozeta s pročelja župne crkve, rad ponosnoga omišaljskoga majstora – kamenoklesara Sinoge, često se koristi kao amblem grada Omišlja.",
+      "numberOfImages": 2,
+      "latitude": 45.20525,
+      "longitude": 14.553481
+    },
+    "bell_tower": {
+      "title": "Zvonik",
+      "description": "<b>Renesansni zvonik dovršen je 1536. godine, o čemu svjedoči glagoljski natpis iznad ulaznih vrata.</b><br><br>Zvonik se gradio tri godine, od 1533. do 1536. godine a sredstva za tu izgradnju izdvojio je sav omišaljski puk i bratovštine. Te religiozne udruge bavile su se karitativnim radom ali bile su i ključni pokretači graditeljskih aktivnosti na polju sakralnoga graditeljstva u doba kasnog srednjeg i ranog novog vijeka. Dva majstora, graditelja, vodila su poslove, Pjero iz Omišlja i Andrij iz sela Kotora kraj Crikvenice, a sve se to događalo u vrijeme župnika Matije Vlčijića i kaštelana Nikole Antončića. Detaljne podatke saznajemo iz glagoljskog natpisa kojeg su nad portalom zvonika postavili ponosni graditelji. U biforu zvonika majstori su ugradili dijelove predromaničkoga crkvenog namještaja.<br><br>IU ta nemirna vremena rastuće opasnosti od Osmanlija kao i austrijsko-mletačkih sukoba, kao i drugdje duž istočne obale Jadrana takav zvonik nije imao samo sakralnu ulogu, jer bio je on i promatračnica s koje se nagledao okolni akvatorij. Stoga je građen poput utvrde.<br><br>Tekst natpisa na zvoniku glasi: „1533., miseca marča po volji Božji i Blaženije Devi Marije i po guverni gospodina plovana Matija Vlčijića i Mikuli Antončića, kaštalda, i sudac ki bihu toga vrimena. I pomore ga činiti vas palk i brašćini ta zvonik. A učiniše ga meštri: meštar Pjero z Omišja i meštar Andrij s Kotora. I bi svršen miseca maja 1536.“",
+      "numberOfImages": 1,
+      "latitude": 45.211822,
+      "longitude": 14.553551
+    },
+    "parish_church_of_the_assumption_stomorina": {
+      "title": "Župna crkva Uznesenja Blažene Djevice Marije, Stomorina",
+      "description": "<b>Trobrodna crkva nastala na prijelazu 12. u 13. stoljeće građena je u romaničkom stilu.</b><br><br>Već tada korišteni su dijelovi dekoracije starije crkve, iz ranog 9. i 10. stoljeća. Pokrajnje kapele, kupola i sakristija dograđeni su u 16. i 17. stoljeću. Crkva je riznica sakralnoga blaga. Ističe se velika reljefna drvorezbarena i polikromirana pala glavnog oltara, djelo nepoznatog autora iz 1565. godine. U nju je inkorporiran ranorenesansni drvorezbareni poliptih. U apsidi južne crkvene lađe oslikani je poliptih sv. Ivana Evanđelista, datiran u razdoblje oko 1410. godine. Slikani dijelovi politpiha pripisani su mletačkom slikaru Jacobellu del Fiore, dok je reljef sv. Ivana nešto kasnije gotičko djelo. Zidove i strop crkve oslikao je domaći slikar i dekorater Ivan Volarić, a Stanislava Radimiri kapelu Presvetog Sakramenta.<br><br>U luneti ponad glavnih vrata crkve sekundarno su ugrađeni ranosrednjovjekovni kameni reljefi, dijelovi pluteja i ambona predromaničke oltarne pregrade. Vjerojatno su pripadali inventaru crkve koja je na ovoj poziciji prethodila danas sačuvanoj romaničkoj bazilici.<br><br>Uz župnu je crkvu prislonjena nekadašnja gotička kapela sv. Ivana a uz nju masivni renesansni zvonik. Crkvena cjelina riznica je ranosrednjovjekovne kamene skulpture ranijeg sakralnog zdanja koje se na ovom mjestu nalazilo. Glagoljski natpisi uklesani u kamenu bilježe godine gradnji i pregradnji na crkvi („1405., miseca ijuna bi delana ta ponestra za gospodina Martina Glušca“).<br><br>Nastala je na prijelazu 12. u 13. stoljeće, kao trobrodna romanička bazilika čiji su graditelji bili pod neposrednim utjecajem monumentalnih romaničkih realizacija grada Krka. Tri lađe međusobno dijeli arkatura koja počiva na masivnim stubovima četvrtastog presjeka. Središnja lađa završava glavnom apsidom pravokutnog tlorisa a pobočne malim polukružnim apsidama (južna apsida skrivena je recentnom prigradnjom). U luneti glavnog portala zapadnog pročelja, na vanjskom i unutarnjem ziđu, stubovima i propovjedaonicama, uzidani su fragmenti crkvenog namještaja (ploče-pluteji, grede, pilastri i dijelovi zabata-tegurija oltarne pregrade te dijelovi ambona- propovjedaonice jedne ranije crkve). Lako ih je prepoznati po karakterističnim motivima kršćanskog simbolizma, vjere u stalnu obnovu, uskrsnuće i vječni život. Tako se nižu vješto modelirane učvorene, “beskonačne” pletenice, kružnice, polurozete, virovite rozete, čempresi, lozice, ptice i drugi vegetabilni i zoomorfni ornament. Reljefi su naknadno uzidavani u romaničku župnu crkvu, prilikom njezine gradnje a dijelom i znatno kasnije. Predromanički majstori su ovaj crkveni namještaj klesali na licu mjesta, mahom koristeći podatni istarski vapnenac koji im je u blokovima stizao brodovljem a dijelom i mramor porijeklom iz grčkih kamenoloma, kojeg su “brali” s neke ovdje već postojeće gradnje. Rozeta na pročelju crkve naivni je rad mjesnog majstora Sinoge. Datirana je glagoljskim natpisom u 1405. godinu. Na reprezentativnom romaničkom bočnom portalu kasnije su (15.-17. st.) glagoljskim pismom uparani neslužbeni natpisi-grafiti. U 16. stoljeću crkva se sustavno proširuje što je dokumentirano i glagoljskim natpisom iz 1525. godine na jednoj od kapela prizidanih uz sjevernu lađu. Križni svodovi pobočnih kapela svjedoče nam da mjesni majstori tad još uvijek grade u kasnogotičkom duhu. Adaptacije su se intenzivirale pod imperativom liturgijskih mijena diktiranih Tridentskim koncilom a kulminirale su izvedbom kupole nad prezbiterijem u 17. stoljeću i obuhvaćanjem dotad zasebne crkve sv. Ivana Krstitelja u 18. stoljeću. U središtu kasnorenesansnog oltarnog retabla sačuvan je njegov ranorenesansni prethodnik. Ova drvorezbarena i oslikana skulptura pripada vrhu tadašnje venecijanske produkcije. Isti je slučaj s ophodnim križevima, relikvijarima i kadionicama. Vizitacija druge polovine 16. stoljeća spominje da je crkva imala čak 18 oltara. U desnoj apsidi nalazi se drvorezbareni i oslikani oltarni retabl sv. Ivana Evanđelista koji se pripisuje Jacobellu del Fiore (početak 15. st.). Freske u kupoli i na stropu glavne lađe 1929. godine naslikao je lokalni majstor Ivan Volarić.<br><br>Pokraj bočnog ulaza u južnu lađu župne crkve nalazi se današnja sakristija a nekadašnja kapela sv. Ivana Krstitelja. Njezino gotičko pročelje podignuto je 1442. godine, kako nam to svjedoči glagoljski natpis smješten između izvornih otvora, sada zazidanog portala i uskog prozorčića, skošenih bridova okvira (“V ime Božje, amen. Let Gospodnjih 1442. bi zidano to pročeli, a v to vrime biše državnici pop Petar i Dv…”). Njih i stilski raspoznajete po karakterističnom šiljatom luku. Pretpostavka je da se ispod kapele kriju ostaci nekadašnjeg baptisterija crkve koja se ovdje izvorno nalazila.",
+      "numberOfImages": 4,
+      "latitude": 45.211886,
+      "longitude": 14.553481
+    }
+  },
+  "forts": {
+    "kastel": {
+      "title": "Kaštel (Kešte)",
+      "description": "<b>Mjesto na kojem se nalazila kula srednjovjekovne frankapanske utvrde.</b><br><br>Na jugoistočnom zidu župnoga ureda sačuvana je kamena ploča s glagoljičnim natpisom o gradnji kule 1476. godine. Kulu je dao podignuti Ivan VII. Mlađi, posljednji frankapanski gospodar otoka. Nekadašnju utvrđenu feudalnu rezidenciju knezova Krčkih kao utvrdu s kaštelanom održavala je Mletačka Republika, a zapuštena je u 19. stoljeću. Početkom 20. stoljeća na njezinom je mjestu podignuta škola i sklop općinskih zgrada sa stanom i uredom omišaljskog župnika. Ovdje se i danas nalazi sjedište Općine Omišalj. Cisterna iz središnjeg dvorišta potječe iz frankapanskoga razdoblja a obnavljana je početkom 20. stoljeća.<br><br>Glagoljični natpis o gradnji kaštela uzidan u zid župnog ureda: „V ime Božje, amen. 1476., ijuna kada se poče zidat ta kaštel va vrime kneza Ivana i njega sina kneza Mikule.“",
+      "numberOfImages": 2,
+      "latitude": 45.21127,
+      "longitude": 14.555322
+    }
+  },
+  "industrial_heritage": {
+    "water_tower_dubec": {
+      "title": "Vodotoranj Dubec – 1925. godina",
+      "description": "Vodotoranj Dubec s vodospremom i crpnom stanicom u podnožju činio je tehnološku cjelinu, a danas predstavlja važan spomenik infrastrukture i industrijskog graditeljstva, koji ponajprije svjedoči o civilizacijskim dosezima Omišlja. Zahvaljujući tom pogonu 1925. godine Omišalj je dobio pitku vodu u slavine i električnu struju u domove, desetljećima ranije od sličnih otočnih naselja duž istočne obale Jadrana.<br><br>Zanimljivo je da su se graditelji načinom izvedbe oplošja klesanim kamenom nastojali prilagoditi omišaljskom ambijentu.",
+      "numberOfImages": 2,
+      "latitude": 45.213484,
+      "longitude": 14.553718
+    }
+  },
+  "localities": {
+    "placa": {
+      "title": "Placa",
+      "description": "<b>Srce omišaljske povijesne jezgre.</b><br><br>Placa je stoljećima predstavljala središte naselja. Početkom 20. stoljeća postupno joj je primat počeo uzimati prostor na južnom rubu tadašnjega grada, mjesto nekadašnjeg kaštela na kojem je tada, pred Prvi svjetski rat, izgrađena nova općinska zgrada. Na kućama koje obrubljuju Placu, tragovi izvorne srednjovjekovne i renesansne gradnje skriveni su pod građevinskim intervencijama, adaptacijama i pregradnjama kasnijih stoljeća, osobito devetnaestog i početka dvadesetog, u kojima je Omišalj znatnije preoblikovan.",
+      "numberOfImages": 5,
+      "latitude": 45.211621,
+      "longitude": 14.553873
+    },
+    "tome_lesica_carpentery_workshop": {
+      "title": "Marangunija Toma Lesice",
+      "description": "<b>Stolarska radionica Toma Lesice (1916. – 1989.), posljednjega samoukog krčkoga glagoljaša.</b><br><br>Tome Lesica temeljnim je zanimanjem bio stolar. K tomu, desetljećima je obavljao dužnost sakristana, zvonara, mežnjara, tj. čovjeka koji se brine o uređenju crkve i pomaže svećeniku u njegovim dužnostima a djelovao je i kao svirač tradicijskog glazbala – sopila (sopele, roženice), tj. sopec. Najviše će se pamtiti kao posljednji krčki samouki glagoljaš ponikao iz puka. Glagoljicu je čitao tečno kao što se čitaju novine, (B. Fučić). Posljednji svoj službeni zapis glagoljicom ostavio je netom prije smrti u omišaljskoj bratovštinskoj knjizi bratovštine „Od duš“ a povodom posvećenja Josipa Bozanića za krčkoga biskupa. Za života predstavljao je vrelo za izučavanje tradicijske baštine Omišlja. Poznavali su ga i redovito konzultirali slavisti iz čitave Europe, kao i etnolozi koji su istraživali krčke teme. Svoj stolarski zanat obavljao je u radionici smještenoj pokraj kuće u kojoj je živio.",
+      "numberOfImages": 2,
+      "latitude": 45.211387,
+      "longitude": 14.553604
+    }
+  },
+  "libraries": {
+    "vid_omisljanin": {
+      "title": "Knjižnica 'Vid Omišljanin'",
+      "description": "<b>Ustanova nosi ime pisca i iluminatora koji je djelovao koncem 14. stoljeća.</b><br><br>Omišaljska gradska knjižnica nalazi se u sklopu zgrade općine koja je u razdoblju pred Prvi svjetski rat izgrađena nad ruševinama frankapanskog kaštela. Vid Omišljanin je 1396. godine ustavnom glagoljicom napisao i oslikao brevijar koji se sastoji od 468 pergamentnih listova. Izradio ga je za župnu crkvu sv. Bartola u Roču, gradića u središnjoj Istri. Brevijar se čuva u austrijskoj Nacionalnoj knjižnici u Beču.<br><br>Prva čitaonica otvorena je u Omišlju 1884. godine, a u sadašnjem prostoru knjižnica djeluje od 2002.",
+      "numberOfImages": 2,
+      "latitude": 45.211315,
+      "longitude": 14.555139
+    }
+  },
+  "parks": {
+    "dubec_park": {
+      "title": "Park Dubec",
+      "description": "<b>Spomenik krajobrazne arhitekture iz prve polovice 20. stoljeća.</b><br><br>Park Dubec nastajao je postupno od 1925. godine, zalaganjem mjesnog „Kupališnog povjerenstva“. Jedan je od rijetkih primjera prirodnih parkova, nastajao reguliranjem postojećih pješačkih staza i uređenjem postojeće autohtone hortikulture. Opjevan je svojevrsnom omišaljskom himnom, „Nad Omišalj kad padne mrak“, prof. Ivana Kraljića Duminića.<br><br>Valja naglasiti da je otok Krk bio izrazito bogat hrastovim šumama što se kao njegovo temeljno bogatstvo redovito naglašavalo u izvješćima mletačkih upravitelja (providura) koje su oni slali duždu u Veneciju. Drvo je Mletačkoj Republici bilo od strateškog značaja zbog ogromnih potreba izgradnje i popravaka brodova u venecijanskom arsenalu.",
+      "numberOfImages": 1,
+      "latitude": 45.213122,
+      "longitude": 14.552419
+    },
+    "gornja_vraca": {
+      "title": "Gornja vraca / Njivičina",
+      "description": "<b>Jedan od povijesnih ulaza u Omišalj.</b><br><br>Na ovaj, drugi prastari ulaz u Omišalj se ulazilo sa sjevera i izlazilo u pravcu sjevera, otočića sv. Marka  i uskoga kanala koji otok Krk dijeli od susjednoga, vinodolskoga kopna (prema Pušći, Vežici, Vošćici). I on je zasnovan još u prapovijesti u vrijeme gradinskoga naselja liburnske zajednice Fertinata koje se nalazilo na omišaljskoj uzvisini.",
+      "numberOfImages": 2,
+      "latitude": 45.213492,
+      "longitude": 14.553981
+    }
+  },
+  "museums": {
+    "memorial_house_of_krk_folklore": {
+      "title": "Spomen dom krčkog folklora",
+      "description": "<b>Zbirka materijalne i nematerijalne tradicijske baštine otoka Krka.</b><br><br>U Kući na stupićih, građenoj početkom 20. stoljeća, smješten je izložbeni postav s narodnom nošnjom, predmetima svakodnevne uporabe i etnomuzikološkim nasljeđem. Mjesto je posvećeno Festivalu krčkog folklora utemeljenom u prvoj polovici 20. stoljeća (Omišalj, 1935.), najstarijoj manifestaciji takve vrste u Hrvatskoj.",
+      "numberOfImages": 7,
+      "latitude": 45.210843,
+      "longitude": 14.555245
+    }
+  },
+  "cemeteries": {
+    "smitir": {
+      "title": "Smitir",
+      "description": "<b>Nekadašnje omišaljsko groblje.</b><br><br>Ime Smitir dolazi od latinske riječi coemeterium a znači groblje. Oko crkve pokapalo se umrle, od srednjega vijeka, do zabrane ukapanja u naseljima koju je donijela rana austrijska uprava. Od 1818. groblje je regulirano ispred naselja na mjestu nekadašnjeg benediktinskog samostana i crkve sv. Nikole, gdje je potrajalo do Prvog svjetskog rata kada je opet uspostavljeno na novoj lokaciji, podalje od naselja.",
+      "numberOfImages": 2,
+      "latitude": 45.211863,
+      "longitude": 14.553373
+    }
+  },
+  "monuments": {
+    "house_in_pancirov_street": {
+      "title": "Kuća u ulici Panćirov",
+      "description": "<b>Kuća iz doba renesanse.</b><br><br>Kuća je građena pravilno uslojenim klesancima. Luk karakterističnog, polukružno zaključenog prozorskog otvora ukrašen je motivom izmjeničnih zubaca. Gređe otvora počiva na klupčici koju nose geometrijskim profilom ukrašene konzole.",
+      "numberOfImages": 1,
+      "latitude": 45.210941,
+      "longitude": 14.553744
+    },
+    "lapidarium": {
+      "title": "Lapidarij",
+      "description": "<b>Zbirka kamenih spomenika s područja općine Omišalj.</b><br><br>Ova zbirka pokretnih kulturnih dobara čini cjelinu s „in situ“ sačuvanim spomenicima u njezinoj neposrednoj blizini, a osobito onima koji se nalaze na vanjštini i u unutrašnjosti omišaljske zborne crkve Uznesenja Marijina. U njoj se osobito ističe natpis o gradnji vodovoda Fulfinuma, antičkoga grada koji se prostirao obalom Uvale Sepen jugozapadno od Omišlja. Natpis iz 94. godine spominjao je cara Domicijana kao utemeljitelja vodovoda. Njegovo ime i titule su, kao i drugdje u Rimskom carstvu, odlukom Senata službeno izbrisani (damnatio memoriae), u ovom slučaju otučeni s površine kamenog natpisa, a preostalo je ime Lucija Sekstija Dekstera, veterana treće pretorijanske kohorte koji je, vjerojatno kao mještanin Fulfinuma, bio donator nekih radova na vodovodu. Ističu se i dijelovi ranosrednjovjekovnoga kamenog namještaja crkve iz ranog 9. stoljeća, koja je prethodila današnjoj Zbornoj crkvi Uznesenja Bl. Dj. Marije. Posebno je zanimljiva nadgrobna ploča s glagoljičnim natpisom i reljefnim prikazom znakova opatske časti iz 1477. godine. Izrađena je za Stjepana iz Zadra, posljednjeg opata benediktinskog samostana sv. Nikole koji se nalazio ispred ulaza u Omišalj. Značenje ovih kamenih ulomaka i druge omišaljske baštine podrobnije je rastumačeno knjižicom, kulturno-povijesnim vodičem – Nepoznati Omišalj, koja se može pribaviti u izložbenom prostoru.",
+      "numberOfImages": 5,
+      "latitude": 45.20525,
+      "longitude": 14.55361
+    },
+    "mile_kumbatovic_oton_gliha_house": {
+      "title": "Spomen kuća Mile Kumbatović i Otona Glihe",
+      "description": "<b>U ovoj su tradicijskoj omišaljskoj kući desetljećima živjeli i stvarali velikani hrvatske likovne umjetnosti Mila Kumbatović (1915.-2004.) i Oton Gliha (1914.-1999).</b><br><br>Mila Kumbatović rodom iz Omišlja, svoj je zavičaj zadužila dosljednim korištenjem njegova karakteristična krajolika kao inspiracije. To je bila konstanta njezina umjetničkog djelovanja u kojem je prešla put od sezanizma do posve apstraktnog slikarstva kao i eksperimentiranja s industrijskom skulpturom. Oton Gliha, jedan od najvećih hrvatskih slikara druge polovice 20. stoljeća bio je suprug Mile Kumbatović, koju je upoznao još tijekom studija na Umjetničkoj akademiji u Zagrebu. Podrijetlom iz Istre, u mladosti je živio u Sloveniji, Slavoniji i Zagrebu. Širom svijeta postao je poznat po slikanju gromača - suhozida otoka Krka, koje su u njegovoj interpretaciji postajale apstraktna kamena čipka.",
+      "numberOfImages": 1,
+      "latitude": 45.212378,
+      "longitude": 14.554098
+    },
+    "landauf_house": {
+      "title": "Kuća Landauf",
+      "description": "<b>Kuća sagrađena 1909. godine.</b><br><br>Kuću je 1909. godine, u jeku svojeg, ali i općeg ekonomskog probitka u Omišlju, dao sagraditi poznati lokalni poduzetnik, Luka Turato, koji se obogatio trgovinom, poglavito žitom, a onda stečeno investirao u turizam. Izgradio je luksuzni hotel Jadran i nikad dovršenu Plavu terasu u Njivicama. Započeo je gradnju objekta u uvali Slivanjska, nedaleko spilje Biserujka, a zatim ekonomski krahirao.<br><br>Plemenitim činom profesorice Anice Landauf, nećake Luke Turata, kuća je oporučno postala vlasništvo Općine Omišalj.",
+      "numberOfImages": 1,
+      "latitude": 45.213205,
+      "longitude": 14.553954
+    },
+    "stogata": {
+      "title": "Stogata",
+      "description": "<b>Građevina na mjestu na kojem se nalazila srednjovjekovna crkva sv. Agate.</b><br><br>Na ostacima napuštene crkve po ukidanju bratovštine izgrađena je tijekom 19. stoljeća stambena zgrada.<br><br>Uspomena na crkvu zadržana je u do danas živom mikrotoponimu.",
+      "numberOfImages": 2,
+      "latitude": 45.212676,
+      "longitude": 14.554061
+    }
+  },
+  "lookouts": {
+    "dubec_vantage_point": {
+      "title": "Vidikovac Dubec",
+      "description": "<b>Vidikovac Dubec s pogledom na Kvarner, Omišaljski zaljev, omišaljske priobalne hotele i ljetnikovce građene između dva svjetska rata, susjednu cresku i istarsku obalu, ali i Alpe, velebitske masive i perivoj Dubec u podnožju.</b><br><br>Još jedno omišaljsko mjesto s impresivnim pogledom na Kvarner, Omišaljski zaljev, omišaljske priobalne hotele i ljetnikovce građene između dva svjetska rata, susjednu cresku i istarsku obalu, ali i Alpe, velebitske masive i perivoj Dubec u podnožju.",
+      "numberOfImages": 2,
+      "latitude": 45.213409,
+      "longitude": 14.553289
+    },
+    "vele_steni_vantage_point": {
+      "title": "Vidikovac Vele steni",
+      "description": "<b>Vidikovac nad zapadnim padinama omišaljske uzvisine.</b><br><br>Mjesto s veličanstvenim pogledom na otok Krk, velik dio Kvarnerskog zaljeva, Omišaljski zaljev, Ert, kupalište i uvalu Pesja, Rivu pape Ivana Pavla II i povijesne lokalitete poput uzvisine Fortičine s ostacima srednjovjekovne utvrde i uvale Sepen s ostacima ranokršćanske bazilike na Mirinama te ostacima antičkog grada Fulfinuma. Iznimne je ambijentalne vrijednosti karakteristična pučka arhitektura u ovom rubnom predjelu grada s tragovima iz razdoblja srednjeg vijeka, renesanse i baroka.",
+      "numberOfImages": 2,
+      "latitude": 45.211761,
+      "longitude": 14.552628
+    }
+  },
+  "tours": {
+    "municipium_flavium_fulfinum_and_mirine": {
+      "title": "Municipium Flavium Fulfinum i Mirine",
+      "description": "<b>Ostaci antičkog grada Municipium Flavium Fulfinum iz druge polovice 1. st po. Kr. i ranokršćanske bazilike iz 5. st. po. Kr.</b><br><br>Na području Fulfinuma (današnji toponim Okladi) i danas su dobro raspoznatljivi preostaci različitih građevina iz rimskog doba. Osobito su impozantni nedavno istraženi dijelovi foruma, srca antičkoga grada s forumskim hramom, bazilikom i tabernama te dijelovima monumentalne arhitektonske plastike javnih, forumskih građevina. Usprkos sustavnim istraživanjima zadnjih godina grad Municipium Flavium Fulfinum je najvećim dijelom još neistražen i neotkopan. Ime mu je precizno poznato zahvaljujući nalazu natpisa iz vremena rimskog cara Domicijana na kojem se spominju neki radovi na gradskom vodovodu. Natpis se čuva u omišaljskoj zbirci Lapidarij.<br><br>Zidane strukture pa i raspored komunikacija dobro se uočavaju u konfiguraciji terena. Kako je proteklih stoljeća područje bilo poljodjelski obrađivano, preostaci žbukanih zidova antičkih građevina dijelom su zasuti suhozidnim gomilama - gromačama. Pristaništa i reprezentativne građevine s podnim mozaicima dijelom su zatrpani muljem u pličini uvale Sepen. Grad su regulirali rimski gromatici kao posve novu tvorevinu na terenu na kojem dotad nije postojalo naselje. Naseljenim rimskim veteranima podijeljena je zemlja koja je pripadala omišaljskim starosjediocima – Fertinatima. Takav nizinski i priobalni grad nije imao šansu za opstanak usprkos pokušajima njegovog utvrđivanja u vremenima kasne antike. Lagano je odumirao i napokon posve odumro poput Salone i mnogih drugih gradova rimske civilizacije uzdrmane seobom naroda.<br><br>Jugozapadno od foruma na lokalitetu Mirine nalazi se kasnoantička nekropola s nizom manjih i nekoliko velikih, povlaštenih grobnica te velikom do pod krov sačuvanom grobnom bazilikom pretpostavljenog titulara sv. Nikole. Crkva zbog izvrsne sačuvanosti može služiti kao ogledni primjer ranokršćanskih sakralnih zdanja. Temeljni oblik latinskog križa crkvi pridaje njezin poprečni brod - transept. U njezinom narteksu koji je restauriran a dijelom i rekonstruiran postavljena je izložba pokretnog arheološkog materijala. Ondje se nalazi i in situ sačuvan ranokršćanski sarkofag.<br><br>Atrij koji se duž južnog zida crkva proteže prema moru rezultat je naknadne prilagodbe zdanja redovničkoj zajednici, koja ga je naposljetku napustila, kada ga više zbog njegovih dimenzija nije mogla održavati. Kontinuitet su benediktinci nastojali nastaviti adaptacijom jednog suburbanog rezidencijalnog sklopa s termama, koji se nalazi zapadnije od bazilike. Arheološki je istražen i prezentiran pa se također može razgledati, Naposljetku su se benediktinci – glagoljaši povukli s izloženog priobalnog položaja i nastanili nadomak samog Omišlja, prenoseći ondje i titular sv. Nikole. Današnji toponim Mirine dijalektalni je naziv za ruševine - kroatizirano od latinskog murus, koje su doseljenim Hrvatima od srednjeg vijeka morale izgledati impozantno.",
+      "related":{
+        "mirine_fulfinum_basilica": {
+          "title": "Mirine Fulfinum – Bazilika",
+          "type": "archeology_remains"
+        },
+        "mirine_fulfinum_sarcophagus": {
+          "title": "Mirine Fulfinum - Sarkofag",
+          "type": "archeology_remains"
+        },
+        "mirine_fulfinum_forum": {
+          "title": "Mirine Fulfinum - Forum",
+          "type": "archeology_remains"
+        },
+        "mirine_fulfinum_comb": {
+          "title": "Mirinski češalj",
+          "type": "archeology_remains"
+        }
+      }
+    }
+  }
+}

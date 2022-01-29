@@ -1,0 +1,344 @@
+{
+  "app_name": "Heritage Omišalj",
+  "language_picker":  {
+    "choose_your_language": "Choose your language",
+    "english": "English",
+    "croatian": "Croatian",
+    "german": "German",
+    "italian": "Italian"
+  },
+  "sidebar_header_text": "Heritage Omišalj",
+  "next": "Next",
+  "contact": "Contact",
+  "back_to_quit": "Click BACK again to exit application",
+  "settings": "Settings",
+  "try_again": "Try again",
+  "back": "Back",
+  "refresh": "Refresh",
+  "please_wait": "Please wait...",
+  "show_on_map": "Show on map",
+  "get_me_there": "Get me there",
+  "related_sights": "Related sights:",
+  "read_more": "Read more",
+  "navigation": {
+    "history": "History",
+    "closest_point_of_interest": "Closest point of interest",
+    "archeology_remains": "Archeology remains",
+    "archeology_remain": "Archeology remains",
+    "churches": "Churches",
+    "church": "Church",
+    "forts": "Forts",
+    "fort": "Fort",
+    "industrial_heritage": "Industrial heritage",
+    "localities": "Localities",
+    "locality": "Locality",
+    "libraries": "Libraries",
+    "library": "Library",
+    "parks": "Parks",
+    "park": "Park",
+    "museums": "Museums",
+    "museum": "Museum",
+    "cemeteries": "Cemeteries",
+    "cemetery": "Cemetery",
+    "monuments": "Monuments",
+    "monument": "Monument",
+    "lookouts": "Lookouts",
+    "lookout": "Lookout",
+    "tours": "Tours",
+    "tour": "Tour",
+    "ethnographic_collections": "Ethnographic collections",
+    "ethnographic_collection": "Ethnographic collection",
+    "all_sights": "All sights",
+    "about": "About us",
+    "communication": "Communication",
+    "share": "Share",
+    "rate": "Rate",
+    "send_mail": "Send email",
+    "no_email_message": "No email application installed."
+  },
+  "history": {
+    "title": "History of the Omišalj",
+    "description": "Welcome to the historic center of Omišalj, a picturesque and layered urban structure with elements of medieval architecture, Renaissance, Baroque, historical styles of the 19th and the early 20th century. Omišalj was founded on the basis of an earlier village whose roots go back to prehistory. The original fort-type habitat defended by strong dry-walled ramparts was the seat of the Liburnian tribal community of Fertinata. It stagnated during the Roman Empire, when the nearby coastal country and port city of Fulfinum was developing, and flourished again during the early and developed Middle Ages.<br><br>Omišalj was the first among the already existing villages on the island, which in the early Middle Ages were populated en masse by immigrant Croats, achieving a harmonious coexistence with the Romanized indigenous community. During the Middle Ages, it was a stronghold of the princes of Krk, later Frankapans, who built two strong fortifications in front of it and next to it. The Venetians who ruled Omišalj in 1480 justifiably called it the 'key to the island of Krk' due to its strategic importance. Even today, this is clear to anyone who enters the historic center of city and finds himself on one of its lookouts from which one could easily see a good part of the Kvarner Bay. As nowhere else on the island of Krk, in Omišalj, parts of medieval and renaissance architecture intertwine with unusual out-of-style architectural structures. We are great as much as we hold on to the values we inherit, and as much as we preserve them for future generations. If we connect historical, artistic, archeological and historiographical data with the specifics of Omišalj tradition, speech, folk songs and customs, we will discover much about the turbulent history of this part of the island which has remained the key to the island of Krk."
+  },
+  "closest_point_of_interest": {
+    "closest_sight": "Closest sight",
+    "closest_tour": "Closest tour",
+    "no_navigation_alert": "No navigation application available",
+    "no_internet": {
+      "title": "No internet connection",
+      "description": "This functionality requires internet connection"
+    },
+    "location_permission": {
+      "title": "Permission for location needed!",
+      "description": "This functionality requires location permission."
+    },
+    "gps": {
+      "title": "GPS not enabled",
+      "description": "This functionality requires GPS"
+    }
+  },
+  "about": {
+    "title": "Heritage Omišalj",
+    "description": "<b>Ordered by:</b> TZO OMIŠALJ<br><br><b>Project leader:</b> Kristina Pandža<br><br><b>Text:</b> TZO OMIŠALJ<br><br><b>Lecture and correction:</b> Adverbum d.o.o.<br><br><b>English translation:</b> Adverbum d.o.o.<br><br><b>German translation:</b> Adverbum d.o.o.<br><br><b>Italian translation:</b> Adverbum d.o.o.<br><br><b>Photography:</b> Luka Tabako, Srđan Hulak, Sanjin Ilić<br><br><b>Website development:</b> Ljiljana Brusić<br><br><b>Mobile app development:</b> R.D.D."
+  },
+  "archeology_remains": {
+    "glagolitic_inscription": {
+      "title": "Glagolitic inscription – lintel of a portal, built into the house at Veli dvor 11",
+      "description": "<b>A Glagolitic inscription of Matija Franović from the year 1535.</b><br><br>This Glagolitic inscription is inscribed in a medallion around a cross on a stone block built into the lower part of the façade of a house. The inscription mentions the priest Matija Franović and the year 1535. Originally, the inscription was not located in this rather undistinguished place. The stone block was the lintel of the portal of the rectory and the owner marked the completion of the building with an inscription and a cross, as was common practice in the Renaissance. This also had an apotropaic function, that is, to defend the house from evil. Nowhere in the world are there so many preserved Glagolitic stone inscriptions as on the island of Krk. These inscriptions attest to the fact that literacy was widespread among the ordinary inhabitants of the island. The most important role in this was played by the priests of the chapters of the small towns of Omišalj, Dobrinj, Vrbnik and Baška, which at the time were referred to as kašteli (castles).",
+      "numberOfImages": 2,
+      "latitude": 45.212041,
+      "longitude": 14.552886
+    },
+    "klancina": {
+      "title": "Klančina",
+      "description": "<b>The last original stone-paved street in Omišalj.</b><br><br>The street has been shaped over centuries around a valley created by erosion caused by water torrents. It is located in the southern part of the historic centre of Omišalj. It is paved with natural stone slates, quarried stone, and carved blocks in its central part.",
+      "numberOfImages": 1,
+      "latitude": 45.211217,
+      "longitude": 14.554656
+    },
+    "loza": {
+      "title": "Loža",
+      "description": "<b>A winding street in the southeastern part of the historic centre of Omišalj.</b><br><br>In the past, this ancient street was distinguished by its traditionally shaped, multi-storey arched structures with terraces and external staircases in front of the houses.",
+      "numberOfImages": 1,
+      "latitude": 45.211807,
+      "longitude": 14.553792
+    },
+    "pancirov": {
+      "title": "Panćirov",
+      "description": "<b>A winding street in the southeastern part of the historic centre of Omišalj.</b><br><br>In the past, this ancient street was distinguished by its traditionally shaped, multi-storey arched structures with terraces and external staircases in front of the houses.",
+      "numberOfImages": 1,
+      "latitude": 45.211308,
+      "longitude": 14.553835
+    },
+    "mirine_fulfinum_basilica": {
+      "title": "Mirine Fulfinum – Basilica",
+      "description": "<b>The church at Mirine was built in the middle of the 5th century on the periphery of the town. It is a single-nave longitudinal basilica with a Latin-cross plan.</b><br><br>The basilica has been preserved up to the roof level. It is the only preserved sacral building of this type not only on the island of Krk, but on the entire Croatian Littoral.<br><br>The construction of this church on the remains of the Roman town of Fulfinum marked the beginning of a new Christian town. However, its secrets are yet to be discovered by experts. Local tradition associates this church with the Glagolitic Benedictine abbey of St Nicholas, which was abandoned in the 15th century and relocated closer to Omišalj.<br><br>In its original construction phase, this impressive single-nave church had an entrance area in the front (called the narthex or vestibule), a porch on its south side, and two smaller side rooms which could be defined as early examples of a sacristy and which were connected to the wall of the presbytery. The presbytery itself has a simple layout: its rear is flat and features a freestanding bench for the clergy. In front of the bench there is part of the presbytery enclosed with an altar balustrade with a cross-shaped altar tomb at its centre. The entrance area contains a sarcophagus dug into solid rock and covered with mortar. A privileged tomb with two deceased was later placed alongside the sarcophagus. It has been dated to the period between the 7th and 8th century.<br><br>The atrium at the south porch, which also features several privileged tombs, was probably added at the same time. Over the centuries that followed, this community developed into a well-organised religious community that eventually took on the teachings of St. Benedictine, as suggested by later sources that mention the Abbey of St. Nicholas at the foot of Omišalj. Inside this monastery complex, on the eastern side of the church which also underwent changes in its interior, there are smaller spaces of a memorial and commercial character.",
+      "numberOfImages": 3,
+      "latitude": 45.2039264,
+      "longitude": 14.5425719
+    },
+    "mirine_fulfinum_sarcophagus": {
+      "title": "Mirine Fulfinum - Sarcophagus",
+      "description": "<b>In the entrance area of the basilica, a sarcophagus that has never been opened was found in a hole dug into the rock. Several other tombs were later discovered in the surroundings.</b><br><br>During the clearing of the entrance area, an in-situ sarcophagus was found under a large amount of stone debris, a very rare and valuable object of this complex. This sarcophagus, still with its original lid, has been in the same place under the church ever since it was first buried there. Without desecrating the grave, by using a micro-camera, it was determined that two deceased were placed inside.",
+      "numberOfImages": 2,
+      "latitude": 45.2039609,
+      "longitude": 14.54291
+    },
+    "mirine_fulfinum_forum": {
+      "title": "Mirine Fulfinum - Forum",
+      "description": "<b>Like every Roman city, the Municipium Flavium Fulfinum owned FORUM in its very center - the main city square where the main functions of the urban environment of the Roman world met: political, economic, religious and social.</b><br><br>The Fulfin Forum is located in the extreme northwestern part of the city, along the edge of one of the main roads that ran in an almost straight line following the orientation of the coast through the entire settlement, and probably further in the direction of Krk, through Mohorov and Njivice.<br><br>The main town square apparently owned all those buildings that were necessary for the basic functioning of the city, according to the Roman template. Thus in the developed phase dating to the end of the 1st century AD in its central part, but drawn along the northwestern edge of the forum space which occupied 1300 m2, stood the main forum temple, dedicated to either the Capitoline Triad or the three main deities of Roman religion Jupiter, Juno and Minerva, or possibly Roman emperors.<br><br>The simple-looking temple, with only four pillars in the façade and a simple inner whole raised to a height of about one meter above the walking surface of the forum mirror, was surrounded by a dedicated space formed by the perimeter walls of the forum west and north and the porch wall on the east. Along the west, longer side of the forum ran a series of rooms – taverns – which certainly could not be entered directly from the forum, but from the opposite side facing the sea. In the eastern part of the forum is a very long building with only three small rooms in its northern part, preceded by a large inner open courtyard bordered by two porches. The mentioned space could be entered through a door open in the wall that bounded the space of the forum mirror on that side. Finally, the entrance to the forum space was marked by a portico above which stood an inscription of a devotional character.<br><br>The Fulfinum City Forum will undergo major alterations in the 3rd century, with an intimate square on the northeast side of the main temple, in the middle of which was found a masonry base in which stood a monument – a statue or inscription – which unfortunately completely lost its trace. In the period before the final departure of the forum, and even the city itself, certain spaces were “privatized”. At the forum, the symbol of the public space of the Roman city, light, wooden constructions appear, which prove the loss of the original function of the square.",
+      "numberOfImages": 7,
+      "latitude": 45.2030764,
+      "longitude": 14.5445837
+    },
+    "mirine_fulfinum_comb": {
+      "title": "Mirine comb",
+      "description": "<b>The Mirine comb is a unique archaeological artefact from the 5th century found at the archaeological site next to a wooden bridge.</b><br><br>It was discovered in April 2017 during French-Croatian ‘Mirine-Fulfinum Archaeological Park’ project of Omišalj Municipality. This ivory comb, probably for a liturgical purpose, is an exceptionally valuable archaeological find from the early Christian period.<br><br>The comb was restored by the Archaeological Museum in Zagreb, and the find was presented by Sanjin Mihelić, Director of the Archaeological Museum in Zagreb, Morana Čaušević-Bully, scientist from the University of Franche-Comté, Sébastien Bully, CNRS head researcher, and Damir Doračić, conservator of the Archaeological Museum in Zagreb.<br><br>The Mirine comb is decorated on both sides with carved images of the miracles of Christ. One side depicts the transformation of water into wine at the Wedding at Cana, and the miracle of the loaves of bread. On the other side of the comb, there is the scene of the bleeding woman healed by touching Jesus’ cloak, and next to it on the left, probably the image of a woman in front of the tomb of Jesus. Unique to our region and one of very few similar combs found across the world, this is one of the most significant finds in recent Early Christian archaeology in Croatia.",
+      "numberOfImages": 2,
+      "latitude": 45.2053904,
+      "longitude": 14.5431302
+    },
+    "mirine_thermal_baths": {
+      "title": "TO-DO",
+      "description": "TO-DO",
+      "numberOfImages": 2,
+      "latitude": 45.20525,
+      "longitude": 14.5427135
+    }
+  },
+  "churches": {
+    "church_of_st_anthony_of_padua": {
+      "title": "Church of St. Anthony of Padua (13th/14th century)",
+      "description": "<b>A single-nave church with a semi-circular apse.</b><br><br>The Church of St. Anthony of Padua in Dubac was first mentioned in 1685. However, judging by its Romanesque building style, it must be significantly older. In the past, the Fraternity of St. Anthony of Padua used to take care of the church. In the southern wall, a Gothic window has been preserved. The altarpiece of St. Anthony of Padua dates from the 18th century.<br><br>The building has a bell gable with a preserved bell. In front of the church, a spacious loggia was subsequently built. This is a favourite meeting place, especially in the evenings during the summer months.",
+      "numberOfImages": 3,
+      "latitude": 45.213345,
+      "longitude": 14.553331
+    },
+    "church_of_st_helen": {
+      "title": "Church of St. Helen",
+      "description": "<b>A single-nave church with a semi-circular apse (14th/15th century).</b><br><br> The Church of St. Helen was built using layered stone blocks. Its façade features a Gothic portal with a pointed arch and a small cross-shaped window, and is crowned with a bell gable. The church is located next to the bell tower and loggia of the parish church, several steps above the Placa main square. It was first mentioned in 1458, by which time it was already a ruin. In that year, it was renovated and restored to its present state by Nikola Bozanić. In his will, dated 15 April 1470, he entrusted its care to his successors, together with the use of certain estates.<br><br>Notarised documents from subsequent years provide evidence of several names from the Bozanić family who were connected with the chapel. A record from 1565 mentions Vid Bozanić as having jus patronatus, that is, the right of patronage over the chapel and its estate. The Omišalj priest Anton Bozanić, in his will of 16 August 1612, entrusted the cleric Anton Čubranić with the care of the chapel, under the condition that after his death the chapel should again revert to the Bozanić family. Inside the chapel, there is a stone altar and altarpiece to St. Helen. Holy mass on the feast day of St. Helen of the Cross is celebrated in the chapel. Apart from this one, there are also remnants of another, older small church dedicated to St. Helen in Omišalj. This church is known locally as Sveta Jelena na Dolu (St. Helen in the Valley).",
+      "numberOfImages": 2,
+      "latitude": 45.211886,
+      "longitude": 14.553894
+    },
+    "rose_window": {
+      "title": "Rose window",
+      "description": "The church façade features an ornate circular rose window with a Glagolitic inscription from 1405. This rose window, a work by the proud master stonemason Sinoga of Omišalj, is often used as an emblem of the town of Omišalj.",
+      "numberOfImages": 2,
+      "latitude": 45.20525,
+      "longitude": 14.553481
+    },
+    "bell_tower": {
+      "title": "Bell tower",
+      "description": "<b>A Renaissance bell tower, completed in 1536, which is attested to by a Glagolitic inscription above the entrance door.</b><br><br>The bell tower was constructed over three years, from 1533 to 1536, and the financial means were provided by all the commoners and fraternities of Omišalj. These latter were religious associations engaged in charity work but were also the key drivers of construction activity when it came to sacral buildings in the Late Middle Ages and Early Modern Era. Two master builders were in charge of construction: Pjero of Omišalj and Andrij from the village of Kotor near Crikvenica. At that time, the priest of Omišalj was Matija Vlčijić, and the castellan was Nikola Antončić. Detailed information can be obtained from the Glagolitic inscription which the proud builders made above the bell tower portal. In the bifora (mullioned window) of the bell tower, the master builders integrated parts of the pre-Romanesque church fittings.<br><br>In these troubled times, when both the danger of Ottoman attacks and Austro-Venetian conflict was a threat, this bell tower, just like elsewhere along the eastern Adriatic coast, did not have only a sacral purpose but also served as an observation point over the surrounding waters. For this reason, it was built like a fortification.<br><br>The inscription on the bell tower reads: 1533, in the month of March, by the will of God and the Blessed Virgin Mary, and by the command of the priest Matija Vlčijić and the castellan Mikula Antončić, and the judges who were there at the time. All the commoners and fraternities helped build this bell tower. And it was done by the master builders: Master Pjero of Omišalj and Master Andrij of Kotor. And it was completed in May of 1536.<br><br>",
+      "numberOfImages": 1,
+      "latitude": 45.211822,
+      "longitude": 14.553551
+    },
+    "parish_church_of_the_assumption_stomorina": {
+      "title": "Parish Church of the Assumption of the Blessed Virgin Mary, Stomorina",
+      "description": "<b>This three-aisled church was constructed at the turn of the 12th century in a Romanesque style.</b><br><br>This three-aisled church was constructed at the turn of the 12th century in a Romanesque style using decorative elements of an older church from the 9th and 10th centuries. Next to the chapel, a dome and sacristy were added in the 16th and 17th centuries. The church is a treasury of valuable sacral items. A large wood-carved, polychrome altarpiece on the main altar, the work of an unknown artist from 1565, stands out. It features an incorporated early Renaissance wood-carved polyptych. In the apse of the southern nave, there is a polyptych of St. John the Baptist, dating to the period around 1410. The painted parts of the polyptych have been attributed to the Venetian painter Jacobello del Fiore, while the relief of St. John is a Gothic piece that was created later. The walls and the ceiling of the church were painted by a local painter and decorator Ivan Volarić, and the Chapel of the Blessed Sacrament by Stanislava Radimiri.<br><br>In the lunette above the main door of the church, early medieval stone reliefs, parts of the pluteus and pulpit of a pre-Romanesque altar screen, were subsequently integrated. These probably belonged to a church which stood on this site before the preserved Romanesque basilica. Adjacent to the parish church, there is the former Gothic Chapel of St. John, while next to it there is a massive Renaissance bell tower. This church complex is a treasury of early medieval stone sculptures from an earlier sacral building that was located in this place. The Glagolitic inscriptions carved in stone record the years of its construction and additional works on the church (1405, in the month of June , this window was done for Mr Martin Glušac).<br><br> The church was built at the turn of the 12th century as a three-aisled Romanesque basilica whose builders were directly influenced by the large Romanesque buildings in the town of Krk. The three naves are separated by an arcature that lies on massive columns with a square cross-section. The central nave ends in a main apse with a rectangular layout, and the side naves in small semi-circular apses (the southern apse is hidden by a recent annex). In the lunette of the main portal on the western façade, on the exterior and interior wall, and on the pillars and pulpits, fragments of church fittings (slabs/plutei, beams, pilasters and parts of the tegurium and pulpit from an earlier church) have been incorporated. They can be easily recognised by their characteristic Christian motifs: a belief in constant renewal, resurrection and eternal life. These motifs include skilfully modelled knotted endless braiding, circles, semi-rosettes, whirled rosettes, cypresses, vines, birds and other vegetable and zoomorphic ornamentation. Reliefs were subsequently added to the Romanesque parish church, both during its construction and afterwards.<br><br>Pre-Romanesque master builders carved the church fittings on the spot, mostly using Istrian limestone, which was transported here in blocks by ship, and also partly marble from Greek quarries, which was used as spolia from existing local buildings. The rose window on the façade of the church is a naïve work by the local master builder Sinoga. Its Glagolitic inscription dates it to the year 1405. Some unofficial inscriptions/graffiti in Glagolitic letters were inscribed on the Romanesque lateral portal in later periods (15th-17th century). In the 16th century, the church was systematically enlarged, which is documented by a Glagolitic inscription from the year 1525 on one of the chapels along the northern nave. The cross vaults of the side chapels attest to the fact that local master builders still built in the late Gothic style. Adaptations intensified under the imperative of changes to the liturgy dictated by the Council of Trent, and culminated with the construction of the dome above the presbytery in the 17th century, and the inclusion of the previously separate church of St. John the Baptist in the 18th century.<br><br>In the centre of the late Renaissance altar retable, part of its early Renaissance predecessor has been preserved. This wood-carved and painted sculpture is among the greatest achievements of Venetian production of the time. The same is true for the processional crosses, reliquaries and censers. A visitation in the second half of the 16th century mentions that the church had as many as 18 altars. In the right apse, there is a wood-carved and painted altar retable of St. John the Evangelist, which has been attributed to Jacobello del Fiore (early 15th century). The frescoes in the dome and on the ceiling of the main nave were painted in 1929 by the local artist Ivan Volarić.<br><br> Today's sacristy, the former Chapel of St. John the Baptist, is located next to the side entrance to the southern nave of the parish church. Its Gothic façade was constructed in 1442, which is attested to by the Glagolitic inscription located between the original openings, the now walled-up portal and a narrow window with slanted frame edges (In the name of God, amen. In the year of our Lord 1442 this façade was constructed, and at that time the officials were the priest Petar and Dv…). Stylistically, they can be recognised by their characteristic pointed arch. It is assumed that beneath the chapel there are the remnants of the former baptistery of the church that was originally located in this place.",
+      "numberOfImages": 4,
+      "latitude": 45.211886,
+      "longitude": 14.553481
+    }
+  },
+  "forts": {
+    "kastel": {
+      "title": "Kaštel (Castle)",
+      "description": "<b>The location of the former tower of the medieval Frankapan fort.</b><br><br>The south-eastern wall of the parish office features a preserved stone tablet with a Glagolitic inscription about the construction of the tower in the year 1476. The tower was erected by Ivan VII the Younger, the last ruler of the island from the Frankapan family. In later years, the former feudal residence of the Princes of Krk was administrated by the Republic of Venice as a fort with castellan before it became neglected in the 19th century. In the early 20th century, a school and complex of municipal buildings with rectory and parish office for the Omišalj priest were constructed in its place. Today, the seat of the Municipality of Omišalj is still here. The cistern from the central courtyard dates back to the Frankapan period; it was renovated at the beginning of the 20th century.<br><br>The Glagolitic inscription about the construction of the castle on the wall of the parish office reads: In the name of God, amen. In June 1476, when the construction of this castle began during the reign of Prince Ivan and his son Mikula.",
+      "numberOfImages": 2,
+      "latitude": 45.21127,
+      "longitude": 14.555322
+    }
+  },
+  "industrial_heritage": {
+    "water_tower_dubec": {
+      "title": "Water tower Dubec – 1925. godina",
+      "description": "<b>Dubec water tower was part of a complex with a reservoir and pumping station beneath it.</b><br><br>Today, it is an important infrastructure and industrial architecture monument that attests to Omišalj's progress. Thanks to this plant, the houses in Omišalj had running water and electricity as early as 1925, decades before many other island towns on the eastern Adriatic coast. It is interesting that the builders used stone blocks for the façade to make the construction blend in with the surrounding architecture.",
+      "numberOfImages": 2,
+      "latitude": 45.213484,
+      "longitude": 14.553718
+    }
+  },
+  "localities": {
+    "placa": {
+      "title": "Placa (town square)",
+      "description": "<b>The heart of the historic centre of Omišalj.</b><br><br>The Placa has for centuries been the centre of Omišalj. At the beginning of the 20th century, this function was gradually taken over by the area at the southern edge of the town, the site of the former castle, where the new municipal building was constructed before World War One. The houses that line the Placa possess traces of original medieval and Renaissance architecture, which are hidden beneath the building works, adaptations and renovations that occurred in the course of later centuries, especially during the 19th and early 20th century, when Omišalj was significantly reshaped.",
+      "numberOfImages": 5,
+      "latitude": 45.211621,
+      "longitude": 14.553873
+    },
+    "tome_lesica_carpentery_workshop": {
+      "title": "Tome Lesica's carpentry workshop",
+      "description": "<b>The carpentry workshop of Tome Lesica (1916-1989), the last self-taught Glagolitic master on the island of Krk. </b><br><br>The carpentry workshop of Tome Lesica (1916–1989), the last self-taught Glagolitic master on the island of Krk.<br><br>Tome Lesica was a carpenter by trade. In addition, for decades he served as sacristan, bell ringer, and sexton, that is, the person who takes care of the church building and helps the priest in his duties. He also played a traditional instrument called the sopile (sopele or roženice). He is best remembered as Krk's last self-taught Glagolitic master commoner. He read Glagolitic letters fluently 'just like people read newspapers' (B. Fučić). Shortly before he died, he left his last official Glagolitic record in the Omišalj fraternity book 'Od duš' on the occasion of the consecration of Josip Bozanić as the Bishop of Krk. During his life, he was regarded as an important source in the study of the traditional heritage of Omišalj. Slavists from all over Europe knew him and asked him regularly for advice, as did ethnologists who studied topics related to the island of Krk. He performed his carpentry in a workshop located next to the house in which he lived.",
+      "numberOfImages": 2,
+      "latitude": 45.211387,
+      "longitude": 14.553604
+    }
+  },
+  "libraries": {
+    "vid_omisljanin": {
+      "title": "Vid Omišljanin' Library",
+      "description": "<b>The library is named after a writer and illuminator who lived in the late 14th century</b><br><br>Omišalj town library is located in the municipal building, which was built in the period prior to World War One upon the ruins of the Frankapan castle. In 1396, Vid Omišljanin wrote and painted a breviary of 468 parchment sheets using uncial Glagolitic letters. He made it for the Parish Church of St. Bartholomew in Roč, a small town in central Istria. The breviary is kept in the Austrian National Library in Vienna.<br><br>The first reading room was opened in Omišalj in 1884. It was moved to its present premises in 2002.",
+      "numberOfImages": 2,
+      "latitude": 45.211315,
+      "longitude": 14.555139
+    }
+  },
+  "parks": {
+    "dubec_park": {
+      "title": "Dubec Park",
+      "description": "<b>A monument of landscape architecture from the first half of the 20th century.</b><br><br>Dubec Park was gradually created after 1925 as a result of the efforts of the local Spa Commission. It is one of the few examples of a natural park that has been created by regulating the existing footpaths and vegetation. A local song by Professor Ivan Kraljić Duminić, Nad Omišalj kad padne mrak (When Night Falls over Omišalj), which is regarded a kind of Omišalj anthem, sings the park's praises. It is worth mentioning that in the past the island of Krk was particularly rich in oak forests. Since these were the island's main resource, this fact was regularly emphasised in the reports that the Venetian governors (provveditore) sent to the Doge in Venice. For the Republic of Venice, wood was of strategic importance because of the huge demand for it in the construction and repairing of ships for the Venetian fleet.",
+      "numberOfImages": 1,
+      "latitude": 45.213122,
+      "longitude": 14.552419
+    },
+    "gornja_vraca": {
+      "title": "Gornja Vraca (Upper Gate) / Njivičina",
+      "description": "<b>One of the historical entrances to Omišalj.</b><br><br>This second ancient entrance to Omišalj was used to enter the town from the north and to leave the town in a northern direction towards the island of Sveti Marko and the narrow channel that separates the island of Krk from the Vinodol mainland (towards Pušća, Vežica, and Vošćica). This entrance dates back to prehistory and the hillfort settlement of the Liburnian community of Fertinates, which was located on the site of what is today the town of Omišalj.",
+      "numberOfImages": 2,
+      "latitude": 45.213492,
+      "longitude": 14.553981
+    }
+  },
+  "museums": {
+    "memorial_house_of_krk_folklore": {
+      "title": "Memorial House of Krk Folklore",
+      "description": "<b>A collection of the tangible and intangible heritage of the island of Krk.</b><br><br>The so-called Kuća na stupićih (House with balustrades), which was built in the early 20th century, houses an exhibition featuring the traditional folk costume, items of daily use, and local musical heritage. This place is dedicated to the Festival of Krk Folklore, which was established in the first half of the 20th century (Omišalj, 1935) and which is the oldest event of its type in Croatia.",
+      "numberOfImages": 7,
+      "latitude": 45.210843,
+      "longitude": 14.555245
+    }
+  },
+  "cemeteries": {
+    "smitir": {
+      "title": "Smitir",
+      "description": "<b>The former cemetery of Omišalj.</b><br><br>The name Smitir comes from the Latin word coemeterium, meaning cemetery. The deceased were buried around the church from the Middle Ages until burials within settlements were banned by the early Austrian administration. From 1818 until World War One, the cemetery was located in front of the town on the site of the former Benedictine monastery and the Church of St. Nicholas. After that, it was moved to a new location away from the town.",
+      "numberOfImages": 2,
+      "latitude": 45.211863,
+      "longitude": 14.553373
+    }
+  },
+  "monuments": {
+    "house_in_pancirov_street": {
+      "title": "House in Panćirov Street",
+      "description": "<b>A house from the Renaissance period.</b><br><br>The house was built using layered stone blocks. Its arch with a characteristic semi-circular window opening is decorated with a cog motif. The frame lies on a bench supported by consoles decorated with a geometric profile.",
+      "numberOfImages": 1,
+      "latitude": 45.210941,
+      "longitude": 14.553744
+    },
+    "lapidarium": {
+      "title": "Lapidarium",
+      "description": "<b>A collection of stone monuments from the area of the Municipality of Omišalj.</b><br><br>This collection of movable cultural assets makes up an in situ exhibition together with the monuments located in its immediate vicinity, especially those outside and inside the Collegiate Church of the Assumption of Mary. The inscription about the construction of the water supply for the ancient town of Fulfinum, which was located on the coast of Sepen Cove southwest of Omišalj, is particularly interesting. The inscription from the year 94 makes mention of the Emperor Domitian as the builder of the aqueduct. His name and title, as elsewhere in the Roman Empire, were officially erased by a decision of the Senate (damnatio memoriae) and removed from the surface of the stone inscription; what remains is the name of Lucius Sextis Dexter, a veteran of the Third Praetorian Cohort who, probably as an inhabitant of Fulfinum, made a donation towards some of the work on the aqueduct. Parts of the early medieval stone fittings from the early 9th-century church, which preceded the present Collegiate Church of the Assumption of the Blessed Virgin Mary, are also worth mentioning. A tombstone slab with a Glagolitic inscription and a relief depicting the bishop's mitre and pastoral staff, dating back to 1477, is particularly interesting. It was made for Stjepan of Zadar, the last abbot of the Benedictine monastery of St. Nicholas, which was located in front of the entrance to Omišalj. The significance of these stone fragments and other parts of local heritage has been thoroughly explained in a booklet entitled Nepoznati Omišalj (The Unknown Omišalj), a cultural and historical guide that can be obtained at the exhibition venue.",
+      "numberOfImages": 5,
+      "latitude": 45.20525,
+      "longitude": 14.55361
+    },
+    "mile_kumbatovic_oton_gliha_house": {
+      "title": "Memorial House of Mile Kumbatović i Oton Gliha",
+      "description": "<b>For several decades, the famous Croatian painters Mila Kumbatović (1915-2004) and Oton Gliha (1914-1999) lived and worked in this traditional Omišalj house.</b><br><br>Mila Kumbatović, a native of Omišalj, paid tribute to her homeland by using its characteristic landscapes as a continuous source of inspiration. These motifs appeared constantly throughout her artistic career, which encompassed several phases, from Cézannism to abstract painting and experimenting with industrial sculpture. Her husband Oton Gliha was one of the greatest Croatian painters in the second half of the 20th century. The two artists met during their studies at the Academy of Fine Arts in Zagreb. A native of Istria, Gliha spent his youth in Slovenia, Slavonia, and Zagreb. He gained world fame for his paintings of gromače – dry stone walls on the island of Krk, which in his interpretation became abstract stone lace.",
+      "numberOfImages": 1,
+      "latitude": 45.212378,
+      "longitude": 14.554098
+    },
+    "landauf_house": {
+      "title": "The Landauf house",
+      "description": "<b>A house built in 1909.</b><br><br>This house was built in 1909 by the local entrepreneur Luka Turato during a period of personal and general prosperity in Omišalj. Turato made his fortune in trade, especially wheat, and invested his earnings in tourism. He built the luxury Hotel Jadran and the Blue Terrace in Njivice (which was never completed). He also started building in Slivanjska Cove close to Biserujka Cave but went bankrupt. As a result of the generosity of Professor Anica Landauf, a niece of Luka Turato, the house became the property of the Municipality of Omišalj.",
+      "numberOfImages": 1,
+      "latitude": 45.213205,
+      "longitude": 14.553954
+    },
+    "stogata": {
+      "title": "Stogata",
+      "description": "<b>A building on the site of the medieval Church of St. Agatha.</b><br><br>After the abolition of fraternities during French (Napoleonic) rule, a residential building was constructed in the late 19th century on the site of a ruined church.<br><br>The memory of the church still lives on in the local toponym Stogata, which was derived from Sveta Agata (St. Agatha).",
+      "numberOfImages": 2,
+      "latitude": 45.212676,
+      "longitude": 14.554061
+    }
+  },
+  "lookouts": {
+    "dubec_vantage_point": {
+      "title": "Dubec vantage point",
+      "description": "<b>Dubec vantage point offers magnificent views of Kvarner Bay, Omišalj Cove, the hotels on the coast, summer houses built in the period between the two World Wars, the island of Cres, the Istrian coast, the Alps and Velebit Massif in the distance, and Dubec Park beneath.</b><br><br>This is another place in Omišalj that provides impressive views of Kvarner Bay, Omišalj Cove, the hotels on the coast, summer houses built in the period between the two World Wars, the island of Cres, the Istrian coast, the Alps and Velebit Massif in the distance, and Dubec Park beneath.",
+      "numberOfImages": 2,
+      "latitude": 45.213409,
+      "longitude": 14.553289
+    },
+    "vele_steni_vantage_point": {
+      "title": "Vele Steni vantage point",
+      "description": "<b>A vantage point on the western slopes of Omišalj Hill</b><br><br>This location offers magnificent views of the island of Krk, a large portion of Kvarner Bay, the Bay of Omišalj, the Ert area, the beach and cove of Pesja, the Pope John Paul II Riva waterfront, and certain historic sites of interest such as Fortičina Hill, with its remnants of a medieval fortification, and Sepen Cove with its remains of an early Christian basilica in the area called Mirine and the ruins of the ancient town of Fulfinum. The characteristic architecture of this peripheral part of the town gives it a particular atmosphere. It features elements from the Middle Ages, Renaissance and Baroque periods.",
+      "numberOfImages": 2,
+      "latitude": 45.211761,
+      "longitude": 14.552628
+    }
+  },
+  "tours": {
+    "municipium_flavium_fulfinum_and_mirine": {
+      "title": "Municipium Flavium Fulfinum and Mirine",
+      "description": "<b>Remains of the ancient city of Municipium Flavium Fulfinum from the second half of the 1st century AD. Kr. and early Christian basilicas from the 5th century AD. Kr.</b><br><br>In the area of ​​Fulfinum (today’s toponym Okladi) the remains of various buildings from the Roman era are still well recognizable. Particularly impressive are the recently explored parts of the forum, the heart of the ancient city with its forum temple, basilica and taverns, and parts of the monumental architectural sculpture of public, forum buildings. Despite systematic research in recent years, the city of Municipium Flavium Fulfinum is for the most part still unexplored and unexcavated. His name is precisely known thanks to the finding of an inscription from the time of the Roman emperor Domitian, which mentions some works on the city waterworks. The inscription is kept in the Lapidary collection in Omišalj.<br><br>Masonry structures and even the layout of communications are well visible in the configuration of the terrain. As the area has been cultivated for the past centuries, the remains of the plastered walls of ancient buildings are partly covered with dry stone mounds – boulders. The piers and representative buildings with floor mosaics are partly covered with mud in the shallows of Sepen Bay. The city was regulated by Roman grammarians as a completely new creation in a field where no settlement had existed before. The inhabited Roman veterans were given land that belonged to the natives of Omišalj – Fertinati. Such a lowland and coastal city had no chance of survival despite attempts to fortify it in late antiquity. It slowly died out and finally completely died out like Salona and many other cities of Roman civilization shaken by the migration of peoples.<br><br>Southwest of the forum at the Mirina site there is a late antique necropolis with a series of smaller and several large, privileged tombs and a large to the roof preserved tomb basilica of the presumed titular St. Nicholas. Due to its excellent preservation, the church can serve as an exemplary example of early Christian sacral buildings. The basic shape of the Latin cross is given to the church by its transverse nave – the transept. An exhibition of movable archeological material has been set up in its narthex, which has been restored and partly reconstructed. There is also an in situ preserved early Christian sarcophagus.<br><br>The atrium that extends along the south wall of the church towards the sea is the result of the subsequent adaptation of the building to the religious community, which eventually abandoned it, when it could no longer maintain it due to its dimensions. The Benedictines sought to continue the continuity by adapting a suburban residential complex with baths, located west of the basilica. Archaeologically, it has been researched and presented, so it can also be seen. Nicholas. Today’s toponym Mirina is a dialectal name for ruins – Croatianized from the Latin murus, which must have looked imposing to the settled Croats from the Middle Ages.",
+      "related":{
+        "mirine_fulfinum_basilica": {
+          "title": "Mirine Fulfinum – Basilica",
+          "type": "archeology_remains"
+        },
+        "mirine_fulfinum_sarcophagus": {
+          "title": "Mirine Fulfinum - Sarcophagus",
+          "type": "archeology_remains"
+        },
+        "mirine_fulfinum_forum": {
+          "title": "Mirine Fulfinum - Forum",
+          "type": "archeology_remains"
+        },
+        "mirine_fulfinum_comb": {
+          "title": "Mirine comb",
+          "type": "archeology_remains"
+        },
+        "mirine_thermal_baths": {
+          "title": "TO-DO",
+          "type": "archeology_remains"
+        }
+      }
+    }
+  }
+}

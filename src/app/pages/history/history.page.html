@@ -1,0 +1,33 @@
+<ion-header [hidden]="loadingData">
+  <ion-toolbar class="header" color="primary">
+    <ion-menu-toggle>
+      <ion-button size="small" color="light" fill="clear">
+        <ion-icon size="large" slot="icon-only" name="menu-outline"></ion-icon>
+      </ion-button>
+    </ion-menu-toggle>
+    <ion-title>
+       {{'navigation.history' | translate }}
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [hidden]="loadingData">
+  <ion-slides pager="true" [options]="slideOpts">
+    <ion-slide
+    class="slide-image"
+    [style]="'background-image: url(assets/images/sights/bell_tower_1.jpg);'">
+    </ion-slide>
+    <ion-slide
+    class="slide-image"
+    [style]="'background-image: url(assets/images/sights/placa_1.jpg);'">
+    </ion-slide>
+    <ion-slide
+    class="slide-image"
+    [style]="'background-image: url(assets/images/sights/loza_1.jpg);'">
+    </ion-slide>
+  </ion-slides>
+
+  <div class="ion-padding">
+    <ion-text [innerHtml]="'history.description' | translate"></ion-text>
+  </div>
+</ion-content>

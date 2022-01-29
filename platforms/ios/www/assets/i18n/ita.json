@@ -1,0 +1,345 @@
+{
+    "app_name": "Heritage Omišalj",
+    "language_picker": {
+      "choose_your_language": "Scegli la tua LINGUA",
+      "english": "Inglese",
+      "croatian": "Croato",
+      "german": "Tedesco",
+      "italian": "Italiano"
+    },
+    "sidebar_header_text": "Storia dell'Omišalj",
+    "next": "Continuare",
+    "contact": "Comunicazione",
+    "back_to_quit": "Fare nuovamente clic su INDIETRO per uscire dall'applicazione",
+    "settings": "Impostazioni",
+    "try_again": "Riprova",
+    "back": "Di ritorno",
+    "refresh": "RICARICARE",
+    "please_wait": "Attendere prego…",
+    "show_on_map": "Mostra sulla mappa!",
+    "get_me_there": "Portami qui!",
+    "related_sights": "Attrazioni correlate:",
+    "read_more": "Per saperne di più",
+    "navigation": {
+      "history": "Storia dell'Omišalj",
+      "closest_point_of_interest": "Punto di interesse più vicino",
+      "archeology_remains": "Resti archeologici",
+      "archeology_remain": "Resti archeologici",
+      "churches": "Chiese",
+      "church": "Chiese",
+      "forts": "Fortezze",
+      "fort": "Fortezze",
+      "industrial_heritage": "Patrimonio industriale",
+      "localities": "Località",
+      "locality": "Località",
+      "libraries": "Biblioteche",
+      "library": "Biblioteche",
+      "parks": "Parchi",
+      "park": "Parchi",
+      "museums": "Musei",
+      "museum": "Musei",
+      "cemeteries": "Cimiteri",
+      "cemetery": "Cimiteri",
+      "monuments": "Monumenti",
+      "monument": "Monumenti",
+      "lookouts": "Vedette",
+      "lookout": "Vedette",
+      "tours": "Tour",
+      "tour": "Tour",
+      "ethnographic_collections": "Collezioni etnografiche",
+      "ethnographic_collection": "Collezioni etnografiche",
+      "all_sights": "Tutti i siti",
+      "about": "Di",
+      "communication": "Comunicazione",
+      "share": "Condividere",
+      "rate": "Valutare",
+      "send_mail": "Inviare una mail",
+      "no_email_message": "Nessuna applicazione di posta elettronica installata"
+    },
+    "history": {
+      "title": "Storia dell'Omišalj",
+      "description": "Benvenuti nel centro storico di Omišalj, una struttura urbana pittoresca e stratificata con elementi di architettura medievale, rinascimentale, barocca, stili storici del XIX e dell 'inizio del XX secolo. Omišalj è stata fondata sulla base di un precedente villaggio le cui radici risalgono alla preistoria. L 'habitat originario di tipo fortino, difeso da robusti bastioni murati a secco, era la sede della comunità tribale liburna di Fertinata. Stagnò durante l 'Impero Romano, quando si stava sviluppando il vicino paese costiero e la città portuale di Fulfinum, e rifiorì durante il primo e sviluppato Medioevo.<br><br>Omišalj è stato il primo tra i villaggi già esistenti sull 'isola, che nell 'alto medioevo erano popolati in massa da immigrati croati, raggiungendo un 'armoniosa convivenza con la comunità indigena romanizzata. Durante il Medioevo, era una roccaforte dei principi di Krk, poi Frankapani, che costruirono due forti fortificazioni davanti e accanto ad essa. I veneziani che governarono Omišalj nel 1480 la chiamarono giustamente la 'chiave per l 'isola di Krk' per la sua importanza strategica. Ancora oggi questo è chiaro a chiunque entri nel centro storico della città e si trovi su uno dei suoi belvedere da cui si può facilmente vedere buona parte del Golfo del Quarnero. Come in nessun altro posto sull 'isola di Krk, a Omišalj, parti dell 'architettura medievale e rinascimentale si intrecciano con strutture architettoniche insolite e fuori moda.<br><br>Siamo grandi finché manteniamo i valori che ereditiamo e finché li preserviamo per le generazioni future. Se colleghiamo i dati storici, artistici, archeologici e storiografici con le specificità della tradizione, della parola, dei canti popolari e dei costumi di Omišalj, scopriremo molto sulla storia turbolenta di questa parte dell 'isola che è rimasta la chiave dell 'isola di Krk."
+    },
+    "closest_point_of_interest": {
+      "closest_sight": "Sito più vicino",
+      "closest_tour": "Tour più vicino",
+      "no_navigation_alert": "Nessuna applicazione di navigazione disponibile",
+      "no_internet": {
+        "title": "Nessuna connessione internet!",
+        "description": "Questa funzionalità richiede una connessione a Internet."
+      },
+      "location_permission": {
+        "title": "È necessaria l'autorizzazione per la posizione!",
+        "description": "Questa funzionalità richiede l'autorizzazione alla posizione."
+      },
+      "gps": {
+        "title": "GPS non abilitato",
+        "description": "Questa funzionalità richiede il GPS."
+      }
+    },
+    "about": {
+      "title": "Heritage Omišalj",
+      "description": "<b>Ordinato da:</b> TZO OMIŠALJ<br><br><b>Capo progetto:</b> Kristina Pandža<br><br><b>Testo:</b> TZO OMIŠALJ<br><br><b>Lezione e correzione:</b> Adverbum d.o.o.<br><br><b>Traduzione inglese:</b> Adverbum d.o.o.<br><br><b>Traduzione in tedesco:</b> Adverbum d.o.o.<br><br><b>Traduzione italiana:</b> Adverbum d.o.o.<br><br><b>Fotografia:</b> Luka Tabako, Srđan Hulak, Sanjin Ilić<br><br><b>Sviluppo del sito web:</b> Ljiljana Brusić<br><br><b>Sviluppo di app mobili:</b> R.D.D."
+    },
+    "archeology_remains": {
+      "glagolitic_inscription": {
+        "title": "L’iscrizione glagolitica – il frontone del portale, murato sulla casa Veli dvor 11",
+        "description": "<b>Iscrizione glagolitica di Matija Franović del 1535. </b><br><br> L’iscrizione glagolitica scritta nel medaglione attorno alla croce, sul blocco di pietra costruito nella parte inferiore della facciata della casa. L 'iscrizione ricorda il prete Matija Franović e l 'anno 1535. In origine, naturalmente, non si trovava in questo luogo. Il blocco di pietra era il frontone del portale della casa del prete e il proprietario, com’era di consueto nel Rinascimento, segnò il completamento della costruzione con un’iscrizione e una croce che aveva una funzione apotropaica cioè quella di respingere dalla soglia di casa qualsiasi malvagità. In nessun altra parte del mondo si possono trovare così tante iscrizioni glagolitiche in pietra in ottimo stato di conservazione come nelle cittadine dell 'isola di Veglia. Le iscrizioni testimoniano la diffusa alfabetizzazione tra gli abitanti dell’isola. I propugnatori della scrittura glagolitica furono i numerosi sacerdoti delle cittadine sull’isola di Veglia: Omišalj, Dobrinj, Vrbnik e Baška, che all’epoca si chiamavano castelli.",
+        "numberOfImages": 2,
+        "latitude": 45.212041,
+        "longitude": 14.552886
+      },
+      "klancina": {
+        "title": "Klančina",
+        "description": "<b>L’ultima strada originale lastricata in pietra a Omišalj.</b><br><br>La strada fu formata nel corso dei secoli intorno alla valle sorta dall 'erosione causata dalle inondazioni. Si trova nella parte meridionale del centro storico di Omišalj ed è lastricata con pietre naturali, pietra grezza, e blocchi di pietra cesellata al centro.",
+        "numberOfImages": 1,
+        "latitude": 45.211217,
+        "longitude": 14.554656
+      },
+      "loza": {
+        "title": "Loggia",
+        "description": "<b>Edificio pubblico di Omišalj risalente al periodo rinascimentale.</b><br><br>Durante il Rinascimento nella Piazza si trovava la loggia cittadina. All’interno e davanti alla loggia, gli abitanti di Omišalj svolgevano le loro attività commerciali, si sposavano ed eleggevano i loro rappresentanti per le amministrazioni comunali nell’ambito della gestione autonoma che il comune di Omišalj possedeva sia durante il regno dei principi di Veglia che sotto il dominio della Repubblica di Venezia. Inoltre, nella loggia si sceglievano coloro che dovevano servire nella galee veneziane che erano il maggiore punto di forza della Repubblica di Venezia. La loggia fu ristrutturata all’inizio del XX secolo.",
+        "numberOfImages": 1,
+        "latitude": 45.211807,
+        "longitude": 14.553792
+      },
+      "pancirov": {
+        "title": "Panćirov",
+        "description": "<b>Strada curvilinea situata nella parte sud-orientale del centro storico di Omišalj.</b><br><br>In passato, quest’antica strada era caratterizzata dalle strutture ad arco tradizionali a più piani con terrazze e dalle scale esterne davanti alle facciate delle case.",
+        "numberOfImages": 1,
+        "latitude": 45.211308,
+        "longitude": 14.553835
+      },
+      "mirine_fulfinum_basilica": {
+        "title": "Mirine Fulfinum – Basilica",
+        "description": "<b>A metà del V secolo, nella periferia della città venne costruita una chiesa a Mirine. Si tratta di una basilica longitudinale a navata unica, la cui forma base è la croce latina.</b><br><br>La basilica è conservata fino all’altezza del tetto ed è l’unica struttura sacrale conservata di questo tipo non solo sull’isola di Veglia (Krk), ma nell’intero Litorale croato.<br><br>Con questa chiesa nacque una nuova città cristiana sulle rovine della città romana di Fulfinum, ma i suoi segreti devono ancora essere scoperti. La tradizione locale mette in relazione questa chiesa con l’abbazia benedettina glagolitica di San Nicola, abbandonata nel XV secolo e trasferita più vicino a Omišalj (Castelmuschio).<br><br>Si tratta di un imponente edificio ecclesiastico a una navata. Nella prima fase di costruzione, la parte frontale della facciata aveva un nartece o vestibolo, un porticato sul lato sud e due vani laterali più piccoli, precursori della sagrestia, collegati al muro del presbiterio. Il presbiterio stesso ha una forma semplice: la parte posteriore è pianeggiante con una panchina per il clero. La parte del presbiterio di fronte alla panchina è chiusa da una balaustra dell’altare, mentre al centro si trova la tomba dell’altare a forma di croce. Nel vestibolo è stato ritrovato un sarcofago scavato nella roccia e ricoperto di malta del pavimento. Accanto al sarcofago, in seguito fu collocata una tomba privilegiata con due defunti, risalente al periodo tra il VII e l’VIII secolo.<br><br>Probabilmente nello stesso periodo, al porticato meridionale venne aggiunto l’atrio, dove si trovano diverse tombe privilegiate. Questa comunità è sviluppata nel corso dei secoli in una comunità religiosa ben organizzata che riprese gli insegnamenti di San Benedetto. Lo testimoniano le fonti successive che menzionano l’abbazia di San Nicola ai piedi di Omišalj. All’interno di questo complesso monastico, accanto alla chiesa che subisce modifiche anche al suo interno, sul lato est ci sono strutture più piccole, di carattere commemorativo nonché commerciale.",
+        "numberOfImages": 3,
+        "latitude": 45.2039264,
+        "longitude": 14.5425719
+      },
+      "mirine_fulfinum_sarcophagus": {
+        "title": "Mirine Fulfinum - Sarcofago",
+        "description": "<b>Nel vestibolo della basilica venne ritrovato un sarcofago, mai aperto, adagiato in una cavità scavata nella roccia. Successivamente furono rinvenute altre tombe nell’area circostante.</b><br><br>Durante la pulizia del vestibolo della basilica, è stato ritrovato un sarcofago sotto una grande quantità di pietre, una risorsa preziosa molto rara del complesso. Il sarcofago, con il suo coperchio originale, si trova lì dov’era, sotterrato sotto la chiesa. Senza profanare la tomba e con l’aiuto di una microcamera si è scoperta la presenza di due defunti all’interno.",
+        "numberOfImages": 2,
+        "latitude": 45.2039609,
+        "longitude": 14.54291
+      },
+      "mirine_fulfinum_forum": {
+        "title": "Mirine Fulfinum - Foro",
+        "description": "<b>Come ogni città romana, il Municipium Flavium Fulfinum aveva nel suo centro il Foro ovvero la piazza principale della città in cui si svolgevano le principali funzioni politiche, economiche, religiose e sociali del mondo romano.</b><br><br>Il Foro di Fulfinum si trova nell’estrema parte nord-occidentale della città, lungo il bordo di una delle strade principali, che percorre una linea quasi retta, seguendo l’orientamento della costa attraverso l’intero insediamento e probabilmente più avanti in direzione di Veglia (Krk), attraverso le località di Mohorov e Njivice.<br><br>Secondo il modello romano, la piazza principale possedeva tutti quegli edifici che erano necessari per il funzionamento della città. Così, nella sua fase di sviluppo alla fine del I secolo d.C., nella sua parte centrale, quella che rientra lungo il bordo nord-occidentale della piazza, che occupava 1300 m2, sorgeva il tempio principale del foro, dedicato o alla triade capitolina ovvero alle tre principali divinità della religione romana (Giove, Giunone e Minerva) o forse agli imperatori romani.<br><br>Il tempio dall’aspetto semplice, con solo quattro pilastri nella facciata e un semplice interno tutto sollevato a un’altezza di circa un metro sopra la superficie dello specchio del foro, era circondato da uno spazio consacrato formato dalle mura di cinta del foro a ovest e a nord e dal muro del portico a est. Sul lato occidentale, lungo la parte più lunga del foro si trovava una serie di locali ovvero taverne alle quali non si poteva accedere direttamente dal foro, ma dal lato opposto rivolto verso il mare. Nella parte orientale del foro si trovava un edificio molto lungo con solo tre locali più piccoli nella sua parte settentrionale, preceduti da un ampio cortile interno aperto delimitato da due portici. In questo spazio era possibile entrare attraverso una porta aperta nel muro che delimitava lo spazio dello specchio del foro su quel lato. Infine, l’ingresso nello spazio del foro era contrassegnato da un portico con un’iscrizione di dedica.<br><br>Il foro della città di Fulfinum subirà importanti modifiche nel III secolo, con l’adattamento di una piazzetta sul lato nord-est del tempio principale, al centro della quale è stata trovata una base murata in cui si trovava, quasi certamente, un monumento – statua o un’iscrizione – della quale, purtroppo si è completamente persa traccia. Nel periodo precedente all’abbandono finale del foro, come pure della città stessa, alcuni spazi furono “privatizzati”. Nell’area del foro, simbolo dello spazio pubblico della città romana, appaiono leggere strutture in legno che testimoniano la perdita della funzione originale della piazza.",
+        "numberOfImages": 7,
+        "latitude": 45.2030764,
+        "longitude": 14.5445837
+      },
+      "mirine_fulfinum_comb": {
+        "title": "Il pettine di Mirine",
+        "description": "<b>Nel sito archeologico vicino al ponte di legno è stato ritrovato un oggetto archeologico unico del V secolo chiamato “il pettine di Mirine”.</b><br><br>Questo reperto è stato scoperto nell’aprile del 2017 durante il progetto di ricerca franco-croato “Il parco archeologico di Mirine Fulfinum” del Comune di Omišalj. Il pettine d’avorio, probabilmente a scopo liturgico, è un reperto archeologico di eccezionale valore risalente al periodo del primo cristianesimo.Il pettine è stato restaurato dal Museo archeologico di Zagabria e i risultati sono stati presentati da Sanjin Mihelić, direttore del Museo archeologico di Zagabria, Morana Čaušević-Bully, scienziata dell’Università Franche-Comté, Sébastien Bully, responsabile della ricerca presso il Centro nazionale di ricerca scientifica (CNRS) e Damir Doračić, restauratore del Museo archeologico di Zagabria.Il pettine di Mirine è decorato su entrambi i lati con rilievi dei miracoli di Cristo. Da un lato, c’è la tramutazione dell’acqua in vino durante un matrimonio a Cana, nonché la miracolosa moltiplicazione dei pani. Dall’altra parte, si può riconoscere la scena della donna che, affetta da emorragia, tocca il lembo della veste di Gesù e guarisce. Accanto a lei, a sinistra, c’è un’altra raffigurazione, molto probabile di una donna davanti alla tomba di Cristo. La scoperta di questo pettine è unica nella nostra regione. Si tratta di uno dei pochi reperti simili al mondo e sicuramente uno tra i reperti più rilevanti della recente archeologia croata paleocristiana.",
+        "numberOfImages": 2,
+        "latitude": 45.2053904,
+        "longitude": 14.5431302
+      },
+      "mirine_thermal_baths": {
+        "title": "TO-DO",
+        "description": "TO-DO",
+        "numberOfImages": 2,
+        "latitude": 45.20525,
+        "longitude": 14.5427135
+      }
+    },
+    "churches": {
+      "church_of_st_anthony_of_padua": {
+        "title": "La chiesa di Sant’Antonio da Padova XIII-XIV secolo",
+        "description": "<b>Chiesa a una navata delimitata da un’abside semicircolare.</b><br><br>La chiesa di Sant’Antonio da Padova a Dubec fu nominata per la prima volta nel 1685, anche se, giudicando dallo stile romanico in cui fu costruita, deve essere più antica. L’omonima confraternita si prendeva cura della chiesa. Sul muro meridionale è conservata una finestra gotica. Il dipinto di Sant’Antonio da Padova dell’altare risale al XVIII secolo. Sulla facciata s’innalza un campanile a vela con campana ben conservata. Davanti alla chiesa si trova un’ampia loggia che oggi rappresenta un punto d’incontro molto amato specialmente durante le ore serali estive.",
+        "numberOfImages": 3,
+        "latitude": 45.213345,
+        "longitude": 14.553331
+      },
+      "church_of_st_helen": {
+        "title": "La chiesa di Sant’Elena",
+        "description": "<b>Chiesa con una navata delimitata da un’abside semicircolare sporgente (XIV e XV secolo).</b>\n La chiesa di Sant’Elena è stata costruita con blocchi di pietra cesellati a strati. La facciata ha un portale gotico ad arco acuto con una finestrina a forma di croce e un campanile a vela in cima. La chiesa si trova accanto al campanile e alla loggia della chiesa parrocchiale; è rialzata dalla Piazza tramite alcuni scalini. Nelle fonti storiche fu nominata per la prima volta nel 1458 già come rovina. In quell’anno, fu rinnovata e riportata al suo stato attuale da Nikola Bozanić, che affidò la cura della chiesa e di alcuni beni ai suoi discendenti tramite il suo testamento il 15 aprile 1470. Nei anni successivi i documenti notarili registrano vari nomi della famiglia Bozanić associati a questa cappella. Infatti, nel 1565 fu nominato Vid (Vito) Bozanić a cui venne assegnato il giuspatronato ovvero il diritto di gestione della cappella e dei suoi terreni. Il parroco di Omišalj Anton Bozanić, con il testamento del 16 agosto 1612, affidò la cura della cappella al chierico Anton Čubranić, a condizione che dopo la sua morte, la gestione della cappella venisse restituita nuovamente alla famiglia Bozanić. Nella cappella si trova un altare in pietra e un dipinto di Sant’Elena. In occasione della festa di Sant’Elena nella chiesetta viene celebrata la messa. Oltre a questa chiesa, a Omišalj esistono resti di un’altra chiesa omonima ancora più antica, Sant’Elena nella Valle (Sveta Jelena na Dolu).",
+        "numberOfImages": 2,
+        "latitude": 45.211886,
+        "longitude": 14.553894
+      },
+      "rose_window": {
+        "title": "Rosette - FALI PRIJEVOD",
+        "description": "The church façade features an ornate circular rose window with a Glagolitic inscription from 1405. This rose window, a work by the proud master stonemason Sinoga of Omišalj, is often used as an emblem of the town of Omišalj.",
+        "numberOfImages": 2,
+        "latitude": 45.20525,
+        "longitude": 14.553481
+      },
+      "bell_tower": {
+        "title": "Il campanile",
+        "description": "<b>Il campanile rinascimentale fu ultimato nel 1536 come testimonia l’iscrizione glagolitica sopra la porta d’entrata.</b><br><br>Il campanile fu costruito in tre anni, dal 1533 al 1536 con i mezzi finanziari di tutta la popolazione e delle confraternite di Omišalj. Queste comunità religiose si occupavano di attività caritatevoli ed erano il fattore chiave delle attività di costruzione di edifici sacrali alla fine del Medioevo e all’inizio dell’Età Moderna. A dirigere i lavori furono due maestri costruttori: Piero da Omišalj e Andrij del paese di Kotor nei pressi di Crikvenica. In quel periodo il parroco era Matija Vlčijić e il castellano Nikola Antončić. Dall’iscrizione glagolitica posta dagli stessi orgogliosi costruttori, sopra la porta d’entrata del campanile, si rilevano ulteriori informazioni dettagliate. Nella bifora del campanile i maestri inserirono alcuni elementi ecclesiastici di epoca preromanica.<br><br>In quei tempi tormentati, la crescente minaccia dell’Impero ottomano e dei conflitti austro-veneziani, come del resto avveniva in tutta la costa orientale dell 'Adriatico, tale campanile ebbe non solo un ruolo sacro, ma fu soprattutto un ottimo osservatorio del territorio marittimo circostante. Pertanto, fu costruito come una fortezza.<br><br>Il testo dell’iscrizione sul campanile riporta: „1533, nel mese di marzo per volere di Dio e della Beata Vergine Maria e grazie al volere del prete Matija Vlčijić, del castellano Nicola Antončić e dei giudici di quel tempo. Tutta la gente e le confraternite di Omišalj aiutarono a costruire questo campanile. Fu costruito dai maestri: maestro Piero da Omišalj e maestro Andrij da Kotor e fu terminato il mese di maggio 1536“",
+        "numberOfImages": 1,
+        "latitude": 45.211822,
+        "longitude": 14.553551
+      },
+      "parish_church_of_the_assumption_stomorina": {
+        "title": "La chiesa parrocchiale dell’Assunzione della Beata Vergine Maria",
+        "description": "<b>La chiesa è sorta a cavallo tra il XII e il XIII secolo come basilica romanica a tre navate.</b><br><br>La chiesa è sorta a cavallo tra il XII e il XIII secolo come basilica romanica a tre navate. I suoi costruttori furono influenzati direttamente dai monumenti in stile romanico della città di Veglia. Le tre navate sono divise da arcate poggiate su massicci pilastri a sezione rettangolare. La navata centrale termina con l’abside principale a piano rettangolare e quelle laterali con absidi piccole semicircolari (l’abside meridionale oggi è nascosta da una costruzione recente). Nella lunetta del portale principale della facciata occidentale, nei muri esterni ed interni, nei pilastri e nei pulpiti, sono incorporati elementi di arredi ecclesiastici (pannello-pluteo, travi, pilastri e parti del timpano-tegurio della parete divisoria dell 'altare nonché parti del pulpito ambone di una chiesa precedente). Sono facilmente riconoscibili per i motivi caratteristici della simbologia cristiana, la fede nel costante rinnovamento, nella resurrezione e nella vita eterna. Infatti ci sono intrecciamenti “infiniti”, cerchi, rosoni, semirosoni, rosoni intagliati, cipressi, viti, uccelli e altri ornamenti con motivi zoomorfi e dendromorfi. I rilievi furono incorporati nei muri della chiesa parrocchiale romanica durante la sua costruzione e successivamente. I maestri preromanici scolpirono l’arredo della chiesa in loco, utilizzando per lo più la malleabile pietra calcarea istriana che veniva trasportata in blocchi con le imbarcazioni, ma prendevano anche il marmo proveniente dalle cave greche da costruzioni già presenti nell’area. Il rosone della facciata della chiesa, opera del maestro locale Sinoga, porta un’iscrizione glagolitica datata 1405. Più tardi (nel XV–XVII secolo) sul portale romanico laterale furono aggiunte iscrizioni glagolitiche non ufficiali. Nel XVI secolo la chiesa subì un ampliamento sistematico com’è documentato dall’iscrizione glagolitica del 1525 in una delle cappelle aggiunte alla navata settentrionale. Le volte a crociera delle cappelle laterali testimoniano che a quel tempo gli artigiani locali costruivano ancora in stile tardo gotico. Gli adattamenti furono intensificati sotto l 'imperativo di modifiche liturgiche dettate dal Concilio Tridentino e culminarono con l’esecuzione della cupola sul presbiterio nel XVII secolo e con il congiungimento della chiesa di S. Giovanni Battista (che prima era una struttura separata) nel XVIII secolo. Al centro della pala d’altare tardorinascimentale si è conservato uno precedente risalente all’inizio del Rinascimento. Questa scultura dipinta e intagliata nel legno appartiene alle migliori produzioni veneziane dell’epoca. Lo stesso è il caso della croce processionale, dei reliquiari e degli incensieri. Una visita della seconda metà del XVI secolo menziona che la chiesa avesse addirittura 18 altari. Nell 'abside destra si trova la pala d’altare in legno intagliato e dipinto di S. Giovanni Evangelista che si attribuisce a Jacobello del Fiore (inizio del XV secolo). Gli affreschi della cupola e del soffitto della navata principale sono opera del maestro locale Ivan Volarić (1929).",
+        "numberOfImages": 4,
+        "latitude": 45.211886,
+        "longitude": 14.553481
+      }
+    },
+    "forts": {
+      "kastel": {
+        "title": "Il Castello (Kaštel)",
+        "description": "<b>Questo è il luogo in cui si trovava la torre della fortezza medievale dei Frangipani.</b><br><br>Sul muro situato a sud-est dell’ufficio parrocchiale è conservata una lapide in pietra con un’iscrizione glagolitica che indica la costruzione della torre nel 1476. La torre fu eretta da Giovanni VII, l’ultimo signore della stirpe dei Frangipani sull’isola. All’epoca era una fortezza feudale nonché residenza dei principi dell’isola di Veglia e fu mantenuta come fortezza con castellano dalla Repubblica di Venezia. Venne abbandonata nel XIX secolo. Al suo posto fu edificata la scuola e un complesso di edifici municipali con l’ufficio parrocchiale. Tuttora, qui si trova il Municipio di Omišalj. La cisterna del cortile centrale risale all’epoca dei Frangipani e fu ristrutturata agli inizi del XX secolo. La scritta glagolitica sul muro dell’ufficio parrocchiale indica l’anno di costruzione del castello: „Nel nome di Dio, amen. A giugno del 1476 quando iniziò la costruzione di questo castello nel periodo del principe Giovanni e di suo figlio, il principe Nicola.“",
+        "numberOfImages": 2,
+        "latitude": 45.21127,
+        "longitude": 14.555322
+      }
+    },
+    "industrial_heritage": {
+      "water_tower_dubec": {
+        "title": "Torre dell’acqua Dubec (1925)",
+        "description": "<b>Grazie a questa struttura Omišalj ottenne l 'acqua potabile nei rubinetti e l 'elettricità nelle case già nel 1925, molti decenni prima di altre località isolane della costa adriatica orientale.</b><br><br>La torre dell’acqua Dubec con cisterna e stazione di pompaggio sottostanti rappresentava un complesso tecnologico. Oggi è un importante monumento di infrastruttura e costruzione industriale, che in primo luogo testimonia il progresso del luogo. Grazie a questa struttura Omišalj ottenne l 'acqua potabile nei rubinetti e l 'elettricità nelle case già nel 1925, molti decenni prima di altre località isolane della costa adriatica orientale. È interessante notare che i costruttori vollero adattare questa struttura all’ambiente circostante costruendo una superficie in pietra cesellata.",
+        "numberOfImages": 2,
+        "latitude": 45.213484,
+        "longitude": 14.553718
+      }
+    },
+    "localities": {
+      "placa": {
+        "title": "Piazza",
+        "description": "<b>La piazza è il cuore del centro storico.</b><br><br>Per secoli la Piazza rappresentò il centro dell’abitato. All’inizio del XX secolo iniziò lentamente a perdere la sua importanza lasciando il primato alla parte meridionale dell’odierna città dove nel periodo precedente alla Prima guerra mondiale, al posto del castello, fu costruito il municipio. Sulle case che circondano la Piazza, ci sono tracce di elementi architettonici medievali e rinascimentali che però sono nascosti da interventi edili, adattamenti e modifiche dei secoli successivi – specialmente quelli a cavallo fra il XIX e l’inizio del XX secolo, quando Omišalj subì un cambiamento di aspetto significativo.",
+        "numberOfImages": 5,
+        "latitude": 45.211621,
+        "longitude": 14.553873
+      },
+      "tome_lesica_carpentery_workshop": {
+        "title": "Marangoni di Tome Lesica",
+        "description": "<b>Falegnameria di Tome Lesica (1916-1989), ultimo autodidatta della scrittura glagolitica dell’isola di Veglia.</b><br><br>Tome Lesica era un falegname di mestiere. Oltre a ciò, lavorò per decenni come sagrestano, campanaro e come persona che si prende cura della chiesa e aiuta il sacerdote nei suoi obblighi. Sapeva anche suonare strumenti tradizionali – la sopila (strumento ad ancia doppia, simile all’oboe e alla ciaramella). Verrà ricordato soprattutto come l’ultimo conoscitore autodidatta della scrittura glagolitica dell’isola di Veglia. Leggeva il glagolitico in maniera fluente e corretta come se leggesse una rivista (B. Fučić). Prima della sua morte lasciò il suo ultimo scritto ufficiale in glagolitico nel libro della confraternita di Omišalj “Od duš” (Delle anime) in occasione della consacrazione di Josip Bozanić come vescovo dell’isola di Veglia. Tome Lesica era fonte di rilevante importanza per lo studio del patrimonio tradizionale di Omišalj e veniva consultato dagli studiosi di lingue slave di tutta Europa e dagli etnologi che studiavano le tematiche riguardanti l’isola di Veglia. Egli svolgeva la sua attività di falegname nella bottega vicino alla casa in cui viveva.",
+        "numberOfImages": 2,
+        "latitude": 45.211387,
+        "longitude": 14.553604
+      }
+    },
+    "libraries": {
+      "vid_omisljanin": {
+        "title": "La biblioteca „Vid Omišljanin“",
+        "description": "<b>L’istituzione porta il nome dello scrittore e illuminista della fine del XIV secolo</b><br><br>La biblioteca pubblica di Omišalj è situata all’interno del municipio che durante il periodo precedente la Prima guerra mondiale fu costruita sulle rovine del castello dei Frangipani. Nel 1396, Vid Omišljanin scrisse e stese un breviario in glagolitico onciale composto da 468 fogli di pergamena. Questo breviario fu fatto per la chiesa parrocchiale di San Bartolo a Rozzo (Roč), cittadina situata nell’Istria centrale. Il breviario è conservato nella Biblioteca nazionale austriaca a Vienna. La prima sala di lettura a Omišalj fu aperta nel 1884. Nell’attuale spazio la biblioteca opera dal 2002.",
+        "numberOfImages": 2,
+        "latitude": 45.211315,
+        "longitude": 14.555139
+      }
+    },
+    "parks": {
+      "dubec_park": {
+        "title": "Il Parco Dubec",
+        "description": "<b>Monumento di architettura del paesaggio della prima metà del XX secolo.</b><br><br>Il Parco Dubec è nato gradualmente dal 1925 grazie all’impegno della 'Commissione balneare' locale. Questo è uno dei pochi esempi di parchi naturali, sorto sistemando i sentieri e allestendo le piante autoctone. Il parco viene nominato anche nella canzone 'Sopra Omišalj quando cala il buio', una sorta di inno a Omišalj del prof. Ivan Kraljić Duminić.<br><br>Va sottolineato che l 'isola di Veglia era estremamente ricca di boschi di querce come veniva regolarmente riportato nelle relazioni che i provveditori veneziani inviavano al doge di Venezia. Per la Repubblica di Venezia il legno era d’importanza strategica a causa del suo enorme impiego per la costruzione e la riparazione delle navi dell’arsenale veneziano.",
+        "numberOfImages": 1,
+        "latitude": 45.213122,
+        "longitude": 14.552419
+      },
+      "gornja_vraca": {
+        "title": "“Gornja vraca” (Porta superiore) / Njivičina",
+        "description": "<b>Uno degli ingressi storici della città di Omišalj.</b><br><br>Tramite questo secondo antico ingresso a Omišalj si entrava da nord e si usciva in direzione nord, verso l’isolotto di San Marco e lo stretto canale che divide l’isola di Veglia dalla vicina terraferma di Vinodol (verso Pušća, Vežica, Vošćica). Quest’ingresso fu fondato in epoca preistorica quando sulla collina di Omišalj sorgeva il castelliere della comunità liburnica dei Fertinati.",
+        "numberOfImages": 2,
+        "latitude": 45.213492,
+        "longitude": 14.553981
+      }
+    },
+    "museums": {
+      "memorial_house_of_krk_folklore": {
+        "title": "Il museo del folclore di Veglia",
+        "description": "<b>Una collezione del patrimonio materiale e immateriale dell’isola di Veglia.</b><br><br>Nella Casa con le balaustre (Kuća na stupićih), costruita agli inizi del XX secolo, si trova l’esposizione di costumi tradizionali, di oggetti di uso comune e una mostra del patrimonio etnomusicologo. Questo luogo è dedicato al Festival del folclore dell’isola di Veglia che fu fondato nella prima metà del XX secolo (Omišalj, 1935) e rappresenta la manifestazione più antica di questo tipo in Croazia.",
+        "numberOfImages": 7,
+        "latitude": 45.210843,
+        "longitude": 14.555245
+      }
+    },
+    "cemeteries": {
+      "smitir": {
+        "title": "Smitir",
+        "description": "<b>Un tempo cimitero di Omišalj.</b><br><br>Il nome Smitir deriva dalla parola latina coemeterium che significa cimitero. Attorno alla chiesa venivano sepolti i morti, dal Medioevo fino a quando la prima amministrazione austriaca non vietò questa pratica all’interno degli abitati. Nel 1818 il cimitero si trovava all’esterno del paese al posto del monastero benedettino di allora e della chiesa di San Nicola, dove vi rimase fino alla Prima guerra mondiale quando fu assegnata una nuova località più lontana dal paese.",
+        "numberOfImages": 2,
+        "latitude": 45.211863,
+        "longitude": 14.553373
+      }
+    },
+    "monuments": {
+      "house_in_pancirov_street": {
+        "title": "Casa nella strada Panćirov",
+        "description": "<b>Una casa dell’epoca rinascimentale.</b><br><br>La casa è costruita in blocchi di pietra regolari a strati. Il caratteristico arco semicircolare che delimita l’apertura della finestra è decorato con un motivo a dentatura alternata. La cornice dell’apertura poggia sul davanzale supportato dalle console decorate da un profilo geometrico.",
+        "numberOfImages": 1,
+        "latitude": 45.210941,
+        "longitude": 14.553744
+      },
+      "lapidarium": {
+        "title": "Lapidario",
+        "description": "<b>A collection of stone monuments from the area of the Municipality of Omišalj.</b><br><br>This collection of movable cultural assets makes up an in situ exhibition together with the monuments located in its immediate vicinity, especially those outside and inside the Collegiate Church of the Assumption of Mary. The inscription about the construction of the water supply for the ancient town of Fulfinum, which was located on the coast of Sepen Cove southwest of Omišalj, is particularly interesting. The inscription from the year 94 makes mention of the Emperor Domitian as the builder of the aqueduct. His name and title, as elsewhere in the Roman Empire, were officially erased by a decision of the Senate (damnatio memoriae) and removed from the surface of the stone inscription; what remains is the name of Lucius Sextis Dexter, a veteran of the Third Praetorian Cohort who, probably as an inhabitant of Fulfinum, made a donation towards some of the work on the aqueduct. Parts of the early medieval stone fittings from the early 9th-century church, which preceded the present Collegiate Church of the Assumption of the Blessed Virgin Mary, are also worth mentioning. A tombstone slab with a Glagolitic inscription and a relief depicting the bishop's mitre and pastoral staff, dating back to 1477, is particularly interesting. It was made for Stjepan of Zadar, the last abbot of the Benedictine monastery of St. Nicholas, which was located in front of the entrance to Omišalj. The significance of these stone fragments and other parts of local heritage has been thoroughly explained in a booklet entitled Nepoznati Omišalj (The Unknown Omišalj), a cultural and historical guide that can be obtained at the exhibition venue.",
+        "numberOfImages": 5,
+        "latitude": 45.20525,
+        "longitude": 14.55361
+      },
+      "mile_kumbatovic_oton_gliha_house": {
+        "title": "Casa memoriale di Mila Kumbatović e Oton Gliha",
+        "description": "<b>In questa tradizionale casa di Omišalj per decenni vissero e crearono due giganti dell 'arte croata: Mila Kumbatović (1915-2004) e Oton Gliha (1914-1999).</b><br><br> Mila Kumbatović, nativa di Omišalj, utilizzò il caratteristico paesaggio della sua terra come fonte d’ispirazione. Questa era la sua costante attività artistica, passando dallo stile pittorico di Cézanne a una pittura astratta e alla sperimentazione con la scultura industriale. Oton Gliha, uno dei più grandi pittori croati della seconda metà del XX secolo, fu il marito di Mila Kumbatović, che incontrò durante i suoi studi presso l 'Accademia delle Belle Arti di Zagabria. Originario dell’Istria, in gioventù visse in Slovenia, in Slavonia e a Zagabria. Diventò famoso in tutto il mondo per i suoi quadri inspirati dai muri a secco dell 'isola di Veglia, che nella sua interpretazione diventano merletti astratti in pietra.",
+        "numberOfImages": 1,
+        "latitude": 45.212378,
+        "longitude": 14.554098
+      },
+      "landauf_house": {
+        "title": "Casa Landauf",
+        "description": "<b>La casa fu costruita nel 1909.</b><br><br>Kuću je 1909. godine, u jeku svojeg, ali i općeg ekonomskog probitka u Omišlju, dao sagraditi poznati lokalni poduzetnik, Luka Turato, koji se obogatio trgovinom, poglavito žitom, a onda stečeno investirao u turizam. Izgradio je luksuzni hotel Jadran i nikad dovršenu Plavu terasu u Njivicama. Započeo je gradnju objekta u uvali Slivanjska, nedaleko spilje Biserujka, a zatim ekonomski krahirao.<br><br>Plemenitim činom profesorice Anice Landauf, nećake Luke Turata, kuća je oporučno postala vlasništvo Općine Omišalj.",
+        "numberOfImages": 1,
+        "latitude": 45.213205,
+        "longitude": 14.553954
+      },
+      "stogata": {
+        "title": "Stogata",
+        "description": "<b>La casa fu costruita nel 1909 da Luka Turato, un noto uomo d’affari locale, al culmine del suo successo economico a Omišalj. Turato si arricchì con il commercio del grano e poi investì la ricchezza accumulata nel campo del turismo. Costruì, inoltre, l’hotel di lusso Jadran e la Terrazza Blu a Njivice che non fu mai completata. Iniziò la costruzione di una struttura nella baia Slivanjska, nei pressi della grotta Biserujka, ma subì ben presto un crollo economico.</b><br><br>Il nobile atto del professor Anica Landauf, nipote di Luka Turato, è diventato proprietà del comune di Omišalj.",
+        "numberOfImages": 2,
+        "latitude": 45.212676,
+        "longitude": 14.554061
+      }
+    },
+    "lookouts": {
+      "dubec_vantage_point": {
+        "title": "Punto panoramico Dubec",
+        "description": "<b>Un altro luogo di Omišalj con un’imponente vista sul Quarnero, sulla baia di Omišalj, sugli alberghi e sulle residenze estive della costa costruiti nel periodo tra le due Guerre mondiali, sulla vicina costa istriana e quella dell’isola di Cherso (Cres) ma anche sulle Alpi, sul massiccio del Velebit sulla terraferma e sul parco Dubec sottostante.",
+        "numberOfImages": 2,
+        "latitude": 45.213409,
+        "longitude": 14.553289
+      },
+      "vele_steni_vantage_point": {
+        "title": "Punto panoramico Vele steni",
+        "description": "<b>Punto panoramico sulle pendici occidentali della collina di Omišalj.</b><br><br>Questo è un luogo dalla vista spettacolare sull’isola di Veglia, su una grande parte del Golfo del Quarnero, sulla baia di Omišalj, sul promontorio, sulla spiaggia e la baia Pesja, sulla Riva di Papa Giovanni Paolo II e su altre località storiche come la collina Fortičina con i resti di una fortezza medievale e la fortezza Sepen con le rovine di una basilica paleocristiana a Mirine nonché sui resti della città antica di Fulfinum. La caratteristica architettura popolare è di particolare valore in questa parte confinante della città, con tracce di periodi e stili medievali, rinascimentali e barocchi.",
+        "numberOfImages": 2,
+        "latitude": 45.211761,
+        "longitude": 14.552628
+      }
+    },
+    "tours": {
+      "municipium_flavium_fulfinum_and_mirine": {
+        "title": "Municipium Flavium Fulfinum e Mirine",
+        "description": "<b>I resti dell’antica città di Municipium Flavium Fulfinum della seconda metà del I secolo d.C. e della basilica paleocristiana del V secolo d.C.</b><br><br>Nel territorio di Fulfinum (odierno toponimo Okladi) anche oggi sono ben riconoscibili i resti antichi di edifici del periodo romano. Sono particolarmente imponenti le recenti scoperte appartenenti al foro, il cuore della città antica con un tempio, una basilica e taberne nonché parti architettoniche di edifici pubblici. Nonostante il sito fu esplorato intensivamente negli ultimi anni, la città di Municipium Flavium Fulfinum è in gran parte ancora inesplorata. Il nome è conosciuto grazie alla scoperta di un’iscrizione risalente all’imperatore romano Domiziano nella quale vengono nominati alcuni lavori all’acquedotto cittadino. L’iscrizione è conservata nel Lapidario di Omišalj.Le strutture murarie e la disposizione delle strade sono ben visibili nella configurazione del terreno. Fin dal secolo scorso la zona era coltivata, quindi i resti delle pareti in gesso di antichi edifici sono stati in parte sepolti da cumuli di pietra a secco. I moli e gli edifici caratteristici con pavimenti a mosaico furono in parte ricoperti di fango nelle acque basse della baia di Sepen. La città fu regolata dai gromatici romani come una creazione del tutto nuova, dove in precedenza non vi era nessun insediamento. Agli abitati romani veterani fu suddiviso il terreno che prima era di proprietà della popolazione locale di Omišalj – i Fertinati. Tale città in una località costiera non ebbe la possibilità di sopravvivere nonostante i tentativi di fortificazione avvenuti in tarda antichità. Col passare del tempo questa città stava lentamente scomparendo com’è avvenuto con Salona e tante altre città romane simili colpite dalla migrazione dei popoli.<br><br>A sud-ovest del foro, nel sito di Mirine, troviamo una necropoli paleocristiana con tombe piccole e alcune grandi privilegiate nonché la basilica ben conservata fino al tetto, probabilmente dedicata a San Nicolò. Questa chiesa è un ottimo esempio di strutture sacre appartenenti al periodo paleocristiano. La forma della chiesa a croce latina viene data dal transetto. Nel suo nartece, restaurato e parzialmente ricostruito di recente, si trova un’esposizione di materiale archeologico. Lì si trova anche un sarcofago paleocristiano preservato in situ. L’atrio, che si trova lungo la parete sud della chiesa, si estende fino al mare, ed è il risultato di un successivo adattamento dell’edificio alla comunità religiosa, che ha infine abbandonato la struttura quando a causa delle sue dimensioni non la poteva più mantenere. I benedettini cercarono di continuare adattando un complesso residenziale con le terme, situato a ovest della basilica. Questo luogo è stato archeologicamente studiato ed è aperto al pubblico. In seguito, i benedettini glagolitici si sono ritirati dalla posizione costiera esposta e si stabilirono nei pressi di Omišalj, trasferendo anche il titolare San Nicola. Oggi il toponimo Mirine è il nome dialettale delle rovine (croatizzazione del termine latino murus) che agli immigrati croati del Medioevo sicuramente sembravano particolarmente imponenti.",
+        "related":{
+          "mirine_fulfinum_basilica": {
+            "title": "Mirine Fulfinum – Basilica",
+            "type": "archeology_remains"
+          },
+          "mirine_fulfinum_sarcophagus": {
+            "title": "Mirine Fulfinum - Sarcophagus",
+            "type": "archeology_remains"
+          },
+          "mirine_fulfinum_forum": {
+            "title": "Mirine Fulfinum - Forum",
+            "type": "archeology_remains"
+          },
+          "mirine_fulfinum_comb": {
+            "title": "Mirine comb",
+            "type": "archeology_remains"
+          },
+          "mirine_thermal_baths": {
+            "title": "TO-DO",
+            "type": "archeology_remains"
+          }
+        }
+      }
+    }
+  }
+  

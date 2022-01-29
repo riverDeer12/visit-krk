@@ -1,0 +1,62 @@
+<ion-content center text-center>
+  <ion-grid>
+    <ion-row justify-content-center align-items-center>
+      <img src="assets/images/logo.png">
+    </ion-row>
+    <ion-row class="language-picker" justify-content-center align-items-center>
+      <ion-list radio-group no-border ngDefaultControl>
+        <ion-radio-group value="eng">
+          <ion-list-header>
+            <ion-label class="language-picker-heading">
+              <p>{{ 'language_picker.choose_your_language' | translate }}</p>
+            </ion-label>
+          </ion-list-header>
+          <ion-item>
+            <ion-label>{{ 'language_picker.english' | translate }}</ion-label>
+            <ion-radio value="eng" (click)="switch_language('eng')"></ion-radio>
+          </ion-item>
+          <ion-item>
+            <ion-label>{{ 'language_picker.croatian' | translate }}</ion-label>
+            <ion-radio value="cro" (click)="switch_language('cro')"></ion-radio>
+          </ion-item>
+          <ion-item>
+            <ion-label>{{ 'language_picker.german' | translate }}</ion-label>
+            <ion-radio value="ger" (click)="switch_language('ger')"></ion-radio>
+          </ion-item>
+          <ion-item>
+            <ion-label>{{ 'language_picker.italian' | translate }}</ion-label>
+            <ion-radio value="ita" (click)="switch_language('ita')"></ion-radio>
+          </ion-item>
+        </ion-radio-group>
+      </ion-list>
+    </ion-row>
+  </ion-grid>
+  <ion-item (click)="goToMenuPage()">{{ 'next' | translate }}</ion-item>
+</ion-content>
+
+<ion-footer>
+  <ion-toolbar color="primary" style="text-align: center;">
+    <ion-row>
+      <ion-col>
+        <a href="https://www.facebook.com/visitomisaljnjivice">
+          <img class="social-logo" src="assets/images/icons/icon_facebook.png">
+        </a>
+      </ion-col>
+      <ion-col>
+        <a href="https://www.instagram.com/omisaljnjivice/">
+          <img class="social-logo" src="assets/images/icons/icon_instagram.png">
+        </a>
+      </ion-col>
+      <ion-col>
+        <a href="https://www.pinterest.com/pin/437552920029278895/">
+          <img class="social-logo" src="assets/images/icons/icon_pinterest.png">
+        </a>
+      </ion-col>
+      <ion-col>
+        <a href="https://twitter.com/omisaljnjivice">
+          <img class="social-logo" src="assets/images/icons/icon_twitter.png">
+        </a>
+      </ion-col>
+    </ion-row>
+  </ion-toolbar>
+</ion-footer>

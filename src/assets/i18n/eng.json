@@ -1,0 +1,665 @@
+{
+  "app_name": "Visit Krk",
+  "language_picker": {
+    "choose_your_language": "Choose your language",
+    "english": "English",
+    "croatian": "Croatian",
+    "german": "German",
+    "italian": "Italian"
+  },
+  "sidebar_header_text": "Visit Krk",
+  "next": "Next",
+  "contact": "Contact",
+  "back_to_quit": "Click BACK again to exit application",
+  "settings": "Settings",
+  "try_again": "Try again",
+  "back": "Back",
+  "refresh": "Refresh",
+  "please_wait": "Please wait...",
+  "show_on_map": "Show on map",
+  "get_me_there": "Get me there",
+  "related_sights": "Related sights:",
+  "read_more": "Read more",
+  "navigation": {
+    "history": "History",
+    "closest_point_of_interest": "Closest point of interest",
+    "archeology_remains": "Archeology remains",
+    "archeology_remain": "Archeology remains",
+    "churches": "Churches",
+    "church": "Church",
+    "forts": "Forts",
+    "fort": "Fort",
+    "industrial_heritage": "Industrial heritage",
+    "localities": "Localities",
+    "locality": "Locality",
+    "libraries": "Libraries",
+    "library": "Library",
+    "parks": "Parks",
+    "park": "Park",
+    "museums": "Museums",
+    "museum": "Museum",
+    "cemeteries": "Cemeteries",
+    "cemetery": "Cemetery",
+    "monuments": "Monuments",
+    "monument": "Monument",
+    "lookouts": "Lookouts",
+    "lookout": "Lookout",
+    "tours": "Tours",
+    "tour": "Tour",
+    "ethnographic_collections": "Ethnographic collections",
+    "ethnographic_collection": "Ethnographic collection",
+    "all_sights": "All sights",
+    "about": "About us",
+    "communication": "Communication",
+    "share": "Share",
+    "rate": "Rate",
+    "send_mail": "Send email",
+    "no_email_message": "No email application installed."
+  },
+  "history": {
+    "title": "History of Island of Krk",
+    "description": "Welcome to the historic center of Omišalj, a picturesque and layered urban structure with elements of medieval architecture, Renaissance, Baroque, historical styles of the 19th and the early 20th century. Omišalj was founded on the basis of an earlier village whose roots go back to prehistory. The original fort-type habitat defended by strong dry-walled ramparts was the seat of the Liburnian tribal community of Fertinata. It stagnated during the Roman Empire, when the nearby coastal country and port city of Fulfinum was developing, and flourished again during the early and developed Middle Ages.<br><br>Omišalj was the first among the already existing villages on the island, which in the early Middle Ages were populated en masse by immigrant Croats, achieving a harmonious coexistence with the Romanized indigenous community. During the Middle Ages, it was a stronghold of the princes of Krk, later Frankapans, who built two strong fortifications in front of it and next to it. The Venetians who ruled Omišalj in 1480 justifiably called it the 'key to the island of Krk' due to its strategic importance. Even today, this is clear to anyone who enters the historic center of city and finds himself on one of its lookouts from which one could easily see a good part of the Kvarner Bay. As nowhere else on the island of Krk, in Omišalj, parts of medieval and renaissance architecture intertwine with unusual out-of-style architectural structures. We are great as much as we hold on to the values we inherit, and as much as we preserve them for future generations. If we connect historical, artistic, archeological and historiographical data with the specifics of Omišalj tradition, speech, folk songs and customs, we will discover much about the turbulent history of this part of the island which has remained the key to the island of Krk."
+  },
+  "closest_point_of_interest": {
+    "closest_sight": "Closest sight",
+    "closest_tour": "Closest tour",
+    "no_navigation_alert": "No navigation application available",
+    "no_internet": {
+      "title": "No internet connection",
+      "description": "This functionality requires internet connection"
+    },
+    "location_permission": {
+      "title": "Permission for location needed!",
+      "description": "This functionality requires location permission."
+    },
+    "gps": {
+      "title": "GPS not enabled",
+      "description": "This functionality requires GPS"
+    }
+  },
+  "about": {
+    "title": "Visit Krk",
+    "description": "<b>Ordered by:</b> TZO OMIŠALJ<br><br><b>Project leader:</b> Kristina Pandža<br><br><b>Text:</b> TZO OMIŠALJ<br><br><b>Lecture and correction:</b> Adverbum d.o.o.<br><br><b>English translation:</b> Adverbum d.o.o.<br><br><b>German translation:</b> Adverbum d.o.o.<br><br><b>Italian translation:</b> Adverbum d.o.o.<br><br><b>Photography:</b> Luka Tabako, Srđan Hulak, Sanjin Ilić<br><br><b>Website development:</b> Ljiljana Brusić<br><br><b>Mobile app development:</b> R.D.D."
+  },
+  "archeology_remains": {
+    "all_saints_suzan": {
+      "title": "The church of All Saints in Sužan",
+      "description": "<b>A Glagolitic inscription of Matija Franović from the year 1535.</b><br><br>This Glagolitic inscription is inscribed in a medallion around a cross on a stone block built into the lower part of the façade of a house. The inscription mentions the priest Matija Franović and the year 1535. Originally, the inscription was not located in this rather undistinguished place. The stone block was the lintel of the portal of the rectory and the owner marked the completion of the building with an inscription and a cross, as was common practice in the Renaissance. This also had an apotropaic function, that is, to defend the house from evil. Nowhere in the world are there so many preserved Glagolitic stone inscriptions as on the island of Krk. These inscriptions attest to the fact that literacy was widespread among the ordinary inhabitants of the island. The most important role in this was played by the priests of the chapters of the small towns of Omišalj, Dobrinj, Vrbnik and Baška, which at the time were referred to as kašteli (castles).",
+      "numberOfImages": 2,
+      "latitude": 45.153278,
+      "longitude": 14.579444
+    },
+    "st_george_kras": {
+      "title": "The church of St George on the hill near Kras",
+      "description": "<b>A Glagolitic inscription of Matija Franović from the year 1535.</b><br><br>This Glagolitic inscription is inscribed in a medallion around a cross on a stone block built into the lower part of the façade of a house. The inscription mentions the priest Matija Franović and the year 1535. Originally, the inscription was not located in this rather undistinguished place. The stone block was the lintel of the portal of the rectory and the owner marked the completion of the building with an inscription and a cross, as was common practice in the Renaissance. This also had an apotropaic function, that is, to defend the house from evil. Nowhere in the world are there so many preserved Glagolitic stone inscriptions as on the island of Krk. These inscriptions attest to the fact that literacy was widespread among the ordinary inhabitants of the island. The most important role in this was played by the priests of the chapters of the small towns of Omišalj, Dobrinj, Vrbnik and Baška, which at the time were referred to as kašteli (castles).",
+      "numberOfImages": 2,
+      "latitude": 45.11175,
+      "longitude": 14.605583
+    },
+    "st_peter_soline": {
+      "title": "The church of St Peter – Soline",
+      "description": "<b>A Glagolitic inscription of Matija Franović from the year 1535.</b><br><br>This Glagolitic inscription is inscribed in a medallion around a cross on a stone block built into the lower part of the façade of a house. The inscription mentions the priest Matija Franović and the year 1535. Originally, the inscription was not located in this rather undistinguished place. The stone block was the lintel of the portal of the rectory and the owner marked the completion of the building with an inscription and a cross, as was common practice in the Renaissance. This also had an apotropaic function, that is, to defend the house from evil. Nowhere in the world are there so many preserved Glagolitic stone inscriptions as on the island of Krk. These inscriptions attest to the fact that literacy was widespread among the ordinary inhabitants of the island. The most important role in this was played by the priests of the chapters of the small towns of Omišalj, Dobrinj, Vrbnik and Baška, which at the time were referred to as kašteli (castles).",
+      "numberOfImages": 2,
+      "latitude": 45.164194,
+      "longitude": 14.606417
+    },
+    "st_mary_spring": {
+      "title": "The church of St Mary of the Spring",
+      "description": "<b>A Glagolitic inscription of Matija Franović from the year 1535.</b><br><br>This Glagolitic inscription is inscribed in a medallion around a cross on a stone block built into the lower part of the façade of a house. The inscription mentions the priest Matija Franović and the year 1535. Originally, the inscription was not located in this rather undistinguished place. The stone block was the lintel of the portal of the rectory and the owner marked the completion of the building with an inscription and a cross, as was common practice in the Renaissance. This also had an apotropaic function, that is, to defend the house from evil. Nowhere in the world are there so many preserved Glagolitic stone inscriptions as on the island of Krk. These inscriptions attest to the fact that literacy was widespread among the ordinary inhabitants of the island. The most important role in this was played by the priests of the chapters of the small towns of Omišalj, Dobrinj, Vrbnik and Baška, which at the time were referred to as kašteli (castles).",
+      "numberOfImages": 2,
+      "latitude": 45.017917,
+      "longitude": 14.567278
+    },
+    "triton_mosaic": {
+      "title": "Mosaic with an image of Triton",
+      "description": "<b>A Glagolitic inscription of Matija Franović from the year 1535.</b><br><br>This Glagolitic inscription is inscribed in a medallion around a cross on a stone block built into the lower part of the façade of a house. The inscription mentions the priest Matija Franović and the year 1535. Originally, the inscription was not located in this rather undistinguished place. The stone block was the lintel of the portal of the rectory and the owner marked the completion of the building with an inscription and a cross, as was common practice in the Renaissance. This also had an apotropaic function, that is, to defend the house from evil. Nowhere in the world are there so many preserved Glagolitic stone inscriptions as on the island of Krk. These inscriptions attest to the fact that literacy was widespread among the ordinary inhabitants of the island. The most important role in this was played by the priests of the chapters of the small towns of Omišalj, Dobrinj, Vrbnik and Baška, which at the time were referred to as kašteli (castles).",
+      "numberOfImages": 2,
+      "latitude": 45.025778,
+      "longitude": 14.574333
+    },
+    "roman_city_fulfinum": {
+      "title": "The Roman city Fulfinum",
+      "description": "<b>A Glagolitic inscription of Matija Franović from the year 1535.</b><br><br>This Glagolitic inscription is inscribed in a medallion around a cross on a stone block built into the lower part of the façade of a house. The inscription mentions the priest Matija Franović and the year 1535. Originally, the inscription was not located in this rather undistinguished place. The stone block was the lintel of the portal of the rectory and the owner marked the completion of the building with an inscription and a cross, as was common practice in the Renaissance. This also had an apotropaic function, that is, to defend the house from evil. Nowhere in the world are there so many preserved Glagolitic stone inscriptions as on the island of Krk. These inscriptions attest to the fact that literacy was widespread among the ordinary inhabitants of the island. The most important role in this was played by the priests of the chapters of the small towns of Omišalj, Dobrinj, Vrbnik and Baška, which at the time were referred to as kašteli (castles).",
+      "numberOfImages": 2,
+      "latitude": 45.203972,
+      "longitude": 14.544167
+    },
+    "old_christian_basilica": {
+      "title": "Old Christian basilica in Mirine and the remains of the three-apse church in the cove Sepen",
+      "description": "<b>A Glagolitic inscription of Matija Franović from the year 1535.</b><br><br>This Glagolitic inscription is inscribed in a medallion around a cross on a stone block built into the lower part of the façade of a house. The inscription mentions the priest Matija Franović and the year 1535. Originally, the inscription was not located in this rather undistinguished place. The stone block was the lintel of the portal of the rectory and the owner marked the completion of the building with an inscription and a cross, as was common practice in the Renaissance. This also had an apotropaic function, that is, to defend the house from evil. Nowhere in the world are there so many preserved Glagolitic stone inscriptions as on the island of Krk. These inscriptions attest to the fact that literacy was widespread among the ordinary inhabitants of the island. The most important role in this was played by the priests of the chapters of the small towns of Omišalj, Dobrinj, Vrbnik and Baška, which at the time were referred to as kašteli (castles).",
+      "numberOfImages": 2,
+      "latitude": 45.203925,
+      "longitude": 14.543669
+    },
+    "lapidarium": {
+      "title": "Archaeological site Cickini/lapidarium",
+      "description": "<b>A Glagolitic inscription of Matija Franović from the year 1535.</b><br><br>This Glagolitic inscription is inscribed in a medallion around a cross on a stone block built into the lower part of the façade of a house. The inscription mentions the priest Matija Franović and the year 1535. Originally, the inscription was not located in this rather undistinguished place. The stone block was the lintel of the portal of the rectory and the owner marked the completion of the building with an inscription and a cross, as was common practice in the Renaissance. This also had an apotropaic function, that is, to defend the house from evil. Nowhere in the world are there so many preserved Glagolitic stone inscriptions as on the island of Krk. These inscriptions attest to the fact that literacy was widespread among the ordinary inhabitants of the island. The most important role in this was played by the priests of the chapters of the small towns of Omišalj, Dobrinj, Vrbnik and Baška, which at the time were referred to as kašteli (castles).",
+      "numberOfImages": 2,
+      "latitude": 45.126,
+      "longitude": 14.551889
+    },
+    "mira_locality": {
+      "title": "Locality Mira near Jurandvor",
+      "description": "<b>A Glagolitic inscription of Matija Franović from the year 1535.</b><br><br>This Glagolitic inscription is inscribed in a medallion around a cross on a stone block built into the lower part of the façade of a house. The inscription mentions the priest Matija Franović and the year 1535. Originally, the inscription was not located in this rather undistinguished place. The stone block was the lintel of the portal of the rectory and the owner marked the completion of the building with an inscription and a cross, as was common practice in the Renaissance. This also had an apotropaic function, that is, to defend the house from evil. Nowhere in the world are there so many preserved Glagolitic stone inscriptions as on the island of Krk. These inscriptions attest to the fact that literacy was widespread among the ordinary inhabitants of the island. The most important role in this was played by the priests of the chapters of the small towns of Omišalj, Dobrinj, Vrbnik and Baška, which at the time were referred to as kašteli (castles).",
+      "numberOfImages": 2,
+      "latitude": 44.972,
+      "longitude": 14.740944
+    },
+    "korintija": {
+      "title": "Korintija",
+      "description": "<b>A Glagolitic inscription of Matija Franović from the year 1535.</b><br><br>This Glagolitic inscription is inscribed in a medallion around a cross on a stone block built into the lower part of the façade of a house. The inscription mentions the priest Matija Franović and the year 1535. Originally, the inscription was not located in this rather undistinguished place. The stone block was the lintel of the portal of the rectory and the owner marked the completion of the building with an inscription and a cross, as was common practice in the Renaissance. This also had an apotropaic function, that is, to defend the house from evil. Nowhere in the world are there so many preserved Glagolitic stone inscriptions as on the island of Krk. These inscriptions attest to the fact that literacy was widespread among the ordinary inhabitants of the island. The most important role in this was played by the priests of the chapters of the small towns of Omišalj, Dobrinj, Vrbnik and Baška, which at the time were referred to as kašteli (castles).",
+      "numberOfImages": 2,
+      "latitude": 44.989611,
+      "longitude": 14.801028
+    },
+    "st_marcos_church": {
+      "title": "The church of St Marco",
+      "description": "<b>A Glagolitic inscription of Matija Franović from the year 1535.</b><br><br>This Glagolitic inscription is inscribed in a medallion around a cross on a stone block built into the lower part of the façade of a house. The inscription mentions the priest Matija Franović and the year 1535. Originally, the inscription was not located in this rather undistinguished place. The stone block was the lintel of the portal of the rectory and the owner marked the completion of the building with an inscription and a cross, as was common practice in the Renaissance. This also had an apotropaic function, that is, to defend the house from evil. Nowhere in the world are there so many preserved Glagolitic stone inscriptions as on the island of Krk. These inscriptions attest to the fact that literacy was widespread among the ordinary inhabitants of the island. The most important role in this was played by the priests of the chapters of the small towns of Omišalj, Dobrinj, Vrbnik and Baška, which at the time were referred to as kašteli (castles).",
+      "numberOfImages": 2,
+      "latitude": 45.10575,
+      "longitude": 14.667222
+    },
+    "st_george_church": {
+      "title": "The church of St George",
+      "description": "<b>A Glagolitic inscription of Matija Franović from the year 1535.</b><br><br>This Glagolitic inscription is inscribed in a medallion around a cross on a stone block built into the lower part of the façade of a house. The inscription mentions the priest Matija Franović and the year 1535. Originally, the inscription was not located in this rather undistinguished place. The stone block was the lintel of the portal of the rectory and the owner marked the completion of the building with an inscription and a cross, as was common practice in the Renaissance. This also had an apotropaic function, that is, to defend the house from evil. Nowhere in the world are there so many preserved Glagolitic stone inscriptions as on the island of Krk. These inscriptions attest to the fact that literacy was widespread among the ordinary inhabitants of the island. The most important role in this was played by the priests of the chapters of the small towns of Omišalj, Dobrinj, Vrbnik and Baška, which at the time were referred to as kašteli (castles).",
+      "numberOfImages": 2,
+      "latitude": 45.066472,
+      "longitude": 14.70925
+    },
+    "st_mavro_church": {
+      "title": "The church of St Mavro",
+      "description": "<b>A Glagolitic inscription of Matija Franović from the year 1535.</b><br><br>This Glagolitic inscription is inscribed in a medallion around a cross on a stone block built into the lower part of the façade of a house. The inscription mentions the priest Matija Franović and the year 1535. Originally, the inscription was not located in this rather undistinguished place. The stone block was the lintel of the portal of the rectory and the owner marked the completion of the building with an inscription and a cross, as was common practice in the Renaissance. This also had an apotropaic function, that is, to defend the house from evil. Nowhere in the world are there so many preserved Glagolitic stone inscriptions as on the island of Krk. These inscriptions attest to the fact that literacy was widespread among the ordinary inhabitants of the island. The most important role in this was played by the priests of the chapters of the small towns of Omišalj, Dobrinj, Vrbnik and Baška, which at the time were referred to as kašteli (castles).",
+      "numberOfImages": 2,
+      "latitude": 45.072722,
+      "longitude": 14.674472
+    },
+    "st_peter_kanajt": {
+      "title": "Archaeological locality of St Peter on Kanajt",
+      "description": "<b>A Glagolitic inscription of Matija Franović from the year 1535.</b><br><br>This Glagolitic inscription is inscribed in a medallion around a cross on a stone block built into the lower part of the façade of a house. The inscription mentions the priest Matija Franović and the year 1535. Originally, the inscription was not located in this rather undistinguished place. The stone block was the lintel of the portal of the rectory and the owner marked the completion of the building with an inscription and a cross, as was common practice in the Renaissance. This also had an apotropaic function, that is, to defend the house from evil. Nowhere in the world are there so many preserved Glagolitic stone inscriptions as on the island of Krk. These inscriptions attest to the fact that literacy was widespread among the ordinary inhabitants of the island. The most important role in this was played by the priests of the chapters of the small towns of Omišalj, Dobrinj, Vrbnik and Baška, which at the time were referred to as kašteli (castles).",
+      "numberOfImages": 2,
+      "latitude": 45.03325,
+      "longitude": 14.631778
+    },
+    "st_george_mala_kras": {
+      "title": "The church of St George in Mala Kras",
+      "description": "<b>A Glagolitic inscription of Matija Franović from the year 1535.</b><br><br>This Glagolitic inscription is inscribed in a medallion around a cross on a stone block built into the lower part of the façade of a house. The inscription mentions the priest Matija Franović and the year 1535. Originally, the inscription was not located in this rather undistinguished place. The stone block was the lintel of the portal of the rectory and the owner marked the completion of the building with an inscription and a cross, as was common practice in the Renaissance. This also had an apotropaic function, that is, to defend the house from evil. Nowhere in the world are there so many preserved Glagolitic stone inscriptions as on the island of Krk. These inscriptions attest to the fact that literacy was widespread among the ordinary inhabitants of the island. The most important role in this was played by the priests of the chapters of the small towns of Omišalj, Dobrinj, Vrbnik and Baška, which at the time were referred to as kašteli (castles).",
+      "numberOfImages": 2,
+      "latitude": 45.002056,
+      "longitude": 14.626556
+    }
+  },
+  "places": {
+    "krk": {
+      "title": "Krk",
+      "description": "<b>The heart of the historic centre of Omišalj.</b><br><br>The Placa has for centuries been the centre of Omišalj. At the beginning of the 20th century, this function was gradually taken over by the area at the southern edge of the town, the site of the former castle, where the new municipal building was constructed before World War One. The houses that line the Placa possess traces of original medieval and Renaissance architecture, which are hidden beneath the building works, adaptations and renovations that occurred in the course of later centuries, especially during the 19th and early 20th century, when Omišalj was significantly reshaped.",
+      "numberOfImages": 5,
+      "latitude": 45.0280099,
+      "longitude": 14.5749926
+    },
+    "omisalj": {
+      "title": "Omisalj",
+      "description": "<b>The heart of the historic centre of Omišalj.</b><br><br>The Placa has for centuries been the centre of Omišalj. At the beginning of the 20th century, this function was gradually taken over by the area at the southern edge of the town, the site of the former castle, where the new municipal building was constructed before World War One. The houses that line the Placa possess traces of original medieval and Renaissance architecture, which are hidden beneath the building works, adaptations and renovations that occurred in the course of later centuries, especially during the 19th and early 20th century, when Omišalj was significantly reshaped.",
+      "numberOfImages": 5,
+      "latitude": 45.212538,
+      "longitude": 14.5526968
+    },
+    "malinska_dubasnica": {
+      "title": "Malinska-Dubasnica",
+      "description": "<b>The heart of the historic centre of Omišalj.</b><br><br>The Placa has for centuries been the centre of Omišalj. At the beginning of the 20th century, this function was gradually taken over by the area at the southern edge of the town, the site of the former castle, where the new municipal building was constructed before World War One. The houses that line the Placa possess traces of original medieval and Renaissance architecture, which are hidden beneath the building works, adaptations and renovations that occurred in the course of later centuries, especially during the 19th and early 20th century, when Omišalj was significantly reshaped.",
+      "numberOfImages": 5,
+      "latitude": 45.1223041,
+      "longitude": 14.527432
+    },
+    "baska": {
+      "title": "Baska",
+      "description": "<b>The heart of the historic centre of Omišalj.</b><br><br>The Placa has for centuries been the centre of Omišalj. At the beginning of the 20th century, this function was gradually taken over by the area at the southern edge of the town, the site of the former castle, where the new municipal building was constructed before World War One. The houses that line the Placa possess traces of original medieval and Renaissance architecture, which are hidden beneath the building works, adaptations and renovations that occurred in the course of later centuries, especially during the 19th and early 20th century, when Omišalj was significantly reshaped.",
+      "numberOfImages": 5,
+      "latitude": 44.9716361,
+      "longitude": 14.7491326
+    },
+    "punat": {
+      "title": "Punat",
+      "description": "<b>The heart of the historic centre of Omišalj.</b><br><br>The Placa has for centuries been the centre of Omišalj. At the beginning of the 20th century, this function was gradually taken over by the area at the southern edge of the town, the site of the former castle, where the new municipal building was constructed before World War One. The houses that line the Placa possess traces of original medieval and Renaissance architecture, which are hidden beneath the building works, adaptations and renovations that occurred in the course of later centuries, especially during the 19th and early 20th century, when Omišalj was significantly reshaped.",
+      "numberOfImages": 5,
+      "latitude": 45.0213646,
+      "longitude": 14.6299445
+    },
+    "dobrinj": {
+      "title": "Dobrinj",
+      "description": "<b>The heart of the historic centre of Omišalj.</b><br><br>The Placa has for centuries been the centre of Omišalj. At the beginning of the 20th century, this function was gradually taken over by the area at the southern edge of the town, the site of the former castle, where the new municipal building was constructed before World War One. The houses that line the Placa possess traces of original medieval and Renaissance architecture, which are hidden beneath the building works, adaptations and renovations that occurred in the course of later centuries, especially during the 19th and early 20th century, when Omišalj was significantly reshaped.",
+      "numberOfImages": 5,
+      "latitude": 45.1294025,
+      "longitude": 14.6038721
+    },
+    "vrbnik": {
+      "title": "Vrbnik",
+      "description": "<b>The heart of the historic centre of Omišalj.</b><br><br>The Placa has for centuries been the centre of Omišalj. At the beginning of the 20th century, this function was gradually taken over by the area at the southern edge of the town, the site of the former castle, where the new municipal building was constructed before World War One. The houses that line the Placa possess traces of original medieval and Renaissance architecture, which are hidden beneath the building works, adaptations and renovations that occurred in the course of later centuries, especially during the 19th and early 20th century, when Omišalj was significantly reshaped.",
+      "numberOfImages": 5,
+      "latitude": 45.0769445,
+      "longitude": 14.674188
+    }
+  },
+  "churches": {
+    "parish_church_of_assumption": {
+      "title": "The parish church of the Assumption of the Blessed Virgin Mary and the bell tower",
+      "description": "<b>The church of All Saints in Sužan dates back to 1514 when it was built under the patronage of the brotherhood of All Saints from Sužan.</b><br><br>    Today’s parish church of the Assumption of the Blessed Virgin Mary, topographically situated at the highest part of the village, is a single-nave hall church,\n    laid in the direction north-south, with a large rectangular apse protruding on the northern side. On the east side of the apse there is the sacristy, and along,\n    the west wall of the apse there is the chapel of the Nativity of the Blessed Virgin Mary, built in 1505. The façade on the southern side is shaped in the Classicistic,\n    style with three rectangular openings, a portal and a pair of laterally placed windows and two semi-circular niches, symmetrically placed into the outer face of,\n    the façade wall. There are two chapels situated along the eastern wall of the church hall. The one closer to the entrance is dedicated to Our Lady of Rosary and,\n    dates from the 15th century, while the second one, today walled-in, is the chapel of the Presentation of Mary, the so-called Šegina chapel from 1546. The luxurious,\n    gilded Renaissance wooden altar is situated on the main church altar. The central place is taken by the altar painting representing the Assumption of the Blessed Virgin Mary.,\n    There are no material or written sources witnessing the beginning of the establishment of the church and the parish church itself in Vrbnik. The first document,\n    about the village cathedral and the parish priest dates from 1325 from the Statute of the Brotherhood of St John the Baptist in Vrbnik. The Statute mentioned the,\n    priest Damjan and the Vrbnik parish church of St Mary. The church got its today’s appearance through late-Medieval and early Modern Era reconstructions, but there,\n    is still no physical evidence about the original church in Vrbnik.,\n    The description of the apostolic visitor Agostino Valier in 1579 is so far the most important source for the church’s appearance before the reconstructions at the,\n    end of the 16th and the beginning of the 17th century, with Valier describing it as a smaller three-nave church with many altars, too small for the population.,\n    A major reconstruction followed soon after Valier’s description, which deleted all the existing elements and the church was oriented north-south. This reconstruction,\n    demolished the church of St John the Evangelist, mentioned in the canonical visitation from 1565 as a separate edifice, detached from the parish church and used as a baptistery.,\n    Recent archaeological research conducted in the smaller garden discovered the remains of an older edifice along the church façade with a semicircular wall, perhaps an,\n    apse of an older sacral edifice which preceded the today’s church.,\n    The bell tower, the indispensable motif of the Vrbnik landscape, is located to the west of the church. It was built in 1527, which is witnessed by the Glagolitic,\n    inscription at its entrance. It had four bells – three large ones and one smaller one.",
+      "numberOfImages": 3,
+      "latitude": 45.077639,
+      "longitude": 14.674667
+    },
+    "st_philip_and_jacob": {
+      "title": "The church of St Philip and Jacob",
+      "description": "<b>The Medieval church of St Philip and Jacob is situated on a hidden little hill above Soline.</b><br><br>",
+      "numberOfImages": 3,
+      "latitude": 45.125833,
+      "longitude": 14.613472
+    },
+    "st_vitus": {
+      "title": "The church of St Vitus",
+      "description": "<b>The Medieval church of St Philip and Jacob is situated on a hidden little hill above Soline.</b><br><br>",
+      "numberOfImages": 3,
+      "latitude": 45.125833,
+      "longitude": 14.613472
+    },
+    "st_quirin_bell_tower": {
+      "title": "The cathedral, St Quirin and the bell tower",
+      "description": "<b>The Medieval church of St Philip and Jacob is situated on a hidden little hill above Soline.</b><br><br>",
+      "numberOfImages": 3,
+      "latitude": 45.0257128,
+      "longitude": 14.5752304
+    },
+    "st_clement_klimno": {
+      "title": "The church of St Clement in Klimno",
+      "description": "<b>The Medieval church of St Philip and Jacob is situated on a hidden little hill above Soline.</b><br><br>",
+      "numberOfImages": 3,
+      "latitude": 45.154806,
+      "longitude": 14.620361
+    },
+    "st_peter_gabonjin": {
+      "title": "The church of St Peter in Gabonjin",
+      "description": "<b>The Medieval church of St Philip and Jacob is situated on a hidden little hill above Soline.</b><br><br>",
+      "numberOfImages": 3,
+      "latitude": 45.11089,
+      "longitude": 14.566502
+    },
+    "st_michael_lady_health": {
+      "title": "The church of St Michael (Our Lady of Health)",
+      "description": "<b>The Medieval church of St Philip and Jacob is situated on a hidden little hill above Soline.</b><br><br>",
+      "numberOfImages": 3,
+      "latitude": 45.027889,
+      "longitude": 14.574028
+    },
+    "st_apollinaire_new_parish_church": {
+      "title": "The remains of the church of St Apollinaire and the new parish church of St Apollinaire",
+      "description": "<b>The Medieval church of St Philip and Jacob is situated on a hidden little hill above Soline.</b><br><br>",
+      "numberOfImages": 3,
+      "latitude": 45.118139,
+      "longitude": 14.526722
+    },
+    "st_marko_chapel": {
+      "title": "Archaeological remains under the chapel of St Marco",
+      "description": "<b>The Medieval church of St Philip and Jacob is situated on a hidden little hill above Soline.</b><br><br>",
+      "numberOfImages": 3,
+      "latitude": 44.968972,
+      "longitude": 14.751111
+    },
+    "st_chrysogonus": {
+      "title": "The church of St Chrysogonus in Milohnići",
+      "description": "<b>The Medieval church of St Philip and Jacob is situated on a hidden little hill above Soline.</b><br><br>",
+      "numberOfImages": 3,
+      "latitude": 45.095111,
+      "longitude": 14.4555
+    },
+    "mother_of_god_gorica": {
+      "title": "Sanctuary of the Mother of God of Gorica",
+      "description": "<b>The Medieval church of St Philip and Jacob is situated on a hidden little hill above Soline.</b><br><br>",
+      "numberOfImages": 3,
+      "latitude": 44.977861,
+      "longitude": 14.723278
+    },
+    "holy_trinity_baska": {
+      "title": "Parish church of the Holy Trinity in Baška",
+      "description": "<b>The Medieval church of St Philip and Jacob is situated on a hidden little hill above Soline.</b><br><br>",
+      "numberOfImages": 3,
+      "latitude": 44.970028,
+      "longitude": 14.756944
+    },
+    "st_lucia_monastery": {
+      "title": "Monastery and the church of St Lucia",
+      "description": "<b>The Medieval church of St Philip and Jacob is situated on a hidden little hill above Soline.</b><br><br>",
+      "numberOfImages": 3,
+      "latitude": 44.977778,
+      "longitude": 14.738417
+    },
+    "st_stephen_bell_tower": {
+      "title": "The parish church of St Stephen and the bell tower",
+      "description": "<b>The Medieval church of St Philip and Jacob is situated on a hidden little hill above Soline.</b><br><br>",
+      "numberOfImages": 3,
+      "latitude": 45.131083,
+      "longitude": 14.603194
+    },
+    "st_john_baptist_kapari": {
+      "title": "The church of St John the Baptist and Kapari",
+      "description": "<b>The Medieval church of St Philip and Jacob is situated on a hidden little hill above Soline.</b><br><br>",
+      "numberOfImages": 3,
+      "latitude": 45.075583,
+      "longitude": 14.674083
+    },
+    "virgin_mary_bell_tower": {
+      "title": "Parish church of the Assumption of the Virgin Mary and the bell tower",
+      "description": "<b>The Medieval church of St Philip and Jacob is situated on a hidden little hill above Soline.</b><br><br>",
+      "numberOfImages": 3,
+      "latitude": 45.211889,
+      "longitude": 14.553667
+    },
+    "st_john": {
+      "title": "The church of St John",
+      "description": "<b>The Medieval church of St Philip and Jacob is situated on a hidden little hill above Soline.</b><br><br>",
+      "numberOfImages": 3,
+      "latitude": 44.972917,
+      "longitude": 14.761917
+    },
+    "st_donatus": {
+      "title": "The church of St Donatus",
+      "description": "<b>The Medieval church of St Philip and Jacob is situated on a hidden little hill above Soline.</b><br><br>",
+      "numberOfImages": 3,
+      "latitude": 45.04,
+      "longitude": 14.620111
+    },
+    "holy_trinit": {
+      "title": "Parish church of the Holy Trinit",
+      "description": "<b>The Medieval church of St Philip and Jacob is situated on a hidden little hill above Soline.</b><br><br>",
+      "numberOfImages": 3,
+      "latitude": 45.021,
+      "longitude": 14.632111
+    },
+    "holy_trinity_dobrinj": {
+      "title": "Church of the holy Trinity in Dobrinj",
+      "description": "<b>The Medieval church of St Philip and Jacob is situated on a hidden little hill above Soline.</b><br><br>",
+      "numberOfImages": 3,
+      "latitude": 45.130326,
+      "longitude": 14.603168
+    },
+    "st_hieronymous_stara_baska": {
+      "title": "Church of St.Hieronymous in Stara Baška",
+      "description": "<b>The Medieval church of St Philip and Jacob is situated on a hidden little hill above Soline.</b><br><br>",
+      "numberOfImages": 3,
+      "latitude": 44.94888,
+      "longitude": 14.701861
+    },
+    "st_nicholas_ogrul": {
+      "title": "Church of St.Nicholas on Ogrul",
+      "description": "<b>The Medieval church of St Philip and Jacob is situated on a hidden little hill above Soline.</b><br><br>",
+      "numberOfImages": 3,
+      "latitude": 44.989552,
+      "longitude": 14.800984
+    }
+  },
+  "monasteries": {
+    "glagolitic_monks": {
+      "title": "Monasteries on the Square of the Glagolitic Monks",
+      "description": "<b>The library is named after a writer and illuminator who lived in the late 14th century</b><br><br>Omišalj town library is located in the municipal building, which was built in the period prior to World War One upon the ruins of the Frankapan castle. In 1396, Vid Omišljanin wrote and painted a breviary of 468 parchment sheets using uncial Glagolitic letters. He made it for the Parish Church of St. Bartholomew in Roč, a small town in central Istria. The breviary is kept in the Austrian National Library in Vienna.<br><br>The first reading room was opened in Omišalj in 1884. It was moved to its present premises in 2002.",
+      "numberOfImages": 2,
+      "latitude": 45.029028,
+      "longitude": 14.574361
+    },
+    "glavotok": {
+      "title": "Franciscan monastery – Glavotok",
+      "description": "<b>The library is named after a writer and illuminator who lived in the late 14th century</b><br><br>Omišalj town library is located in the municipal building, which was built in the period prior to World War One upon the ruins of the Frankapan castle. In 1396, Vid Omišljanin wrote and painted a breviary of 468 parchment sheets using uncial Glagolitic letters. He made it for the Parish Church of St. Bartholomew in Roč, a small town in central Istria. The breviary is kept in the Austrian National Library in Vienna.<br><br>The first reading room was opened in Omišalj in 1884. It was moved to its present premises in 2002.",
+      "numberOfImages": 2,
+      "latitude": 45.091111,
+      "longitude": 14.434306
+    },
+    "porat": {
+      "title": "Franciscan monastery – Porat",
+      "description": "<b>The library is named after a writer and illuminator who lived in the late 14th century</b><br><br>Omišalj town library is located in the municipal building, which was built in the period prior to World War One upon the ruins of the Frankapan castle. In 1396, Vid Omišljanin wrote and painted a breviary of 468 parchment sheets using uncial Glagolitic letters. He made it for the Parish Church of St. Bartholomew in Roč, a small town in central Istria. The breviary is kept in the Austrian National Library in Vienna.<br><br>The first reading room was opened in Omišalj in 1884. It was moved to its present premises in 2002.",
+      "numberOfImages": 2,
+      "latitude": 45.123444,
+      "longitude": 14.493583
+    },
+    "st_lucia": {
+      "title": "Monastery and the church of St Lucia",
+      "description": "<b>The library is named after a writer and illuminator who lived in the late 14th century</b><br><br>Omišalj town library is located in the municipal building, which was built in the period prior to World War One upon the ruins of the Frankapan castle. In 1396, Vid Omišljanin wrote and painted a breviary of 468 parchment sheets using uncial Glagolitic letters. He made it for the Parish Church of St. Bartholomew in Roč, a small town in central Istria. The breviary is kept in the Austrian National Library in Vienna.<br><br>The first reading room was opened in Omišalj in 1884. It was moved to its present premises in 2002.",
+      "numberOfImages": 2,
+      "latitude": 44.977778,
+      "longitude": 14.738417
+    },
+    "kosljun": {
+      "title": "Franciscan monastery – Košljun",
+      "description": "<b>The library is named after a writer and illuminator who lived in the late 14th century</b><br><br>Omišalj town library is located in the municipal building, which was built in the period prior to World War One upon the ruins of the Frankapan castle. In 1396, Vid Omišljanin wrote and painted a breviary of 468 parchment sheets using uncial Glagolitic letters. He made it for the Parish Church of St. Bartholomew in Roč, a small town in central Istria. The breviary is kept in the Austrian National Library in Vienna.<br><br>The first reading room was opened in Omišalj in 1884. It was moved to its present premises in 2002.",
+      "numberOfImages": 2,
+      "latitude": 45.026694,
+      "longitude": 14.618194
+    }
+  },
+  "forts": {
+    "volsonis": {
+      "title": "The castle, walls and archaeological remains in the café Volsonis",
+      "description": "<b>The location of the former tower of the medieval Frankapan fort.</b><br><br>The south-eastern wall of the parish office features a preserved stone tablet with a Glagolitic inscription about the construction of the tower in the year 1476. The tower was erected by Ivan VII the Younger, the last ruler of the island from the Frankapan family. In later years, the former feudal residence of the Princes of Krk was administrated by the Republic of Venice as a fort with castellan before it became neglected in the 19th century. In the early 20th century, a school and complex of municipal buildings with rectory and parish office for the Omišalj priest were constructed in its place. Today, the seat of the Municipality of Omišalj is still here. The cistern from the central courtyard dates back to the Frankapan period; it was renovated at the beginning of the 20th century.<br><br>The Glagolitic inscription about the construction of the castle on the wall of the parish office reads: In the name of God, amen. In June 1476, when the construction of this castle began during the reign of Prince Ivan and his son Mikula.",
+      "numberOfImages": 2,
+      "latitude": 45.026056,
+      "longitude": 14.573861
+    },
+    "forticina": {
+      "title": "Forticina",
+      "description": "<b>The location of the former tower of the medieval Frankapan fort.</b><br><br>The south-eastern wall of the parish office features a preserved stone tablet with a Glagolitic inscription about the construction of the tower in the year 1476. The tower was erected by Ivan VII the Younger, the last ruler of the island from the Frankapan family. In later years, the former feudal residence of the Princes of Krk was administrated by the Republic of Venice as a fort with castellan before it became neglected in the 19th century. In the early 20th century, a school and complex of municipal buildings with rectory and parish office for the Omišalj priest were constructed in its place. Today, the seat of the Municipality of Omišalj is still here. The cistern from the central courtyard dates back to the Frankapan period; it was renovated at the beginning of the 20th century.<br><br>The Glagolitic inscription about the construction of the castle on the wall of the parish office reads: In the name of God, amen. In June 1476, when the construction of this castle began during the reign of Prince Ivan and his son Mikula.",
+      "numberOfImages": 2,
+      "latitude": 45.207083,
+      "longitude": 14.553667
+    },
+    "st_marco_byzantine_fortress": {
+      "title": "The isle of St Marco and the Byzantine fortress",
+      "description": "<b>The location of the former tower of the medieval Frankapan fort.</b><br><br>The south-eastern wall of the parish office features a preserved stone tablet with a Glagolitic inscription about the construction of the tower in the year 1476. The tower was erected by Ivan VII the Younger, the last ruler of the island from the Frankapan family. In later years, the former feudal residence of the Princes of Krk was administrated by the Republic of Venice as a fort with castellan before it became neglected in the 19th century. In the early 20th century, a school and complex of municipal buildings with rectory and parish office for the Omišalj priest were constructed in its place. Today, the seat of the Municipality of Omišalj is still here. The cistern from the central courtyard dates back to the Frankapan period; it was renovated at the beginning of the 20th century.<br><br>The Glagolitic inscription about the construction of the castle on the wall of the parish office reads: In the name of God, amen. In June 1476, when the construction of this castle began during the reign of Prince Ivan and his son Mikula.",
+      "numberOfImages": 2,
+      "latitude": 45.250584,
+      "longitude": 14.562191
+    },
+    "gradec_and_frankopans": {
+      "title": "Gradec and the Frankopans",
+      "description": "<b>The location of the former tower of the medieval Frankapan fort.</b><br><br>The south-eastern wall of the parish office features a preserved stone tablet with a Glagolitic inscription about the construction of the tower in the year 1476. The tower was erected by Ivan VII the Younger, the last ruler of the island from the Frankapan family. In later years, the former feudal residence of the Princes of Krk was administrated by the Republic of Venice as a fort with castellan before it became neglected in the 19th century. In the early 20th century, a school and complex of municipal buildings with rectory and parish office for the Omišalj priest were constructed in its place. Today, the seat of the Municipality of Omišalj is still here. The cistern from the central courtyard dates back to the Frankapan period; it was renovated at the beginning of the 20th century.<br><br>The Glagolitic inscription about the construction of the castle on the wall of the parish office reads: In the name of God, amen. In June 1476, when the construction of this castle began during the reign of Prince Ivan and his son Mikula.",
+      "numberOfImages": 2,
+      "latitude": 45.099944,
+      "longitude": 14.629722
+    }
+  },
+  "tours": {
+    "defensive_walls_of_krk": {
+      "title": "Defensive walls of the island of Krk",
+      "description": "<b>Remains of the ancient city of Municipium Flavium Fulfinum from the second half of the 1st century AD. Kr. and early Christian basilicas from the 5th century AD. Kr.</b><br><br>In the area of ​​Fulfinum (today’s toponym Okladi) the remains of various buildings from the Roman era are still well recognizable. Particularly impressive are the recently explored parts of the forum, the heart of the ancient city with its forum temple, basilica and taverns, and parts of the monumental architectural sculpture of public, forum buildings. Despite systematic research in recent years, the city of Municipium Flavium Fulfinum is for the most part still unexplored and unexcavated. His name is precisely known thanks to the finding of an inscription from the time of the Roman emperor Domitian, which mentions some works on the city waterworks. The inscription is kept in the Lapidary collection in Omišalj.<br><br>Masonry structures and even the layout of communications are well visible in the configuration of the terrain. As the area has been cultivated for the past centuries, the remains of the plastered walls of ancient buildings are partly covered with dry stone mounds – boulders. The piers and representative buildings with floor mosaics are partly covered with mud in the shallows of Sepen Bay. The city was regulated by Roman grammarians as a completely new creation in a field where no settlement had existed before. The inhabited Roman veterans were given land that belonged to the natives of Omišalj – Fertinati. Such a lowland and coastal city had no chance of survival despite attempts to fortify it in late antiquity. It slowly died out and finally completely died out like Salona and many other cities of Roman civilization shaken by the migration of peoples.<br><br>Southwest of the forum at the Mirina site there is a late antique necropolis with a series of smaller and several large, privileged tombs and a large to the roof preserved tomb basilica of the presumed titular St. Nicholas. Due to its excellent preservation, the church can serve as an exemplary example of early Christian sacral buildings. The basic shape of the Latin cross is given to the church by its transverse nave – the transept. An exhibition of movable archeological material has been set up in its narthex, which has been restored and partly reconstructed. There is also an in situ preserved early Christian sarcophagus.<br><br>The atrium that extends along the south wall of the church towards the sea is the result of the subsequent adaptation of the building to the religious community, which eventually abandoned it, when it could no longer maintain it due to its dimensions. The Benedictines sought to continue the continuity by adapting a suburban residential complex with baths, located west of the basilica. Archaeologically, it has been researched and presented, so it can also be seen. Nicholas. Today’s toponym Mirina is a dialectal name for ruins – Croatianized from the Latin murus, which must have looked imposing to the settled Croats from the Middle Ages.",
+      "map-url": "https://www.google.com/maps/d/u/0/viewer?mid=1fqyKxf602KThsP8_xm936VhcBFhZduyS&ll=45.08888834670806%2C14.728269447460889&z=11",
+      "related": {
+        "dobrinj": {
+          "title": "Dobrinj",
+          "type": "places"
+        },
+        "volsonis": {
+          "title": "The castle, walls and archaeological remains in the café Volsonis",
+          "type": "forts"
+        },
+        "gradec_and_frankopans": {
+          "title": "Gradec and Frankopans",
+          "type": "forts"
+        },
+        "krk": {
+          "title": "Krk",
+          "type": "places"
+        },
+        "st_john": {
+          "title": "The church of St John",
+          "type": "churches"
+        }
+      }
+    },
+    "monasteries_visit": {
+      "title": "A visit to the monasteries of the island of Krk",
+      "description": "<b>Remains of the ancient city of Municipium Flavium Fulfinum from the second half of the 1st century AD. Kr. and early Christian basilicas from the 5th century AD. Kr.</b><br><br>In the area of ​​Fulfinum (today’s toponym Okladi) the remains of various buildings from the Roman era are still well recognizable. Particularly impressive are the recently explored parts of the forum, the heart of the ancient city with its forum temple, basilica and taverns, and parts of the monumental architectural sculpture of public, forum buildings. Despite systematic research in recent years, the city of Municipium Flavium Fulfinum is for the most part still unexplored and unexcavated. His name is precisely known thanks to the finding of an inscription from the time of the Roman emperor Domitian, which mentions some works on the city waterworks. The inscription is kept in the Lapidary collection in Omišalj.<br><br>Masonry structures and even the layout of communications are well visible in the configuration of the terrain. As the area has been cultivated for the past centuries, the remains of the plastered walls of ancient buildings are partly covered with dry stone mounds – boulders. The piers and representative buildings with floor mosaics are partly covered with mud in the shallows of Sepen Bay. The city was regulated by Roman grammarians as a completely new creation in a field where no settlement had existed before. The inhabited Roman veterans were given land that belonged to the natives of Omišalj – Fertinati. Such a lowland and coastal city had no chance of survival despite attempts to fortify it in late antiquity. It slowly died out and finally completely died out like Salona and many other cities of Roman civilization shaken by the migration of peoples.<br><br>Southwest of the forum at the Mirina site there is a late antique necropolis with a series of smaller and several large, privileged tombs and a large to the roof preserved tomb basilica of the presumed titular St. Nicholas. Due to its excellent preservation, the church can serve as an exemplary example of early Christian sacral buildings. The basic shape of the Latin cross is given to the church by its transverse nave – the transept. An exhibition of movable archeological material has been set up in its narthex, which has been restored and partly reconstructed. There is also an in situ preserved early Christian sarcophagus.<br><br>The atrium that extends along the south wall of the church towards the sea is the result of the subsequent adaptation of the building to the religious community, which eventually abandoned it, when it could no longer maintain it due to its dimensions. The Benedictines sought to continue the continuity by adapting a suburban residential complex with baths, located west of the basilica. Archaeologically, it has been researched and presented, so it can also be seen. Nicholas. Today’s toponym Mirina is a dialectal name for ruins – Croatianized from the Latin murus, which must have looked imposing to the settled Croats from the Middle Ages.",
+      "map-url": "https://www.google.com/maps/d/u/0/viewer?mid=1yGYv114C8evJKzk8kR94ogjrilmpcxEp&ll=45.07197973143436%2C14.535032999999999&z=12",
+      "related": {
+        "punat": {
+          "title": "Punat",
+          "type": "places"
+        },
+        "kosljun": {
+          "title": "Franciscan monastery – Kosljun",
+          "type": "monasteries"
+        },
+        "glagolitic_monks": {
+          "title": "Monasteries on the Square of the Glagolitic Monks",
+          "type": "monasteries"
+        },
+        "st_michael_lady_health": {
+          "title": "The church of St Michael (Our Lady of Health)",
+          "type": "churches"
+        },
+        "glavotok": {
+          "title": "Franciscan monastery – Glavotok",
+          "type": "monasteries"
+        },
+        "porat": {
+          "title": "Franciscan monastery – Porat",
+          "type": "monasteries"
+        }
+      }
+    },
+    "few_stone_remains": {
+      "title": "The past of the island preserved in a few stone remains",
+      "description": "<b>Remains of the ancient city of Municipium Flavium Fulfinum from the second half of the 1st century AD. Kr. and early Christian basilicas from the 5th century AD. Kr.</b><br><br>In the area of ​​Fulfinum (today’s toponym Okladi) the remains of various buildings from the Roman era are still well recognizable. Particularly impressive are the recently explored parts of the forum, the heart of the ancient city with its forum temple, basilica and taverns, and parts of the monumental architectural sculpture of public, forum buildings. Despite systematic research in recent years, the city of Municipium Flavium Fulfinum is for the most part still unexplored and unexcavated. His name is precisely known thanks to the finding of an inscription from the time of the Roman emperor Domitian, which mentions some works on the city waterworks. The inscription is kept in the Lapidary collection in Omišalj.<br><br>Masonry structures and even the layout of communications are well visible in the configuration of the terrain. As the area has been cultivated for the past centuries, the remains of the plastered walls of ancient buildings are partly covered with dry stone mounds – boulders. The piers and representative buildings with floor mosaics are partly covered with mud in the shallows of Sepen Bay. The city was regulated by Roman grammarians as a completely new creation in a field where no settlement had existed before. The inhabited Roman veterans were given land that belonged to the natives of Omišalj – Fertinati. Such a lowland and coastal city had no chance of survival despite attempts to fortify it in late antiquity. It slowly died out and finally completely died out like Salona and many other cities of Roman civilization shaken by the migration of peoples.<br><br>Southwest of the forum at the Mirina site there is a late antique necropolis with a series of smaller and several large, privileged tombs and a large to the roof preserved tomb basilica of the presumed titular St. Nicholas. Due to its excellent preservation, the church can serve as an exemplary example of early Christian sacral buildings. The basic shape of the Latin cross is given to the church by its transverse nave – the transept. An exhibition of movable archeological material has been set up in its narthex, which has been restored and partly reconstructed. There is also an in situ preserved early Christian sarcophagus.<br><br>The atrium that extends along the south wall of the church towards the sea is the result of the subsequent adaptation of the building to the religious community, which eventually abandoned it, when it could no longer maintain it due to its dimensions. The Benedictines sought to continue the continuity by adapting a suburban residential complex with baths, located west of the basilica. Archaeologically, it has been researched and presented, so it can also be seen. Nicholas. Today’s toponym Mirina is a dialectal name for ruins – Croatianized from the Latin murus, which must have looked imposing to the settled Croats from the Middle Ages.",
+      "map-url": "https://www.google.com/maps/d/u/0/viewer?mid=1nF-hsfF4PTIljy_9jn7cdM5Hz7pFx-CW&ll=45.098084903041304%2C14.605628499999966&z=11",
+      "related": {
+        "parish_church_of_assumption": {
+          "title": "The parish church of the Assumption of the Blessed Virgin Mary and the bell tower",
+          "type": "churches"
+        },
+        "lapidarium": {
+          "title": "Archaeological site Cickini/lapidarium",
+          "type": "archeology_remains"
+        },
+        "st_donatus": {
+          "title": "The church of St Donatus",
+          "type": "archeology_remains"
+        },
+        "st_peter_kanajt": {
+          "title": "Archaeological locality of St Peter on Kanajt",
+          "type": "archeology_remains"
+        },
+        "all_saints_suzan": {
+          "title": "The church of All Saints in Suzan",
+          "type": "archeology_remains"
+        },
+        "st_peter_soline": {
+          "title": "The church of St Peter – Soline",
+          "type": "archeology_remains"
+        }
+      }
+    },
+    "krk_small_secluded_churches": {
+      "title": "Small and secluded churches of the island of Krk",
+      "description": "<b>Remains of the ancient city of Municipium Flavium Fulfinum from the second half of the 1st century AD. Kr. and early Christian basilicas from the 5th century AD. Kr.</b><br><br>In the area of ​​Fulfinum (today’s toponym Okladi) the remains of various buildings from the Roman era are still well recognizable. Particularly impressive are the recently explored parts of the forum, the heart of the ancient city with its forum temple, basilica and taverns, and parts of the monumental architectural sculpture of public, forum buildings. Despite systematic research in recent years, the city of Municipium Flavium Fulfinum is for the most part still unexplored and unexcavated. His name is precisely known thanks to the finding of an inscription from the time of the Roman emperor Domitian, which mentions some works on the city waterworks. The inscription is kept in the Lapidary collection in Omišalj.<br><br>Masonry structures and even the layout of communications are well visible in the configuration of the terrain. As the area has been cultivated for the past centuries, the remains of the plastered walls of ancient buildings are partly covered with dry stone mounds – boulders. The piers and representative buildings with floor mosaics are partly covered with mud in the shallows of Sepen Bay. The city was regulated by Roman grammarians as a completely new creation in a field where no settlement had existed before. The inhabited Roman veterans were given land that belonged to the natives of Omišalj – Fertinati. Such a lowland and coastal city had no chance of survival despite attempts to fortify it in late antiquity. It slowly died out and finally completely died out like Salona and many other cities of Roman civilization shaken by the migration of peoples.<br><br>Southwest of the forum at the Mirina site there is a late antique necropolis with a series of smaller and several large, privileged tombs and a large to the roof preserved tomb basilica of the presumed titular St. Nicholas. Due to its excellent preservation, the church can serve as an exemplary example of early Christian sacral buildings. The basic shape of the Latin cross is given to the church by its transverse nave – the transept. An exhibition of movable archeological material has been set up in its narthex, which has been restored and partly reconstructed. There is also an in situ preserved early Christian sarcophagus.<br><br>The atrium that extends along the south wall of the church towards the sea is the result of the subsequent adaptation of the building to the religious community, which eventually abandoned it, when it could no longer maintain it due to its dimensions. The Benedictines sought to continue the continuity by adapting a suburban residential complex with baths, located west of the basilica. Archaeologically, it has been researched and presented, so it can also be seen. Nicholas. Today’s toponym Mirina is a dialectal name for ruins – Croatianized from the Latin murus, which must have looked imposing to the settled Croats from the Middle Ages.",
+      "map-url": "https://www.google.com/maps/d/u/0/viewer?mid=1UPulMg7qOXwBQbhqwOiotGv9OHs2wnna&ll=45.11137389050382%2C14.642119999999977&z=12",
+      "related": {
+        "vrbnik": {
+          "title": "Vrbnik",
+          "type": "places"
+        },
+        "st_mavro": {
+          "title": "The church of St Mavro",
+          "type": "churches"
+        },
+        "st_marcos_church": {
+          "title": "The church of St Marco",
+          "type": "churches"
+        },
+        "st_vitus": {
+          "title": "The church of St Vitus",
+          "type": "churches"
+        },
+        "st_philip_and_jacob": {
+          "title": "The church of St Philip and Jacob",
+          "type": "churches"
+        },
+        "st_clement_klimno": {
+          "title": "The church of St Clement in Klimno",
+          "type": "churches"
+        }
+      }
+    },
+    "krk_new_age": {
+      "title": "The island of Krk in the first centuries of the new age",
+      "description": "<b>Remains of the ancient city of Municipium Flavium Fulfinum from the second half of the 1st century AD. Kr. and early Christian basilicas from the 5th century AD. Kr.</b><br><br>In the area of ​​Fulfinum (today’s toponym Okladi) the remains of various buildings from the Roman era are still well recognizable. Particularly impressive are the recently explored parts of the forum, the heart of the ancient city with its forum temple, basilica and taverns, and parts of the monumental architectural sculpture of public, forum buildings. Despite systematic research in recent years, the city of Municipium Flavium Fulfinum is for the most part still unexplored and unexcavated. His name is precisely known thanks to the finding of an inscription from the time of the Roman emperor Domitian, which mentions some works on the city waterworks. The inscription is kept in the Lapidary collection in Omišalj.<br><br>Masonry structures and even the layout of communications are well visible in the configuration of the terrain. As the area has been cultivated for the past centuries, the remains of the plastered walls of ancient buildings are partly covered with dry stone mounds – boulders. The piers and representative buildings with floor mosaics are partly covered with mud in the shallows of Sepen Bay. The city was regulated by Roman grammarians as a completely new creation in a field where no settlement had existed before. The inhabited Roman veterans were given land that belonged to the natives of Omišalj – Fertinati. Such a lowland and coastal city had no chance of survival despite attempts to fortify it in late antiquity. It slowly died out and finally completely died out like Salona and many other cities of Roman civilization shaken by the migration of peoples.<br><br>Southwest of the forum at the Mirina site there is a late antique necropolis with a series of smaller and several large, privileged tombs and a large to the roof preserved tomb basilica of the presumed titular St. Nicholas. Due to its excellent preservation, the church can serve as an exemplary example of early Christian sacral buildings. The basic shape of the Latin cross is given to the church by its transverse nave – the transept. An exhibition of movable archeological material has been set up in its narthex, which has been restored and partly reconstructed. There is also an in situ preserved early Christian sarcophagus.<br><br>The atrium that extends along the south wall of the church towards the sea is the result of the subsequent adaptation of the building to the religious community, which eventually abandoned it, when it could no longer maintain it due to its dimensions. The Benedictines sought to continue the continuity by adapting a suburban residential complex with baths, located west of the basilica. Archaeologically, it has been researched and presented, so it can also be seen. Nicholas. Today’s toponym Mirina is a dialectal name for ruins – Croatianized from the Latin murus, which must have looked imposing to the settled Croats from the Middle Ages.",
+      "map-url": "https://www.google.com/maps/d/u/0/viewer?mid=1BmErP9jUAvUdG9yaljOrlLUbSXC4XKjx&ll=45.08839558346452%2C14.643850499999985&z=11",
+      "related": {
+        "st_peter_soline": {
+          "title": "The church of St Peter – Soline",
+          "type": "archeology_remains"
+        },
+        "roman_city_fulfinum": {
+          "title": "The Roman city Fulfinum",
+          "type": "archeology_remains"
+        },
+        "volsonis": {
+          "title": "The castle, walls and archaeological remains in the café Volsonis",
+          "type": "forts"
+        },
+        "triton_mosaic": {
+          "title": "Mosaic with an image of Triton",
+          "type": "archeology_remains"
+        },
+        "st_marcos_church": {
+          "title": "The church of St Marco",
+          "type": "archeology_remains"
+        }
+      }
+    }
+  },
+  "ethnographic_collections": {
+    "dobrinj_collection": {
+      "title": "Ethnographic collection in Dobrinj",
+      "description": "<b>Dubec water tower was part of a complex with a reservoir and pumping station beneath it.</b><br><br>Today, it is an important infrastructure and industrial architecture monument that attests to Omišalj's progress. Thanks to this plant, the houses in Omišalj had running water and electricity as early as 1925, decades before many other island towns on the eastern Adriatic coast. It is interesting that the builders used stone blocks for the façade to make the construction blend in with the surrounding architecture.",
+      "numberOfImages": 2,
+      "latitude": 45.13025,
+      "longitude": 14.603861
+    },
+    "maritime_heritage": {
+      "title": "Maritime heritage interpretation centre",
+      "description": "<b>Dubec water tower was part of a complex with a reservoir and pumping station beneath it.</b><br><br>Today, it is an important infrastructure and industrial architecture monument that attests to Omišalj's progress. Thanks to this plant, the houses in Omišalj had running water and electricity as early as 1925, decades before many other island towns on the eastern Adriatic coast. It is interesting that the builders used stone blocks for the façade to make the construction blend in with the surrounding architecture.",
+      "numberOfImages": 2,
+      "latitude": 45.026983,
+      "longitude": 14.575903
+    },
+    "mila_kumbatovic": {
+      "title": "Memorial house of Mila Kumbatovic and Oton Gliha in Omisalj",
+      "description": "<b>Dubec water tower was part of a complex with a reservoir and pumping station beneath it.</b><br><br>Today, it is an important infrastructure and industrial architecture monument that attests to Omišalj's progress. Thanks to this plant, the houses in Omišalj had running water and electricity as early as 1925, decades before many other island towns on the eastern Adriatic coast. It is interesting that the builders used stone blocks for the façade to make the construction blend in with the surrounding architecture.",
+      "numberOfImages": 2,
+      "latitude": 45.212378,
+      "longitude": 14.554098
+    },
+    "kornic": {
+      "title": "Regional ethnographic collection Kornic",
+      "description": "<b>Dubec water tower was part of a complex with a reservoir and pumping station beneath it.</b><br><br>Today, it is an important infrastructure and industrial architecture monument that attests to Omišalj's progress. Thanks to this plant, the houses in Omišalj had running water and electricity as early as 1925, decades before many other island towns on the eastern Adriatic coast. It is interesting that the builders used stone blocks for the façade to make the construction blend in with the surrounding architecture.",
+      "numberOfImages": 2,
+      "latitude": 45.045228,
+      "longitude": 14.613862
+    },
+    "regional_museum_baska": {
+      "title": "Regional museum in Baska",
+      "description": "<b>Dubec water tower was part of a complex with a reservoir and pumping station beneath it.</b><br><br>Today, it is an important infrastructure and industrial architecture monument that attests to Omišalj's progress. Thanks to this plant, the houses in Omišalj had running water and electricity as early as 1925, decades before many other island towns on the eastern Adriatic coast. It is interesting that the builders used stone blocks for the façade to make the construction blend in with the surrounding architecture.",
+      "numberOfImages": 2,
+      "latitude": 44.9673338,
+      "longitude": 14.7564563
+    },
+    "tos_gallery_punat": {
+      "title": "Gallery Toš in Punat",
+      "description": "<b>Dubec water tower was part of a complex with a reservoir and pumping station beneath it.</b><br><br>Today, it is an important infrastructure and industrial architecture monument that attests to Omišalj's progress. Thanks to this plant, the houses in Omišalj had running water and electricity as early as 1925, decades before many other island towns on the eastern Adriatic coast. It is interesting that the builders used stone blocks for the façade to make the construction blend in with the surrounding architecture.",
+      "numberOfImages": 2,
+      "latitude": 45.022376,
+      "longitude": 14.629796
+    },
+    "vrbnik_valley": {
+      "title": "Vrbnik valley",
+      "description": "<b>Dubec water tower was part of a complex with a reservoir and pumping station beneath it.</b><br><br>Today, it is an important infrastructure and industrial architecture monument that attests to Omišalj's progress. Thanks to this plant, the houses in Omišalj had running water and electricity as early as 1925, decades before many other island towns on the eastern Adriatic coast. It is interesting that the builders used stone blocks for the façade to make the construction blend in with the surrounding architecture.",
+      "numberOfImages": 2,
+      "latitude": 45.077778,
+      "longitude": 14.652417
+    }
+  }
+}

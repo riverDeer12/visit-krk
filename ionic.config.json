@@ -1,0 +1,10 @@
+{
+  "name": "omisalj-heritage",
+  "integrations": {
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
+  },
+  "type": "angular"
+}

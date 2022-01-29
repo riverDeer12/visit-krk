@@ -1,0 +1,13 @@
+{
+  "appId": "omisalj-heritage",
+  "appName": "Omisalj Heritage",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
