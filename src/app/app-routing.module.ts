@@ -25,9 +25,9 @@ const routes: Routes = [
       ),
   },
   {
-    path: 'cemeteries',
+    path: 'monasteries',
     loadChildren: () =>
-      import('./pages/cemeteries/cemeteries.module').then(
+      import('./pages/monasteries/monasteries.module').then(
         (m) => m.CemeteriesPageModule
       ),
   },
@@ -44,49 +44,18 @@ const routes: Routes = [
       import('./pages/forts/forts.module').then((m) => m.FortsPageModule),
   },
   {
-    path: 'industrial_heritage',
+    path: 'places',
     loadChildren: () =>
-      import('./pages/industry/industry.module').then(
-        (m) => m.IndustryPageModule
-      ),
-  },
-  {
-    path: 'libraries',
-    loadChildren: () =>
-      import('./pages/libraries/libraries.module').then(
-        (m) => m.LibrariesPageModule
-      ),
-  },
-  {
-    path: 'localities',
-    loadChildren: () =>
-      import('./pages/localities/localities.module').then(
+      import('./pages/places/places.module').then(
         (m) => m.LocalitiesPageModule
       ),
   },
   {
-    path: 'lookouts',
+    path: 'ethno',
     loadChildren: () =>
-      import('./pages/lookouts/lookouts.module').then(
-        (m) => m.LookoutsPageModule
-      ),
-  },
-  {
-    path: 'monuments',
-    loadChildren: () =>
-      import('./pages/monuments/monuments.module').then(
-        (m) => m.MonumentsPageModule
-      ),
-  },
-  {
-    path: 'museums',
-    loadChildren: () =>
-      import('./pages/museums/museums.module').then((m) => m.MuseumsPageModule),
-  },
-  {
-    path: 'parks',
-    loadChildren: () =>
-      import('./pages/parks/parks.module').then((m) => m.ParksPageModule),
+        import('./pages/ethno/ethno.module').then(
+            (m) => m.EthnoPageModule
+        ),
   },
   {
     path: 'details/:sightType/:sight',
@@ -113,6 +82,11 @@ const routes: Routes = [
     loadChildren: () =>
       import('./pages/tours/tours.module').then((m) => m.ToursPageModule),
   },
+  {
+    path: 'ethno',
+    loadChildren: () => import('./pages/ethno/ethno.module').then( m => m.EthnoPageModule)
+  },
+
 ];
 
 @NgModule({

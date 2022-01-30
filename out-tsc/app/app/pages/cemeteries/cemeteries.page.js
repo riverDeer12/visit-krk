@@ -25,10 +25,10 @@ let CemeteriesPage = class CemeteriesPage {
 };
 CemeteriesPage = __decorate([
     Component({
-        selector: 'app-cemeteries',
-        templateUrl: './cemeteries.page.html',
-        styleUrls: ['./cemeteries.page.scss'],
+        selector: 'app-monasteries',
+        templateUrl: './monasteries.page.html',
+        styleUrls: ['./monasteries.page.scss'],
     })
 ], CemeteriesPage);
 export { CemeteriesPage };
-//# sourceMappingURL=cemeteries.page.js.map
+//# sourceMappingURL=monasteries.page.js.map

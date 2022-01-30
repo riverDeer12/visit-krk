@@ -25,10 +25,10 @@ let LocalitiesPage = class LocalitiesPage {
 };
 LocalitiesPage = __decorate([
     Component({
-        selector: 'app-localities',
-        templateUrl: './localities.page.html',
-        styleUrls: ['./localities.page.scss'],
+        selector: 'app-places',
+        templateUrl: './places.page.html',
+        styleUrls: ['./places.page.scss'],
     })
 ], LocalitiesPage);
 export { LocalitiesPage };
-//# sourceMappingURL=localities.page.js.map
+//# sourceMappingURL=places.page.js.map

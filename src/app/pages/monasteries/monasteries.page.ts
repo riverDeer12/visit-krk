@@ -2,14 +2,14 @@ import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
 import { TranslateService } from '@ngx-translate/core';
 import { SightTypes } from 'src/app/shared/constants/sight-types';
-import * as data from '../../../assets/i18n/cro.json';
+import * as data from '../../../assets/i18n/eng.json';
 
 @Component({
-  selector: 'app-museums',
-  templateUrl: './museums.page.html',
-  styleUrls: ['./museums.page.scss'],
+  selector: 'app-monasteries',
+  templateUrl: './monasteries.page.html',
+  styleUrls: ['./monasteries.page.scss'],
 })
-export class MuseumsPage implements OnInit {
+export class MonasteriesPage implements OnInit {
 
   sights: string[];
   data: any;
@@ -19,22 +19,22 @@ export class MuseumsPage implements OnInit {
   }
 
   ngOnInit(): void{
-    this.getMuseums();
+    this.getMonasteries();
   }
 
   getLanguage(): void {
-    let currentLanguage = localStorage.getItem('language');
+    const currentLanguage = localStorage.getItem('language');
     this.translate.use(currentLanguage);
   }
 
 
-  getMuseums(): void {
-    this.data = data.museums;
+  getMonasteries(): void {
+    this.data = data.monasteries;
     this.sights = Object.keys(this.data);
   }
 
   goToDetails(sight: string): void{
-    this.router.navigateByUrl('/details/' + SightTypes.MUSEUMS + '/' + sight);
+    this.router.navigateByUrl('/details/' + SightTypes.MONASTERIES + '/' + sight);
   }
 
 }

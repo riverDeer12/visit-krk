@@ -6,7 +6,7 @@
       </ion-button>
     </ion-menu-toggle>
     <ion-title>
-      {{'navigation.industrial_heritage' | translate }}
+      {{'navigation.monasteries' | translate }}
     </ion-title>
   </ion-toolbar>
 </ion-header>
@@ -15,8 +15,8 @@
     <ion-card *ngFor="let sight of sights">
       <img [src]="'assets/images/sights/' + sight + '_1.jpg'" />
       <ion-card-header>
-        <ion-card-subtitle class="ion-margin-bottom">{{ 'navigation.industrial_heritage' | translate }}</ion-card-subtitle>
-        <ion-card-title>{{ 'industrial_heritage.' + sight + '.title' | translate }}</ion-card-title>
+        <ion-card-subtitle class="ion-margin-bottom">{{ 'navigation.monasteries' | translate }}</ion-card-subtitle>
+        <ion-card-title>{{ 'monasteries.' + sight + '.title' | translate }}</ion-card-title>
       </ion-card-header>
       <ion-card-header class="ion-text-center">
         <ion-button (click)="goToDetails(sight)" fill="clear" expand="full" color="primary">

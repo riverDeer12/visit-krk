@@ -32,4 +32,4 @@ CemeteriesPageModule = __decorate([
     })
 ], CemeteriesPageModule);
 export { CemeteriesPageModule };
-//# sourceMappingURL=cemeteries.module.js.map
+//# sourceMappingURL=monasteries.module.js.map

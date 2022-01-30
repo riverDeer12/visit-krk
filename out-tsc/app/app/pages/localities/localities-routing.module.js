@@ -17,4 +17,4 @@ LocalitiesPageRoutingModule = __decorate([
     })
 ], LocalitiesPageRoutingModule);
 export { LocalitiesPageRoutingModule };
-//# sourceMappingURL=localities-routing.module.js.map
+//# sourceMappingURL=places-routing.module.js.map

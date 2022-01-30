@@ -17,4 +17,4 @@ CemeteriesPageRoutingModule = __decorate([
     })
 ], CemeteriesPageRoutingModule);
 export { CemeteriesPageRoutingModule };
-//# sourceMappingURL=cemeteries-routing.module.js.map
+//# sourceMappingURL=monasteries-routing.module.js.map

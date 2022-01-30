@@ -22,9 +22,9 @@ const routes: Routes = [
           ),
       },
       {
-        path: 'cemeteries',
+        path: 'monasteries',
         loadChildren: () =>
-          import('../cemeteries/cemeteries.module').then(
+          import('../monasteries/monasteries.module').then(
             (m) => m.CemeteriesPageModule
           )
       },
@@ -51,9 +51,9 @@ const routes: Routes = [
           )
       },
       {
-        path: 'localities',
+        path: 'places',
         loadChildren: () =>
-          import('../localities/localities.module').then(
+          import('../places/places.module').then(
             (m) => m.LocalitiesPageModule
           )
       },

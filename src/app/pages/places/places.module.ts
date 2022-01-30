@@ -4,15 +4,15 @@ import { FormsModule } from '@angular/forms';
 
 import { IonicModule } from '@ionic/angular';
 
-import { MuseumsPageRoutingModule } from './museums-routing.module';
+import { LocalitiesPageRoutingModule } from './places-routing.module';
 
-import { MuseumsPage } from './museums.page';
+import { PlacesPage } from './places.page';
 import { HttpClient } from '@angular/common/http';
 import { TranslateModule, TranslateLoader } from '@ngx-translate/core';
 import { TranslateHttpLoader } from '@ngx-translate/http-loader';
 
 export function createTranslateLoader(http: HttpClient) {
-  return new TranslateHttpLoader(http, "./assets/i18n/", ".json");
+  return new TranslateHttpLoader(http, './assets/i18n/', '.json');
 }
 
 @NgModule({
@@ -20,7 +20,7 @@ export function createTranslateLoader(http: HttpClient) {
     CommonModule,
     FormsModule,
     IonicModule,
-    MuseumsPageRoutingModule,
+    LocalitiesPageRoutingModule,
     TranslateModule.forRoot({
       loader: {
         provide: TranslateLoader,
@@ -29,6 +29,6 @@ export function createTranslateLoader(http: HttpClient) {
       },
     }),
   ],
-  declarations: [MuseumsPage]
+  declarations: [PlacesPage]
 })
-export class MuseumsPageModule {}
+export class LocalitiesPageModule {}

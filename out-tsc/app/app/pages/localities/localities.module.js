@@ -32,4 +32,4 @@ LocalitiesPageModule = __decorate([
     })
 ], LocalitiesPageModule);
 export { LocalitiesPageModule };
-//# sourceMappingURL=localities.module.js.map
+//# sourceMappingURL=places.module.js.map

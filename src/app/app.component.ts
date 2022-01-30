@@ -28,9 +28,9 @@ export class AppComponent {
       icon: 'assets/images/nav_icons/churches.png',
     },
     {
-      title: 'navigation.cemeteries',
+      title: 'navigation.monasteries',
       url: '/cemeteries',
-      icon: 'assets/images/nav_icons/cemeteries.png',
+      icon: 'assets/images/nav_icons/monasteries.png',
     },
     {
       title: 'navigation.industrial_heritage',
@@ -43,9 +43,9 @@ export class AppComponent {
       icon: 'assets/images/nav_icons/libraries.png',
     },
     {
-      title: 'navigation.localities',
+      title: 'navigation.places',
       url: '/localities',
-      icon: 'assets/images/nav_icons/localities.png',
+      icon: 'assets/images/nav_icons/places.png',
     },
     {
       title: 'navigation.museums',

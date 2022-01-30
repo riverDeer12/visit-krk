@@ -19,7 +19,7 @@ const routes = [
         loadChildren: () => import('./pages/arch-remains/arch-remains.module').then((m) => m.ArchRemainsPageModule),
     },
     {
-        path: 'cemeteries',
+        path: 'monasteries',
         loadChildren: () => import('./pages/cemeteries/cemeteries.module').then((m) => m.CemeteriesPageModule),
     },
     {
@@ -39,7 +39,7 @@ const routes = [
         loadChildren: () => import('./pages/libraries/libraries.module').then((m) => m.LibrariesPageModule),
     },
     {
-        path: 'localities',
+        path: 'places',
         loadChildren: () => import('./pages/localities/localities.module').then((m) => m.LocalitiesPageModule),
     },
     {

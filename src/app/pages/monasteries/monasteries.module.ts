@@ -4,15 +4,15 @@ import { FormsModule } from '@angular/forms';
 
 import { IonicModule } from '@ionic/angular';
 
-import { LibrariesPageRoutingModule } from './libraries-routing.module';
+import { CemeteriesPageRoutingModule } from './monasteries-routing.module';
 
-import { LibrariesPage } from './libraries.page';
+import { MonasteriesPage } from './monasteries.page';
 import { HttpClient } from '@angular/common/http';
 import { TranslateModule, TranslateLoader } from '@ngx-translate/core';
 import { TranslateHttpLoader } from '@ngx-translate/http-loader';
 
 export function createTranslateLoader(http: HttpClient) {
-  return new TranslateHttpLoader(http, "./assets/i18n/", ".json");
+  return new TranslateHttpLoader(http, './assets/i18n/', '.json');
 }
 
 @NgModule({
@@ -20,7 +20,7 @@ export function createTranslateLoader(http: HttpClient) {
     CommonModule,
     FormsModule,
     IonicModule,
-    LibrariesPageRoutingModule,
+    CemeteriesPageRoutingModule,
     TranslateModule.forRoot({
       loader: {
         provide: TranslateLoader,
@@ -29,6 +29,6 @@ export function createTranslateLoader(http: HttpClient) {
       },
     }),
   ],
-  declarations: [LibrariesPage]
+  declarations: [MonasteriesPage]
 })
-export class LibrariesPageModule {}
+export class CemeteriesPageModule {}
