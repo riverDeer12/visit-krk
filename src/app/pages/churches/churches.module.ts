@@ -13,7 +13,7 @@ import { TranslateHttpLoader } from '@ngx-translate/http-loader';
 import { SharedModule } from 'src/app/shared/shared.module';
 
 export function createTranslateLoader(http: HttpClient) {
-  return new TranslateHttpLoader(http, "./assets/i18n/", ".json");
+  return new TranslateHttpLoader(http, './assets/i18n/', '.json');
 }
 
 @NgModule({

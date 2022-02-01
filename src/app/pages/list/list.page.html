@@ -1,5 +1,5 @@
 <ion-card *ngFor="let sight of sights">
-  <img [src]="'assets/images/sights/' + sight + '_1.jpg'" />
+  <img [src]="'assets/images/sights/' + sight + '_1.jpg'"  [alt]="sight"/>
   <ion-card-header>
     <ion-card-subtitle class="ion-margin-bottom">{{ 'navigation.archeology_remain' | translate }}</ion-card-subtitle>
     <ion-card-title>{{ sightType + '.' + sight + '.title' | translate }}</ion-card-title>

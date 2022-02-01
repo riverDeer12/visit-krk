@@ -28,7 +28,7 @@ const routes: Routes = [
     path: 'monasteries',
     loadChildren: () =>
       import('./pages/monasteries/monasteries.module').then(
-        (m) => m.CemeteriesPageModule
+        (m) => m.MonasteriesPageModule
       ),
   },
   {
@@ -81,12 +81,7 @@ const routes: Routes = [
     path: 'tours',
     loadChildren: () =>
       import('./pages/tours/tours.module').then((m) => m.ToursPageModule),
-  },
-  {
-    path: 'ethno',
-    loadChildren: () => import('./pages/ethno/ethno.module').then( m => m.EthnoPageModule)
-  },
-
+  }
 ];
 
 @NgModule({

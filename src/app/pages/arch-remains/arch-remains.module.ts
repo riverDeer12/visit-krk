@@ -1,6 +1,4 @@
-import { ListPage } from './../list/list.page';
-import { ListPageModule } from './../list/list.module';
-import { SharedModule } from './../../shared/shared.module';
+import { SharedModule } from '../../shared/shared.module';
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';

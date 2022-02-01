@@ -1,4 +1,4 @@
-import { SightTypes } from './../../shared/constants/sight-types';
+import { SightTypes } from '../../shared/constants/sight-types';
 import { TranslateService } from '@ngx-translate/core';
 import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
@@ -24,7 +24,7 @@ export class ArchRemainsPage implements OnInit {
   }
 
   getLanguage(): void {
-    let currentLanguage = localStorage.getItem('language');
+    const currentLanguage = localStorage.getItem('language');
     this.translate.use(currentLanguage);
   }
 

@@ -4,7 +4,7 @@ import { FormsModule } from '@angular/forms';
 
 import { IonicModule } from '@ionic/angular';
 
-import { LocalitiesPageRoutingModule } from './places-routing.module';
+import { PlacesPageRoutingModule } from './places-routing.module';
 
 import { PlacesPage } from './places.page';
 import { HttpClient } from '@angular/common/http';
@@ -20,7 +20,7 @@ export function createTranslateLoader(http: HttpClient) {
     CommonModule,
     FormsModule,
     IonicModule,
-    LocalitiesPageRoutingModule,
+    PlacesPageRoutingModule,
     TranslateModule.forRoot({
       loader: {
         provide: TranslateLoader,

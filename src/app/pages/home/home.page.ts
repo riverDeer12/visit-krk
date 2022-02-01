@@ -16,7 +16,7 @@ export class HomePage {
     this.translate.use('eng');
   }
 
-  switch_language(lang: string): void {
+  switchLanguage(lang: string): void {
     this.translate.use(lang);
     localStorage.setItem('language', lang);
   }

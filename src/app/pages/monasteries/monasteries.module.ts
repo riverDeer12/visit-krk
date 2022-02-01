@@ -4,7 +4,7 @@ import { FormsModule } from '@angular/forms';
 
 import { IonicModule } from '@ionic/angular';
 
-import { CemeteriesPageRoutingModule } from './monasteries-routing.module';
+import { MonasteriesPageRoutingModule } from './monasteries-routing.module';
 
 import { MonasteriesPage } from './monasteries.page';
 import { HttpClient } from '@angular/common/http';
@@ -20,7 +20,7 @@ export function createTranslateLoader(http: HttpClient) {
     CommonModule,
     FormsModule,
     IonicModule,
-    CemeteriesPageRoutingModule,
+    MonasteriesPageRoutingModule,
     TranslateModule.forRoot({
       loader: {
         provide: TranslateLoader,
@@ -31,4 +31,4 @@ export function createTranslateLoader(http: HttpClient) {
   ],
   declarations: [MonasteriesPage]
 })
-export class CemeteriesPageModule {}
+export class MonasteriesPageModule {}

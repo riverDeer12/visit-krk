@@ -1,4 +1,3 @@
-import { ListPage } from './../pages/list/list.page';
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { SharedComponent } from './shared.component';
@@ -7,7 +6,7 @@ import { SharedComponent } from './shared.component';
   imports: [
     CommonModule
   ],
-  exports: [ListPage],
-  declarations: [SharedComponent, ListPage]
+  exports: [],
+  declarations: [SharedComponent]
 })
 export class SharedModule { }

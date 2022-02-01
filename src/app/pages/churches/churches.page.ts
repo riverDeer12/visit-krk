@@ -22,7 +22,7 @@ export class ChurchesPage implements OnInit {
   }
 
   getLanguage(): void {
-    let currentLanguage = localStorage.getItem('language');
+    const currentLanguage = localStorage.getItem('language');
     this.translate.use(currentLanguage);
   }
 

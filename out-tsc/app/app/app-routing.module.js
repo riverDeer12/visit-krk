@@ -1,4 +1,3 @@
-import { __decorate } from "tslib";
 import { NgModule } from '@angular/core';
 import { PreloadAllModules, RouterModule } from '@angular/router';
 const routes = [
@@ -20,7 +19,7 @@ const routes = [
     },
     {
         path: 'monasteries',
-        loadChildren: () => import('./pages/cemeteries/cemeteries.module').then((m) => m.CemeteriesPageModule),
+        loadChildren: () => import('./pages/monasteries/monasteries.module').then((m) => m.MonasteriesPageModule),
     },
     {
         path: 'churches',

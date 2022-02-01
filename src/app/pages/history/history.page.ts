@@ -20,7 +20,7 @@ export class HistoryPage implements OnInit {
   }
 
   getLanguage(): void {
-    let currentLanguage = localStorage.getItem('language');
+    const currentLanguage = localStorage.getItem('language');
     this.translate.use(currentLanguage);
   }
 

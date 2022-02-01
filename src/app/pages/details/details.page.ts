@@ -4,7 +4,6 @@ import {ActivatedRoute, Router} from '@angular/router';
 import {Component, OnInit} from '@angular/core';
 import {Sight} from 'src/app/shared/models/sight';
 import {LaunchNavigator} from '@ionic-native/launch-navigator/ngx';
-import {map} from 'rxjs/operators';
 
 @Component({
     selector: 'app-details',

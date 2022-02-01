@@ -13,7 +13,7 @@
 
 <ion-content fullscreen>
   <ion-card *ngFor="let sight of sights">
-    <img [src]="'assets/images/sights/' + sight + '_1.jpg'" />
+    <img [src]="'assets/images/sights/' + sight + '_1.jpg'"  [alt]="sight"/>
     <ion-card-header>
       <ion-card-subtitle class="ion-margin-bottom">{{ 'navigation.tours' | translate }}</ion-card-subtitle>
       <ion-card-title>{{ 'tours.' + sight + '.title' | translate }}</ion-card-title>
