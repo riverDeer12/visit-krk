@@ -18,7 +18,7 @@ import { AppRate } from '@ionic-native/app-rate/ngx';
 import { EmailComposer } from '@ionic-native/email-composer/ngx';
 
 export function createTranslateLoader(http: HttpClient) {
-  return new TranslateHttpLoader(http, "./assets/i18n/", ".json");
+  return new TranslateHttpLoader(http, './assets/i18n/', '.json');
 }
 
 @NgModule({

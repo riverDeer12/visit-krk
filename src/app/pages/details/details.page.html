@@ -18,7 +18,7 @@
 
   <ion-slides pager="true" [options]="slideOpts">
     <ion-slide *ngFor="let number of imagesNumber()" class="slide-image"
-      [style]="'background-image: url(assets/images/sights/' + sight.name + '_' + number + '.jpg);'">
+      [style]="'background-image: url(assets/images/sights/' + sight.type + '/' + sight.name + '_' + number + '.jpg);'">
     </ion-slide>
   </ion-slides>
 

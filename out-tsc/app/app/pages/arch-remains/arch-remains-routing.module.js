@@ -17,4 +17,4 @@ ArchRemainsPageRoutingModule = __decorate([
     })
 ], ArchRemainsPageRoutingModule);
 export { ArchRemainsPageRoutingModule };
-//# sourceMappingURL=arch-remains-routing.module.js.map
+//# sourceMappingURL=archeology_remains-routing.module.js.map

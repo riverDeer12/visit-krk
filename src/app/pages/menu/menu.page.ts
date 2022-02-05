@@ -8,20 +8,14 @@ import { Component, OnInit } from '@angular/core';
 export class MenuPage implements OnInit {
 
   public pages = [
-    { title: 'navigation.arch_remains', url: '/arch-remains', icon: 'cube' },
+    { title: 'navigation.archeology_remains', url: '/archeology_remains', icon: 'cube' },
     { title: 'navigation.churches', url: '/churches', icon: 'cube' },
-    { title: 'navigation.monasteries', url: '/cemeteries', icon: 'people' },
-    { title: 'navigation.industry', url: '/industry', icon: 'construct' },
-    { title: 'navigation.library', url: '/libraries', icon: 'library' },
-    { title: 'navigation.places', url: '/localities', icon: 'business' },
-    { title: 'navigation.museums', url: '/museums', icon: 'easel' },
-    { title: 'navigation.parks', url: '/parks', icon: 'leaf' },
-    { title: 'navigation.monuments', url: '/monuments', icon: 'medal' },
+    { title: 'navigation.monasteries', url: '/monasteries', icon: 'people' },
+    { title: 'navigation.places', url: '/places', icon: 'business' },
     { title: 'navigation.forts', url: '/forts', icon: 'flag' },
-    { title: 'navigation.lookouts', url: '/lookouts', icon: 'glasses' },
+    { title: 'navigation.ethno', url: '/ethno', icon: 'cube' },
     { title: 'navigation.about', url: '/about', icon: 'glasses' }
   ];
-  public labels = ['Family', 'Friends', 'Notes', 'Work', 'Travel', 'Reminders'];
 
   constructor() { }
 

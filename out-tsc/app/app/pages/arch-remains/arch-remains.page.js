@@ -25,10 +25,10 @@ let ArchRemainsPage = class ArchRemainsPage {
 };
 ArchRemainsPage = __decorate([
     Component({
-        selector: 'app-arch-remains',
-        templateUrl: './arch-remains.page.html',
-        styleUrls: ['./arch-remains.page.scss'],
+        selector: 'app-archeology_remains',
+        templateUrl: './archeology_remains.page.html',
+        styleUrls: ['./archeology_remains.page.scss'],
     })
 ], ArchRemainsPage);
 export { ArchRemainsPage };
-//# sourceMappingURL=arch-remains.page.js.map
+//# sourceMappingURL=archeology_remains.page.js.map

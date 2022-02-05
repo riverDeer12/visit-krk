@@ -1,5 +1,5 @@
 import { __decorate } from "tslib";
-import { SharedModule } from './../../shared/shared.module';
+import { SharedModule } from '../../shared/shared.module';
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
@@ -34,4 +34,4 @@ ArchRemainsPageModule = __decorate([
     })
 ], ArchRemainsPageModule);
 export { ArchRemainsPageModule };
-//# sourceMappingURL=arch-remains.module.js.map
+//# sourceMappingURL=archeology_remains.module.js.map
