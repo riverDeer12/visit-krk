@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
 import { TranslateService } from '@ngx-translate/core';
 import { SightTypes } from 'src/app/shared/constants/sight-types';
-import * as data from '../../../assets/i18n/cro.json';
+import * as data from '../../../assets/i18n/eng.json';
 
 @Component({
   selector: 'app-forts',

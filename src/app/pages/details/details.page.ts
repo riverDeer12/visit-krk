@@ -14,7 +14,7 @@ export class DetailsPage implements OnInit {
     sight = new Sight();
     loadingData: boolean;
     hasRelatedSights: boolean;
-    relatedSights: string[];
+    relatedSights: Sight[];
 
     slideOpts = {
         initialSlide: 1,
@@ -82,8 +82,8 @@ export class DetailsPage implements OnInit {
         this.translate
             .get(this.sight.key + '.related')
             .subscribe((data: any) => {
-                this.data = data;
-                this.relatedSights = Object.keys(this.data);
+                this.data = data as Sight[];
+                this.relatedSights = this.data.map((x) => Object.assign(new Sight(), x));
             });
 
         this.hasRelatedSights = true;
@@ -99,9 +99,9 @@ export class DetailsPage implements OnInit {
         this.launchNavigator.navigate([this.sight.latitude, this.sight.longitude]);
     }
 
-    goToRelatedSightDetails(relatedSight: string): void {
+    goToRelatedSightDetails(relatedSight: Sight): void {
         this.router.navigateByUrl(
-            '/details/archeology_remains' + '/' + relatedSight
+            '/details/'+ relatedSight.type + '/' + relatedSight.key
         );
     }
 

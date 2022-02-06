@@ -29,11 +29,11 @@
   <div class="ion-padding" [hidden]="loadingData && hasRelatedSights" *ngIf="hasRelatedSights">
     <ion-card-subtitle>{{'related_sights' | translate }}</ion-card-subtitle>
     <ion-card *ngFor="let relatedSight of relatedSights">
-      <img [src]="'assets/images/sights/' + relatedSight + '_1.jpg'" />
+      <img [src]="'assets/images/sights/' + relatedSight.type + '/' + relatedSight.key + '_1.jpg'"  [alt]="sight"/>
       <ion-card-header>
-        <ion-card-subtitle class="ion-margin-bottom">{{ 'navigation.archeology_remains' | translate }}
+        <ion-card-subtitle class="ion-margin-bottom">{{ 'navigation.' + relatedSight.type | translate }}
         </ion-card-subtitle>
-        <ion-card-title>{{ 'archeology_remains.' + relatedSight + '.title' | translate }}</ion-card-title>
+        <ion-card-title>{{ relatedSight.type + '.' + relatedSight.key + '.title' | translate }}</ion-card-title>
       </ion-card-header>
       <ion-card-header class="ion-text-center">
         <ion-button (click)="goToRelatedSightDetails(relatedSight)" fill="clear" expand="full" color="primary">
