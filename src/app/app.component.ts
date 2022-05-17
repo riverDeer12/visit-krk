@@ -73,7 +73,7 @@ export class AppComponent {
 
     share(): void {
         this.socialSharing
-            .share('Omisalj Heritage iOS app', 'Omisalj Heritage')
+            .share('Visit Krk iOS app', 'Visit Krk')
             .then(() => {
                 // Success!
             })

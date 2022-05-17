@@ -1,6 +1,6 @@
 {
-  "appId": "omisalj-heritage",
-  "appName": "Omisalj Heritage",
+  "appId": "visit-krk",
+  "appName": "Visit Krk",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "www",
