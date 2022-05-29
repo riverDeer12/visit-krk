@@ -26,10 +26,10 @@
     <ion-text [innerHtml]="sight.key + '.description' | translate"></ion-text>
   </div>
 
-  <div class="ion-padding" [hidden]="loadingData && hasRelatedSights" *ngIf="hasRelatedSights">
+  <div class="ion-padding" [hidden]="loadingData && hasRelatedSights()" *ngIf="hasRelatedSights()">
     <ion-card-subtitle>{{'related_sights' | translate }}</ion-card-subtitle>
     <ion-card *ngFor="let relatedSight of relatedSights">
-      <img [src]="'assets/images/sights/' + relatedSight.type + '/' + relatedSight.key + '_1.jpg'"  [alt]="sight"/>
+      <img [src]="'assets/images/sights/' + relatedSight.type + '/'+ relatedSight.key + '_1.jpg'"  alt="sight"/>
       <ion-card-header>
         <ion-card-subtitle class="ion-margin-bottom">{{ 'navigation.' + relatedSight.type | translate }}
         </ion-card-subtitle>
@@ -45,7 +45,7 @@
   </div>
 </ion-content>
 
-<ion-footer *ngIf="!hasRelatedSights">
+<ion-footer *ngIf="!hasRelatedSights()">
   <ion-toolbar>
     <ion-button (click)="goToMap()" expand="full" fill="clear" color="dark">
       <ion-icon size="large" slot="icon-only" name="locate-outline"></ion-icon>
@@ -54,7 +54,7 @@
   </ion-toolbar>
 </ion-footer>
 
-<ion-footer *ngIf="hasRelatedSights">
+<ion-footer *ngIf="hasRelatedSights()">
   <ion-toolbar>
     <ion-button (click)="goToTourMap()" expand="full" fill="clear" color="dark">
       <ion-icon size="large" slot="icon-only" name="locate-outline"></ion-icon>

@@ -13,8 +13,7 @@ import {LaunchNavigator} from '@ionic-native/launch-navigator/ngx';
 export class DetailsPage implements OnInit {
     sight = new Sight();
     loadingData: boolean;
-    hasRelatedSights: boolean;
-    relatedSights: Sight[];
+    relatedSights: Sight[] = [];
 
     slideOpts = {
         initialSlide: 1,
@@ -30,7 +29,6 @@ export class DetailsPage implements OnInit {
         private launchNavigator: LaunchNavigator
     ) {
         this.loadingData = true;
-        this.hasRelatedSights = false;
         this.getCurrentLanguage();
         this.getSight();
     }
@@ -82,14 +80,19 @@ export class DetailsPage implements OnInit {
         this.translate
             .get(this.sight.key + '.related')
             .subscribe((data: any) => {
-                this.data = data as Sight[];
-                this.relatedSights = this.data.map((x) => Object.assign(new Sight(), x));
-            });
 
-        this.hasRelatedSights = true;
+                Object.keys(data).forEach((sight) => {
+                    const relatedSight = new Sight();
+                    relatedSight.type = data[sight].type;
+                    relatedSight.key = sight;
+                    this.relatedSights.push(relatedSight);
+                });
+            });
 
         this.loadingData = false;
     }
+
+    hasRelatedSights = () => this.relatedSights.length;
 
     goBack(): void {
         this.router.navigateByUrl(this.sight.type);
@@ -101,7 +104,7 @@ export class DetailsPage implements OnInit {
 
     goToRelatedSightDetails(relatedSight: Sight): void {
         this.router.navigateByUrl(
-            '/details/'+ relatedSight.type + '/' + relatedSight.key
+            '/details/' + relatedSight.type + '/' + relatedSight.key
         );
     }
 
