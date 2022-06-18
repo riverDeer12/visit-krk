@@ -137,6 +137,7 @@ let HomePage = class HomePage {
     constructor(router, translate) {
         this.router = router;
         this.translate = translate;
+        localStorage.setItem('language', 'eng');
         this.translate.setDefaultLang('eng');
         this.translate.use('eng');
     }

@@ -176,7 +176,7 @@ let DetailsPage = class DetailsPage {
             Object.keys(data).forEach((sight) => {
                 const relatedSight = new src_app_shared_models_sight__WEBPACK_IMPORTED_MODULE_7__["Sight"]();
                 relatedSight.type = data[sight].type;
-                relatedSight.key = sight;
+                relatedSight.key = data[sight].key;
                 this.relatedSights.push(relatedSight);
             });
         });

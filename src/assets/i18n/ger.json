@@ -129,7 +129,8 @@
       "title": "Altchristliche basilika in Mirine und die uberreste der dreiapsidenkirche in der bucht Sepen",
       "description": [
         "Auf dem flachen Plateau der Bucht Sepen steigen noch heute die Überreste der prachtvollen altchristlichen Basilika namens Mira aus dem 5. Jahrhundert hervor, die als Erinnerung an die ersten Zeichen des christlichen Glaubens auf der Insel Krk dient. Der Grundriss der Kirche stellt ein lateinisches Kreuz dar, ein Symbol des christlichen Glaubens. Innerhalb der Apsis befinden sich die Überreste eines Reliquiars (ein symbolisches Grab, in dem die heiligen Relikte aufbewahrt wurden), über dem sich der Altar befand. In dem Narthex (Lobby) im Westen wurden Gräber gefunden, darunter hebt sich das Grab im Sarkophag hervor. Neben der Basilika, zum Meer, befindet sich ein Kreuzgang, der von einer dicken Mauer mit zwei hohen, nur teilweise erhaltenen Türmen eingerahmt wird.  Das ursprüngliche Erscheinungsbild der Kirche ist in ihrer Gesamtheit erhalten, so dass dieses Gebäude ein wertvolles und seltenes „lebendes“ Zeugnis seiner Zeit ist.  Etwa hundert Meter westlich der großen frühchristlichen Basilika wurden Überreste einer kleineren Kirche und eines bescheidenen Klosterkomplexes gefunden. Sie entstanden im 9. Jahrhundert durch die Überarbeitung der römischen Thermen aus dem 1. bis 2. Jahrhundert. Das Hypokaustum dieser Thermen ist heutzutage unter der Holzbrücke an der Promenade am Meer sichtbar.  Die Kirche ist ein bescheidenes, einschiffiges Gebäude mit drei Apsiden in der geraden Vorderwand. Auf der Südseite befindet sich eine Gedenkstätte mit einer Apsis, die ebenfalls in die gerade Vorderwand eingebettet ist. Westlich der Kirche wurden Überreste der Klosterräume aufgefunden."
-      ],      "numberOfImages": 2,
+      ],
+      "numberOfImages": 2,
       "latitude": 45.203925,
       "longitude": 14.543669
     },
@@ -328,7 +329,8 @@
       "title": "Pharrkirche des Hl.Stephan und Kirchturm",
       "description": [
         "Die Pfarrkirche des Hl. Stephan gehört zu den älteren Kapitelkirchen, was die glagolitische Urkunde aus dem Jahr 1100 belegt. Die Kirche wurde 1512 vom Bischof von Krk, Dunat a Turre, geweiht. Bis heute wurde sie in grundlegend veränderter Form erhalten. Im 16. Jahrhundert wurde sie erweitert und zu Beginn des 17. Jahrhunderts wurde dem alten Schrein ein spätgotischer Ausdruck hinzugefügt, wodurch die ursprüngliche architektonische Form erheblich verändert wurde. Die Kirche hat eine längsgerichtete dreischiffige Struktur mit erhöhtem Hauptschiff und einer flachen Vorderwand des Schreins im Osten. Auf der Westseite, vor dem Eingang der Kirche, befindet sich ein Atrium. Dieser Ort war das historische Zentrum des kirchlichen Lebens, eine Art Gegenstück des Hauptplatzes Placa als dem Ort des zivilen Lebens. Erwähnenswert ist auch die Aussicht von diesem Gebiet aus, da sich die Kirche an einem strategisch wichtigen Ort befand, von dem aus der nordöstliche und nordwestliche Teil der Insel zur Zeit des Konflikts zwischen Venezianern und Uskoken überwacht wurde. Die Kirche verfügt über eine reichhaltige sakrale Sammlung mit liturgischen Gegenständen, Gemälden und Statuen aus dem 14. bis 19. Jahrhundert. Insbesondere hebt sich das Relief auf dem Hauptaltar aus dem 17. Jahrhundert mit der Darstellung der Krönung Mariens hervor. Nicht weit von der Pfarrkirche, am Ort des alten Friedhofs, auf dem Plateau vor der Kirche der Heiligendreifaltigkeit, erhebt sich der Kirchturm. Er wurde in den 20er Jahren des 18. Jahrhunderts vom Meister Pilepić erbaut. Der Kirchturm hat barocke Elemente mit hervorstehenden Biforien im obersten Stockwerk und er wurde mit dem Geld der Bruderschaft des Hl. Stephan und anderer Bruderschaften gebaut. Er fiel beträchtlich im Zweiten Weltkrieg, genauer gesagt im Jahr 1944, als er bis zum Niveau des ersten Obergeschosses zerstört wurde. Am Ort des zerstörten Kirchturms wurde sehr schnell ein neuer mit den gleichen stilistischen Merkmalen errichtet."
-      ],      "numberOfImages": 2,
+      ],
+      "numberOfImages": 2,
       "latitude": 45.131083,
       "longitude": 14.603194
     },
@@ -562,28 +564,33 @@
         "Jahrhunderte zurück wurden auf der Insel Krk Siedlungen an strategisch bedeutenden Anhöhen gebaut, von denen aus wichtige Handelsrouten kontrolliert wurden und die Stadt im Falle eines Angriffs leichter verteidigt werden konnte. Ein wahres Beispiel einer solchen geplanten Stadt ist der Ort Dobrinj, der sich im zentralen Teil der Insel befindet. Obwohl auf den ersten Blick keine Verteidigungsmauern zu sehen sind, heißt das nicht, dass es sie nicht gibt, denn sie sind sehr geschickt in den verdickten Mauern im äußeren Ring der Stadt versteckt.  Nach dem Besuch von Dobrinj fahren Sie in Richtung Krk, eine Stadt, deren lange Geschichte in ihre Stadtmauern und ihr Kastell eingemeißelt ist. Das Kastell von Krk ist unter dem Namen Frankopan bekannt. Deshalb könnte die nächste Station Ihrer Reise eine der verborgenen Burgen dieser Adelsfamilie, Gradec, sein, die in einem Wald nicht weit von Vrbnik gelegen ist. Der Ausflug nach Gradec wird Ihnen die bezaubernde Waldlandschaft der Insel offenbaren. Es ist an der Zeit nach Baška zu gehen, welchen Ort noch theatralischere Steinlandschaften zieren. Die Geschichte dieses Ortes hängt mit der Siedlung der gesamten Bevölkerung von den Hügeln in das Flachland am Meer zusammen, abhängig von einer sichereren oder kriegsbedrohten historischen Periode. Schließen Sie diese Reise bei der Kirche des Hl. Johannes und dem Kastell oberhalb von Baška ab, wohin sich die Bewohner im Falle eines Angriffs vom Meer aus hinaufbewegten. Spazieren Sie danach durch die Altstadt und entlang der Promenade."
       ],
       "map-url": "https://www.google.com/maps/d/u/0/viewer?mid=1fqyKxf602KThsP8_xm936VhcBFhZduyS&ll=45.08888834670806%2C14.728269447460889&z=11",
-      "related": {
-        "dobrinj": {
+      "related": [
+        {
+          "key": "dobrinj",
           "title": "Dobrinj",
           "type": "places"
         },
-        "volsonis": {
+        {
+          "key": "volsonis",
           "title": "Kastell, stadtmauern und archaologische uberreste im cafe Volsonis",
           "type": "forts"
         },
-        "gradec_and_frankopans": {
+        {
+          "key": "gradec_and_frankopans",
           "title": "Gradec und die Frankopans",
           "type": "forts"
         },
-        "krk": {
+        {
+          "key": "krk",
           "title": "Krk",
           "type": "places"
         },
-        "st_john": {
+        {
+          "key": "st_john",
           "title": "Kirche des Hl.Johannes",
           "type": "churches"
         }
-      }
+      ]
     },
     "monasteries_visit": {
       "title": "Besuch den klostern der insel Krk",
@@ -591,32 +598,38 @@
         "Nachdem Sie einen Spaziergang entlang der Promenade in Punat unternommen haben, fahren Sie mit dem Boot zur Insel Košljun, einem magischen Ort, der von den Franziskanern gehütet wird. Die Tradition des Mönchstums auf dieser Insel beginnt im Mittelalter mit der Ankunft der Benediktiner. Seit dem 15. Jahrhundert ist die Insel von den Kleinen Brüdern bewohnt. Nach der Besichtigung von Košljun fahren Sie in Richtung des Nordtors der Stadt Krk auf den Platz der Glagolitermönche. Dies ist der Ort des wahren Zusammenlebens mehrerer noch aktiver Ordensgemeinschaften, der noch immer aktiven Benediktinerinnen und Franziskaner sowie der heute erloschenen Benediktinerkloster in der Kirche der Muttergottes der Gesundheit und des teilweise erhaltenen und im Rahmen der Sporthalle auf dem vorbenannten Platz teilweise präsentierten Klarissenklosters. Die nächste Station ist Glavotok und das Franziskanerkloster an einem schönen ruhigen Ort direkt am Meer. Um ein möglichst vollständiges Bild der Ordensgemeinschaften auf der Insel zu erhalten, sollten Sie auch das Franziskanerkloster in Porat nicht weit von Malinska besuchen. In diesem Kloster finden Sie die Nachbildung der glagolitischen Monumente von Krk. Werfen Sie einen guten Blick auf sie und bereiten Sie sich auf den morgigen Besuch von Jurandvor und der Kirche der Hl. Lucia vor, in der das wichtigste glagolitische Monument, die Tafel von Baška, gefunden wurde."
       ],
       "map-url": "https://www.google.com/maps/d/u/0/viewer?mid=1yGYv114C8evJKzk8kR94ogjrilmpcxEp&ll=45.07197973143436%2C14.535032999999999&z=12",
-      "related": {
-        "punat": {
+      "related": [
+        {
+          "key": "punat",
           "title": "Punat",
           "type": "places"
         },
-        "kosljun": {
+        {
+          "key": "kosljun",
           "title": "Franziskanerkloster - Košljun",
           "type": "monasteries"
         },
-        "glagolitic_monks": {
+        {
+          "key": "glagolitic_monks",
           "title": "Kloster auf dem platz der Glagolitermonche",
           "type": "monasteries"
         },
-        "st_michael_lady_health": {
+        {
+          "key": "st_michael_lady_health",
           "title": "Kirche des Hl.Michael (Muttergottes der gesundheit)",
           "type": "churches"
         },
-        "glavotok": {
+        {
+          "key": "glavotok",
           "title": "Franziskanerkloster - Glavotok",
           "type": "monasteries"
         },
-        "porat": {
+        {
+          "key": "porat",
           "title": "Franziskanerkloster - Porat",
           "type": "monasteries"
         }
-      }
+      ]
     },
     "few_stone_remains": {
       "title": "Vergangenheit der insel in wenigen steinblocken",
@@ -624,32 +637,38 @@
         "Beginnen Sie die Reise in Omišalj. Spazieren Sie zur Vorderseite der Pfarrkirche Mariä Himmelfahrt, wo Sie Kirchenmöbel und andere Reste eines ehemaligen Gebäudes sehen, die als Baumaterial für den Bau dieser Kirche verwendet wurden. Es ist nicht immer der Fall, dass sowohl die ältere als auch die jüngere Kirche erhalten bleiben. Lassen Sie Ihr nächstes Ziel also das verlassene Kirchenkomplex in einem Wald in der Nähe von Malinska, bekannt unter dem Namen Cickini, sein.  Besuchen Sie nach diesem Abenteuer den Ort Punat. Auf dem Weg dorthin finden Sie an der Straße die kleine Kirche des Hl. Donatus, die nach dem II. Weltkrieg vollständig zerstört und danach restauriert wurde und heute ein wahres Monument der romanischen Architektur auf der Insel darstellt. Fahren Sie weiter in Richtung Punat, biegen Sie dann am Ortseingang auf dem Pfad ab und besuchen Sie die Überreste der Kirche des Hl. Petrus auf Kanajt. Kanajt ist eine archäologische Stätte, an der die Kirche vom 6. bis 19. Jahrhundert stand, als der Gottesdienst in ihr eingestellt wurde. In Punat können Sie eine kurze Pause einlegen und dann das Abenteuer an den letzten beiden Orten auf der Ostseite der Insel, der mittelalterlichen Kirche des Hl. Petrus in Soline und dem Renaissancegebäude der Allerheiligen in Sužan, fortfahren."
       ],
       "map-url": "https://www.google.com/maps/d/u/0/viewer?mid=1nF-hsfF4PTIljy_9jn7cdM5Hz7pFx-CW&ll=45.098084903041304%2C14.605628499999966&z=11",
-      "related": {
-        "parish_church_of_assumption": {
+      "related": [
+        {
+          "key": "parish_church_of_assumption",
           "title": "Pfarrkirche Maria himmelfahrt un glockenturm",
           "type": "churches"
         },
-        "lapidarium": {
+        {
+          "key": "lapidarium",
           "title": "Archaologische statte Cickini/Lapidaruim",
           "type": "archeology_remains"
         },
-        "st_donatus": {
+        {
+          "key": "st_donatus",
           "title": "Kirche des Hl.Donatus",
           "type": "churches"
         },
-        "st_peter_kanajt": {
+        {
+          "key": "st_peter_kanajt",
           "title": "Archaaologische  Statte Sv. Petar auf Kanajt",
           "type": "archeology_remains"
         },
-        "all_saints_suzan": {
+        {
+          "key": "all_saints_suzan",
           "title": "Allerheiligenkirche in Sužan",
           "type": "archeology_remains"
         },
-        "st_peter_soline": {
+        {
+          "key": "st_peter_soline",
           "title": "Kirche des Hl.Petrus-Soline",
           "type": "archeology_remains"
         }
-      }
+      ]
     },
     "krk_small_secluded_churches": {
       "title": "Kleine und verborgene kirchen der insel Krk",
@@ -657,62 +676,73 @@
         "Nachdem Sie einen Spaziergang entlang der Promenade in Punat unternommen haben, fahren Sie mit dem Boot zur Insel Košljun, einem magischen Ort, der von den Franziskanern gehütet wird. Die Tradition des Mönchstums auf dieser Insel beginnt im Mittelalter mit der Ankunft der Benediktiner. Seit dem 15. Jahrhundert ist die Insel von den Kleinen Brüdern bewohnt. Nach der Besichtigung von Košljun fahren Sie in Richtung des Nordtors der Stadt Krk auf den Platz der Glagolitermönche. Dies ist der Ort des wahren Zusammenlebens mehrerer noch aktiver Ordensgemeinschaften, der noch immer aktiven Benediktinerinnen und Franziskaner sowie der heute erloschenen Benediktinerkloster in der Kirche der Muttergottes der Gesundheit und des teilweise erhaltenen und im Rahmen der Sporthalle auf dem vorbenannten Platz teilweise präsentierten Klarissenklosters. Die nächste Station ist Glavotok und das Franziskanerkloster an einem schönen ruhigen Ort direkt am Meer. Um ein möglichst vollständiges Bild der Ordensgemeinschaften auf der Insel zu erhalten, sollten Sie auch das Franziskanerkloster in Porat nicht weit von Malinska besuchen. In diesem Kloster finden Sie die Nachbildung der glagolitischen Monumente von Krk. Werfen Sie einen guten Blick auf sie und bereiten Sie sich auf den morgigen Besuch von Jurandvor und der Kirche der Hl. Lucia vor, in der das wichtigste glagolitische Monument, die Tafel von Baška, gefunden wurde."
       ],
       "map-url": "https://www.google.com/maps/d/u/0/viewer?mid=1UPulMg7qOXwBQbhqwOiotGv9OHs2wnna&ll=45.11137389050382%2C14.642119999999977&z=12",
-      "related": {
-        "vrbnik": {
+      "related": [
+        {
+          "key": "vrbnik",
           "title": "Vrbnik",
           "type": "places"
         },
-        "st_mavro": {
+        {
+          "key": "st_mavro",
           "title": "Kirche des Hl.Mavro",
           "type": "archeology_remains"
         },
-        "st_marcos_church": {
+        {
+          "key": "st_marcos_church",
           "title": "Kirche des Hl. Markus",
           "type": "archeology_remains"
         },
-        "st_vitus": {
+        {
+          "key": "st_vitus",
           "title": "Kirche des Hl.Veit",
           "type": "churches"
         },
-        "st_philip_and_jacob": {
+        {
+          "key": "st_philip_and_jacob",
           "title": "Kirche der Hl.Philip und Jakob",
           "type": "churches"
         },
-        "st_clement_klimno": {
+        {
+          "key": "st_clement_klimno",
           "title": "Kirche des Hl.Clemens in Klimno",
           "type": "churches"
         }
-      }
-    },
-    "krk_new_age": {
-      "title": "Die insel Krk in den ersten jahrhunderten der neuen ara",
-      "description": [
-        "Der Ausflug beginnt mit einem Schlammbad in der Bucht von Soline. Dieser Schlamm wurde von den alten Römern zu Heilungszwecken verwendet. An diesem Ort gab es auch zur Zeit des alten Roms eine Promenade, in deren Nähe sich Salzwerke befanden, in denen die Einwohner Salz produzierten und beträchtlichen Wohlstand genossen.  Der nächste Punkt Ihrer Reise sollte die römische Stadt Fulfinum unterhalb von Omišalj sein. Als Teil dieses äußerst wichtigen Ortes sehen Sie auch die frühchristliche Basilika Mira aus dem 5. Jahrhundert. Wenn Sie die Landschaft dieses Ortes ausreichend genossen haben, besuchen Sie noch das römische Curicum, die heutige Stadt Krk. Obwohl die Geschichte der Stadt in die uralte Vergangenheit zurückreicht, sind die ersten Jahrhunderte tief unter der Erde sichtbar. Sie können einen Teil der städtischen Infrastruktur und die Stadtmauern der ehemaligen Stadt Krk innerhalb des gastwirtschaftlichen Objektes Volsonis mitten im Zentrum der Stadt sehen. Nicht weit von hier, innerhalb der Taverne Mate, befindet sich ein römisches Mosaik mit Darstellung des mythischen Tritons, das Sie sich nicht entgehen lassen dürfen. Am Ende der Reise können Sie mehrere frühchristliche Würfel in Baška im Zentrum der Stadt neben der Kirche des Hl. Markus besichtigen. Dies sind erhaltene Teile des Mosaiks aus dem 5. Jahrhundert v. Chr., mit denen einst die Kirche gepflastert war."
-      ],
-      "map-url": "https://www.google.com/maps/d/u/0/viewer?mid=1BmErP9jUAvUdG9yaljOrlLUbSXC4XKjx&ll=45.08839558346452%2C14.643850499999985&z=11",
-      "related": {
-        "st_peter_soline": {
-          "title": "Kirche des Hl.Petrus-Soline",
-          "type": "archeology_remains"
-        },
-        "roman_city_fulfinum": {
-          "title": "Romische stadt Fulfinum",
-          "type": "archeology_remains"
-        },
-        "volsonis": {
-          "title": "Kastell, stadtmauern und archaologische uberreste im cafe Volsonis",
-          "type": "forts"
-        },
-        "triton_mosaic": {
-          "title": "Triton-mosaik",
-          "type": "archeology_remains"
-        },
-        "st_marcos_church": {
-          "title": "Kirche des Hl. Markus",
-          "type": "archeology_remains"
-        }
-      }
+      ]
     }
+  },
+  "krk_new_age": {
+    "title": "Die insel Krk in den ersten jahrhunderten der neuen ara",
+    "description": [
+      "Der Ausflug beginnt mit einem Schlammbad in der Bucht von Soline. Dieser Schlamm wurde von den alten Römern zu Heilungszwecken verwendet. An diesem Ort gab es auch zur Zeit des alten Roms eine Promenade, in deren Nähe sich Salzwerke befanden, in denen die Einwohner Salz produzierten und beträchtlichen Wohlstand genossen.  Der nächste Punkt Ihrer Reise sollte die römische Stadt Fulfinum unterhalb von Omišalj sein. Als Teil dieses äußerst wichtigen Ortes sehen Sie auch die frühchristliche Basilika Mira aus dem 5. Jahrhundert. Wenn Sie die Landschaft dieses Ortes ausreichend genossen haben, besuchen Sie noch das römische Curicum, die heutige Stadt Krk. Obwohl die Geschichte der Stadt in die uralte Vergangenheit zurückreicht, sind die ersten Jahrhunderte tief unter der Erde sichtbar. Sie können einen Teil der städtischen Infrastruktur und die Stadtmauern der ehemaligen Stadt Krk innerhalb des gastwirtschaftlichen Objektes Volsonis mitten im Zentrum der Stadt sehen. Nicht weit von hier, innerhalb der Taverne Mate, befindet sich ein römisches Mosaik mit Darstellung des mythischen Tritons, das Sie sich nicht entgehen lassen dürfen. Am Ende der Reise können Sie mehrere frühchristliche Würfel in Baška im Zentrum der Stadt neben der Kirche des Hl. Markus besichtigen. Dies sind erhaltene Teile des Mosaiks aus dem 5. Jahrhundert v. Chr., mit denen einst die Kirche gepflastert war."
+    ],
+    "map-url": "https://www.google.com/maps/d/u/0/viewer?mid=1BmErP9jUAvUdG9yaljOrlLUbSXC4XKjx&ll=45.08839558346452%2C14.643850499999985&z=11",
+    "related": [
+      {
+        "key": "st_peter_soline",
+        "title": "Kirche des Hl.Petrus-Soline",
+        "type": "archeology_remains"
+      },
+      {
+        "key": "roman_city_fulfinum",
+        "title": "Romische stadt Fulfinum",
+        "type": "archeology_remains"
+      },
+      {
+        "key": "volsonis",
+        "title": "Kastell, stadtmauern und archaologische uberreste im cafe Volsonis",
+        "type": "forts"
+      },
+      {
+        "key": "triton_mosaic",
+        "title": "Triton-mosaik",
+        "type": "archeology_remains"
+      },
+      {
+        "key": "st_marcos_church",
+        "title": "Kirche des Hl. Markus",
+        "type": "archeology_remains"
+      }
+    ]
   },
   "ethno": {
     "dobrinj_collection": {
@@ -762,7 +792,7 @@
     },
     "tos_gallery_punat": {
       "title": "Gallerie Toš in Punat",
-      "description":[
+      "description": [
         "Die Galerie Toš ist eine der schönsten Ausstellungsräume der kroatischen Küste. Durch ihr Inneres mit Steinwänden und dem ursprünglichen alten toš (Olivenmühle) stellt sie ein bedeutendes Kulturerbe der gesamten Region dar. Die hier stattfindenden Ausstellungen sind ein besonderes Erlebnis für die Besucher und ein bedeutender Beitrag zu den kulturellen Veranstaltungen von Punat und der Insel Krk. Mit ihren langjährigen, kontinuierlichen und qualitativ hochwertigen Kunstprogrammen hat die Galerie Toš den Status des relevantesten Ausstellungsraums in der Republik Kroatien und des HZSU (Kroatischer Verein unabhängiger Künstler) erworben.\n\nIn der Galerie findet jedes Jahr ein neues Ausstellungsprogramm statt. Meistens sind ausgewählte Künstler bereits in der kroatischen oder internationalen Kunstszene bekannt und haben ein beneidenswertes künstlerisches Schaffen hinter sich. Die Eröffnung der Ausstellung ist eine interessante Manifestation, eine Kombination aus traditionellen und kulturell-künstlerischen Veranstaltungen, begleitet von Musik (klapa und sopci auf Sopilas) und traditioneller Küche (fritule und hrostule)."
       ],
       "numberOfImages": 2,

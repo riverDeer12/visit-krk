@@ -73,14 +73,14 @@
   "archeology_remains": {
     "all_saints_suzan": {
       "title": "Chiesa di tutti i santi a Sužan",
-      "description":"La Chiesa di Tutti i Santi a Sužan risale al 1514 quando fu costruita sotto il patronato della confraternita di Tutti i Santi di Sužan. Nel secondo decennio del XIX secolo si manifestano grandi cambiamenti che portano all’abolizione di questo tipo di culto religioso volontario e la chiesa viene lasciata alle cure del popolo. Le celebrazioni della santa messa furono interrotte nel 1927 quando venne costruita la vicina chiesa della Madonna della Salute, che diventa la chiesa principale del villaggio di Sužan. Sebbene la chiesa sia di origine relativamente recente, vi sono visibili diverse fasi di costruzione e ristrutturazione. Le dimensioni della chiesa rinascimentale originale erano modeste, poi vi fu aggiunta l’abside e il portico (loggia) davanti all’ingresso a ovest.  La facciata occidentale è sovrastata da tre campanili a vela e la scalinata in pietra che porta al tetto. Accanto alla chiesa si trovava il cimitero e a sud dell’abside vi era un edificio minore, probabilmente una struttura ausiliaria del cimitero. Sebbene oggi sia abbandonata e situata ai margini del villaggio, questa chiesa risulta un testimone del suo passato cinquecentesco ed è una vera perla del turismo.",
+      "description": "La Chiesa di Tutti i Santi a Sužan risale al 1514 quando fu costruita sotto il patronato della confraternita di Tutti i Santi di Sužan. Nel secondo decennio del XIX secolo si manifestano grandi cambiamenti che portano all’abolizione di questo tipo di culto religioso volontario e la chiesa viene lasciata alle cure del popolo. Le celebrazioni della santa messa furono interrotte nel 1927 quando venne costruita la vicina chiesa della Madonna della Salute, che diventa la chiesa principale del villaggio di Sužan. Sebbene la chiesa sia di origine relativamente recente, vi sono visibili diverse fasi di costruzione e ristrutturazione. Le dimensioni della chiesa rinascimentale originale erano modeste, poi vi fu aggiunta l’abside e il portico (loggia) davanti all’ingresso a ovest.  La facciata occidentale è sovrastata da tre campanili a vela e la scalinata in pietra che porta al tetto. Accanto alla chiesa si trovava il cimitero e a sud dell’abside vi era un edificio minore, probabilmente una struttura ausiliaria del cimitero. Sebbene oggi sia abbandonata e situata ai margini del villaggio, questa chiesa risulta un testimone del suo passato cinquecentesco ed è una vera perla del turismo.",
       "numberOfImages": 2,
       "latitude": 45.153278,
       "longitude": 14.579444
     },
     "st_george_kras": {
       "title": "La chiesa di San Giorgio sulla collina vicino a Kras",
-      "description":"La chiesa di San Giorgio sulla collina vicino a Kras risulta solo parzialmente conservata, ossia ne rimane il suo strato archeologico. Nell’atto di donazione in scrittura glagolitica del 1230 viene menzionato che fu commissionata da Juraj Pariježić e che, dopo la morte del suo ultimo successore, venne lasciata al “capitolo”. Fino al 1570, la chiesa fu sede della confraternita di San Giorgio. La chiesa è un edificio a navata unica con un\\'abside semicircolare prominente a est. Sulla parete meridionale si nota il metodo di costruzione con pietre squadrate rettangolari in strati regolari. I resti della chiesa indicano un tipo di costruzione romanica, riconoscibile in una serie di chiese insulari. Non ci sono tracce visibili di rimodellamento, quindi si presume che mantenne la sua forma originale fino all’abbandono nel XVIII secolo.",
+      "description": "La chiesa di San Giorgio sulla collina vicino a Kras risulta solo parzialmente conservata, ossia ne rimane il suo strato archeologico. Nell’atto di donazione in scrittura glagolitica del 1230 viene menzionato che fu commissionata da Juraj Pariježić e che, dopo la morte del suo ultimo successore, venne lasciata al “capitolo”. Fino al 1570, la chiesa fu sede della confraternita di San Giorgio. La chiesa è un edificio a navata unica con un\\'abside semicircolare prominente a est. Sulla parete meridionale si nota il metodo di costruzione con pietre squadrate rettangolari in strati regolari. I resti della chiesa indicano un tipo di costruzione romanica, riconoscibile in una serie di chiese insulari. Non ci sono tracce visibili di rimodellamento, quindi si presume che mantenne la sua forma originale fino all’abbandono nel XVIII secolo.",
       "numberOfImages": 2,
       "latitude": 45.11175,
       "longitude": 14.605583
@@ -532,28 +532,33 @@
         "Secoli fa, sull\\'isola di Krk furono costruiti insediamenti fortificati, situati su alture strategiche da cui venivano controllate importanti rotte commerciali e da dove la città avrebbe potuto essere più facilmente difesa in caso di attacco. Un vero esempio di una città così pianificata è la città di Dobrinj, situata nella parte centrale dell\\'isola. Anche se a prima vista non si notano le mura, questo non significa che non ci sono, ma che invece sono state molto abilmente nascosta all\\'interno della spessa cinta muraria del bordo esterno della città. Dopo aver visitato Dobrinj, dirigetevi verso Krk, una, città la cui lunga storia è incavata nei suoi bastioni e nel castello. Il Castello di Krk è conosciuto con il nome Castello di Frankopan, quindi la prossima tappa della vostra escursione potrebbe essere il castello nascosto di questa nobile famiglia chiamata Gradec, situato nella foresta non lontano da Vrbnik. Sulla strada verso Gradec avete scoperto i magici paesaggi boscosi dell\\'isola quindi è tempo di dirigersi verso Baška con i suoi magnifici paesaggi scoscesi. La storia di questo luogo è legata allo spostamento dell\\'intera popolazione dalle colline nello spazio pianeggiante lungo la riva del mare a seconda del periodo storico che intercorreva: più o meno incerto, dovuto ai tempi di guerra. Pertanto, questa escursione termina alla chiesa di San  Giovanni e al castello sopra Baška, luogo spesso occupato dai residenti durante gli attacchi dal mare,  e poi godetevi la passeggiata nel centro storico e sul lungomare."
       ],
       "map-url": "https://www.google.com/maps/d/u/0/viewer?mid=1fqyKxf602KThsP8_xm936VhcBFhZduyS&ll=45.08888834670806%2C14.728269447460889&z=11",
-      "related": {
-        "dobrinj": {
+      "related": [
+        {
+          "key": "dobrinj",
           "title": "Dobrinj",
           "type": "places"
         },
-        "volsonis": {
+        {
+          "key": "volsonis",
           "title": "Castello, mura e resti archeologici nel Caffé Volsonis",
           "type": "forts"
         },
-        "gradec_and_frankopans": {
+        {
+          "key": "gradec_and_frankopans",
           "title": "Gradec e i Frankopan",
           "type": "forts"
         },
-        "krk": {
+        {
+          "key": "krk",
           "title": "Krk",
           "type": "places"
         },
-        "st_john": {
+        {
+          "key": "st_john",
           "title": "La chiesa di San Giovanni",
           "type": "churches"
         }
-      }
+      ]
     },
     "monasteries_visit": {
       "title": "Visita ai monasteri dell\\'isola di Krk",
@@ -561,32 +566,38 @@
         "Dopo aver esplorato il lungomare di Punat, prendete una barca per l\\'isola di Košljun, un luogo magico custodito dai francescani.,   I monaci abitavano tradizionalmente su questo isolotto inizia ancora dal periodo medioevale quando arrivarono i frati Benedettini, e poi dal XV secolo fino ai giorni nostri è abitato dai Piccoli Fratelli. Dopo aver visitato Košljun, dirigetevi verso la porta settentrionale della città di Krk fino alla Piazza dei glagolitici. Questo è un luogo di reale convivenza di diverse comunità religiose, monasteri ancora attivi di monache benedettine e monaci francescani, e i monasteri oggi non più esistenti dell\\'Ordine benedettino sul sito della Chiesa di Nostra Signora della Salute e il monastero delle Monache Clarisse parzialmente conservato e presentato nel palazzetto dello sport situato nella suddetta piazza. La fermata successiva conduce a Glavotok e al monastero francescano situato in una bellissima cornice di tranquillità proprio sul mare. Per ottenere un\\'immagine il più completa possibile della vita monasteriale sull\\'isola, dovreste visitare anche il monastero francescano di Porat vicino a Malinska. In questo monastero troverete repliche dei monumenti glagolitici di Krk a cui conviene darne un\\'occhiata e prepararsi per la visita successiva a Jurandvor e alla Chiesa di Santa Lucia dove vedrete il luogo in cui è stato trovato il più importante monumento glagolitico, la Tavola di Baška."
       ],
       "map-url": "https://www.google.com/maps/d/u/0/viewer?mid=1yGYv114C8evJKzk8kR94ogjrilmpcxEp&ll=45.07197973143436%2C14.535032999999999&z=12",
-      "related": {
-        "punat": {
+      "related": [
+        {
+          "key": "punat",
           "title": "Punat",
           "type": "places"
         },
-        "kosljun": {
+        {
+          "key": "kosljun",
           "title": "Monastero francescano – Košljun",
           "type": "monasteries"
         },
-        "glagolitic_monks": {
+        {
+          "key": "glagolitic_monks",
           "title": "Monasteri nella piazza dei Glagolitici",
           "type": "monasteries"
         },
-        "st_michael_lady_health": {
+        {
+          "key": "st_michael_lady_health",
           "title": "La chiesa di San Michele (Madonna della salute)",
           "type": "churches"
         },
-        "glavotok": {
+        {
+          "key": "glavotok",
           "title": "Monastero francescano – Glavotok",
           "type": "monasteries"
         },
-        "porat": {
+        {
+          "key": "porat",
           "title": "Monastero francescano – Porat",
           "type": "monasteries"
         }
-      }
+      ]
     },
     "few_stone_remains": {
       "title": "Il passato dell\\'isola nei pochi resti di Pietra",
@@ -594,32 +605,38 @@
         "Iniziate l’escursione a Omišalj. Camminate fino alla facciata della chiesa parrocchiale dell\\'Assunzione della Madonna dove vedrete importanti pezzi di mobilio ecclesiastico e i resti di un edificio precedente riutilizzati come materiali da costruzione per la muratura della chiesa attuale. Non è sempre stato opportuno preservare sia la chiesa più vecchia che quella più recente, quindi la vostra prossima destinazione potrebbe essere il complesso di chiese abbandonate nella foresta non lontano da Malinska, noto come Cickini. Dopo questa avventura, visitate Punat. Lungo la strada incontrerete la piccola chiesa di San Donato che dopo la Seconda guerra mondiale fu completamente distrutta e poi ricostruita ed è tutt’oggi il miglior esempio di architettura romanica sull\\'isola. Proseguite verso Punat e all\\'ingresso della città girate lungo il sentiero per visitare i resti della Chiesa di San  Pietro su Kanajt. Trattasi di un sito archeologico in cui la chiesa era presente dal VI al XIX secolo quando le funzioni furono interrotte. A Punat conviene fare una breve sosta e poi avventurarsi verso gli ultimi due siti sul lato orientale dell\\'isola, la chiesa medievale di San Pietro a Soline e l\\'edificio rinascimentale di Tutti i Santi a Sužan."
       ],
       "map-url": "https://www.google.com/maps/d/u/0/viewer?mid=1nF-hsfF4PTIljy_9jn7cdM5Hz7pFx-CW&ll=45.098084903041304%2C14.605628499999966&z=11",
-      "related": {
-        "parish_church_of_assumption": {
+      "related":[
+        {
+          "key": "parish_church_of_assumption",
           "title": "La chiesa di Santa Maria della Sorgente",
           "type": "churches"
         },
-        "lapidarium": {
+        {
+          "key": "lapidarium",
           "title": "Sito archeologico Cickini/Lapidario",
           "type": "archeology_remains"
         },
-        "st_donatus": {
+        {
+          "key": "st_donatus",
           "title": "La chiesa di San Donato",
           "type": "churches"
         },
-        "st_peter_kanajt": {
+        {
+          "key": "st_peter_kanajt",
           "title": "Sito archeologico di San Pietro al Kanajt",
           "type": "archeology_remains"
         },
-        "all_saints_suzan": {
+        {
+          "key": "all_saints_suzan",
           "title": "Chiesa di tutti i santi a Sužan",
           "type": "archeology_remains"
         },
-        "st_peter_soline": {
+        {
+          "key": "st_peter_soline",
           "title": "Chiesa di san Pietro - Soline",
           "type": "archeology_remains"
         }
-      }
+      ]
     },
     "krk_small_secluded_churches": {
       "title": "Le piccole chiese nascoste dell\\'isola di Krk",
@@ -627,32 +644,38 @@
         "Iniziate l’escursione a Vrbnik, la, culla del glagolitico e del buon vino, posto assolutamente da visitare se soggiornate sull\\'isola di Krk. Quindi iniziate il tour delle cinque piccole chiese sperdute, ognuna delle quali è speciale a modo suo. Troverete la prima sulla collina all\\'uscita del paese. Trattasi dei resti della Chiesa di San  Mavero (San Mauro). Quindi continuate verso Risika e ammirate la Chiesa di San Marako (Marco) sul promontorio in riva al mare.     Avete visto le due chiese ridotte in ruderi, ma molto importanti e ancora belle in attesa di un intervento di restauro. Proseguite per Dobrinj e fermartevi a San Vito dove potete scoprire l\\'omonima chiesa. Si tratta di un piccolo gioiello romanico costruito nel l’anno 1100 su una radura sopra la strada. La prossima destinazione vi porta a Soline, dove di nuovo sulla radura nella foresta c\\'è la chiesa di San Filippo e Giacomo che trae origine da un tempo più recente rispetto alla chiesa precedente. Qui è giusto fare una sosta e riposare, prepararsi per l\\'ultima tappa di questa escursione. Ora è possibile visitare anche la piccola città di Klimno e la chiesa di San Clemente in cui si trova un bellissimo altare ligneo appartenente al periodo rinascimentale sotto tutela dei beni culturali."
       ],
       "map-url": "https://www.google.com/maps/d/u/0/viewer?mid=1UPulMg7qOXwBQbhqwOiotGv9OHs2wnna&ll=45.11137389050382%2C14.642119999999977&z=12",
-      "related": {
-        "vrbnik": {
+      "related": [
+        {
+          "key": "vrbnik",
           "title": "Vrbnik",
           "type": "places"
         },
-        "st_mavro": {
+        {
+          "key": "st_mavro",
           "title": "Chiesa di San Mauro",
           "type": "archeology_remains"
         },
-        "st_marcos_church": {
+        {
+          "key": "st_marcos_church",
           "title": "Chiesa di San Marco",
           "type": "archeology_remains"
         },
-        "st_vitus": {
+        {
+          "key": "st_vitus",
           "title": "La chiesa di San Vito",
           "type": "churches"
         },
-        "st_philip_and_jacob": {
+        {
+          "key": "st_philip_and_jacob",
           "title": "La chiesa di San Filippo e Giacomo",
           "type": "churches"
         },
-        "st_clement_klimno": {
+        {
+          "key": "st_clement_klimno",
           "title": "La chiesa di San Clemente a Klimno",
           "type": "churches"
         }
-      }
+      ]
     },
     "krk_new_age": {
       "title": "Isola di Krk nei primi secoli dopo cristo",
@@ -660,28 +683,33 @@
         "Questa escursione potrebbe iniziare con i bagni di fango nella baia vicino a Soline. Già gli antichi Romani usavano questo fango per curarsi, quindi non vi è motivo per non approfittarne. Durante l’Impero Romano qui vi era il lungomare e poco lontano c\\'erano le saline dove veniva raccolto il sale e producendo una notevole ricchezza. La prossimo destinazione è la città romana di Fulfinum ai piedi di Omišalj. Questo sito estremamente importante comprende anche un\\'antica basilica cristiana del V secolo chiamata Mira. Dopo aver ammirato il paesaggio circostante, dirigetevi verso il Curicum romano, l\\'odierno Krk. Sebbene la storia della città risalga al passato antico, i primi secoli sono visibili solo nelle profondità nel sottosuolo. All\\'interno del ristorante Volsonis, nel cuore della città, è possibile vedere parte delle infrastrutture della città e i bastioni della cittadina di Krk dell’epoca. Non lontano da questa posizione, all\\'interno della taverna Mate, c\\'è un bellissimomosaico romano raffigurante Tritone. Per completare la visita, altri mosaici antichi cristiani sono visibili a Baška, nel, centro della città, vicino alla chiesa di San Marco. Trattasi delle parti di un mosaico del V secolo che sono state conservate e con cui un tempo era pavimentata la chiesa."
       ],
       "map-url": "https://www.google.com/maps/d/u/0/viewer?mid=1BmErP9jUAvUdG9yaljOrlLUbSXC4XKjx&ll=45.08839558346452%2C14.643850499999985&z=11",
-      "related": {
-        "st_peter_soline": {
+      "related": [
+        {
+          "key": "st_peter_soline",
           "title": "Chiesa di san Pietro - Soline",
           "type": "archeology_remains"
         },
-        "roman_city_fulfinum": {
+        {
+          "key": "roman_city_fulfinum",
           "title": "La città romana Fulfinum",
           "type": "archeology_remains"
         },
-        "volsonis": {
+        {
+          "key": "volsonis",
           "title": "Castello, mura e resti archeologici nel Caffé Volsonis",
           "type": "forts"
         },
-        "triton_mosaic": {
+        {
+          "key": "triton_mosaic",
           "title": "Mosaico raffigurante Tritone",
           "type": "archeology_remains"
         },
-        "st_marcos_church": {
+        {
+          "key": "st_marcos_church",
           "title": "Chiesa di San Marco",
           "type": "archeology_remains"
         }
-      }
+      ]
     }
   },
   "ethno": {
@@ -723,7 +751,7 @@
     },
     "regional_museum_baska": {
       "title": "Museo etnografico a Baška",
-      "description":[
+      "description": [
         "Se vi capita di visitare la zona più meridionale dell\\'isola, nota località balneare e un vero e proprio piccolo paradiso turistico, non mancate a fare una visita al Museo etnografico di Baška. Sebbene sia una collezione museale relativamente modesta fondata nel 1970, essa conserva una significativa collezione etnografica di oggetti d\\'uso quotidiano reperiti nella zona di Baška. Uno dei reperti più importanti della cultura tradizionale di questa regione sono i costumi popolari. Inoltre, è possibile vedere oggetti casalinghi quotidiani, una cucina di altri tempi con i servizi da tavola e vari utensili. Una parte della mostra è dedicata alla famosa dottoressa di origini ceche Dr. Zdenka Čermakova (1884–1968), che trascorse la sua vita lavorativa a Baška come medico di famiglia e turistico."
       ],
       "numberOfImages": 2,
