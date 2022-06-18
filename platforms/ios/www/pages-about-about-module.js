@@ -9,7 +9,7 @@
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = (".center-content {\n  justify-content: center;\n}\n\n.sponsor {\n  margin: 10px;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uLy4uLy4uLy4uL2Fib3V0LnBhZ2Uuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNJLHVCQUFBO0FBQ0o7O0FBRUE7RUFDSSxZQUFBO0FBQ0oiLCJmaWxlIjoiYWJvdXQucGFnZS5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLmNlbnRlci1jb250ZW50e1xuICAgIGp1c3RpZnktY29udGVudDogY2VudGVyO1xufVxuXG4uc3BvbnNvcntcbiAgICBtYXJnaW46IDEwcHg7XG59Il19 */");
+/* harmony default export */ __webpack_exports__["default"] = (".center-content {\n  justify-content: center;\n}\n\n.logo-container {\n  display: flex !important;\n  justify-content: center !important;\n}\n\n.sponsor {\n  margin: 10px;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uLy4uLy4uLy4uL2Fib3V0LnBhZ2Uuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNJLHVCQUFBO0FBQ0o7O0FBRUE7RUFDSSx3QkFBQTtFQUNBLGtDQUFBO0FBQ0o7O0FBRUE7RUFDSSxZQUFBO0FBQ0oiLCJmaWxlIjoiYWJvdXQucGFnZS5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLmNlbnRlci1jb250ZW50e1xuICAgIGp1c3RpZnktY29udGVudDogY2VudGVyO1xufVxuXG4ubG9nby1jb250YWluZXJ7XG4gICAgZGlzcGxheTogZmxleCAhaW1wb3J0YW50O1xuICAgIGp1c3RpZnktY29udGVudDogY2VudGVyICFpbXBvcnRhbnQ7XG59XG5cbi5zcG9uc29ye1xuICAgIG1hcmdpbjogMTBweDtcbn1cbiJdfQ== */");
 
 /***/ }),
 
@@ -138,7 +138,7 @@ let AboutPage = class AboutPage {
         this.getLanguage();
     }
     getLanguage() {
-        let currentLanguage = localStorage.getItem('language');
+        const currentLanguage = localStorage.getItem('language');
         this.translate.use(currentLanguage);
     }
     ngOnInit() {
@@ -168,7 +168,7 @@ AboutPage = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"])([
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<ion-header>\n  <ion-toolbar class=\"header\" color=\"primary\">\n    <ion-menu-toggle>\n      <ion-button size=\"small\" color=\"light\" fill=\"clear\">\n        <ion-icon size=\"large\" slot=\"icon-only\" name=\"menu-outline\"></ion-icon>\n      </ion-button>\n    </ion-menu-toggle>\n    <ion-title>{{ 'navigation.about' | translate }}</ion-title>\n  </ion-toolbar>\n</ion-header>\n\n<ion-row justify-content-center align-items-center>\n  <img src=\"assets/images/logo.png\">\n</ion-row>\n\n<ion-content class=\"ion-padding\" text-center>\n\n  <ion-text [innerHtml]=\"'about.description' | translate\"></ion-text>\n\n  <ion-row class=\"center-content\">\n    <a class=\"sponsor\" href=\"http://cib.uniri.hr/\">\n      <img src=\"assets/images/logos/about_cib.png\" />\n    </a>\n\n    <a class=\"sponsor\" href=\"https://www.croatia.hr/hr-HR\">\n      <img src=\"assets/images/logos/about_hrvatska.png\" />\n    </a>\n\n    <a class=\"sponsor\" href=\"http://www.krk.hr/\">\n      <img src=\"assets/images/logos/about_krk.png\" />\n    </a>\n\n    <a class=\"sponsor\" href=\"http://www.kvarner.hr/turizam\">\n      <img src=\"assets/images/logos/about_kvarner.png\" />\n    </a>\n\n    <a class=\"sponsor\" href=\"https://www.visit-omisalj-njivice.hr/\">\n      <img src=\"assets/images/logos/about_omisalj.png\" />\n    </a>\n\n    <a class=\"sponsor\" href=\"https://www.uniri.hr\">\n      <img src=\"assets/images/logos/about_sur.png\" />\n    </a>\n  </ion-row>\n\n\n</ion-content>");
+/* harmony default export */ __webpack_exports__["default"] = ("<ion-header>\n  <ion-toolbar class=\"header\" color=\"primary\">\n    <ion-menu-toggle>\n      <ion-button size=\"small\" color=\"light\" fill=\"clear\">\n        <ion-icon size=\"large\" slot=\"icon-only\" name=\"menu-outline\"></ion-icon>\n      </ion-button>\n    </ion-menu-toggle>\n    <ion-title>{{ 'navigation.about' | translate }}</ion-title>\n  </ion-toolbar>\n</ion-header>\n\n<ion-content class=\"ion-padding\" text-center>\n\n  <ion-row class=\"logo-container\" justify-content-center align-items-center>\n    <img src=\"assets/images/logo.png\" alt=\"about_krk\">\n  </ion-row>\n\n  <ion-text [innerHtml]=\"'about.description' | translate\"></ion-text>\n\n  <ion-row class=\"center-content\">\n    <a class=\"sponsor\" href=\"http://cib.uniri.hr/\">\n      <img src=\"assets/images/logos/about_cib.png\" alt=\"about_krk\" />\n    </a>\n\n    <a class=\"sponsor\" href=\"https://www.croatia.hr/hr-HR\">\n      <img src=\"assets/images/logos/about_hrvatska.png\" alt=\"about_krk\" />\n    </a>\n\n    <a class=\"sponsor\" href=\"http://www.krk.hr/\">\n        <img src=\"assets/images/logos/about_krk.png\"  alt=\"about_krk\"/>\n    </a>\n\n    <a class=\"sponsor\" href=\"http://www.kvarner.hr/turizam\">\n      <img src=\"assets/images/logos/about_kvarner.png\" alt=\"about_krk\" />\n    </a>\n\n    <a class=\"sponsor\" href=\"https://www.uniri.hr\">\n      <img src=\"assets/images/logos/about_sur.png\" alt=\"about_krk\" />\n    </a>\n  </ion-row>\n\n\n</ion-content>\n");
 
 /***/ })
 

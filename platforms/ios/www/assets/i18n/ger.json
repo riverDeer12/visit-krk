@@ -1,345 +1,782 @@
 {
-    "app_name": "Heritage Omišalj",
-    "language_picker":  {
-      "choose_your_language": "Wähle deine Sprache",
-      "english": "Englisch",
-      "croatian": "Kroatisch",
-      "german": "Deutsch",
-      "italian": "Italienisch"
+  "app_name": "Visit Krk",
+  "language_picker": {
+    "choose_your_language": "Wähle deine Sprache",
+    "english": "Englisch",
+    "croatian": "Kroatisch",
+    "german": "Deutsch",
+    "italian": "Italienisch"
+  },
+  "sidebar_header_text": "Visit Krk",
+  "next": "Nächste",
+  "contact": "Kontakt",
+  "back_to_quit": "Click BACK again to exit application",
+  "settings": "Einstellungen",
+  "try_again": "Versuchen Sie es nochmal",
+  "back": "Zurück",
+  "refresh": "Aktualisierung",
+  "please_wait": "Warten Sie mal...",
+  "show_on_map": "Auf der Karte anzeigen",
+  "get_me_there": "Bring mich hin",
+  "related_sights": "Verwandte Sehenswürdigkeiten:",
+  "read_more": "Weiterlesen",
+  "navigation": {
+    "history": "Geschite",
+    "closest_point_of_interest": "Closest point of interest",
+    "archeology_remains": "Archäologische Stätten",
+    "archeology_remain": "Archäologische Stätten",
+    "churches": "Kirche",
+    "church": "Kirche",
+    "forts": "Festung",
+    "fort": "Festung",
+    "places": "Stadt",
+    "place": "Stadt",
+    "tours": "Ausflüge",
+    "tour": "Ausflüge",
+    "ethnos": "Ethnographische Sammlungen",
+    "ethno": "Ethnographische Sammlungen",
+    "all_sights": "All sights",
+    "about": "Info",
+    "communication": "Kontakt",
+    "share": "Aktie",
+    "rate": "Bewertung",
+    "send_mail": "E-Mail senden",
+    "no_email_message": "No email application installed."
+  },
+  "history": {
+    "title": "Geschite der Insel Krk",
+    "description": [
+      "Die dynamische Geschichte der Insel Krk wurde durch ihre günstige geographische Lage (Schnittpunkt von Handelsrouten), mildes Klima, ausreichend fruchtbares Land und eine beträchtliche Anzahl von Anhöhen zur Begründung von Siedlungen bestimmt. Ihre frühesten Spuren reichen bis in die Vorgeschichte zurück. Obwohl noch systematisch unerforscht, wurden die Überreste dieser alten Vergangenheit in strategisch positionierten Hügeln (um <b>die Kirche des Hl. Petrus in Gabonjin</b>) und in den Höhlen der Insel Krk gefunden. Die römische Herrschaft hat viele Spuren auf der Insel Krk hinterlassen, die am Fuße von <b>Omišalj</b> an der archäologischen Stätte <b>Fulfinum</b>, in der Bucht Soline um die mittelalterliche Kirche an der archäologischen Stätte <b>Hl. Petrus</b> und in den heutigen Städten <b>Baška und Krk</b> gefunden wurden. Die am besten erhaltenen Spuren der römischen Kultur befinden sich in den gastwirtschaftlichen <b>Objekten Volsonis</b> und Mate in der Stadt Krk. Das Café Volsonis ist in die römischen Mauern der Stadt integriert und im Café Mate gibt es ein sehr gut erhaltenes <b>römisches Mosaik mit Darstellung des mythischen Tritons</b>.\n\nDie frühesten Spuren des Christentums auf der Insel stammen aus dem fünften Jahrhundert, als der Glaube vom Reich akzeptiert wurde. Zu dieser Zeit werden an den Zentren der Spätantike wichtige sakrale Objekte gebaut. Die ältesten und erhaltenen Gebäude waren <b>die altchristliche Basilika in Mirine</b>, die nahe der römischen Stadt Fulfinum erbaut wurde, die Ruinen der ehemaligen altchristlichen Kirche am Fuße <b>der Kirche des Hl. Markus in Baška</b> und Spuren eines sehr alten frühzeitlichen Sakralbaus, der in den Sockeln <b>der Kathedrale von Krk</b> gefunden wurde.\n\nDie heutige Insel Krk ist in sieben Gemeinden unterteilt, deren Verwaltungszentren größere Orte sind: <b>Omišalj, Malinska, Dobrinj, Vrbnik, Krk, Punat und Baška</b>. Ungefähr eine solche Aufteilung der Insel, ausgenommen von Punat und Malinska als jüngere Siedlungen, ist seit dem Mittelalter erhalten, als die fürstliche Familie Frankopan unter wachem Auge von Venedig die Kastelle der Insel verwaltete. Diese Familie sorgte um die Aufrechterhaltung des Friedens auf der Insel, um geregelte rechtliche Beziehungen, um die Pflege der Tradition der kroatischen Sprache und der glagolitischen Schrift und um die Erhaltung der sakralen Gebäude, die für die Durchführung des Gottesdienstes erforderlich sind. Nicht weit von Vrbnik wurde die alte Festung der Familie Frankopan namens <b>Gradec</b> erhalten. In der Stadt Krk gibt es ein prächtiges Frankopaner Kastell, ein repräsentatives Verteidigungsgebäude und ein wesentlicher Bestandteil der Stadtmauern.\n\nDas unsichere Mittelalter bedingte den Bau von Siedlungen auf Hügeln, da die geographische Position die Überwachung der bebaubaren Flächen und den Schutz vor möglichen Angriffen ermöglichte. Die Stadtmauer ist nur in Krk erhalten, an anderen Stellen, beispielsweise in Dobrinj, sind die Überreste der Stadtmauern nur innerhalb der dicken Häuserwände sichtbar, die sich im äußeren Ring der Stadt befinden. Die Inselorte haben heute erkennbare Elemente traditioneller Architektur wie kleine Steinhäuser, die radial in den engen Gassen rund um den Hauptplatz der Stadt gelegen sind. Als Markenzeichen jeder Siedlung erstreckt sich stolz der Glockenturm der örtlichen Kirchen (<b>Kirche des Hl. Stephan in Dobrinj, Mariä-Himmelfahrt-Kirche in Vrbnik und Mariä-Himmelfahrt-Kirche in Omišalj</b>).\n\nMit diesem Projekt wurde an einem Ort das reiche kulturelle Erbe der Insel Krk von der römischen bis zur modernen Geschichte zusammengefasst. Umfasst wurde eine Reihe von archäologischen Stätten, Festungen, frühchristlichen, mittelalterlichen und modernen Kirchengebäuden und Klöstern sowie anderen repräsentativen Kulturgütern der Inseln Krk."
+    ]
+  },
+  "closest_point_of_interest": {
+    "closest_sight": "Closest sight",
+    "closest_tour": "Closest tour",
+    "no_navigation_alert": "No navigation application available",
+    "no_internet": {
+      "title": "No internet connection",
+      "description": "This functionality requires internet connection"
     },
-    "sidebar_header_text": "Heritage Omišalj",
-    "next": "Fortzufahren",
-    "contact": "Kommunikation",
-    "back_to_quit": "Klicken Sie erneut auf ZURÜCK, um die Anwendung zu beenden",
-    "settings": "Einstellungen",
-    "try_again": "Versuchen Sie es nochmal",
-    "back": "Zurück",
-    "refresh": "AKTUALISIERUNG",
-    "please_wait": "Warten Sie mal…",
-    "show_on_map": "Auf der Karte anzeigen",
-    "get_me_there": "Bring mich hin",
-    "related_sights": "Verwandte Standortseiten:",
-    "read_more": "Weiterlesen",
-    "navigation": {
-      "history": "Geschichte des Omišalj",
-      "closest_point_of_interest": "Nächster Punkt von Interesse",
-      "archeology_remains": "Archäologische Überreste",
-      "archeology_remain": "Archäologische Überreste",
-      "churches": "Kirchen",
-      "church": "Kirchen",
-      "forts": "Festungen",
-      "fort": "Festungen",
-      "industrial_heritage": "Industrielles Erbe",
-      "localities": "Ortschaften",
-      "locality": "Ortschaften",
-      "libraries": "Bibliotheken",
-      "library": "Bibliotheken",
-      "parks": "Parks",
-      "park": "Parks",
-      "museums": "Museen",
-      "museum": "Museen",
-      "cemeteries": "Friedhöfe",
-      "cemetery": "Friedhöfe",
-      "monuments": "Monumente",
-      "monument": "Monumente",
-      "lookouts": "Aussichtspunkte",
-      "lookout": "Aussichtspunkte",
-      "tours": "Touren",
-      "tour": "Touren",
-      "ethnographic_collections": "Ethnographische Sammlungen",
-      "ethnographic_collection": "Ethnographische Sammlungen",
-      "all_sights": "Alle Standorte",
-      "about": "Über",
-      "communication": "Kommunikation",
-      "share": "Teilen",
-      "rate": "Rate",
-      "send_mail": "Mail senden",
-      "no_email_message": "Keine E-Mail-Anwendung installiert."
+    "location_permission": {
+      "title": "Permission for location needed!",
+      "description": "This functionality requires location permission."
     },
-    "history": {
-      "title": "Geschichte des Omišalj",
-      "description": "Willkommen im historischen Zentrum von Omišalj, einer malerischen und vielschichtigen Stadtstruktur mit Elementen mittelalterlicher Architektur, Renaissance, Barock und historischen Stilen des 19. und frühen 20. Jahrhunderts. Omišalj wurde auf der Grundlage eines früheren Dorfes gegründet, dessen Wurzeln bis in die Vorgeschichte zurückreichen. Der ursprüngliche Lebensraum vom Fort-Typ, der von starken, trocken ummauerten Stadtmauern verteidigt wurde, war der Sitz der liburnischen Stammesgemeinschaft Fertinata. Es stagnierte während des Römischen Reiches, als sich das nahe gelegene Küstenland und die Hafenstadt Fulfinum entwickelten, und blühte im frühen und entwickelten Mittelalter wieder auf.<br><br>Omišalj war das erste der bereits existierenden Dörfer auf der Insel, die im frühen Mittelalter massenhaft von eingewanderten Kroaten besiedelt wurden, um ein harmonisches Zusammenleben mit der romanisierten indigenen Gemeinschaft zu erreichen. Während des Mittelalters war es eine Festung der Fürsten von Krk, später Frankapans, die zwei starke Befestigungen davor und daneben errichteten. Die Venezianer, die 1480 Omišalj regierten, nannten es aufgrund seiner strategischen Bedeutung zu Recht den Schlüssel zur Insel Krk. Noch heute ist dies jedem klar, der das historische Zentrum der Stadt betritt und sich auf einem seiner Aussichtspunkte befindet, von denen aus man leicht einen guten Teil der Kvarner-Bucht sehen kann.Wie nirgendwo sonst auf der Insel Krk in Omišalj verflechten sich Teile der Architektur des Mittelalters und der Renaissance mit ungewöhnlichen architektonischen Strukturen."
+    "gps": {
+      "title": "GPS not enabled",
+      "description": "This functionality requires GPS"
+    }
+  },
+  "about": {
+    "title": "Visit Krk",
+    "description": "<b>Bestellt durch:</b> Tourismusverband der Insel Krk<br><br><b> Projektleiter:</b> Ivana Golob Mihić, Ema Makarun, Kristina Pandža<br><br><b>Text:</b> Ema Makarun, Matija Makarun<br><br><b>Vortrag und Korrektur:</b> Gordana Ožbolt<br><br><b>Englisch und Korrektur:</b> Jana Kegalj<br><br><b>Deutsch:</b> Mihaela Užar<br><br><b>Foto:</b> Ivica Brusić - BRUJO<br><br><b> EDV und Gestaltung:</b> Ljiljana Brusić<br><br><b>Mobile App-Entwicklung:</b> R.D.D."
+  },
+  "archeology_remains": {
+    "all_saints_suzan": {
+      "title": "Allerheiligenkirche in Sužan",
+      "description": [
+        "Die Allerheiligenkirche in Sužan datiert in das Jahr 1514 als sie unter der Schirmherrschaft der Bruderschaft der Allerheiligen aus Sužan erbaut wurde. Zu großen Veränderungen kam es im zweiten Jahrzehnt des 19. Jahrhunderts, als eine solche Form des freiwilligen treuen Gottesdienstes abgeschafft und die Kirche dem Volk überlassen wurde. Nach 1927 wurde kein Gottesdienst in der Kirche gehalten als die nahe gelegene Kirche der Muttergottes der Gesundheit errichtet wurde. Diese wurde dann zur Hauptdorfkirche in Sužan.  Obwohl die Kirche relativ jung ist, sind mehrere Bau- und Umbauphasen sichtbar. Die ursprüngliche Renaissancekirche war klein, dann wurde im Osten eine Apsis hinzugefügt und im Westen der Eingang (Atrium). Die Westfassade hat einen offenen Glockenturm mit drei Glocken und eine Steintreppe, die zum Dach führt. Neben der Kirche befand sich ein Friedhof, und östlich der Apsis befindet sich ein kleineres Gebäude, das wahrscheinlich ein Nebengebäude für Bestattungsarbeiten war. Obwohl sie heute verlassen ist und am Ende des Dorfes liegt, spricht diese Kirche malerisch über ihre fünfhundertjährige Vergangenheit und ist ein wahres Touristenjuwel."
+      ],
+      "numberOfImages": 2,
+      "latitude": 45.153278,
+      "longitude": 14.579444
     },
-    "closest_point_of_interest": {
-      "closest_sight": "Nächster Standort",
-      "closest_tour": "Nächste Tour",
-      "no_navigation_alert": "Keine Navigationsanwendung verfügbar",
-      "no_internet": {
-        "title": "Keine Internetverbindung",
-        "description": "Diese Funktion erfordert eine Internetverbindung."
-      },
-      "location_permission": {
-        "title": "Standortgenehmigung erforderlich!",
-        "description": "Diese Funktion erfordert eine Standortberechtigung."
-      },
-      "gps": {
-        "title": "GPS nicht aktiviert",
-        "description": "Diese Funktion erfordert GPS."
+    "st_george_kras": {
+      "title": "Kirche des Hl. Georg auf dem berg bei Kras",
+      "description": [
+        "Die Kirche des Hl. Georg auf dem Berg bei Kras wurde nur teilweise, in der archäologischen Schicht, erhalten. In der Schenkungsurkunde in glagolitischer Schrift von 1230 wird erwähnt, dass sie Juraj Pariježić errichten ließ und er sie nach dem Tod seines letzten Nachfolgers dem „Kapitel“ hinterließ. Bis zum Jahr 1570 wirkte die Bruderschaft des Hl. George innerhalb der Kirche.  Die Kirche ist ein einschiffiges Gebäude mit ausgeprägter halbrunder Apsis im Osten. An der Südwand sind die in regelmäßige Reihen angeordneten Schnittsteine sichtbar, mit denen sie erbaut wurde. Die Überreste der Kirche weisen auf die romanische Bauweise hin, die bei einer Reihe von Inselkirchen erkennbar ist. Es gibt keine sichtbaren Spuren der Umgestaltung, weshalb angenommen wird, dass sie in ihrer ursprünglichen Form blieb bis sie im 18. Jahrhundert verlassen wurde."
+      ],
+      "numberOfImages": 2,
+      "latitude": 45.11175,
+      "longitude": 14.605583
+    },
+    "st_peter_soline": {
+      "title": "Kirche des Hl.Petrus-Soline",
+      "description": [
+        "Die Bucht des Hl. Petrus wird in der alten glagolitischen Urkunde, einem Kaufvertrag aus dem Jahr 1379, und dann in der glagolitischen Urkunde des Fürsten Ivan Frankopan von 1465 erwähnt, in der sie als „das Land des Hl. Petrus“ bezeichnet wird. Sie liegt an einem äußerst wichtigen Gebiet, da sich hier im Mittelalter Salzwerke befanden und Salz damals ein strategisches Gut, ein Symbol der Macht und ein Zahlungsmittel war.  Die Kirche des Hl. Petrus ist in einem ruinösen Zustand erhalten, jedoch sind mehrere Bauabschnitte erkennbar – die vorromanische und die spätere romanisch-gotische Adaption, auf die der Triumphbogen Bezug nimmt. Zu dieser Zeit wurde die Kirche erheblich erweitert. Die Westfassade ist einfach mit offenem Glockenturm. Die ältesten Mauern der Kirche befinden sich an ihrer äußersten Ostseite, weshalb vermutet wird, dass dieser Teil einst eine kleine vorromanische Kirche war.  Das breitere Gebiet um die Bucht des Hl. Petrus ist eine archäologische Zone, in der Funde aus der Vorgeschichte bis zum Frühmittelalter und Mittelalter gefunden wurden. Daher überrascht es nicht, dass die Kirche vielschichtig ist."
+      ],
+      "numberOfImages": 2,
+      "latitude": 45.164194,
+      "longitude": 14.606417
+    },
+    "st_mary_spring": {
+      "title": "Kirche der Hl.Maria von der Quelle",
+      "description": [
+        "Im Camp Ježevac, auf einem von Wäldern umgebenen Plateau, befinden sich Reste eines interessanten Sakralbaus – Kirche der Hl. Maria von der Quelle. Die Kirche wurde zum ersten Mal im Jahr 1486 erwähnt, jedoch wurde mit diesem Jahr das Bestehen der Kirche gemeint und nicht das Datum ihrer Entstehung. Die Kirche ist einfach, einschiffig, mit einer halbkreisförmigen Apsis an der Ostseite, Wänden aus in regelmäßige Reihen angeordnetem Schnittstein. Diese Art von Mauerwerk, die Abmessungen und die Form des Gebäudes sind charakteristisch für die Kirchen der Romanik aus dem 12. bis 13. Jahrhundert. Dennoch, Funde dekorativer Steinplastik weisen auf ihr früheres Entstehen im 11. Jahrhundert. An der Nordseite der Kirche wurde in der späteren Bauphase eine im Grundriss kleinere rechteckige Erweiterung angebaut. Die Dicke der Wände deutet darauf hin, dass es sich um ein hohes Gebäude handelt, wahrscheinlich um den Glockenturm. Die Kirche dominiert über die Gegend. Von ihr aus erstreckt sich ein Blick auf den Kanal. Der Glockenturm hatte offensichtlich die Aufgabe, die Bewohner der nahegelegenen Stadt Krk im Falle einer drohenden Gefahr vom Meer aus zu warnen.  Östlich der Kirche, an der Apsis, wurde ein bedeutender Fund entdeckt. Im Felsen, der sich fünfzig Zentimeter über dem Boden erhebt, gibt es eine tiefe Schlucht, die als natürlicher Brunnen interpretiert werden kann. Im Felsen gibt es sichtbare Meißelspuren, wodurch dieses unzugängliche natürliche Erzeugnis durch menschliche Aktivität zu einer nützlichen Wasserquelle wurde. Es liegt auf der Hand, dass dieser Brunnen bzw. diese Quelle der Grund für die Unterbringung des Kirchengebäudes in dieser Gegend ist und dass sie den Titel Sancta Maria delle aque bzw. Heilige Maria von der Quelle trägt.  In der lokalen Tradition, verzeichnet um 1500, ist die Kirche mit einer Legende verbunden, die die Ankunft des. Hl. Franziskus auf die Insel Krk beschreibt, wo er mit seinen Brüdern vom bevorstehenden Sturm im Hafen nahe der Kirche der Muttergottes Unterkunft suchte. Der Legende nach trafen sie hier einen Einsiedler, den sie mit den Regeln ihres Ordens bekannt gemacht hatten. Diese Regeln wurden letztendlich vom Einsiedler akzeptiert und sie wurden zum Grundstein des Franziskanerordens in der Stadt Krk."
+      ],
+      "numberOfImages": 2,
+      "latitude": 45.017917,
+      "longitude": 14.567278
+    },
+    "triton_mosaic": {
+      "title": "Triton-mosaik",
+      "description": [
+        "In einer kleinen Straße, die vom Hauptplatz der Stadt, Vela Placa, nach Süden führt, befindet sich das Café Mate, in dem bei archäologischen Untersuchungen ein Mosaikfußboden mit einer reichen figürlichen Darstellung gefunden wurde. Nach stilistischen Merkmalen stammt er aus dem 1. Jahrhundert und er stellt das Werk mehrerer Meister dar. Im Zentrum des Mosaiks dominiert das mythologische Wesen Tritons mit menschlichem Körper und Fischschwanz. Triton ist ein Meeresgott, der Sohn von Poseidon und der Nereide Amphitrite. Er ist umgeben von Figuren der Meeresfauna, Delfinen und Fischen stilisierter Drachenmerkmale. Es wird angenommen, dass Triton nur eine der vier Figuren dieses Mosaikbodens ist. In der Mosaikdekoration ist ein Weingefäß zu sehen – Kantharos. Das Gefäß wird von einem anderen mythologischen Wesen mit menschlichem Torso, Pferdebeinen und Fischschwanz gehalten, wahrscheinlich von Ichthyokentaur. Aufgrund der Beschädigung des Mosaiks sind nur seine Mähne und sein Dreizack in seiner linken Hand sichtbar. Die fröhliche Atmosphäre und der Inhalt weisen auf ein Meeresfest hin. Das dritte mythologische Wesen ist nur spurweise erhalten. Wahrscheinlich handelt es sich um Pan, Sohn des Hermes. Darauf weist die Flöte hin, mit der Pan zum musikalischen Ambiente des Gastmahls beiträgt. Nachdem die Existenz von drei vollkommen gleichberechtigten Figuren festgestellt wurde, Triton, Ichthyokentaur und Pan, die in etwa gleichen Abständen voneinander liegen, wird der Eindruck gewonnen, dass eine vierte Figur fehlt, die die Darstellung des gesamten Meeresfestes vervollständigen würde. Dieses Mosaik war wahrscheinlich der Boden in Thermen eines reicheren privaten Gebäudes."
+      ],
+      "numberOfImages": 2,
+      "latitude": 45.025778,
+      "longitude": 14.574333
+    },
+    "roman_city_fulfinum": {
+      "title": "Romische stadt Fulfinum",
+      "description": [
+        "In der Bucht Sepen, nur wenige Kilometer Luftlinie südlich von Omišalj entfernt, befindet sich eine unerschöpfliche Grube archäologischen Erbes. Die ersten Spuren der Besiedlung dieser Gegend führen in das 1. Jahrhundert, als die römische Stadt – Fulfinum – gegründet wurde. Ihre Entstehung ist mit dem Bau einer Stadt für römische Soldaten im Ruhestand während der Flavier-Dynastie verbunden. Die gute geographische Lage führte zur Entwicklung von Seewesen und Handel. Bei bisherigen archäologischen Untersuchungen wurde das Stadtforum, das Herz jeder in der Römerzeit geborenen Stadt, das Zentrum des gesellschaftlichen und religiösen Lebens der Römer, entdeckt. Hier, nur etwa fünfzig Meter vom Meer, wurden Fundamente eines Tempels, einer zivilen Basilika und verschiedener Geschäftsgebäude (Tabernakeln) gefunden. Im 3. Jahrhundert verlöschte die Stadt, zumindest in Bezug auf ihre ursprüngliche monumentale Form. Trotzdem verschwindet das Leben nicht. Es wurden Spuren einer bescheideneren Besiedlung dieses Gebiets gefunden, die höchstwahrscheinlich mit dem noch in Gebrauch befindlichen Bogen in Verbindung stehen."
+      ],
+      "numberOfImages": 2,
+      "latitude": 45.203972,
+      "longitude": 14.544167
+    },
+    "old_christian_basilica": {
+      "title": "Altchristliche basilika in Mirine und die uberreste der dreiapsidenkirche in der bucht Sepen",
+      "description": [
+        "Auf dem flachen Plateau der Bucht Sepen steigen noch heute die Überreste der prachtvollen altchristlichen Basilika namens Mira aus dem 5. Jahrhundert hervor, die als Erinnerung an die ersten Zeichen des christlichen Glaubens auf der Insel Krk dient. Der Grundriss der Kirche stellt ein lateinisches Kreuz dar, ein Symbol des christlichen Glaubens. Innerhalb der Apsis befinden sich die Überreste eines Reliquiars (ein symbolisches Grab, in dem die heiligen Relikte aufbewahrt wurden), über dem sich der Altar befand. In dem Narthex (Lobby) im Westen wurden Gräber gefunden, darunter hebt sich das Grab im Sarkophag hervor. Neben der Basilika, zum Meer, befindet sich ein Kreuzgang, der von einer dicken Mauer mit zwei hohen, nur teilweise erhaltenen Türmen eingerahmt wird.  Das ursprüngliche Erscheinungsbild der Kirche ist in ihrer Gesamtheit erhalten, so dass dieses Gebäude ein wertvolles und seltenes „lebendes“ Zeugnis seiner Zeit ist.  Etwa hundert Meter westlich der großen frühchristlichen Basilika wurden Überreste einer kleineren Kirche und eines bescheidenen Klosterkomplexes gefunden. Sie entstanden im 9. Jahrhundert durch die Überarbeitung der römischen Thermen aus dem 1. bis 2. Jahrhundert. Das Hypokaustum dieser Thermen ist heutzutage unter der Holzbrücke an der Promenade am Meer sichtbar.  Die Kirche ist ein bescheidenes, einschiffiges Gebäude mit drei Apsiden in der geraden Vorderwand. Auf der Südseite befindet sich eine Gedenkstätte mit einer Apsis, die ebenfalls in die gerade Vorderwand eingebettet ist. Westlich der Kirche wurden Überreste der Klosterräume aufgefunden."
+      ],      "numberOfImages": 2,
+      "latitude": 45.203925,
+      "longitude": 14.543669
+    },
+    "lapidarium": {
+      "title": "Archaologische statte Cickini/Lapidaruim",
+      "description": [
+        "Auf der heutigen Straße, die von Omišalj nach Krk führt und in der Nähe von Malinska liegt, führt ein schmaler Weg durch einen dichten Wald zu einer wichtigen archäologischen Stätte der Insel Krk namens Cickini. Hier wurden Ruinen der römischen Siedlung aus dem 1. und 2. Jahrhundert und einer Kirche aus dem 6. Jahrhundert gefunden. Die Kirche ist einschiffig und hat die Form eines lateinischen Kreuzes. Entdeckt wurde ein Vestibül (Narthex) und ein Baptisterium mit Taufbecken, das seine Bedeutung für das Eindringen des Christentums auf der Insel Krk unterstreicht. Es wird angenommen, dass die Kirche den Titel Hl. Cyprian trug. Sie wurde im frühen Mittelalter verlassen, obwohl es Spuren einer späteren vorübergehenden Erneuerung gibt, jedoch nicht im ursprünglichen Maßstab.  In Sv. Vid-Miholjica in der Nähe von Malinska befindet sich eine kleine Museumsausstellung, in der die Steinplastik und andere dekorative Materialien aus Stein gezeigt werden, die während der Untersuchungen am Standort Cickini gefunden wurden."
+      ],
+      "numberOfImages": 2,
+      "latitude": 45.126,
+      "longitude": 14.551889
+    },
+    "mira_locality": {
+      "title": "Lokalitat Mira bei Jurandvor",
+      "description": [
+        "Auf der Straße nach Baška, unweit von Jurandvor, befinden sich Reste eines frühchristlichen Sakralbaus aus dem 5. Jahrhundert, der kürzlich entdeckt wurde, als der Mosaikfußboden der alten Kirche unter dem Ackerboden auftauchte. Das Gebäude entstand durch die Adaption eines älteren antiken Gebäudes, das in eine Kirche umgewandelt wurde. Es stellt eine dreischiffige Kirche mit einer flachen rechteckigen Wand dar, in die eine Apsis eingebettet war, die architektonisch ziemlich typisch für die nördliche Adria, Istrien, Dalmatien und Norditalien ist. Im Mosaik wurde sogar der Name der Stifterin Saprilla erhalten, die die Apsis errichten ließ. Neben Saprilla wurden auch die Namen anderer Mitglieder der Kirchengemeinde Baška notiert, die in den Mosaikfußboden der Kirche investiert hatten. In der Vorhalle der Kirche (Narthex) wurden Gräber gefunden, von denen sich jene Totenbestattung im Sarkophag hervorhebt."
+      ],
+      "numberOfImages": 2,
+      "latitude": 44.972,
+      "longitude": 14.740944
+    },
+    "korintija": {
+      "title": "Korintija",
+      "description": [
+        "Östlich des Meerbusens, in dem sich Baška eingebettet hat, gibt es zwei tief eingezogene Buchten, Vela und Mala Luka. Diese Meereinschnitte an der nördlichen und südlichen Seite haben die kleine Halbinsel Sokol geschaffen. Topographisch ist das gesamte Gebiet vom Festland aus, von der westlichen und südwestlichen Seite, von großen Felsmassiven von 250 bis mehr als 350 Metern Höhe umgeben und nur vom Osten, vom Meer aus, zugänglich. Nach den Überresten der Architektur war dieses Gebiet in der Spätantike bewohnt. Die Besiedlung war auf zwei Faktoren zurückzuführen – vor allem auf gut geschützte Meeresbuchten, Velika und Mala luka, und landwirtschaftliche Flächen, die sich im flachen Bosar-Gebiet ausdehnten.  Auf der Halbinsel Sokol, die sich bis zu 129 Meter über dem Meer erstreckt, entstand das Castrum Korintija. Das Castrum entstand in der Spätantike als ein Gebäude in der Reihe der militärischen, frühbyzantinischen Konstruktionen an der östlichen Adriaküste zum Zeitalter der Ausbreitung von Militärlagern. Dieses Castrum und dergleichen waren Beobachtungsposten und Militärstützpunkte, deren Funktion sich aus den Bestrebungen für die Sicherheit der Wasserstraßen sowie aus Bedarf nach einem Schutzgebiet für nahegelegene Siedlungen ergab. Innerhalb der Festungsmauern, auf dem nordöstlichen, leicht erhöhten Plateau, befinden sich die Überreste der Kirche aus dem 6. Jahrhundert.  Im fruchtbaren Küstenplateau Bosar gibt es Überreste von drei weiteren Kirchen. Die älteste unter ihnen, mit spezifischem Dreiblatt-Grundriss, datiert aus dem 6. Jahrhundert.  Heute ist es nicht leicht, diese Stätte zu erreichen, aber mit erheblichem Aufwand ist sie mit dem Boot oder Wanderwegen erreichbar."
+      ],
+      "numberOfImages": 2,
+      "latitude": 44.989611,
+      "longitude": 14.801028
+    },
+    "st_marcos_church": {
+      "title": "Kirche des Hl. Markus",
+      "description": [
+        "Auf der Spitze eines Hügels, südlich von Vrbnik, befinden sich noch heute, in der Landschaft mit niedriger Vegetation und Büschen, die Überreste der alten Kirche des Hl. Maurus. Dieser Ort ist sehr wichtig für das Verständnis der Entstehung von Vrbnik, da sich nach den alten örtlichen Legenden gerade hier der Ursprung der uns heute bekannten Siedlung befindet. Die Spuren von Baustoffen antiker Produktion, die in unmittelbarer Nähe der Kirche im Trockenmauerwerk und Boden verstreut sind, weisen auf die Besiedlung dieses Gebiets selbst in den ersten Jahrhunderten unserer Zeit hin. Seit dem Mittelalter wird die Legende übertragen, dass die alte Adelsfamilie Frankopan an diesem Ort ihren Hof hatte. Ältere Autoren schließen nicht die Möglichkeit aus, dass die Kirche des. Hl. Maurus zugleich die erste Pfarrkirche aus der Zeit vor der Entstehung von Vrbnik an dem heutigen Ort ist, noch bevor der heutige Vrbnik angesiedelt und die Kirche der Hl. Maria gesegnet wurde.  Obwohl in den schriftlichen Quellen die Zeit der Gründung der Kirche nicht erwähnt wird, kann sie aufgrund der Bau- und architektonischen Elemente in die romanische Zeit bzw. in das 12./13. Jahrhundert gesetzt werden.  Architektonisch handelt es sich um ein kleineres, einschiffiges sakrales Gebäude mittlerer Ausdehnung mit einer halbkreisförmigen Apsis.  Die Wände wurden aus echtem, in regelmäßige Reihen angeordneten Schnittstein erbaut. Es gibt sichtbare Unterschiede in der Bauweise der Süd- und Nordwand der Kirche, die mit kleinerem Schnittstein erbaut wurde, was auf die Anpassung eines älteren, vielleicht antiken Gebäudes hindeutet."
+      ],
+      "numberOfImages": 2,
+      "latitude": 45.10575,
+      "longitude": 14.667222
+    },
+    "st_george_church": {
+      "title": "Kirche des Hl. Georg",
+      "description": [
+        "In der Bucht des Hl. Georg, nördlich von Vrbnik, am Kap, befinden sich Überreste der mittelalterlichen Kirche des Hl. Georg. Ihren Dimensionen nach ist sie eine bescheidene, einschiffige Kirche mit einer Apsis an der Ostseite. Obwohl sie verlassen und profaniert wurde, trotzt sie noch immer dem Zahn der Zeit. Ihr fehlt nur das Dach. Sie gehört zu den wichtigen Überresten der romanischen Sakralarchitektur. Ihre Bedeutung bestätigen die Überreste von Fresken, die ihre Wände schmücken. Im nördlichen Bereich der Apsis kann man noch immer die Figur des Heiligen erkennen, der mit sanften Pinselstrichen in grüner Farbe gemalt wurde – des Hl. Georg.  Neben dem Bild des Hl. Georg ist in die Südwand der Kirche ein Bild eines Segelboots geschnitzt, das zu den ältesten Darstellungen alter kroatischer Segelboote zählt. Hierbei handelt es sich höchstwahrscheinlich um die Darstellung des großen mittelalterlichen Schiffes nava, eines Frachtsegelboots mit drei Mästen, das von Seemännern gefertigt wurde."
+      ],
+      "numberOfImages": 2,
+      "latitude": 45.066472,
+      "longitude": 14.70925
+    },
+    "st_mavro_church": {
+      "title": "Kriche des Hl. Maurus",
+      "description": [
+        "Auf der Spitze eines Hügels, südlich von Vrbnik, befinden sich noch heute, in der Landschaft mit niedriger Vegetation und Büschen, die Überreste der alten Kirche des Hl. Maurus. Dieser Ort ist sehr wichtig für das Verständnis der Entstehung von Vrbnik, da sich nach den alten örtlichen Legenden gerade hier der Ursprung der uns heute bekannten Siedlung befindet. Die Spuren von Baustoffen antiker Produktion, die in unmittelbarer Nähe der Kirche im Trockenmauerwerk und Boden verstreut sind, weisen auf die Besiedlung dieses Gebiets selbst in den ersten Jahrhunderten unserer Zeit hin. Seit dem Mittelalter wird die Legende übertragen, dass die alte Adelsfamilie Frankopan an diesem Ort ihren Hof hatte. Ältere Autoren schließen nicht die Möglichkeit aus, dass die Kirche des. Hl. Maurus zugleich die erste Pfarrkirche aus der Zeit vor der Entstehung von Vrbnik an dem heutigen Ort ist, noch bevor der heutige Vrbnik angesiedelt und die Kirche der Hl. Maria gesegnet wurde.  Obwohl in den schriftlichen Quellen die Zeit der Gründung der Kirche nicht erwähnt wird, kann sie aufgrund der Bau- und architektonischen Elemente in die romanische Zeit bzw. in das 12./13. Jahrhundert gesetzt werden.  Architektonisch handelt es sich um ein kleineres, einschiffiges sakrales Gebäude mittlerer Ausdehnung mit einer halbkreisförmigen Apsis.  Die Wände wurden aus echtem, in regelmäßige Reihen angeordneten Schnittstein erbaut. Es gibt sichtbare Unterschiede in der Bauweise der Süd- und Nordwand der Kirche, die mit kleinerem Schnittstein erbaut wurde, was auf die Anpassung eines älteren, vielleicht antiken Gebäudes hindeutet."
+      ],
+      "numberOfImages": 2,
+      "latitude": 45.072722,
+      "longitude": 14.674472
+    },
+    "st_peter_kanajt": {
+      "title": "Archaaologische  Statte Sv. Petar auf Kanajt",
+      "description": [
+        "In der Bucht von Punat auf dem Kanajt-Gebiet, in der Nähe des Jachthafens, wurden Überreste eines interessanten Sakralbaus gefunden, besser gesagt einer „Matrjoschka-Kirche“. Archäologische Forschungen haben das Bestehen eines älteren spätantiken Gebäudes festgestellt, das im 6. Jahrhundert teilweise restauriert und in eine Kirche umgewandelt wurde. Es ist eine einschiffige Kirche mit einer Apsis an der Ostseite. Innerhalb der Maße der Kirche aus dem 6. Jahrhundert entstand im frühen Mittelalter eine neue, kleinere Kirche mit zwei Apsiden. Der Grundriss dieser frühmittelalterlichen Kirche ist nicht so üblich, im kroatischen Raum wurden nur wenige Beispielen verzeichnet (Sv. Peter Stari in Zadar, Sv. Platon auf Cres und Sv. Marija Mala in Bale). In der Romanik, zwischen dem 12. und 13. Jahrhundert, wird innerhalb der Dimensionen der frühmittelalterlichen kleineren Kirchen eine noch kleinere einschiffige Kirche mit einer Apsis im Osten gebaut. Diese Kirche wird allmählich vom 15. bis zum 19. Jahrhundert verlassen, als sie durch die Kultivierung der Ackerflächen vollständig zerstört wurde."
+      ],
+      "numberOfImages": 2,
+      "latitude": 45.03325,
+      "longitude": 14.631778
+    },
+    "st_george_mala_kras": {
+      "title": "Kirche des Hl. Georg in Mala Kras",
+      "description": [
+        "In der arch. Stätte Mala Kras, nur wenige Kilometer südlich von Punat, befinden sich Reste der romanischen Kirche des Hl. Georg. Die Wände an der Westseite der Kirche sind die Überreste eines spätmodernen Gebäudes, das wie jenes Gebäude in Kanajt im 6. Jahrhundert in eine Kirche umgewandelt wurde. Die ursprüngliche Kirche war etwas größer als die jetzige – ihre Konturen sind in den Fundamenten der Apsis der romanischen Kirche zu sehen. Um die Kirche befanden sich Gräber, die an die erste Phase des Sakralbaus gebunden waren. In der vorrömischen Zeit wurde die Kirche neu ausgestattet. Heute sind nur noch die Überreste der Kirchen aus dem 12. und 13. Jahrhundert sichtbar. Von der Kirche aus dem 6. Jahrhundert sind nur ihre Fundamente erhalten."
+      ],
+      "numberOfImages": 2,
+      "latitude": 45.002056,
+      "longitude": 14.626556
+    }
+  },
+  "churches": {
+    "parish_church_of_assumption": {
+      "title": "Pfarrkirche Maria himmelfahrt un glockenturm",
+      "description": [
+        "Die heutige Pfarrkirche Mariä Himmelfahrt, die sich auf der topographischen Spitze der Siedlung befindet, stellt eine einschiffige Hallenkirche dar, die in Nord-Süd-Richtung ausgerichtet ist. Sie hat eine große und geräumige rechteckige Apsis, die an der nördlichen Seite angebracht ist. An der Ostseite der Apsis befindet sich eine Sakristei und an der Westwand die im Jahr 1505 erbaute Kapelle Mariä Geburt. Die Fassade an der Südseite ist im klassizistischen Stil mit drei rechteckigen Öffnungen, einem Portal und zwei seitlichen Fenstern sowie zwei halbrunden Nischen gestaltet, die symmetrisch in die Wandummantelung der Fassade angeordnet sind. An der Ostwand des Kirchensaals befinden sich zwei Kapellen. Die erste ist näher am Eingang gelegen, sie trägt die ehrende Bezeichnung Gospa od Ružarija (z. Dt. Maria vom Rosenkranz) und stammt aus dem 15. Jahrhundert. Die zweite, heute zugemauert, ist die Kapelle Mariä Opferung, die so genannte Šegina-Kapelle aus dem Jahr 1546. Auf dem Hauptaltar der Kirche befindet sich ein prachtvoller vergoldeter Renaissance-Holzaltar. Den Mittelpunkt belegt das Altarbild, das die Himmelfahrt der Jungfrau Maria darstellt.  Über die Anfänge der kirchlichen Struktur und der Pfarrkirche in Vrbnik gibt es bis heute keine materiellen oder schriftlichen Quellen. Die erste Aufzeichnung über das Dorfkapitel und den Pfarrer stammt aus dem Jahr 1325 aus der Satzung der Bruderschaft des Hl. Johannes des Täufers in Vrbnik. In der Satzung werden Pfarrer Damjan und die Pfarrkirche der Hl. Maria in Vrbnik erwähnt.  Das heutige Erscheinungsbild verdankt die Kirche spätmittelalterlichen und frühneuzeitlichen Umbauten, aber physische Nachweise über die ursprüngliche Kirche in Vrbnik wurden bis heute noch nicht gefunden.  Die Beschreibung des apostolischen Visitators Agostino Valier aus dem Jahr 1579 stellt die bekannteste Quelle über das Erscheinungsbild der Kirche vor den Bauarbeiten im 16. und frühen 17. Jahrhundert dar. Valier beschreibt sie als kleinere dreischiffige Kirche mit vielen Altären, die zu klein ist für das Volk.  Kurz nach Valiers Beschreibung erfolgte eine große Rekonstruktion der Kirche, die die vorhandenen Elemente aufhob und die Kirche in Nord-Süd-Richtung ausrichtete. Diese Rekonstruktion zerstörte auch die Kirche des Hl. Johannes Evangelist, die die kanonische Visitation von 1565 als separates Gebäude erwähnt, die getrennt ist von der Pfarrkirche und die Funktion des Baptisteriums hat.  Bei den kürzlich durchgeführten archäologischen Untersuchungen im kleineren Garten entlang der Fassade der Kirche wurden Überreste eines älteren Gebäudes mit einer halbkreisförmigen Wand gefunden, vielleicht eine Apsis eines älteren sakralen Gebäudes, das der heutigen Kirche vorausgeht.  Der Glockenturm, das unverzichtbare Motiv der Landschaft von Vrbnik, liegt westlich der Kirche. Er wurde 1527 erbaut, worüber die glagolitische Inschrift am Eingang zeugt. Er hatte vier Glocken – drei große und eine kleinere."
+      ],
+      "numberOfImages": 2,
+      "latitude": 45.077639,
+      "longitude": 14.674667
+    },
+    "st_philip_and_jacob": {
+      "title": "Kirche der Hl.Philip und Jakob",
+      "description": [
+        "Auf einem kleinen versteckten Hügel oberhalb von Solin befindet sich die mittelalterliche Kirche der Hl. Phillip und Jakob. In den Quellen wird sie noch in der zweiten Hälfte des 14. Jahrhunderts erwähnt. Während der französischen Herrschaft wurde sie entsakralisiert, aber die österreichische Regierung gab sie in den 1920er Jahren dem Volk in Solin zur Obhut. Dann wurde sie restauriert und der Gottesdienst wieder aufgenommen. Es ist eine einschiffige Kirche mit einer Apsis zum Süden. Sie wurde im ländlichen romanischen Stil erbaut, den wir auch sonst auf der Insel Krk finden. An der Fassade vor dem Eingang befindet sich ein offener Glockenturm, der die Gläubigen zum Gottesdienst einlädt."
+      ],
+      "numberOfImages": 2,
+      "latitude": 45.125833,
+      "longitude": 14.613472
+    },
+    "st_vitus": {
+      "title": "Kirche des Hl.Veit",
+      "description": [
+        "Die Kirche des Hl. Veit gehört zu den ältesten Kirchen in Dobrinj. Es wird angenommen, dass sie im Jahr 1100 erbaut wurde. Als ihr Baumeister gilt Meister Dragoslav. In ihr wirkte die Bruderschaft des Hl. Veit, später verband sie sich mit der Bruderschaft des Hl. Stephan und anderen Bruderschaften. Auf Anordnung des Bischofs Hijacint Pelegrin wird seit 1790 kein Gottesdienst mehr in der Kirche gehalten. Seitdem ist die Kirche heruntergekommen. Im Jahr 1940 wurde sie restauriert und der Gottesdienst wieder aufgenommen.  Es handelt sich um ein einschiffiges mittelalterliches, genauer romanisches Gebäude mit einem hohen Kirchturm aus Stein am Eingang zur Westfassade. Die Kirche hat eine längliche Form und ordentliche Ausrichtung sowie eine Apsis im Osten. An der seitlichen Nord- und Südwand befindet sich ein stilvoll schlichtes Fenster mit einem romanischen halbrunden Fenstersturz.  Während der letzten Konservierung wurde die Kirche umgebaut und erhielt ein neues Dach. Heute ist sie ein wertvolles Monument der romanischen Architektur auf der Insel."
+      ],
+      "numberOfImages": 2,
+      "latitude": 45.125833,
+      "longitude": 14.613472
+    },
+    "st_quirin_bell_tower": {
+      "title": "Kathedrale Hl.Quirinus und glockenturm",
+      "description": [
+        "Die Kathedrale in Krk trägt den Titel der Heiligen Jungfrau Maria. Gemäß der Überschrift über den Bau, bestand sie wahrscheinlich noch in der zweiten Hälfte des 5. und Anfang des 6. Jahrhunderts, so dass ihr Titel mit dem Konzil von Ephesos (431) und der großen Feier anlässlich der Anerkennung Marias als Gottesmutter zusammenhängt. Bis heute ist das romanische Gebäude mit einem außergewöhnlich reichhaltigen Inventar mit späteren geringfügigen Umbauten aus der Gotik, Renaissance und dem Barock erhalten.  Die Ergebnisse archäologischer Untersuchungen belegen die Existenz der ursprünglichen antiken Schicht an der Stelle der heutigen Kathedrale, wahrscheinlich Thermen aus dem 1. Jahrhundert. In der Romanik wurden am ganzen Komplex bedeutende Änderungen vorgenommen. Die Inschrift in der Kathedrale erwähnt die Rekonstruktion der Kolonnade (columnarum opus) im 12. Jahrhundert, getragen von einem namenlosen Bischof von Krk (mit dem Initial D), aber höchstwahrscheinlich geschah dies zur Zeit des Bischofs Dabro (Dobro-Bonus) um 1179.  Ein Teil des Domkomplexes ist heute die Kirche des Hl. Quirinus, ein wunderschönes Beispiel romanischer Sakralarchitektur. Erste Daten über die Kirche stammen aus dem Jahr 1335, als die Einwohner von Krk die Miete der Insel Plavnik „für die Reparatur der Kirche des Hl. Quirinus in Krk gaben“. Es wird angenommen, dass sie im 12. Jahrhundert erbaut wurde. Die Besonderheit der Kirche liegt in den zwei Stockwerken und ihrer geographischen Ausrichtung da ihre Apsis, ganz und gar untypisch, nach Süden gerichtet ist, wahrscheinlich aufgrund des begrenzten Raums, auf dem sie errichtet wurde. Die obere Kirche ist dem Hl. Quirinus gewidmet, dem Patron der Stadt Krk, die untere Kirche der Hl. Margareta, Märtyrerin aus Antiochien. Diese romanischen Kirchen wurden aus lokalem weißem Stein gebaut. Zum Erscheinungsbild der Kirche trägt der dreidimensionale Abschluss mit blinden romanischen Arkaden an der Spitze und einer Bordüre aus geschliffenem, rötlichem, lokalem Stein (mandorlat) in der Mitte bei. Es wird angenommen, dass die obere Kirche (Hl. Quirinus) eigentlich eine Empore der Kathedrale war, von der aus Frauen an der Messe in der Kathedrale teilnahmen. Es besteht auch die Möglichkeit, dass Hl. Quirinus die Funktion der Palatinkapelle des Bischofs von Krk oder die Funktion des westlichen Gebäudes (Galerie, Westwerk) hatte, von wo aus die Fürsten von Krk der Messe folgten.  Der Glockenturm der Kathedrale befindet sich an der Nordfassade des Hl. Quirinus. Der Bauort wurde 1489 vom venezianischen Provveditore Vinciguerra bestimmt und 1515 wurde sie fertiggestellt. Im Jahr 1714 wurde der Glockenturm vom Blitz getroffen, die Hauptpyramide zersprang und brach zusammen. In den sechziger Jahren des 18. Jahrhunderts wurde nach den Plänen des venezianischen Architekten Petar Checchi eine gründliche Restaurierung durchgeführt. Am Glockenturm wurde ein hölzerner Engel platziert, der mit Kupferblech bedeckt war und in Venedig hergestellt wurde. Auf dem Glockenturm steht seit 1973 ein Plastikengel, der nach Modell des schäbigen alten Engels gebaut wurde."
+      ],
+      "numberOfImages": 2,
+      "latitude": 45.0257128,
+      "longitude": 14.5752304
+    },
+    "st_clement_klimno": {
+      "title": "Kirche des Hl.Clemens in Klimno",
+      "description": [
+        "Die Kirche des Hl. Clemens in Klimno wird bereits 1381 in den Quellen als Eigentum der Familie Malatestinić aus Solin erwähnt. Mit der Geschichte der Kirche ist die Bruderschaft des Hl. Clemens gebunden. Die Kirche teilt das Schicksal anderer sakraler Gebäude auf der Insel und wurde zur Zeit der französischen Besatzung entsakralisiert. In den 20er Jahren des 19. Jahrhunderts gab sie die Monarchie dem Volk für religiöse Zwecke. Die Kirche wurde dann und einhundert Jahre später, 1926, wiederholt restauriert. Bis heute ist nur der Rest einer mittelalterlichen Dorfkirche, eines einschiffigen Objektes mit einer Apsis im Süden und offenem Glockenturm am nördlichen Eingang, erkennbar. In der Kirche befindet sich ein hölzerner Renaissance-Polyptychon aus dem 16. Jahrhundert mit einem Porträt der Jungfrau Maria mit dem Kind und den Heiligen. Auf der Predella wird die Szene Anbetung der Hirten dargestellt. Dieses Renaissancegemälde hat einen herausragenden künstlerischen Wert. Das hölzerne Altarbild ist als Kulturgut der Republik Kroatien geschützt."
+      ],
+      "numberOfImages": 2,
+      "latitude": 45.154806,
+      "longitude": 14.620361
+    },
+    "st_peter_gabonjin": {
+      "title": "Kirche des Hl.Petrus in Gabonjin",
+      "description": [
+        "Die Kirche des Hl. Petrus auf der Bergspitze oberhalb von Gabonjin war ursprünglich eine mittelalterliche Kirche aus dem 13./14. Jahrhundert. Der venezianische Provveditore Antun Vinciguerra führt bereits im 15. Jahrhundert an, dass die Kirche zerstört wurde und dass sie dem Kapitel von Dobrinj zur Obhut übergeben wird. Ende des 19. Jahrhunderts haben die Einwohner von Gabonjin sie erneuert, erweitert und geweiht.  Die Kirche gehört typologisch zum Kreis der Sakralbauten von Dobrinj, die an der Wende vom 19. zum 20. Jahrhundert errichtet wurden. Es ist ein monumentales Längsgebäude mit einer quadratischen Apsis im Osten. Die Westfassade hat einen offenen Glockenturm und eine Steintreppe, die zum Dach führt.  Die Kirche wurde an der Stelle eines prähistorischen Gebäudes errichtet und ihre Umgebung ist jetzt eine archäologische Zone. Was sie monumental macht, ist sicherlich die geographische Position oder die Höhe, auf der sie sich befindet. Obwohl kürzlich eine neue Kirche im Dorf Gabonjin errichtet wurde, ist die Kirche des Hl. Petrus auf dem Hügel immer noch das repräsentativste Sakralgebäude in dieser Gegend."
+      ],
+      "numberOfImages": 2,
+      "latitude": 45.11089,
+      "longitude": 14.566502
+    },
+    "st_apollinaire_new_parish_church": {
+      "title": "Uberreste der Kirche des Hl.Apollinaris und neue Pfarrkirche des Hl.Apollinaris",
+      "description": [
+        "Die Alte Pfarrkirche des Hl. Apollinaris befand sich unweit des Dorfes Bogovići, wo sich noch ein alter Friedhof und ein Glockenturm befinden. Den Angaben aus den Besuchsbüchern nach bestand sie noch im 12. Jahrhundert und im 15. Jahrhundert wurde sie nach ihrer Restaurierung und Erweiterung zur Pfarrkirche. Sie hatte einen Haupt- und sechs Seitenaltäre und die gesamte liturgische Ausstattung. Obwohl sie bei den Besuchen des Bischofs alles Lob erhielt, wurde Mitte des 19. Jahrhunderts an der Stelle der Kapelle der Muttergottes von Karmel in Bogovići eine neue Pfarrkirche mit Glockenturm errichtet, die ebenfalls den Titel Hl. Apollinaris trug. In die neue Kirche wurden der Hauptaltar der ehemaligen Pfarrkirche und der Marmoraltar der Muttergottes von Karmel aus der ehemaligen Kapelle übertragen.  Der altchristliche Märtyrer Hl. Apollinaris wurde zum himmlischen Schutzpatron der Gemeinde Malinska-Dubašnica gekürt."
+      ],
+      "numberOfImages": 2,
+      "latitude": 45.118139,
+      "longitude": 14.526722
+    },
+    "st_michael_lady_health": {
+      "title": "Kirche des Hl.Michael (Muttergottes der gesundheit)",
+      "description": [
+        "Die Kirche der Muttergottes der Gesundheit war bis Mitte des 19. Jahrhunderts dem Hl. Michael gewidmet und gehörte einst zum gleichnamigen Benediktinerkloster. Das erste Dokument, in dem das Kloster erwähnt wurde, ist das Testament der Witwe Spreze de Dominiko aus dem Jahr 1271, durch das sie dem Kloster des Hl. Michael in Krk ein Grundstück hinterließ. Die Entstehung der Kirche wird in das frühe Mittelalter gesetzt. Bis heute wurde die dreischiffige Basilika, die im romanischen Stil erbaut wurde, erhalten. Sie ist nach Osten und Westen ausgerichtet und hatte ursprünglich drei halbrunde Apsiden am östlichen Ende, von denen nur die mittlere mit dem der Muttergottes gewidmeten Altar erhalten blieb. Bis zur Mitte des 19. Jahrhunderts war der Hauptaltar dem Hl. Michael gewidmet. Die Titeländerung wurde durch einen Choleraausbruch ausgelöst, damit die Mutter Gottes Schutz schenkt. Auf der Westseite befindet sich ein zweigeschossiger Glockenturm mit pyramidenförmigem Abschluss, der ein integraler Bestandteil der Kirche ist. Im Kloster lebten die Mönche bis Mitte des 15. Jahrhunderts, später kamen die weltlichen Mönche, venezianische Priester, an. Im Jahr 1616 schrieb der weltliche Mönch des Klosters Negri dem Dogen, dass die Klostergebäude in Ruinen umgewandelt wurden, weil die Ziegeldächer, die die militärischen Standorte bedeckten, von den Dächern entfernt wurden. Negri ersucht, dass die Gebäude repariert werden und er betont, dass dieses Material zu Gunsten der Republik genommen wurde. Obwohl nur die Kirche und die Geschichte des Benediktinerklosters übriggeblieben sind, sprechen diese Überbleibsel viel von der Klostertradition von Krk."
+      ],
+      "numberOfImages": 2,
+      "latitude": 45.027889,
+      "longitude": 14.574028
+    },
+    "st_marko_chapel": {
+      "title": "Archaologische uberreste unter der kapelle des Hl.Markus",
+      "description": [
+        "In Baška, fast im Zentrum des Ortes, befindet sich eine bescheidene Kirche, an deren Fuß die Überreste einer der schönsten frühchristlichen Kirchen nicht nur auf der Insel Krk, sondern auch in Kroatien und der Adria liegen. An diesem Ort befand sich vor 1500 Jahren eine beeindruckende altchristliche Doppelbasilika mit Baptisterium. Der gesamte Boden des Sakralkomplexes war mit einem großartigen Mosaik geschmückt. Dieser Mosaikfußboden, von dem nur ein kleiner Teil erforscht wurde, hält auch den größten Kirchen der christlichen Welt wie Aquileia, Ravenna, Salona stand.  Die nördliche Basilika war größer als die südliche und sie übernahm in ihrem Grundriss, wie die große erhaltene Basilika in Mirine in der Nähe von Omišalj, im Erdgeschoss die Idee des christlichen Glaubens – das Kreuz. Das Kreuz wurde zum Hauptmotiv bei der Gestaltung der Taufkapelle (Baptisterium) und des Taufbrunnens (piscina) und stellt eine Rarität in der Sakralarchitektur der frühchristlichen Welt dar."
+      ],
+      "numberOfImages": 2,
+      "latitude": 44.968972,
+      "longitude": 14.751111
+    },
+    "st_chrysogonus": {
+      "title": "Kirche des Hl.Chrysogonus in Milohnići",
+      "description": [
+        "Nicht weit vom Dorf Milohnići entfernt befindet sich ein wahres Juwel kirchlicher Architektur der Insel Krk. Die Steinkirche ist in dichten Wäldern versteckt und nur für Besucher zugänglich, die die ländliche Kieselstraße nehmen. Sie wurde im 12. Jahrhundert im romanischen Stil des zentralen Gebäudes mit einem Abschluss mit drei Apsiden (Triptysian) erbaut. Die dicken Mauern sind fast wie Festungen geschmiedet, nur die kleinen Fensteröffnungen sind kreuzförmig. Sie gehörte zum Benediktinerkloster des Hl. Michael in Krk und Quellen besagen, dass sie seit der zweiten Hälfte des 16. Jahrhunderts nicht mehr verwendet wurde. Archäologische Untersuchungen haben ergeben, dass die Kirche auf einem spätantiken, höchstwahrscheinlich Wirtschaftsgebäude errichtet wurde."
+      ],
+      "numberOfImages": 2,
+      "latitude": 45.095111,
+      "longitude": 14.4555
+    },
+    "mother_of_god_gorica": {
+      "title": "Heiligtum der muttergottes von Goričica",
+      "description": [
+        "Diese Kirche ist seit dem 16. Jahrhundert ein Wallfahrtsort nicht nur für die Einwohner von Baška, sondern der gesamten Insel. Die Kirche ist mit einer Legende über die ursprüngliche Kirche der Hl. Maria aus dem 11. Jahrhundert in Goričica in Bašćansko polje, in der Nähe von Batomalj, verbunden. Wegen Raubüberfällen von Piraten brachten die Engel die Statue der Muttergottes von der Kirche zur Spitze eines Hügels, an welchem Ort im 15. Jh. die neue Kirche der Muttergottes von Goričica gebaut wurde. Die Kirche, die wir heute sehen, wurde 1902 restauriert und vor einigen Jahrzehnten wurden die Wallfahrtsstufen, insgesamt 237, die zu ihr führen, errichtet."
+      ],
+      "numberOfImages": 2,
+      "latitude": 44.977861,
+      "longitude": 14.723278
+    },
+    "holy_trinity_baska": {
+      "title": "Pfarrkirche der Hl.Dreifaltigkeit in Baška",
+      "description": [
+        "Den Bau der Pfarrkirche der Hl. Dreifaltigkeit in Baška hat der Abstieg der Einwohner von Baška zum Meer bedingt, weshalb die bisherige Pfarrkirche des Hl. Johannes nun zu weit für die tägliche Anbetung war. Der Bau der neuen Kirche begann 1724, geweiht wurde sie 1740. Sie stellt ein barockes dreischiffiges Gebäude mit einem 28 Meter hohen Glockenturm aus dem Jahr 1766 dar. Wesentliche Baueingriffe an der Kirche erfolgten im 20. Jahrhundert, als die Eingangsfassade im eklektischen Stil geformt wurde. Im Inneren der Kirche heben sich die reich verzierten Altäre hervor. Der Hauptaltar ist das künstlerische Werk des einheimischen Meisters aus dem 18. Jahrhundert, Fran Jurić. Das Bild zeigt feierlich die Heilige Dreifaltigkeit und die Krönung Marias. Die Werke dieses Künstlers sind auch auf der Insel Košljun zu sehen. Eines der Werke, Letztes Abendmahl, wurde lange Zeit dem venezianischen Meister Palma dem Jüngeren zugeschrieben. Dennoch es ist sicherer, zu behaupten, dass dieses Bild das Werk der Meister des Kreises um Palmas ist und aus der späten Renaissance stammt."
+      ],
+      "numberOfImages": 2,
+      "latitude": 44.970028,
+      "longitude": 14.756944
+    },
+    "st_lucia_monastery": {
+      "title": "Kloster und kirche der Hl.Lucia",
+      "description": [
+        "In Jurandvor, einem kleinen Dorf nördlich von Baška, befindet sich die Kirche der Hl. Lucia. Die Kirche wurde im entwickelten Mittelalter zur Zeit der Romanik als einschiffiges Bauwerk mit einer halbrunden Apsis und einem Glockenturm an der vorderen Fassade erbaut. Die Mauern um die Kirche stellen die Überreste des Benediktinerklosters dar, zu dem auch dieses Sakralgebäude gehörte. Archäologische Untersuchungen haben ergeben, dass das Kloster und die Kirche auf einem älteren antiken landwirtschaftlichen Gebäude errichtet wurden. Der Fund, für welchen die Kirche der Hl. Lucia weit und breit bekannte wurde, befindet sich innerhalb des Gebäudes.  Die Altarschranke ist bekannt als die Tafel von Baška. Diese Steinplatte ist eines der ältesten Denkmäler der kroatischen Geschichte. In dreizehn Reihen wird in altkroatischer Sprache das Wort „Kroatisch“ und der Name von König Zvonimir erwähnt. Sie stammt aus dem Jahr 1100. Die Schrift, mit der der Text auf der Tafel geschrieben wurde, unterscheidet sich von der latinischen Schrift und wird Glagoliza genannt. Neben der latinischen Schrift wurde Glagoliza bis ins 19. Jahrhundert verwendet. Die ursprüngliche Tafel wurde 1934 nach Zagreb verlegt und befindet sich im Saal der Kroatischen Akademie der Wissenschaften und Künste. Heute ist Glagoliza zu einem der Markenzeichen von Baška geworden, was durch große Skulpturen in Form glagolitischer Buchstaben entlang der Straße auf dem Weg nach Baška belegt wird."
+      ],
+      "numberOfImages": 2,
+      "latitude": 44.977778,
+      "longitude": 14.738417
+    },
+    "st_stephen_bell_tower": {
+      "title": "Pharrkirche des Hl.Stephan und Kirchturm",
+      "description": [
+        "Die Pfarrkirche des Hl. Stephan gehört zu den älteren Kapitelkirchen, was die glagolitische Urkunde aus dem Jahr 1100 belegt. Die Kirche wurde 1512 vom Bischof von Krk, Dunat a Turre, geweiht. Bis heute wurde sie in grundlegend veränderter Form erhalten. Im 16. Jahrhundert wurde sie erweitert und zu Beginn des 17. Jahrhunderts wurde dem alten Schrein ein spätgotischer Ausdruck hinzugefügt, wodurch die ursprüngliche architektonische Form erheblich verändert wurde. Die Kirche hat eine längsgerichtete dreischiffige Struktur mit erhöhtem Hauptschiff und einer flachen Vorderwand des Schreins im Osten. Auf der Westseite, vor dem Eingang der Kirche, befindet sich ein Atrium. Dieser Ort war das historische Zentrum des kirchlichen Lebens, eine Art Gegenstück des Hauptplatzes Placa als dem Ort des zivilen Lebens. Erwähnenswert ist auch die Aussicht von diesem Gebiet aus, da sich die Kirche an einem strategisch wichtigen Ort befand, von dem aus der nordöstliche und nordwestliche Teil der Insel zur Zeit des Konflikts zwischen Venezianern und Uskoken überwacht wurde. Die Kirche verfügt über eine reichhaltige sakrale Sammlung mit liturgischen Gegenständen, Gemälden und Statuen aus dem 14. bis 19. Jahrhundert. Insbesondere hebt sich das Relief auf dem Hauptaltar aus dem 17. Jahrhundert mit der Darstellung der Krönung Mariens hervor. Nicht weit von der Pfarrkirche, am Ort des alten Friedhofs, auf dem Plateau vor der Kirche der Heiligendreifaltigkeit, erhebt sich der Kirchturm. Er wurde in den 20er Jahren des 18. Jahrhunderts vom Meister Pilepić erbaut. Der Kirchturm hat barocke Elemente mit hervorstehenden Biforien im obersten Stockwerk und er wurde mit dem Geld der Bruderschaft des Hl. Stephan und anderer Bruderschaften gebaut. Er fiel beträchtlich im Zweiten Weltkrieg, genauer gesagt im Jahr 1944, als er bis zum Niveau des ersten Obergeschosses zerstört wurde. Am Ort des zerstörten Kirchturms wurde sehr schnell ein neuer mit den gleichen stilistischen Merkmalen errichtet."
+      ],      "numberOfImages": 2,
+      "latitude": 45.131083,
+      "longitude": 14.603194
+    },
+    "st_john_baptist_kapari": {
+      "title": "Kirche des Hl.Johannes des Taufers und Kapari",
+      "description": [
+        "Auf der Straße, die zum Hafen von Vrbnik (Namori) führt, befindet sich die Kirche des Hl. Johannes des Täufers, des Patrons von Vrbnik. Die Kirche ließ Priester Damiani, wahrscheinlich im Jahre 1323, errichten. Ihr heutiges Aussehen entspricht nicht dem ursprünglichen Erscheinungsbild. Gemäß der in die östliche Mauer eingebetteten glagolitischen Inschrift wurde die Kirche 1611 durch den Bau einer neuen Apsis zum Osten erweitert. Entlang der Kirche befand sich an der Nordseite ein alter Stadtfriedhof, der bis 1956 genutzt wurde. Danach wurde er an den heutigen Ort außerhalb der Stadt verlegt. Die Priester von Vrbnik wurden an einem besonderen Ort, in der Loggia der Kirche auf der Westseite, bestattet. Mit der Kirche ist die berühmte Bruderschaft Kapari eng verbunden.  Auf der Insel Krk gab es viele Bruderschaften, freiwillige Vereinigungen von Laien, zu deren Mitgliedern ausschließlich erwachsene Männer zählten, die eng mit der damaligen Kirche verbunden waren, welche die Kirche durch religiöse und gemeinnützige Arbeit unterstützt haben. Kapari von Vrbnik ist die einzige Bruderschaft, die aus dieser Zeit erhalten ist. Zum ersten Mal wurden sie im Jahr 1323 erwähnt. Der Name Kapari stammt von der Kapuze kapuljača bzw. kapuča, die ein Teil der weißen Tunika mit einem roten Kreuz auf der Brust war. Die Bruderschaft des Hl. Johannes, wie sich Kapari noch nennen, kümmerte sich anfangs um die gleichnamige Kirche und hatte eine sehr gemeinnützige soziale Bedeutung.  Neben dem Sitz der Bruderschaft auf dem Hauptplatz, hielt sie auch ein Hospiz, das sog. Spital, für hilflose ältere und arme Menschen in der Nähe der Kirche des Hl. Johannes, das bereits 1487 zum ersten Mal erwähnt wird.  Die heutige Verpflichtung der Kapari bezieht sich hauptsächlich auf das Gebet und die Bestattung von Verstorbenen. Bei dieser Gelegenheit singen Kapari, die etwa dreißig Mitglieder zählen, die alte kroatische Kirchenmelodie Pojubica. Pojubica und Božji plač singen die Kapari auch in der Prozession am Karfreitag."
+      ],
+      "numberOfImages": 2,
+      "latitude": 45.075583,
+      "longitude": 14.674083
+    },
+    "virgin_mary_bell_tower": {
+      "title": "Pfarrkirche Maria himmelfahrt und glockenturm",
+      "description": [
+        "Die Kirche Mariä Himmelfahrt wurde zur Zeit der Romanik im 12. und 13. Jahrhundert erbaut. Ursprünglich war die Kirche dreischiffig mit drei hervorstehenden Apsiden im Osten. Nichtsdestotrotz deuten Fragmente vorromanischer Kirchenmöbel aus dem 8. und 9. Jahrhundert, die an der Fassade und in der Kirche errichtet wurden, auf das ältere Datum ihres Entstehens. Auf der Vorderseite der Fassade hebt sich insbesondere die Rosette des örtlichen Meisters Sinoga hervor. Bauarbeiten in der Renaissance- und Barockzeit bzw. vom 16. bis zum 18. Jahrhundert veränderten das Kircheninnere, so dass am Norden und Süden Seitenkapellen hinzugefügt wurden. Im 17. Jahrhundert wurde die ursprünglich halbkreisförmige zentrale Apsis in eine rechteckige Form umgewandelt.  Wie in den meisten Küstensiedlungen ragt im Gewölbe der Stadt der an die Pfarrkirche angelehnte Glockenturm hervor.  Sein Bau begann 1533 und dauerte drei Jahre. Die älteste Glocke im Glockenturm, genannt Hl. Johannes, stammt aus dem Jahr 1561.  In der Kirche wurden wertvolle Renaissance- und Barockmöbel erhalten. Neben dem Renaissance-Holzretabel auf dem Hauptaltar hebt sich vor allem der Holztriptychon auf dem Seitenaltar mit der Darstellung des Hl. Johannes Evangelist aus dem 14. Jahrhundert hervor, einem Werk des venezianischen Meisters Jocobella del Fiore. Um das zentrale Bild des Hl. Johannes Evangelist sind hier sechs weitere Bilder mit Einzelheiten über das Leben dieses Heiligen."
+      ],
+      "numberOfImages": 2,
+      "latitude": 45.211889,
+      "longitude": 14.553667
+    },
+    "st_john": {
+      "title": "Kirche des Hl.Johannes",
+      "description": [
+        "Im Nordosten der heutigen Siedlung Baška befindet sich die Kirche des Hl. Johannes der Täufer. Sie stellt ein romanisches Gebäude dar, an dessen Ostseite sich eine Apsis befindet. Der Glockenturm der Kirche wurde an der Vorderseite errichteten und hat eine Glocke aus dem Jahr 1431, die Alter Mann genannt wird. Dies war die erste Pfarrkirche zur Zeit des mittelalterlichen Kastells von Baška, bevor die Siedlung zur Küste begann. Ein Teil dieses Kastells ist noch heute unweit von der Kirche erhalten. Die Kirche wird in den Quellen als prächtiges Gebäude mit sieben Altären erwähnt und die Funktion der Pfarrkirche übte sie bis 1740 aus. Bereits im 19. Jahrhundert wurde sie wegen der Umsiedlung der Bevölkerung aus der älteren Siedlung aufgegeben. Im Jahr 1855, nach dem Choleraausbruch, erfolgte der Wiederaufbau der Kirche. Neben der Kirche befindet sich ein Stadtfriedhof."
+      ],
+      "numberOfImages": 2,
+      "latitude": 44.972917,
+      "longitude": 14.761917
+    },
+    "st_donatus": {
+      "title": "Kirche des Hl.Donatus",
+      "description": [
+        "In der Bucht von Punat, an der Kreuzung der Wege, die nach Punat, Vrbnik und Kornić führen, liegt an der Küste die Kirche des Hl. Donatus. Die Kirche wurde im 12. Jahrhundert in der Romanik als zentrales Gebäude in Form eines Dreiblatts mit Kuppel errichtet. Ihren Titel erhielt sie nach dem Bischof von Zadar und dem Heiligen Donatus, als offensichtlich starkem Einfluss von Zadar auf die Insel im 12. Jahrhundert. Heute sind nur die rekonstruierten Überreste der Kirche erhalten geblieben, da sie 1945 durch die Explosion des Munitionsdepots in ihrer Nähe zerstört wurde."
+      ],
+      "numberOfImages": 2,
+      "latitude": 45.04,
+      "longitude": 14.620111
+    },
+    "holy_trinit": {
+      "title": "Pfarkirche der Hl.Dreifaltigkeit",
+      "description": [
+        "Nachdem die Einwohner von Punat im Jahr 1766 die Genehmigung des Dogen erhalten hatten, entschlossen sie sich zum Bau der Pfarrkirche. Durch die gemeinsame Arbeit der Bürger und die finanzielle Unterstützung der örtlichen Bruderschaften wurde die Kirche schnell errichtet. Auf dem Beispiel der Errichtung dieser Kirche kann auch das demografische Wachstum in Punat und ihrer Umgebung verfolgt werden. Die ersten Umbauten der Kirche begannen bereits 1840 als sie erheblich vergrößert und mit einem Glockenturm versehen wurde. Die Bevölkerung wuchs im 20. Jahrhundert weiter an und in den dreißiger Jahren wurde die Kirche wieder erweitert. Die Behörden bemühten sich, die Größe der Kirche dem Bevölkerungswachstum anzupassen und zu keiner Zeit zu eng zu belassen. Auf dem Hauptaltar befindet sich ein wahres Meisterwerk des barocken skulpturalen Ausdrucks, das Mitte des 18. Jahrhunderts aus der Werkstatt von Paul Riedl entstand. Dieser verspielte und kunstvoll gestaltete Altar stand ursprünglich in der Kirche des Hl. Nikolaus in Senj und wurde 1790 nach Punat verlegt. Auf dem Hauptaltar ist ein weiteres künstlerisches Werk zu sehen. Es handelt sich um das Altarbild mit Darstellung der Predigt des Hl. Johannes. Es ist ein Werk des berühmten venezianischen Barockkünstlers Domenico Fedeli genannt Il Maggiotto."
+      ],
+      "numberOfImages": 2,
+      "latitude": 45.021,
+      "longitude": 14.632111
+    },
+    "holy_trinity_dobrinj": {
+      "title": "Kirche der Hl.Dreaifaltigkeit in Dobrinj",
+      "description": [
+        "Im Zentrum von Dobrinj, auf dem Platz, befindet sich die Kirche der Hl. Dreifaltigkeit (mit dem Volksnamen Hl. Antonius). Quellen erwähnen sie bereits im Jahr 1480. Heute ist von der Kirche eine einschiffige Längskonstruktion mit einem Altar im Südosten erhalten. Obwohl die Kirche seit dem 15. Jahrhundert eine Reihe von Rekonstruktionen durchlaufen hat, sind die früheren Zeiten noch heute deutlich zu erkennen. Während der letzten Renovierung des Gebäudes wurde die romanische Phase der Kirche aufgedeckt, die in regelmäßigen Reihen von Schnittstein sichtbar ist, die für den romanischen Bau typisch sind. Auf dem mehrmals neu aufgereihten Unterbau der Kirche wurden öffentliche Maßnahmen eingemauert. Es wird davon ausgegangen, dass die Maßnahmen für Wein und Getreide bestimmt und Ende des 15. Jahrhunderts entstanden sind.  Heute wird die Kirche als Ausstellungsraum genutzt, in dem Sie eine Reihe wichtiger Exponate aus dem Gebiet von Dobrinjština sehen können. Ein Teil dieser Sammlung ist auch der berühmte Maskeron, der von einem Haus nördlich der Kirche entfernt wurde. Es ist eine sehr eindrucksvolle Skulptur, ein Kopf eines Mannes, der das Werk eines lokalen Autors aus dem Jahr 1738 sein soll. Da es so rätselhaft und geheimnisvoll ist, wurde dieses Werk zu einem der Markenzeichen von Dobrinj"
+      ],
+      "numberOfImages": 2,
+      "latitude": 45.130326,
+      "longitude": 14.603168
+    },
+    "st_hieronymous_stara_baska": {
+      "title": "Kirche des Hl.Hieronymus in Stara Baška",
+      "description": [
+        "Am Fuße des trockenen und freigelegten Massivs, an den Südhängen der Insel und im Schatten der Bora, befindet sich der Ort Stara Baška. Die umliegende Landschaft dieses Ortes ist äußerst interessant, fast wundersam. Wenn Sie einen Ausflug zum Strand Zala südöstlich des Dorfes unternehmen, erkennen Sie die Überreste der Kirche des Hl. Hieronymus. Es ist eine einschiffige Kirche mit einer halbrunden Apsis im Norden, geostrategisch gut gelegen, da man von hier aus die Seegänge nach Rab und zu den südlichen Inseln überwachen kann. Dieses Gebäude aus dem 13. Jahrhundert wurde in den letzten Jahren kleineren Renovierungsarbeiten unterworfen, während systematische archäologische Untersuchungen des Standorts noch ausstehen. Nach dem heutigen Kenntnisstand befand sich auf dem Plateau entlang dieser Kirche ein antiker Komplex, der die Attraktivität und Bedeutung dieses Ortes von der Antike bis in die Neuzeit bestätigt."
+      ],
+      "numberOfImages": 2,
+      "latitude": 44.94888,
+      "longitude": 14.701861
+    },
+    "st_nicholas_ogrul": {
+      "title": "Kirche des Hl.Nikolaus auf Ogrul",
+      "description": [
+        "An einem wichtigen Handelsplatz, Aussichtspunkt der Seepässe südlich von Vrbnik, stand einst eine byzantinische Festung. Bis heute ist die fast eingestürzte altchristliche Kirche des Hl. Nikolaus erhalten. Nach der Bauweise kann diese einschiffige Kirche mit einer hervorstehenden Apsis im Osten in das 6. Jahrhundert datiert werden. Zukünftige archäologische Untersuchungen werden lediglich einige Einblicke in diesen Ort gewähren. Die Kirche liegt in einer wunderschönen Landschaft auf einem abgelegenen Ort südlich von Vrbnik. Dieser Ort ist von der See- und Landseite erreichbar. Entlang der Kirche, in der natürlichen Bucht, die vor stürmischer Bora schützt, gibt es einen kleinen Hafen mit Anlegeplatz. Wenn Sie diesen Ort zu Fuß erreichen, sehen Sie gleichzeitig die reizvolle und grobe Landschaft. Bereiten Sie sich auf ein wahres Nerven- und Muskeltraining vor, der Standort ist weit weg, das Gelände anspruchsvoll und die Sommertage können extrem warm sein. Gleichzeitig ist das Ziel selten ein so intimer und schöner Ort auf der Insel Krk."
+      ],
+      "numberOfImages": 2,
+      "latitude": 44.989552,
+      "longitude": 14.800984
+    }
+  },
+  "places": {
+    "krk": {
+      "title": "Krk",
+      "description": [
+        "Die ältesten Spuren der Stadt Krk und ihrer Umgebung ragen in der Vorgeschichte. Ihre Geschichte wurde durch den Wechsel der Einheimischen und Zuwanderer, beginnend mit den Liburnen, dann Römern, Slawen, Venezianern… geprägt. Die Stadt steht auf antiken Fundamenten. Ein Zeugnis davon findet sich in den erhaltenen Überresten römischer Thermen, im Mosaik in der Konoba (Taverne) Mate, im Venustempel und in Teilen der damaligen Stadtmauern. Das architektonische Raster der Stadt wurde von den Römern definiert, indem sie die zwei Hauptstraßen, Cardo und Dekumanus, genau da positionierten, wo sie sich heute befinden. Die Stadt entwickelte sich und wuchs im Laufe der Jahrhunderte. Die heutigen Mauern erhielt sie im Mittelalter.  Die Stadt Krk zieht durch ihr repräsentatives mittelalterliches Erbe an, das hauptsächlich während der venezianischen Herrschaft in dieser Gegend entstand. Zu dieser Zeit hoben sich insbesondere die Fürsten Frankopan von Krk hervor, die sich durch raffiniertes politisches Kokettieren mit Venedig jahrhundertelang in Krk behaupten konnten. Das Frankopaner Fürstengeschlecht entstand als Erbe des ersten Fürsten Dujam, den die Venezianer eingestellt hatten, nachdem die Insel Krk im 12. Jahrhundert in ihre Hände gelangt war. Die Insel wurde in mehrere Inselburgen unterteilt – Baška, Vrbnik, Dobrinj und Omišalj, mit der Stadt Krk als Zentrum. Die Fürsten von Krk sorgten um gut regulierte Rechtsbeziehungen, um den Frieden auf der Insel zu erhalten, aber auch um das kulturelle Erbe in Form der kroatischen Sprache und glagolitischen Schrift zu fördern. Das Kastell Frankopan wurde bis heute fast in seinem ursprünglichen Zustand erhalten. Das Kastell liegt auf dem Platz Kamplin, dem Mittelpunkt des profanen und sakralen Lebens.  Ein Blick auf die mittelalterliche Stadt Krk ohne bescheidene Glaubensgemeinschaften ist undenkbar. Ordensgemeinschaften fanden ihren Platz am nördlichen Tor Porta Su, in der Nähe des heutigen Platzes Trg glagoljaša (Platz der Glagolitermönche). Einst lebten an diesem prominenten Ort Franziskaner, Benediktiner, Benediktinerinnen und Klarissen.  Heute kennen wir Krk als ein touristisches Reiseziel mit außergewöhnlichem kulturellem und künstlerischem Erbe. Diese uralte Splendidisima Civitas Curitarum (glanzvolle Stadt der Bewohner von Krk) lebt in einer schönen Synergie mit der Hektik des modernen Zeitalters."
+      ],
+      "numberOfImages": 2,
+      "latitude": 45.0280099,
+      "longitude": 14.5749926
+    },
+    "omisalj": {
+      "title": "Omisalj",
+      "description": [
+        "Im Norden der Insel, auf einem hohen Hügel über dem Meer, liegt der kleine Ort Omišalj. Seine Anfänge ragen noch in die vorrömische Zeit, aber die volle Entwicklung erlebt er im Mittelalter. Die erste Erwähnung von Omišalj stammt aus dem 12. Jahrhundert. Unter dem Namen Castri Musculi wird er im nächsten Jahrhundert, im Jahre 1213, im Streit zwischen dem Bischof von Krk und dem Klerus von Omišalj erwähnt. Für die Entwicklung der Siedlung waren auch die Fürsten Frankopan von Krk, die dort Besitztümer hatten, wichtig. Im 15. Jahrhundert, während der Herrschaft des Fürsten Ivan und seines Sohnes Nikola, begann diese Familie mit dem Bau des Kastells (Kaštel), eines mächtigen Verteidigungsturms und Mauern, die sich auf der Südseite der heutigen Siedlung befinden. Kurz darauf stehen Omišalj und die gesamte Insel unter venezianischer Herrschaft und die Siedlung gewinnt durch ihre strategische Position an Bedeutung. Innerhalb der Mauern befand sich die Besatzung mit dem Kastellan an der Stirn und im Hafen befanden sich verankerte Kriegsschiffe. Die Einwohner von Omišalj waren in der Fischerei, Viehzucht und Landwirtschaft tätig, die durch die Industrialisierung immer mehr verschwanden. Heutzutage hat der Tourismus diese Wirtschaftszweige ersetzt."
+      ],
+      "numberOfImages": 2,
+      "latitude": 45.212538,
+      "longitude": 14.5526968
+    },
+    "malinska_dubasnica": {
+      "title": "Malinska-Dubasnica",
+      "description": [
+        "Die kleine Küstenstadt Malinska ist heute ein attraktives Reiseziel für Touristen und einst ein wichtiger Hafen und Markt. Die Massensiedlung dieses Gebietes erfolgte Mitte des 15. Jahrhunderts auf Anordnung der Fürsten von Krk, genauer Ivan Frankopan. Die Venezianer wussten, wie sie dieses Gebiet am besten ausnutzen konnten, so dass sein Hafen für die Beförderung von Holz, Wolle und verschiedenen Lebensmitteln aus diesen Gebieten nach Venedig diente. Den Hafen prägte auch seine etwas neuere Geschichte der zweiten Hälfte des 19. Jahrhunderts, als im Jahr 1880 zum ersten Mal ein Dampfschiff einschiffte. Es war ein Boot der Lolyd Gesellschaft, das von Istrien nach Dalmatien und zurück fuhr und einmal wöchentlich in Malinska hielt.  Die Gemeinde Malinska-Dubašnica vereint heute eine Reihe kleinerer Orte mit unterschiedlichen kulturellen, ethnographischen und natürlichen Reichtümern. Besonders heben sich die Ethnozonen Dubašnica, Miholjice-Semenje und Sršići-Sv. Vid hervor, in denen die Werte der traditionellen Architektur des 19. und frühen 20. Jahrhunderts auf der Insel Krk erhalten wurden."
+      ],
+      "numberOfImages": 2,
+      "latitude": 45.1223041,
+      "longitude": 14.527432
+    },
+    "baska": {
+      "title": "Baska",
+      "description": [
+        "Das Leben im Baška-Gebiet wurde durch ein reiches, zum Meer offenes Tal bestimmt. Hier war die Besiedlung nicht immer auf einen Ort bezogen, wie dies bei Krk, Omišalj oder Dobrinj der Fall ist. Von der Vorgeschichte bis zum Mittelalter siedelte das Zentrum des Lebens von Region zu Region, je nach historischen Veränderungen. In prähistorischer Zeit, bereits ab der Jungsteinzeit, lebten die ersten „Einwohner“ in Höhlen, die an den Hängen des südlichen Bergmassivs (Höhlen Škuljica und Vorganjska peć) gelegen sind.  Spuren des römischen Urbanismus finden wir im Küstengebiet, jedoch wissen wir nicht viel über die Siedlung aus dem römischen Zeitalter. Am Strand entlang, nördlich der Kirche des Hl. Markus, wurde ein römischer Friedhof gefunden, aber es gibt keine Spuren einer römischen Siedlung.  Die ersten Jahrhunderte nach Christus, d.h. die Jahrhunderte, die durch das Eindringen der römischen Kultur auf der Insel und die unvermeidliche Romanisierung gekennzeichnet waren, sind noch immer unbekannt. Mehrere Funde antiker Stelen in Baška, die antike Nekropole aus dem 1. und 2. Jahrhundert (nördlich der Kirche des Hl. Markus) und Funde antiken Geldes aus dem 1. Jahrhundert sprechen für die antike Urbanisierung dieser Gegend. Die Frage ist jedoch, ob und wie in den ersten Jahrhunderten unserer Ära die Verstädterung des Raumes tatsächlich stattgefunden hat oder ob, wie in anderen Siedlungen auf der Insel, sie in Form von antiken wirtschaftlichen Strukturen Villa Rustica ausgeprägt war, die auf der Ausbeutung des fruchtbaren Baška-Tals beruhten. Aufgrund der Abgeschiedenheit des Baška-Gebiets im Vergleich zu anderen Teilen der Insel Krk ist tatsächlich Senj, eine große antike Stadt und Hafen, die sich an der gegenüberliegenden Küste befindet, sein natürliches Zentrum.  Die Überreste zweier großen, mit Mosaiken verzierten, frühchristlichen Basiliken (Kirche auf der arch. Stätte bei Mira in der Nähe von Jurandvor und die große Doppelbasilika unter der Kirche des Hl. Markus) zeugen von einer Siedlung in der Spätantike, genauer im 5. Jahrhundert.  Im Mittelalter kommt der Name des Kastells Baška (Castellum Besca) vor, das sich wie alle Kastells der Insel auf einer dominanten Position, zweihundert Meter über dem Meeresspiegel, auf einem Hügel nordöstlich der heutigen Siedlung befand.  Die Siedlung wurde am bisherigen Ort aus Not erbaut, verursacht durch die venezianische Zerstörung der kroatisch-dalmatinischen Küste im Jahr 1380, als auch das Kastell Baška als Opfer fiel, dessen Einwohner sich nicht ergeben wollten.  Die Gründung einer Siedlung an der Küste, an jenem Ort, an dem wir sie heute finden, wurde durch systematisches Verlassen der Siedlung am Hang bedingt und dauerte bis ins 16. Jahrhundert.  Heute sehen wir Baška als einen typischen Küstenort mit engen, kurvigen Straßen.  Ein großer Fortschritt in der Entwicklung von Baška ist durch die Entwicklung des Tourismus bedingt, als logische Antwort auf den großen Sandstrand, der sich fast entlang der gesamten Bucht erstreckt."
+      ],
+      "numberOfImages": 2,
+      "latitude": 44.9716361,
+      "longitude": 14.7491326
+    },
+    "punat": {
+      "title": "Punat",
+      "description": [
+        "Punat ist ein Ferienort in einer malerischen Bucht im Südwesten der Insel. Bereits am Ortseingang von Punat wird der Besucher mit einer im Straßenverkehr nicht erwarteten Schönheit geehrt. Die Straße entlang des Meeres führt an vielen Touristenattraktionen vorbei – von der kleinen runden romanischen Kirche des Hl. Donatus und einer Olivenpresse über einen Hafen für Jachten und Segelboote bis zu einer Promenade am Meer mit interessanten Inhalten für die Gäste.  Obwohl der Ort relativ jung und mit einer Reihe von Häusern mit stilistischen dekorativen Elementen aus dem 19. Jahrhundert bereichert ist, hat der heutige Ort auch seine römische Geschichte als Sommerstätte.  In der Nähe von Punat, in Stara Baška, gibt es eine echte Touristenoase. Dieser Ort ist die perfekte Kombination aus Wildnis und Frieden mit einer Mischung aus makellosem Natur- und Kulturerbe. Über der Bucht Zala, südöstlich von Stara Baška, befinden sich noch immer Überreste der romanischen Kirche des Hl. Hieronymus, die auf den Überresten einer großen antiken Villa entstand."
+      ],
+      "numberOfImages": 2,
+      "latitude": 45.0213646,
+      "longitude": 14.6299445
+    },
+    "dobrinj": {
+      "title": "Dobrinj",
+      "description": [
+        "Das Gebiet von Dobrinj ist seit der Vorgeschichte bis heute dicht besiedelt. Die frühesten Funde datieren aus der frühen Eisenzeit, es wird jedoch angenommen, dass das Gebiet auch davor, während des Neolithikums, und gemäß einigen Anzeichen ebenfalls während des Mesolithikums besiedelt war.  Dobrinj liegt im zentralen Teil der Insel Krk, auf einem steilen Abhang, der sich an seinem nordwestlichen Teil als natürliche Grenze und Schutzschild erstreckt. Heute ist Dobrinj eine typische mediterrane Siedlung. Im Walde, auf einer Anhöhe, erhebt sich der Ort mit Glockenturm, der die Dächer der Häuser überragt. Ihn charakterisieren enge Gassen, kalete, die zum Hauptplatz Placa führen, dem Ort des gesellschaftlichen, öffentlichen und sakralen Lebens. Das Alter der Pfarrei Dobrinj wird durch mehrere Urkunden bestätigt. Zu den wichtigsten zählt die glagolitische Aufzeichnung des Fürsten Dragoslav aus dem 11. Jahrhundert, die über den Bau der Kirche des Hl. Veit erzählt. In der Pfarrei Dobrinj wurde die Messe in Altkirchenslawisch gehalten. Verzeichnet wurden zahlreiche Priester, die die glagolitische Schrift benutzt haben.  Die mittelalterliche Siedlung Dobrinj wurde entsprechend den wirtschaftlichen und politischen Entwicklungen in der nördlichen Adria gebildet. Die Stadt hatte eine strategische Bedeutung für die Kontrolle der Bucht Soline und des Vinodol-Kanals, einer wichtigen See- und Handelsstraße.  Das fruchtbare Land und der Wasserreichtum sind einige der wichtigsten Gründe, warum die Wirtschaft der lokalen Bevölkerung auf Landwirtschaft und Viehzucht basiert. Eine der Grundlagen der Wirtschaft von Dobrinj sind sicherlich auch die Salzwerke in der Bucht. Die Festung beutete die umliegenden Felder und Wälder aus und verwaltete über das breitere landwirtschaftliche Gebiet mit einer Reihe von Dörfern. Die Dörfer sind fast immer um sakrale Gebäude herum angelegt. Eine Reihe solcher mittelalterlichen Gebäude in der Umgebung von Dobrinj weist auf die mögliche frühe Gründung ländlicher Gemeinden hin.  Das Gebiet von Dobrinjština ist heute ein bedeutender Touristenort mit einem reichen kulturellen und künstlerischen Erbe. Der Besuch der Höhle Biserujka als außergewöhnlichem Beispiel für das Naturerbe der Insel und der Bucht Soline, dem einzigen Ort mit Heilschlamm auf der Insel, ist ein Muss."
+      ],
+      "numberOfImages": 2,
+      "latitude": 45.1294025,
+      "longitude": 14.6038721
+    },
+    "vrbnik": {
+      "title": "Vrbnik",
+      "description": [
+        "Auf der Spitze eines steilen Felsens, sogar fünfzig Meter über dem Meeresspiegel, liegt der Ort Vrbnik. Archäologische Untersuchungen haben gezeigt, dass die Ansiedlung des Großraums Vrbnik bereits in vorgeschichtlicher Zeit begann. Die erste schriftliche Erwähnung von Vrbnik stammt aus dem Jahr 1100. Vrbnik war die Wiege der Glagoliza mit einer bedeutenden glagolitischen Schule. An den Wänden der Häuser in Vrbnik befinden sich noch heute Spuren der eingemeißelten glagolitischen Schrift.  Dieser Ort ist für noch etwas bekannt – die Erhaltung der Tradition. Dazu gehört sicherlich der Anbau der berühmten Rebsorte – žlahtina, aus der der gleichnamige Wein erzeugt wird. Während der Geschichte, aber auch heute noch, sind die Bürger von Vrbnik in der Landwirtschaft und Viehzucht tätig. Der Grund dafür ist der Reichtum an fruchtbarem Land und natürlichen Grundwasserquellen, die die Bewässerung von Ackerland ermöglichen, sowie die Karstlandschaft um die Siedlung herum, die eine außergewöhnliche Umgebung für Viehzucht darstellt."
+      ],
+      "numberOfImages": 2,
+      "latitude": 45.0769445,
+      "longitude": 14.674188
+    }
+  },
+  "forts": {
+    "volsonis": {
+      "title": "Kastell, stadtmauern und archaologische uberreste im cafe Volsonis",
+      "description": [
+        "Die Mauern der Stadt Krk sind fast vollständig erhalten, ihr ältester Teil stammt sogar aus vorgeschichtlicher Zeit. Es ist bekannt, dass die prähistorische Stadt Curticta (Krk) von Mauern umgeben war. Dies wird durch die Inschrift aus dem 1. Jahrhundert v. Chr. belegt, in der die Rekonstruktion der Stadtmauern erwähnt wird, was darauf hindeutet, dass die Mauern bereits vorhanden waren. Bei archäologischen Untersuchungen der westlichen Mauer in den 60er Jahren des 20. Jahrhunderts wurde ein Trockenmauerwerk aus Megalithblöcken aus dem späten 3. Jahrhundert v. Chr. gefunden. Diese Bauart geht dem römischen Baustil Opus Quadratum voraus. Archäologische Untersuchungen auf dem Hauptplatz Vela placa und im Haus Perossi (Café Volsonis) deckten spätere antike Stadtmauern auf, in denen eine Vielzahl von Spolien eingebaut wurden (stelle, Liburner Grabstein, Teile des Architravs…). Bereits die antiken Mauern hatten Türme. Die Türme aus dem Mittelalter und der Renaissance sind noch heute sichtbar und haben einen wesentlichen Einfluss auf das Erscheinungsbild der Stadt. Abgesehen vom Kastell (Kaštel) und seinen Türmen, dem polygonalen Turm aus dem 15. Jahrhundert an der Küste und am Haupttor der Stadt bzw. dem ehemaligen Turm des Rathauses am Hauptplatz, hatte die Stadt mindestens noch sieben oder acht kleinere Türme. Die heute deutlich sichtbaren Mauern entstanden hauptsächlich im 14. und 15. Jahrhundert, im Zeitalter der Entstehung und Entwicklung von Schusswaffen. Darüber zeugen auch die stilistischen Scharten und die Merlatur.  Am Kamplin-Platz, gegenüber der Kathedrale von Krk, befindet sich das alte Frankopaner Kastell. Das Kastell war der zentrale und letzte Punkt der Verteidigung der Stadt. Es wurde in mehreren Bauphasen vom 12. bis zum 18. Jahrhundert gebaut. Der archäologisch älteste Teil der Burg ist der viereckige Turm, der sog. Gerichtssaal der Familie Frankopan. Wir wissen, dass der Turm im Jahr 1191 fertiggestellt wurde, was die lateinische Inschrift in der Lünette über der Tür bezeugt. Die Bauweise unterscheidet sich von den anderen architektonischen Komponenten der Burg. Die Art und Weise des Mauerns der Steinblöcke erinnert an die romanische benachbarte Kirche des Hl. Quirinus.  Gerade wegen der verschiedenen Bauweise entstand die Theorie der möglichen unabhängigen Existenz in der „Vor-Kastell-Zeit“ der Stadt Krk und ihrer Funktion als Glockenturm der Kathedrale. Der südwestliche Turm des Kastells, der sog. österreichische Turm, ist durch seine Mauer mit den Überresten des Turms über dem Tor Pizanska vrata verbunden. In Anbetracht der Konstruktionstechnik und der individuellen Stilelemente wurde er wahrscheinlich im 14. Jahrhundert erbaut. Der runde Turm der Burg wurde Venedig benannt und ist zum Kamplin-Platz gerichtet. In seinen Wänden befindet sich eine Steinplatte mit der Inschrift Aurea Venetorum Libertati und das Symbol des Hl. Markus. Im Erdgeschoss sind Kanonenöffnungen sichtbar, die auf dem Kegel errichtet wurden. Der erstmalige Eingang in den Turm, der aus Schnittsteinen mit Eisengitter, das durch die Öffnung herabgesetzt wurde, erbaut wurde, ist jetzt vermauert.  Das Frankopaner Kastell ist das einzige profane erhaltene mittelalterliche Denkmal in der Stadt Krk. Das Kastell wurde teilweise rekonstruiert, so dass es an einem Teil der Stadtmauer eine Promenade und eine kleinere Ausstellung archäologischer Denkmäler gibt."
+      ],
+      "numberOfImages": 2,
+      "latitude": 45.026056,
+      "longitude": 14.573861
+    },
+    "forticina": {
+      "title": "Forticina",
+      "description": [
+        "Auf dem Hügel oberhalb der Bucht von Omišalj befinden sich Spuren der Festung Fortičina. Hier wurden auch Spuren einer älteren Festung aufgefunden, eines Turmobservatoriums, das aus der Spätantike stammt. Die Überreste der größeren spätantiken Zisterne lassen vermuten, dass die römische Stadt Fulfinum von hier aus mit Wasser versorgt wurde. Die wichtige strategische Position, von der aus der Pier überwacht wurde, und die Siedlung Omišalj, beeinflussten natürlich den Bau einer mittelalterlichen Festung während der Fürsten Frankopan, die bis zum 14. Jahrhundert bestand."
+      ],
+      "numberOfImages": 2,
+      "latitude": 45.207083,
+      "longitude": 14.553667
+    },
+    "st_marco_byzantine_fortress": {
+      "title": "Insel Sv. Marko und Byzantinische festung",
+      "description": [
+        "Das byzantinische Castrum befindet sich unter der Kuppe der Felseninsel Sv. Marko auf der Zitadelle und stammt aus dem 6. Jahrhundert. Ein Teil des Castrum diente bis zum 16. Jahrhundert als venezianisches Observatorium. Quellen erwähnen auch zwei Sakralbauten im Castrum (Kirche des Hl. Johannes Goldmund und des Hl. Martin), deren Überreste, obwohl sie in Felsblöcken schwer zu unterscheiden sind, heute noch bei einer Autofahrt über die Brücke von Krk zu sehen sind. Der längliche Grundriss des Castrum folgte offensichtlich die Konfiguration des Geländes. Er präsentierte das sog. Portal der Insel Krk, den Aufsichts- und taktischen Verteidigungspunkt vor Überfällen vom Festland aus. Die Insel erscheint in alten Quellen unter dem Namen Almis, was fruchtbar bedeutet und ihrem gegenwärtigen Zustand widerspricht, in dem nackter Karst vorherrscht."
+      ],
+      "numberOfImages": 2,
+      "latitude": 45.250584,
+      "longitude": 14.562191
+    },
+    "gradec_and_frankopans": {
+      "title": "Gradec und die Frankopans",
+      "description": [
+        "Im dichten Wald unweit von Risika, fast versteckt, befindet sich Gradec. Die Überreste der großen Kastellburg bzw. Festung der Fürsten Frankopan wurden erhalten. Seit 1118 ist die Familie Frankopan die erste einheimische und die einzige Familie, deren Mitglieder als Erbfürsten die Insel Krk verwaltet haben. Gradec gilt als Ort ihres Ursprungs. Die hohen, dicken Wände lassen nur andeuten, was für ein großes und wichtiges Gebäude es war. Obwohl die Entstehung der Festung Kaštel in das 12. Jahrhundert gesetzt werden kann, deuten versehentliche Funde auf die Besiedlung dieses Gebiets auch in römischer Zeit hin. Neben Kaštel befand sich die Kirche des Hl. Geistes, die heute nur in ihren Fundamenten erhalten ist. Dieser Ort, perfekt in die Natur eingebettet und nur für den neugierigen Blick der Wanderer zugänglich, ist ein wichtiges Denkmal, das über die berühmteste Adelsfamilie Frankopan zeugt."
+      ],
+      "numberOfImages": 2,
+      "latitude": 45.099944,
+      "longitude": 14.629722
+    }
+  },
+  "monasteries": {
+    "glagolitic_monks": {
+      "title": "Kloster auf dem platz der Glagolitermonche",
+      "description": [
+        "Noch seit dem 13. Jahrhundert wurden das Kloster und die Kirche des Hl. Franziskus in Krk in verschiedenen Dokumenten, Testamenten und Statuten erwähnt. Das Kloster spricht viel über die Tradition des Franziskanerordens in Krk. Nach der Legende aus dem Jahr 1500 legte der Hl. Franziskus wegen stürmischem Wetter in Krk an und traf auf einen Einsiedler, der seine Lehre annahm, woraufhin der Franziskanerorden auf Krk gegründet wurde. Die Kirche des Hl. Franziskus ist ein einschiffiges Bauwerk mit einer gotisch überwölkten halbrunden Apsis. Sie ist traditionell in West-Ost-Richtung ausgerichtet. Da in der Sakristei der Kirche Fresken aus früheren Zeiten gefunden wurden, wird angenommen, dass sich dort eine ältere Kirche befand und dass die heutige Kirche des Hl. Franziskus durch ihren Umbau entstand. An der Wand der Kirche befindet sich das Relief des venezianischen geflügelten Löwen mit einem geschlossenen Buch aus dem 13. Jahrhundert. Das geschlossene Buch zeigt, dass Venedig damals im Krieg war. Der Glockenturm der Kirche wurde 1743 fertiggestellt. Das Kloster wurde nördlich der heutigen Kirche errichtet. Über seinen Bau gibt es nicht viele Informationen, aber es ist bekannt, dass 1500 der dalmatinische Provveditore Sebastian Justiniani die Öffnung der Fenster am Teil des Klosters an der Stadtmauer erlaubte. 1625 wurde eine Zisterne mit Kreuzgang errichtet, die mit Regenwasser gefüllt wurde. Gegenüber der Franziskanerkirche, ebenfalls am Rande des heutigen Platzes der Glagolitermönche, stand einst ein Klarissenkloster. In den Aufzeichnungen wurde vermerkt, dass sich die Klarissen wegen ihrer strengen Klauseln während des Baus des franziskanischen Glockenturms beschwerten, weil man von ihm aus in ihren Garten sehen konnte. Im Norden der Stadt, neben dem Platz der Glagolitermönche, befindet sich auch ein Benediktinerinnenkloster. Quellen deuten auf die Existenz des Klosters im 13. Jahrhundert hin. Seit 1506 kann seine Geschichte genauer verfolgt werden, sowie seine architektonischen Erweiterungen im 16., 17. und 18. Jahrhundert. Neben dem Kloster gibt es eine Kirche, die der Heiligen Maria von den Engeln gewidmet ist, und ein Glockenturm. In das Kloster durften einst nur die Einwohnerinnen von Krk, und zwar nur Edelfrauen. Auf diese Weise wurde die Anzahl der Nonnen stark reduziert und das Gesetz wurde sehr schnell angepasst. Trotzdem blieb das Kloster zu Beginn des 17. Jahrhunderts ohne Nonnen und der Bischof rief zwei Nonnen aus Cres zum Wiederaufbau auf. Das Benediktinerinnenkloster hat seit Jahren die Tradition der Schulbildung aufrechterhalten. Auf Anregung von Bischof Šintić wurde 1806 in diesem Kloster eine Frauengrundschule auf Italienisch eröffnet. Zwischen 1921 und 1935 führten die Benediktinerinnen im Kloster ein Internat für Mädchen, die das Gymnasium besuchten."
+      ],
+      "numberOfImages": 2,
+      "latitude": 45.029028,
+      "longitude": 14.574361
+    },
+    "glavotok": {
+      "title": "Franziskanerkloster - Glavotok",
+      "description": [
+        "Im Ort Glavotok, an einem abgelegenen Platz am Meer, befindet sich das Kloster der Franziskaner Dritten Ordens, der sog. Glagolitzamönche. Im 15. Jahrhundert besaßen hier die Fürsten von Krk ein eigenes Gut und eine kleine Kapelle, die an der Stelle der heutigen Sakristei in der Kirche stand. Wegen einer Reihe von Intrigen und Machtspielchen zwischen dem Fürsten von Krk und der venezianischen Verwaltung wurde dieses Gebiet in den letzten Jahrzehnten des 15. Jahrhunderts schließlich den Franziskanern übergeben. Zu dieser Zeit wurde das Kloster gegründet. Zu Beginn des 16. Jahrhunderts begann der Bau eines schönen Kirchengebäudes. Es handelt sich um eine einschiffige Kirche im Stil der Renaissance und des Barock. Der Hauptaltar stammt angeblich aus der Benediktinerabtei des Hl. Nikolaus in Omišalj und es wird angenommen, dass der Autor der drei Leinwände dieses Altars Girolamo da Santacroce war. Die Jungfrau mit dem Kind ist zentral abgebildet. Auf den beiden seitlichen Leinwänden befinden sich Darstellungen des Hl. Franziskus und des Hl. Bonaventura.  Der Franziskanerorden bewahrt noch heute seine Traditionen sorgfältig und wirkt im Kloster Glavotok."
+      ],
+      "numberOfImages": 2,
+      "latitude": 45.091111,
+      "longitude": 14.434306
+    },
+    "porat": {
+      "title": "Franziskanerkloster - Porat",
+      "description": [
+        "Das Franziskanerkloster in Porat trägt den Titel Hl. Maria Magdalena. Zuerst stand hier eine kleine Kapelle mit wenigen Mönchen, die aus Glavotok gekommen sind, aber nach der Ankunft der Venezianer nach 1480 wurde ein echtes Franziskanerkloster gegründet. Die Kirche und das Kloster haben Stilelemente der späten Gotik und der Renaissance und der Bau begann bereits in den frühen Jahrzehnten des 15. Jahrhunderts. Zum frühesten Bauabschnitt gehört der Kreuzrippenbogen des Schreins der Kirche. Signifikante künstlerische Arbeit ist sicherlich die Palla vom Hauptaltar von Girolamo Santacroce, die die Schutzpatronin des Klosters, Hl. Maria Magdalena, und den Hl. Johannes der Täufer, Hl. Papst Gregor, Hl. Franz von Assisi, Hl. Quirinus und die Madonna darstellt. Im Jahr 1557 wurden Kirche und Altar geweiht und es ist davon auszugehen, dass die Kirche dann fertiggestellt wurde.  Diesem Kloster Dritten Ordens sowie dem von Glavotok haben wir weitgehend die Erhaltung der glagolitischen Tradition auf der Insel zu verdanken. In den Klöstern wurden sowohl im Gottesdienst als auch in anderen Ritualen und Gebeten die altslawische Sprache und die glagolitische Schrift verwendet. Deshalb wurden sie Glagolitzamönche, Fratres Illirici, genannt. Im Atrium des Klosters wurde ein Lapidarium errichtet, innerhalb welchen das reiche glagolitische Erbe der Insel Krk ausgestellt ist."
+      ],
+      "numberOfImages": 2,
+      "latitude": 45.123444,
+      "longitude": 14.493583
+    },
+    "st_lucia": {
+      "title": "Kloster und kirche Hl.Lucia",
+      "description": [
+        "In Jurandvor, einem kleinen Dorf nördlich von Baška, befindet sich die Kirche der Hl. Lucia. Die Kirche wurde im entwickelten Mittelalter zur Zeit der Romanik als einschiffiges Bauwerk mit einer halbrunden Apsis und einem Glockenturm an der vorderen Fassade erbaut. Die Mauern um die Kirche stellen die Überreste des Benediktinerklosters dar, zu dem auch dieses Sakralgebäude gehörte. Archäologische Untersuchungen haben ergeben, dass das Kloster und die Kirche auf einem älteren antiken landwirtschaftlichen Gebäude errichtet wurden. Der Fund, für welchen die Kirche der Hl. Lucia weit und breit bekannte wurde, befindet sich innerhalb des Gebäudes.  Die Altarschranke ist bekannt als die Tafel von Baška. Diese Steinplatte ist eines der ältesten Denkmäler der kroatischen Geschichte. In dreizehn Reihen wird in altkroatischer Sprache das Wort „Kroatisch“ und der Name von König Zvonimir erwähnt. Sie stammt aus dem Jahr 1100. Die Schrift, mit der der Text auf der Tafel geschrieben wurde, unterscheidet sich von der latinischen Schrift und wird Glagoliza genannt. Neben der latinischen Schrift wurde Glagoliza bis ins 19. Jahrhundert verwendet. Die ursprüngliche Tafel wurde 1934 nach Zagreb verlegt und befindet sich im Saal der Kroatischen Akademie der Wissenschaften und Künste. Heute ist Glagoliza zu einem der Markenzeichen von Baška geworden, was durch große Skulpturen in Form glagolitischer Buchstaben entlang der Straße auf dem Weg nach Baška belegt wird."
+      ],
+      "numberOfImages": 2,
+      "latitude": 44.977778,
+      "longitude": 14.738417
+    },
+    "kosljun": {
+      "title": "Franziskanerkloster - Košljun",
+      "description": [
+        "Die Insel Košljun ist ein wahres Juwel in der Bucht vor Punta. Bruder Mavro Velnić hat sie malerisch beschrieben: „Auf Krk zu sein und Košljun nicht zu sehen, ist wie in Rom zu sein und den Papst nicht zu sehen.“  Im zentralen Teil der Insel, dessen Gesamtumfang nur 1075 Meter beträgt und sechs Meter über dem Meeresspiegel liegt, befindet sich ein Franziskanerkloster mit einem repräsentativen Renaissance-Kirchengebäude und Kreuzgang. Die Mariä-Verkündigung-Kirche wurde 1523 fertiggestellt und an der Stelle der älteren romanischen Benediktinerkirche errichtet. Sie ist reich ausgestattet, wobei zwei künstlerische Meisterwerke den Atem rauben. Den Triumphbogen der Kirche ziert eine 9,7 Meter hohe künstlerische Komposition des venezianischen Meisters Francesco Ughetta mit Darstellung des Letzten Gerichts (Himmel, Fegefeuer und Hölle) und insgesamt 123 bemalte Figuren. Erwähnenswert ist auch das Altarbild aus 1535 von Girolamo Santacroce, einem venezianischen Meister, der einen Großteil seines Bildwerks an der Ostküste der Adria hinterließ. Innerhalb des Komplexes gibt es eine Museumsausstellung, eine reichhaltige ethnographische, archäologische und sakrale Sammlung sowie eine Bibliothek. Das Museum beherbergt auch die berühmte Landkarte von Claudius Ptolemäus, einem griechischen Astronomen und Geographen aus dem 2. Jahrhundert, die 1511 in Venedig gedruckt wurde."
+      ],
+      "numberOfImages": 2,
+      "latitude": 45.026694,
+      "longitude": 14.618194
+    }
+  },
+  "tours": {
+    "defensive_walls_of_krk": {
+      "title": "Verteidigungsmauern der insel Krk",
+      "description": [
+        "Jahrhunderte zurück wurden auf der Insel Krk Siedlungen an strategisch bedeutenden Anhöhen gebaut, von denen aus wichtige Handelsrouten kontrolliert wurden und die Stadt im Falle eines Angriffs leichter verteidigt werden konnte. Ein wahres Beispiel einer solchen geplanten Stadt ist der Ort Dobrinj, der sich im zentralen Teil der Insel befindet. Obwohl auf den ersten Blick keine Verteidigungsmauern zu sehen sind, heißt das nicht, dass es sie nicht gibt, denn sie sind sehr geschickt in den verdickten Mauern im äußeren Ring der Stadt versteckt.  Nach dem Besuch von Dobrinj fahren Sie in Richtung Krk, eine Stadt, deren lange Geschichte in ihre Stadtmauern und ihr Kastell eingemeißelt ist. Das Kastell von Krk ist unter dem Namen Frankopan bekannt. Deshalb könnte die nächste Station Ihrer Reise eine der verborgenen Burgen dieser Adelsfamilie, Gradec, sein, die in einem Wald nicht weit von Vrbnik gelegen ist. Der Ausflug nach Gradec wird Ihnen die bezaubernde Waldlandschaft der Insel offenbaren. Es ist an der Zeit nach Baška zu gehen, welchen Ort noch theatralischere Steinlandschaften zieren. Die Geschichte dieses Ortes hängt mit der Siedlung der gesamten Bevölkerung von den Hügeln in das Flachland am Meer zusammen, abhängig von einer sichereren oder kriegsbedrohten historischen Periode. Schließen Sie diese Reise bei der Kirche des Hl. Johannes und dem Kastell oberhalb von Baška ab, wohin sich die Bewohner im Falle eines Angriffs vom Meer aus hinaufbewegten. Spazieren Sie danach durch die Altstadt und entlang der Promenade."
+      ],
+      "map-url": "https://www.google.com/maps/d/u/0/viewer?mid=1fqyKxf602KThsP8_xm936VhcBFhZduyS&ll=45.08888834670806%2C14.728269447460889&z=11",
+      "related": {
+        "dobrinj": {
+          "title": "Dobrinj",
+          "type": "places"
+        },
+        "volsonis": {
+          "title": "Kastell, stadtmauern und archaologische uberreste im cafe Volsonis",
+          "type": "forts"
+        },
+        "gradec_and_frankopans": {
+          "title": "Gradec und die Frankopans",
+          "type": "forts"
+        },
+        "krk": {
+          "title": "Krk",
+          "type": "places"
+        },
+        "st_john": {
+          "title": "Kirche des Hl.Johannes",
+          "type": "churches"
+        }
       }
     },
-    "about": {
-      "title": "Heritage Omišalj",
-      "description": "<b>Bestellt durch:</b> TZO OMIŠALJ<br><br><b>Projektleiter:</b> Kristina Pandža<br><br><b>Text:</b> TZO OMIŠALJ<br><br><b>Vortrag und Korrektur::</b> Adverbum d.o.o.<br><br><b>Englische Übersetzung:</b> Adverbum d.o.o.<br><br><b>Deutsche Übersetzung:</b> Adverbum d.o.o.<br><br><b>Italienische Übersetzung:</b> Adverbum d.o.o.<br><br><b>Fotografie:</b> Luka Tabako, Srđan Hulak, Sanjin Ilić<br><br><b>Webseitenentwicklung:</b> Ljiljana Brusić<br><br><b>Entwicklung mobiler Apps:</b> R.D.D."
-    },
-    "archeology_remains": {
-      "glagolitic_inscription": {
-        "title": "Glagolitische Inschrift im Sturz eines Eingangsportals, eingebaut in das Haus Veli dvor 11",
-        "description": "<b>Glagolitische Inschrift von Matija Franović aus dem Jahr 1535.</b><br><br>Die glagolitische Inschrift wurde in ein Medaillon um ein Kreuz herum in einen Steinquader eingemeißelt, der in die Fassade eines Familienhauses eingebaut wurde. Die Inschrift erwähnt den Priester Matija Franović und das Jahr 1535. Ursprünglich befand sich der Stein nicht an dieser unansehnlichen Stelle. Er diente als Türsturz für das Portal des Pfarrhauses und der Besitzer markierte das Bauende – wie dies in der Renaissance üblich war – mit einer Inschrift und einem Kreuz. Damit war auch eine apotropäische Funktion verbunden, d.h. das Haus sollte vor allem Übel bewahrt werden. Nirgendwo sonst auf der Welt gibt es so viele gut erhaltene glagolitische Steininschriften wie in den Städtchen auf der Insel Krk. Die Inschriften sind Nachweise für die verbreitete Alphabetisierung unter den Bewohnern der Insel Krk. Eine entscheidende Rolle spielten dabei die zahlreichen Priester des Kapitels aus den Städtchen von Krk, die damals Kašteli (Kastelle) genannt wurden: Omišalj, Dobrinj, Vrbnik und Baška.",
-        "numberOfImages": 2,
-        "latitude": 45.212041,
-        "longitude": 14.552886
-      },
-      "klancina": {
-        "title": "Klančina",
-        "description": "<b>Die letzte ursprünglich mit Steinquadern gepflasterte Gasse von Omišalj.</b><br><br>Um ein Tal herum, das sich durch Erosion infolge von Wasserfluten gebildet hat, ist im Laufe der Jahrhunderte ein Weg entstanden. Er befindet sich im südlichen Teil des Stadtkerns von Omišalj. Befestigt wurde er mit Natursteinplatten, Bruchstein und gemeißelten Steinquadern, die in der Mitte verlegt sind.",
-        "numberOfImages": 1,
-        "latitude": 45.211217,
-        "longitude": 14.554656
-      },
-      "loza": {
-        "title": "Loggia",
-        "description": "<b>Öffentliches Gebäude aus der Renaissance</b><br><br>Zur Zeit der Renaissance befand sich auf dem Stadtplatz Placa die städtische Loggia. Hier haben die Bewohner von Omišalj gehandelt, Sitzungen abgehalten und ihre Vertreter für die Kommunalämter gemäß ihrer Autonomiebefugnisse gewählt, die die Gemeinde Omišalj als Gemeinschaft freier Bürger sowohl unter der Herrschaft der Fürsten von Krk als auch unter der venezianischen Regierung innehatte. In dieser Loggia wurden alle wichtigen Beschlüsse gefasst, zum Beispiel auch die schwere Auswahl aller Personen, die auf den venezianischen Galeeren, für die Republik Venedig das Rückgrat ihrer Macht in diesem Gebiet, zu dienen hatten. Die Loggia wurde Anfang des 20. Jahrhunderts umgebaut.",
-        "numberOfImages": 1,
-        "latitude": 45.211807,
-        "longitude": 14.553792
-      },
-      "pancirov": {
-        "title": "Panćirov",
-        "description": "<b>Kurvenreiche Gasse im südwestlichen Teil des historischen Stadtkerns von Omišalj.</b><br><br>In der Vergangenheit war diese alte Gasse anhand der traditionell geformten mehrstöckigen Gebäude mit ihren Rundbögen, Terrassen und den Außentreppen vor den Häusern gut zu erkennen.",
-        "numberOfImages": 1,
-        "latitude": 45.211308,
-        "longitude": 14.553835
-      },
-      "mirine_fulfinum_basilica": {
-        "title": "Mirine Fulfinum – Basilika",
-        "description": "<b>Die Kirche im Gebiet Mirine wurde Mitte des 5. Jahrhunderts an der Peripherie der Stadt gebaut. Es handelt sich dabei um eine einschiffige längsgerichtete Basilika mit Grundriss in Form eines lateinischen Kreuzes.</b><br><br>Die Basilika blieb bis zur Dachhöhe erhalten und ist heute der einzige erhaltene Sakralbau dieser Art nicht nur auf der Insel Krk, sondern im gesamten Kroatischen Küstenland.<br><br>Mit dieser Kirche entstand auf den Ruinen der römischen Stadt Fulfinum eine neue christliche Stadt, deren Geheimnisse aber erst noch von Fachexperten erforscht werden müssen. Die lokale Tradition verbindet die Kirche mit der glagolitischen Benediktinerabtei des Hl. Nikolaus, die im 15. Jahrhundert verlassen wurde und ihren Sitz näher an Omišalj verlagerte.<br><br>Es handelt sich dabei um einen beeindruckenden einschiffigen Kirchenbau. In der ursprünglichen Bauphase hatte die Kirche an der Vorderseite eine Vorhalle (Narthex oder Vestibül), ein Vordach an der Südseite sowie zwei kleinere Seitenräume (Vorläufer der Sakristei), die mit der Mauer des Altarraums verbunden waren. Der Altarraum hat eine einfache Form mit gerader Hinterfront und einer freistehenden Bank für die Priesterschaft. Vor dieser Bank befindet sich der Bereich des Altarraums, der mit einer Kommunikationsbank abschließt und in dessen Mitte sich ein kreuzförmiges Altargrab befindet. In der Vorhalle fand man einen Sarkophag, der in den Felsen eingegraben und mit Mörtel aufgegossen war. Neben dem Sarkophag entdeckte man später ein privilegiertes Grab, in dem zwei Verstorbene ihre letzte Ruhe fanden und das auf die Zeit zwischen dem 7. und 8. Jahrhundert datiert wird.<br><br>Wahrscheinlich wurde zur gleichen Zeit am südlichen Vordach ein Atrium angebaut, in dessen Seitenflügeln sich ebenfalls einige privilegierte Gräber befinden. Im Laufe der Jahrhunderte entwickelte sich diese Gemeinschaft zu einer gut organisierten Glaubensgemeinde, die sich die Lehre des Hl. Benedikt aneignete. Dies wissen wir aus späteren Quellen, in denen eine Abtei des Hl. Nikolaus unterhalb von Omišalj Erwähnung findet. Innerhalb dieses Klosterkomplexes befinden sich neben der Kirche, die auch im Innenraum umgebaut wurde, kleinere Gebäude, die dem Gedenken ebenso wie wirtschaftlichen Zwecken dienten.",
-        "numberOfImages": 3,
-        "latitude": 45.2039264,
-        "longitude": 14.5425719
-      },
-      "mirine_fulfinum_sarcophagus": {
-        "title": "Mirine Fulfinum - Sarkophag",
-        "description": "<b>In der Vorhalle der Basilika fand man in einer in den Felsen eingemeißelten Höhle einen verschlossenen Sarkophag. Im Laufe der Zeit fand man in der Umgebung weitere Gräber.</b><br><br>Bei der Reinigung der Vorhalle der Basilika wurde unterhalb eines Steinhaufens ein Sarkophag in situ gefunden – ein sehr rarer und wertvoller Fund. Der Sarkophag befindet sich vergraben und unverändert mit seinem ursprünglichen Originaldeckel an seiner originellen Stelle unterhalb der Kirche. Mithilfe einer Mikrokamera konnte, ohne das Grab zu entweihen, festgestellt werden, dass sich drinnen zwei Verstorbene befinden.",
-        "numberOfImages": 2,
-        "latitude": 45.2039609,
-        "longitude": 14.54291
-      },
-      "mirine_fulfinum_forum": {
-        "title": "Mirine Fulfinum - Forum",
-        "description": "<b>Wie in jeder Römerstadt befand sich auch im Zentrum von Municipium Flavium Fulfinum das Forum, der Stadtplatz, der die wichtigsten urbanen Funktionen in der Welt der Römer erfüllte:  politische, ökonomische, religiöse und gesellschaftliche.</b><br><br>Das Forum von Fulfinum liegt im nordwestlichsten Stadtteil entlang einem der wichtigsten Verkehrswege, der beinahe geradlinig und parallel zur Küste durch die ganze Siedlung und wahrscheinlich auch weiter in Richtung Krk über die Standorte Mohorov und Njivice verlief.<br><br>Am zentralen Stadtplatz befanden sich offensichtlich alle Gebäude, die für das Funktionieren der Stadt nach römischem Muster erforderlich waren. So befand sich in der Hochphase, die auf das Ende des 1. Jh. n. Chr. datiert wird, im zentralen Teil, allerdings am nordwestlichen Rand des Forums (der sich über eine Fläche von 1300 m2 erstreckte) der zentrale Forumtempel, der entweder der Kapitolinischen Trias (bzw. der Dreiheit der römischen Götter Jupiter, Juno und Minerva) oder möglicherweise römischen Kaisern gewidmet war.<br><br>Charakteristisch für den Tempel war seine einfache Form mit nur vier Säulen auf der Vorderseite und einem einfachen Naos ungefähr einen Meter über den Gehbereich des Forums. Der Tempel war von einem geweihten Raum umgeben, der auf der West- und Nordseite aus Umfassungswänden und auf der Ostseite aus einer Vordachwand bestand. Entlang der westlichen, längeren Seite des Forums gab es eine Reihe von Räumlichkeiten – Tavernen, die man wahrscheinlich nicht direkt vom Forum aus, sondern von der anderen, der dem Meer zugewandten Seite betreten konnte. Im östlichen Teil des Forums gab es ein sehr langes Gebäude mit nur drei kleineren Räumen im nördlichen Teil und einem großen Innenhof mit zwei Vordächern. Diesen Raum konnte man durch die Tür in der Wand betreten, die den Gehbereich des Forums auf dieser Seite umsäumte. Am Eingang in das Forum befand sich ein Portikus mit einer Weihinschrift.<br><br>Das Forum der Stadt Fulfinum wurde im 3. Jahrhundert in beträchtlichem Umfang umgebaut. Zu dieser Zeit wurde ein kleinerer Platz auf der nordöstlichen Seite des zentralen Tempels angelegt, in dessen Mitte man ein gemauertes Fundament vorfand. Auf ihm stand wahrscheinlich ein Denkmal, in Form einer Statue oder Inschrift, von dem heute leider nichts erhalten blieb. Bevor die Menschen das Forum und die Stadt selbst verließen, waren einige Bereiche „privatisiert“ worden. Auf dem Forum, das in Römerstädten das Symbol des öffentlichen Bereichs war, sind damals leichte Holzkonstruktionen entstanden, die auf den Verlust seiner ursprünglichen Funktion als Stadtplatz hindeuten.",
-        "numberOfImages": 7,
-        "latitude": 45.2030764,
-        "longitude": 14.5445837
-      },
-      "mirine_fulfinum_comb": {
-        "title": "Der Kamm von Mirine",
-        "description": "<b>In der archäologischen Fundstätte bei der Holzbrücke gelang der Fund eines einzigartigen Gegenstands aus dem 5. Jahrhundert, und zwar des Kamms von Mirine.</b><br><br>Entdeckt wurde der Kamm im April 2017 während des französisch-kroatischen Forschungsprojektes „Archäologischer Park Mirine – Fulfinum“ der Gemeinde Omišalj. Dieser Elfenbeinkamm diente wahrscheinlich einem liturgischen Zweck und stellt heute einen außergewöhnlich wertvollen archäologischen Fund aus frühchristlicher Zeit dar.<br><br>Der Kamm wurde im Archäologischen Museum in Zagreb restauriert. Den Fund präsentierten Sanjin Mihelić, Leiter des Archäologischen Museums in Zagreb, Morana Čaušević-Bully, Wissenschaftlerin von der Universität Franche-Comté, Sébastien Bully, Forschungsleiter im CNRS und Damir Doračić, Restaurator des Archäologischen Museums in Zagreb.<br><br>Den Kamm von Mirine zieren beidseitig Reliefdarstellungen, die von den Wundern Jesu erzählen. Auf der einen Seite sieht man die Verwandlung von Wasser in Wein bei der Hochzeit zu Kana sowie die wundersame Brotvermehrung und auf der anderen die Heilung der blutflüssigen Frau durch Berühren des Gewandes Jesu und links möglicherweise eine Frau vor dem Grab Jesu. Es handelt sich dabei um einen der bedeutendsten Funde in der rezenten kroatischen frühchristlichen Archäologie, der in dieser Region seinesgleichen sucht und weltweit zu den wenigen Gegenständen dieser Art gehört.",
-        "numberOfImages": 2,
-        "latitude": 45.2053904,
-        "longitude": 14.5431302
-      },
-      "mirine_thermal_baths": {
-        "title": "TO-DO",
-        "description": "TO-DO",
-        "numberOfImages": 2,
-        "latitude": 45.20525,
-        "longitude": 14.5427135
+    "monasteries_visit": {
+      "title": "Besuch den klostern der insel Krk",
+      "description": [
+        "Nachdem Sie einen Spaziergang entlang der Promenade in Punat unternommen haben, fahren Sie mit dem Boot zur Insel Košljun, einem magischen Ort, der von den Franziskanern gehütet wird. Die Tradition des Mönchstums auf dieser Insel beginnt im Mittelalter mit der Ankunft der Benediktiner. Seit dem 15. Jahrhundert ist die Insel von den Kleinen Brüdern bewohnt. Nach der Besichtigung von Košljun fahren Sie in Richtung des Nordtors der Stadt Krk auf den Platz der Glagolitermönche. Dies ist der Ort des wahren Zusammenlebens mehrerer noch aktiver Ordensgemeinschaften, der noch immer aktiven Benediktinerinnen und Franziskaner sowie der heute erloschenen Benediktinerkloster in der Kirche der Muttergottes der Gesundheit und des teilweise erhaltenen und im Rahmen der Sporthalle auf dem vorbenannten Platz teilweise präsentierten Klarissenklosters. Die nächste Station ist Glavotok und das Franziskanerkloster an einem schönen ruhigen Ort direkt am Meer. Um ein möglichst vollständiges Bild der Ordensgemeinschaften auf der Insel zu erhalten, sollten Sie auch das Franziskanerkloster in Porat nicht weit von Malinska besuchen. In diesem Kloster finden Sie die Nachbildung der glagolitischen Monumente von Krk. Werfen Sie einen guten Blick auf sie und bereiten Sie sich auf den morgigen Besuch von Jurandvor und der Kirche der Hl. Lucia vor, in der das wichtigste glagolitische Monument, die Tafel von Baška, gefunden wurde."
+      ],
+      "map-url": "https://www.google.com/maps/d/u/0/viewer?mid=1yGYv114C8evJKzk8kR94ogjrilmpcxEp&ll=45.07197973143436%2C14.535032999999999&z=12",
+      "related": {
+        "punat": {
+          "title": "Punat",
+          "type": "places"
+        },
+        "kosljun": {
+          "title": "Franziskanerkloster - Košljun",
+          "type": "monasteries"
+        },
+        "glagolitic_monks": {
+          "title": "Kloster auf dem platz der Glagolitermonche",
+          "type": "monasteries"
+        },
+        "st_michael_lady_health": {
+          "title": "Kirche des Hl.Michael (Muttergottes der gesundheit)",
+          "type": "churches"
+        },
+        "glavotok": {
+          "title": "Franziskanerkloster - Glavotok",
+          "type": "monasteries"
+        },
+        "porat": {
+          "title": "Franziskanerkloster - Porat",
+          "type": "monasteries"
+        }
       }
     },
-    "churches": {
-      "church_of_st_anthony_of_padua": {
-        "title": "Kirche des Hl. Antonius von Padua (13./14. Jahrhundert)",
-        "description": "<b>Einschiffige Kirche mit halbkreisförmiger Apside.</b><br><br>Die Kirche des Hl. Antonius von Padua in Dubec wird zum ersten Mal 1685 erwähnt, obwohl der romanische Baustil darauf hinweist, dass es sich hier um ein älteres Bauwerk handelt. Um die Kirche kümmerte sich in der Vergangenheit die gleichnamige Brüderschaft. An der südlichen Wand ist ein gotisches Fenster erhalten. Das Altarbild des Hl. Antonius von Padua stammt aus dem 18. Jahrhundert.<br><br>An der Vorderseite erhebt sich ein Glockengiebel mit einer erhaltenen Glocke; davor wurde eine große, schattige Loggia angebaut. Die Loggia ist ein beliebter Treffpunkt vor allem an warmen Sommerabenden.",
-        "numberOfImages": 3,
-        "latitude": 45.213345,
-        "longitude": 14.553331
-      },
-      "church_of_st_helen": {
-        "title": "St-Helena-Kirche",
-        "description": "<b>Einschiffige Kirche mit einer halbkreisförmigen Apside (14./15. Jahrhundert).Die Kirche der Hl. Helena wurde aus gemeißelten Steinquadern erbaut.</b>\n Auf der Vorderseite befindet sich ein gotisches Spitzbogenportal mit einem kleinen kreuzförmigen Fenster und einem Glockengiebel. Die Kirche liegt nur wenige Treppenstufen oberhalb des Hauptplatzes Placa. Unmittelbar daneben stehen der Glockenturm und die Loggia der Pfarrkirche. Zum ersten Mal wurde die St.-Helena-Kirche 1458 erwähnt. Zu dem Zeitpunkt war sie bereits eine Ruine. Im gleichen Jahr wurde sie von Nikola Bozanić saniert und in den heutigen Zustand gebracht. In seinem Testament vom 15. April 1470 hinterließ er die Kirche und bestimmte Besitztümer seinen Nachfolgern. Aus notariellen Dokumenten der Folgejahre gehen mehrere Namen aus dem Geschlecht Bozanić hervor, die mit der Kapelle verbunden waren. Im Jahr 1565 wurde Vid Bozanić als Kirchenpatron (ius patronatus) erwähnt, d.h. dass er die Schirmherrschaft über die Kapelle und die Grundstücke innehatte. Anton Bozanić, der Pfarrer von Omišalj, hinterließ in seinem Testament vom 16. August 1612 die Verantwortung für die Kapelle dem Kleriker Anton Čubranić unter der Voraussetzung, dass diese nach seinem Tode wieder an das Bozanić-Geschlecht übergehen solle. In der Kapelle befindet sich ein Steinaltar mit dem Altarbild der Hl. Helena. An ihrem Gedenktag wird hier eine Messe gefeiert. Neben dieser gibt es in Omišalj die Ruinen einer weiteren gleichnamigen Kirche, die noch ältere St. Helena im Tal (Sv. Jelena na Dolu).",
-        "numberOfImages": 2,
-        "latitude": 45.211886,
-        "longitude": 14.553894
-      },
-      "rose_window": {
-        "title": "Rosette",
-        "description": "Die Rosette auf der Kirchenvorderseite ist ein naives Werk des örtlichen Meisters Sinoga. Die glagolitische Inschrift datiert sie auf das Jahr 1405.",
-        "numberOfImages": 2,
-        "latitude": 45.20525,
-        "longitude": 14.553481
-      },
-      "bell_tower": {
-        "title": "Glockenturm",
-        "description": "<b>Der Renaissance-Glockenturm wurde 1536 fertig gebaut, was die glagolitische Inschrift über dem Eingangstor bezeugt.</b><br><br>Der Bau des Glockenturms dauerte drei Jahre lang von 1533 bis 1536. Finanziert wurde der Bau von den Einwohnern und Brüderschaften von Omišalj. Diese religiösen Gemeinschaften waren nicht nur karitativ tätig, sondern sie galten im Spätmittelalter und in der frühen Neuzeit auch als bedeutende Bauherren für Sakralbauten. Zwei Baumeister waren mit den Bauarbeiten beauftragt: Pjero aus Omišalj und Andrij aus dem Dorf Kotor in der Nähe von Crikvenica. Zu dieser Zeit war Matija Vlčijić der Pfarrer und Nikola Antončić der Kastellan. Auskunft darüber gibt uns die glagolitische Inschrift, die die stolzen Erbauer über dem Portal des Glockenturms einmeißeln ließen. In das Bifora-Fenster bauten die Meister Teile der vorromanischen Kircheneinrichtung ein. Zu diesen unruhigen Zeiten, in denen Gefahr durch die Ottomanen drohte, und die österreichisch-venezianischen Kriege tobten, hatte ein solcher Glockenturm – gleich wie anderswo an der östlichen Adriaküste – nicht nur eine sakrale Rolle, sondern er wurde vielmehr auch als Aussichtspunkt genutzt, um die umliegenden Gewässer zu kontrollieren. Aus diesem Grund wurde er wie eine Festung ausgebaut. Die Inschrift auf dem Glockenturm lautet: „1533, im März, nach dem Willen Gottes und der Seligen Jungfrau Maria und auf Befehl des Pfarrers Matija Vlčijić, des Kastellans Mikula Antončić und der damaligen Richter. Das ganze Volk und die Brüderschaften halfen bei der Errichtung des Glockenturmes mit. Gebaut wurde er von den Baumeistern Pjero aus Omišalj und Andrij aus Kotor. Fertig gebaut wurde er im Mai 1536.“",
-        "numberOfImages": 1,
-        "latitude": 45.211822,
-        "longitude": 14.553551
-      },
-      "parish_church_of_the_assumption_stomorina": {
-        "title": "Pfarrkirche der Mariä Himmelfahrt, Stomorina",
-        "description": "<b>Gebaut wurde die Kirche um die Jahrhundertwende zwischen dem 12. und 13. Jahrhundert als dreischiffige romanische Basilika, deren Erbauer von den monumentalen romanischen Bauten in der Stadt Krk stark beeindruckt waren.</b><br><br>Die drei Schiffe werden voneinander durch eine Arkatur getrennt, die auf massiven viereckigen Säulen liegt. Das zentrale Schiff endet mit der viereckigen Hauptapside und die Seitenschiffe mit kleinen halbkreisförmigen Apsiden (die südliche Apside wird von einem Anbau aus neuerer Zeit verdeckt). In der Lunette des Hauptportals an der westlichen Fassade, an der Außen- und Innenwand sowie auf den Säulen und Kanzeln wurden Teile der Kirchenausstattung (Pluteus-Platten, Balken, Pilastren sowie Teile des Teguriums und der Kanzel einer früheren Kirche) eingearbeitet. Diese sind anhand ihrer charakteristischen christlichen Motive leicht erkennbar: der Glaube an die ständige Erneuerung, Auferstehung und das ewige Leben. Darunter findet man geschickt modellierte “endlos” wirkende Geflechte, Kreise, Halb- und Wirbel-Rosetten, Zypressen, Reben, Vögel und andere Pflanzen- und Tierornamente. Die Reliefs wurden nachträglich in die romanische Pfarrkirche eingebaut, teilweise während ihrer Errichtung und teilweise zu einem späteren Zeitpunkt. Die vorromanischen Baumeister meißelten die Ausstattungselemente direkt vor Ort und benutzten dazu vorwiegend geeigneten istrischen Kalkstein, der mit Schiffen hertransportiert wurde, und teilweise auch griechischen Marmor, den sie hiesigen Bauten entnahmen. Das repräsentative romanische Seitenportal wurde später (im 15.-17. Jh.) mit inoffiziellen glagolitischen Schriftzeichen versehen. Im 16. Jahrhundert wurde die Kirche systematisch erweitert, was aus einer glagolitischen Inschrift aus dem Jahr 1525 an einer der Kapellen hervorgeht, die am nördlichen Schiff angebaut wurde. Die Kreuzgewölbe in den Seitenkapellen bezeugen, dass die örtlichen Meister damals immer noch im spätgotischen Stil bauten. Intensive Umbauten fanden infolge liturgischer Veränderungen nach dem Konzil von Trient statt und gipfelten in dem Bau der Kuppel über dem Presbyterium im 17. Jahrhundert und dem Anschluss der bisher separaten Johanneskirche (Sv. Ivan Krstitelj) im 18. Jahrhundert. In der Mitte des Altarretabels aus der Spätrenaissance ist noch ein Teil des Vorgängerwerks aus der Frührenaissance erhalten geblieben. Diese in Holz geschnitzte, bemalte Skulptur gehört zu den besten Exemplaren aus der venezianischen Produktion der damaligen Epoche. Dasselbe gilt für die Prozessionskreuze, Reliquiare und Weihrauchfässer. In einer Visitation aus der zweiten Hälfte des 16. Jahrhunderts wird erwähnt, dass die Kirche nicht weniger als 18 Altäre besaß. In der rechten Apside befindet sich ein in Holz geschnitztes und bemaltes Altarretabel vom Evangelisten Johannes, das Jacobello del Fiore (Anfang des 15. Jahrhunderts) zugeschrieben wird. Die Fresken in der Kuppel und an der Decke des Hauptschiffes wurden 1929 vom örtlichen Maler Ivan Volarić hergestellt.<br><br>Neben dem Seiteneingang in das südliche Schiff der Pfarrkirche befindet sich die heutige Sakristei, die einstige Kapelle des Täufers Johannes. Ihre gotische Fassade wurde 1442 errichtet, wie dies der glagolitischen Inschrift zu entnehmen ist. Die Inschrift befindet sich zwischen den ursprünglichen Öffnungen des jetzt zugemauerten Portals und einem engen Fenster mit schrägen Rahmenkanten. Auf ihr steht: „In Gottes Namen, Amen. Im Jahre des Herrn 1442 wurde diese Fassade errichtet, zur Zeit des Priesters Petar und Dv…“. Ganz typisch für den Stil sind auch die Spitzbögen. Es wird vermutet, dass unterhalb der Kapelle noch Überreste eines einstigen Baptisteriums einer Kirche zu finden sind, die ursprünglich an diesem Ort stand.",
-        "numberOfImages": 4,
-        "latitude": 45.211886,
-        "longitude": 14.553481
+    "few_stone_remains": {
+      "title": "Vergangenheit der insel in wenigen steinblocken",
+      "description": [
+        "Beginnen Sie die Reise in Omišalj. Spazieren Sie zur Vorderseite der Pfarrkirche Mariä Himmelfahrt, wo Sie Kirchenmöbel und andere Reste eines ehemaligen Gebäudes sehen, die als Baumaterial für den Bau dieser Kirche verwendet wurden. Es ist nicht immer der Fall, dass sowohl die ältere als auch die jüngere Kirche erhalten bleiben. Lassen Sie Ihr nächstes Ziel also das verlassene Kirchenkomplex in einem Wald in der Nähe von Malinska, bekannt unter dem Namen Cickini, sein.  Besuchen Sie nach diesem Abenteuer den Ort Punat. Auf dem Weg dorthin finden Sie an der Straße die kleine Kirche des Hl. Donatus, die nach dem II. Weltkrieg vollständig zerstört und danach restauriert wurde und heute ein wahres Monument der romanischen Architektur auf der Insel darstellt. Fahren Sie weiter in Richtung Punat, biegen Sie dann am Ortseingang auf dem Pfad ab und besuchen Sie die Überreste der Kirche des Hl. Petrus auf Kanajt. Kanajt ist eine archäologische Stätte, an der die Kirche vom 6. bis 19. Jahrhundert stand, als der Gottesdienst in ihr eingestellt wurde. In Punat können Sie eine kurze Pause einlegen und dann das Abenteuer an den letzten beiden Orten auf der Ostseite der Insel, der mittelalterlichen Kirche des Hl. Petrus in Soline und dem Renaissancegebäude der Allerheiligen in Sužan, fortfahren."
+      ],
+      "map-url": "https://www.google.com/maps/d/u/0/viewer?mid=1nF-hsfF4PTIljy_9jn7cdM5Hz7pFx-CW&ll=45.098084903041304%2C14.605628499999966&z=11",
+      "related": {
+        "parish_church_of_assumption": {
+          "title": "Pfarrkirche Maria himmelfahrt un glockenturm",
+          "type": "churches"
+        },
+        "lapidarium": {
+          "title": "Archaologische statte Cickini/Lapidaruim",
+          "type": "archeology_remains"
+        },
+        "st_donatus": {
+          "title": "Kirche des Hl.Donatus",
+          "type": "churches"
+        },
+        "st_peter_kanajt": {
+          "title": "Archaaologische  Statte Sv. Petar auf Kanajt",
+          "type": "archeology_remains"
+        },
+        "all_saints_suzan": {
+          "title": "Allerheiligenkirche in Sužan",
+          "type": "archeology_remains"
+        },
+        "st_peter_soline": {
+          "title": "Kirche des Hl.Petrus-Soline",
+          "type": "archeology_remains"
+        }
       }
     },
-    "forts": {
-      "kastel": {
-        "title": "Kaštel (Kastell)",
-        "description": "<b>An diesem Ort stand einst der Turm der mittelalterlichen Frankopanen-Festung.</b><br><br>An der südöstlichen Mauer des Pfarramtes befindet sich eine Steintafel mit glagolitischer Inschrift, die über den Bau des Turmes im Jahre 1476 berichtet. Erbaut wurde der Turm von Ivan (Johannes) VII. dem Jüngeren, der der letzte Inselherrscher aus der Frakopan-Familie war. In späteren Jahren wurde die ehemalige befestigte Feudalresidenz der Fürsten von Krk als Festung mit einem Kastellan von der Republik Venedig verwaltet, bevor sie im 19. Jahrhundert verwahrloste. Anfang des 20. Jahrhunderts wurde an ihrer Stelle die Schule und das Gemeindehaus mit Pfarramt und -wohnung errichtet. Auch heute befindet sich hier der Sitz der Gemeinde Omišalj. Die Zisterne im mittleren Hof stammt aus der Frankopanen-Zeit und wurde Anfang des 20. Jahrhunderts saniert Die glagolitische Inschrift über den Bau des Kastells an der Mauer des Pfarramtes lautet: „In Gottes Namen, Amen. Im Juni 1476, zum Baubeginn des Kastells, zur Zeit des Fürsten Ivan (Johannes) und seines Sohnes Mikula (Nikolaus).“",
-        "numberOfImages": 2,
-        "latitude": 45.21127,
-        "longitude": 14.555322
+    "krk_small_secluded_churches": {
+      "title": "Kleine und verborgene kirchen der insel Krk",
+      "description": [
+        "Nachdem Sie einen Spaziergang entlang der Promenade in Punat unternommen haben, fahren Sie mit dem Boot zur Insel Košljun, einem magischen Ort, der von den Franziskanern gehütet wird. Die Tradition des Mönchstums auf dieser Insel beginnt im Mittelalter mit der Ankunft der Benediktiner. Seit dem 15. Jahrhundert ist die Insel von den Kleinen Brüdern bewohnt. Nach der Besichtigung von Košljun fahren Sie in Richtung des Nordtors der Stadt Krk auf den Platz der Glagolitermönche. Dies ist der Ort des wahren Zusammenlebens mehrerer noch aktiver Ordensgemeinschaften, der noch immer aktiven Benediktinerinnen und Franziskaner sowie der heute erloschenen Benediktinerkloster in der Kirche der Muttergottes der Gesundheit und des teilweise erhaltenen und im Rahmen der Sporthalle auf dem vorbenannten Platz teilweise präsentierten Klarissenklosters. Die nächste Station ist Glavotok und das Franziskanerkloster an einem schönen ruhigen Ort direkt am Meer. Um ein möglichst vollständiges Bild der Ordensgemeinschaften auf der Insel zu erhalten, sollten Sie auch das Franziskanerkloster in Porat nicht weit von Malinska besuchen. In diesem Kloster finden Sie die Nachbildung der glagolitischen Monumente von Krk. Werfen Sie einen guten Blick auf sie und bereiten Sie sich auf den morgigen Besuch von Jurandvor und der Kirche der Hl. Lucia vor, in der das wichtigste glagolitische Monument, die Tafel von Baška, gefunden wurde."
+      ],
+      "map-url": "https://www.google.com/maps/d/u/0/viewer?mid=1UPulMg7qOXwBQbhqwOiotGv9OHs2wnna&ll=45.11137389050382%2C14.642119999999977&z=12",
+      "related": {
+        "vrbnik": {
+          "title": "Vrbnik",
+          "type": "places"
+        },
+        "st_mavro": {
+          "title": "Kirche des Hl.Mavro",
+          "type": "archeology_remains"
+        },
+        "st_marcos_church": {
+          "title": "Kirche des Hl. Markus",
+          "type": "archeology_remains"
+        },
+        "st_vitus": {
+          "title": "Kirche des Hl.Veit",
+          "type": "churches"
+        },
+        "st_philip_and_jacob": {
+          "title": "Kirche der Hl.Philip und Jakob",
+          "type": "churches"
+        },
+        "st_clement_klimno": {
+          "title": "Kirche des Hl.Clemens in Klimno",
+          "type": "churches"
+        }
       }
     },
-    "industrial_heritage": {
-      "water_tower_dubec": {
-        "title": "Wasserturm Dubec (1925)",
-        "description": "<b>Der Wasserturm Dubec war einst Teil eines Komplexes aus einem Wasserspeicher und einem Pumpwerk. Heute stellt er ein wichtiges Denkmal einstiger Infrastruktur und industrieller Architektur dar, das auf den Fortschritt in Omišalj schließen lässt.</b><br><br>Dank dieser Anlage gibt es seit 1925 in Omišalj fließendes Trinkwasser aus der Leitung und elektrischen Strom in den Häusern, Jahrzehnte früher als viele andere Inselortschaften an der östlichen Adriaküste. Für die Fassade wurden interessanterweise Steinquader verwendet, um das Gebäude optisch besser in die umliegende Architektur einzugliedern.",
-        "numberOfImages": 2,
-        "latitude": 45.213484,
-        "longitude": 14.553718
-      }
-    },
-    "localities": {
-      "placa": {
-        "title": "Stadtplatz Placa",
-        "description": "<b>Herz der Altstadt von Omišalj.</b><br><br>Jahrhundertelang war die Placa das Zentrum des Ortes. Anfang des 20. Jahrhunderts aber übernahm diese Rolle allmählich der südliche Teil der damaligen Stadt, das Gebiet, in dem das einstige Kastell stand, an dem vor dem Ersten Weltkrieg das neue Gemeindehaus erbaut wurde. An den Häusern, die die Placa umsäumen, werden die Spuren der ursprünglichen Architektur aus dem Mittelalter und der Renaissance von späteren Baumaßnahmen sowie von Anpassungen und Anbauten verdeckt, die vor allem im neunzehnten und Anfang des zwanzigsten Jahrhunderts erfolgten, als Omišalj im erheblichen Maße umstrukturiert wurde.",
-        "numberOfImages": 5,
-        "latitude": 45.211621,
-        "longitude": 14.553873
-      },
-      "tome_lesica_carpentery_workshop": {
-        "title": "Tome Lesica-Tischlerei",
-        "description": "<b>Die Tischlerwerkstatt von Tome Lesica (1916-1989), dem letzten Glagoliza-Autodidakten der Insel Krk.</b><br><br>Tome Lesica war Tischler von Beruf. Darüber hinaus arbeitete er jahrzehntelang als Sakristan, Glöckner und Kirchendiener, d.h. er kümmerte sich um die Kirche, half dem Priester bei seinen Aufgaben, und spielte das traditionelle Blasinstrument Sopile (Sopele, Roženice). In erster Linie wird man sich an ihn aber als den letzten Glagoliza-Autodidakten erinnern. Die Glagoliza konnte er fließend lesen 'wie man normalerweise eine Zeitung liest' (B. Fučić). Seinen letzten glagolitischen Eintrag hinterließ er kurz vor seinem Tode im Buch der Omišalj-Bruderschaft „Od duš“ (von den Seelen) anlässlich der Weihe von Josip Bozanić zum Bischof von Krk. Zu seinen Lebzeiten war er eine unerschöpfliche Quelle des Wissens für alle, die sich mit dem Thema Traditionserbe der Insel Krk befassten. Regelmäßig wurde er von Slawisten aus ganz Europa sowie von Ethnologen als Berater hinzugezogen. Als Tischler arbeitete er in der Werkstatt neben dem Haus, in dem er lebte.",
-        "numberOfImages": 2,
-        "latitude": 45.211387,
-        "longitude": 14.553604
-      }
-    },
-    "libraries": {
-      "vid_omisljanin": {
-        "title": "Bibliothek „Vid Omišljanin“",
-        "description": "<b>Die Institution trägt den Namen des Schriftstellers und Buchmalers vom Ende des 14. Jahrhunderts.</b><br><br>Die Stadtbibliothek von Omišalj befindet sich im Gemeindehaus, das vor dem Ersten Weltkrieg an Stelle der Ruinen des Frankopanen-Kastells erbaut wurde. 1396 verfasste und illustrierte Vid Omišljanin ein Brevier aus 468 Pergament-Blättern für die Pfarrkirche des Hl. Bartholomeus in Roč, einem Städtchen in Zentralistrien. Dazu verwendete er die glagolitische Schrift. Das Brevier wird in der Österreichischen Nationalbibliothek in Wien aufbewahrt. Der erste Lesesaal in Omišalj wurde 1884 eröffnet. In den heutigen Räumlichkeiten befindet sich die Bibliothek seit 2002.",
-        "numberOfImages": 2,
-        "latitude": 45.211315,
-        "longitude": 14.555139
-      }
-    },
-    "parks": {
-      "dubec_park": {
-        "title": "Park Dubec",
-        "description": "<b>Denkmal der Landschaftsarchitektur aus der ersten Hälfte des 20. Jahrhunderts.</b><br><br>Der Park Dubec wurde ab 1925 phasenweise angelegt. Verantwortlich dafür war die örtliche Kurkommission. Es handelt sich dabei um eines der raren Beispiele eines Naturparks, der durch die Begradigung der bestehenden Fußwege und Vegetation entstanden ist. Der Park wird in dem Titel „Nad Omišalj kad padne mrak“ (Wenn es über Omišalj dunkel wird) von Prof. Ivan Kraljić Duminić erwähnt; diese ist eine Art Lobeshymne an Omišalj.<br><br>Nicht außer Acht zu lassen ist die Tatsache, dass die Insel Krk einst dicht mit Eichen bewaldet war. Dieser Umstand wurde in den Berichten venezianischer Verwalter (provveditore) an den Dogen in Venedig regelmäßig als wichtigster Reichtum der Insel hervorgehoben. Wegen der großen Nachfrage für den Bau und die Reparatur der venezianischen Schiffsflotte war das Holz war für die Republik Venedig von strategischer Bedeutung.",
-        "numberOfImages": 1,
-        "latitude": 45.213122,
-        "longitude": 14.552419
-      },
-      "gornja_vraca": {
-        "title": "Gornja Vraca (Oberes Tor) / Njivičina",
-        "description": "<b>One of the historical entrances to Omišalj.</b><br><br>This second ancient entrance to Omišalj was used to enter the town from the north and to leave the town in a northern direction towards the island of Sveti Marko and the narrow channel that separates the island of Krk from the Vinodol mainland (towards Pušća, Vežica, and Vošćica). This entrance dates back to prehistory and the hillfort settlement of the Liburnian community of Fertinates, which was located on the site of what is today the town of Omišalj.",
-        "numberOfImages": 2,
-        "latitude": 45.213492,
-        "longitude": 14.553981
-      }
-    },
-    "museums": {
-      "memorial_house_of_krk_folklore": {
-        "title": "Folkloremuseum der Insel Krk",
-        "description": "<b>Sammlung materieller und immaterieller Güter aus dem Traditionserbe der Insel Krk.</b><br><br>Das Anfang des 20. Jahrhunderts erbaute Kuća na stupićih (Haus mit Balustrade) beherbergt eine Ausstellung zum Thema Volkstrachten, Gebrauchsgegenstände und musikalisches Erbe. Der Ort ist dem Festival der Krk-Folklore aus der ersten Hälfte des 20. Jahrhunderts gewidmet (Omišalj, 1935), der ältesten Veranstaltung dieser Art in Kroatien",
-        "numberOfImages": 7,
-        "latitude": 45.210843,
-        "longitude": 14.555245
-      }
-    },
-    "cemeteries": {
-      "smitir": {
-        "title": "Smitir",
-        "description": "<b>Einstiger Friedhof von Omišalj.</b><br><br>Der Name Smitir kommt vom Lateinischen coemeterium und bedeutet Friedhof. Um die Kirche wurden seit dem Mittelalter die Toten begraben, bis die österreichische Verwaltung Bestattungen innerhalb von Siedlungen verbot. Von 1818 bis zum Ersten Weltkrieg befand sich der Friedhof außerhalb des Ortes an der Stelle eines ehemaligen Benediktinerklosters und der St.-Nikolaus-Kirche. Danach wurde der Friedhof an einen anderen Ort weiter von der Ortschaft entfernt verlegt.",
-        "numberOfImages": 2,
-        "latitude": 45.211863,
-        "longitude": 14.553373
-      }
-    },
-    "monuments": {
-      "house_in_pancirov_street": {
-        "title": "Haus in der Panćirov-Gasse",
-        "description": "<b>Ein Haus aus der Zeit der Renaissance.</b><br><br>Das Haus wurde aus geschichteten Steinblöcken gebaut. Der Bogen mit seiner typischen halbkreisförmigen Fensteröffnung ist mit abwechselnden Zahnmotiven dekoriert. Der Fensterrahmen liegt auf einer von Konsolen gestützten Fensterbank mit einem geometrischen Profil auf.",
-        "numberOfImages": 1,
-        "latitude": 45.210941,
-        "longitude": 14.553744
-      },
-      "lapidarium": {
-        "title": "Lapidarium",
-        "description": "<b>Sammlung von Steindenkmälern aus dem Gebiet der Gemeinde Omišalj.</b><br><br>Diese Sammlung beweglicher Kulturgüter stellt zusammen mit den erhaltenen Denkmälern in unmittelbarer Nähe quasi eine in situ Ausstellung dar. Dies gilt vor allem für die Objekte inner- und außerhalb der Pfarrkirche der Mariä Himmelfahrt. Besonders interessant ist die Inschrift über den Bau des Aquäduktes der antiken Stadt Fulfinum an der Küste der Sepen-Bucht südöstlich von Omišalj. Die Inschrift aus dem Jahr 94 erwähnte ursprünglich Kaiser Domitian als Erbauer der Wasserleitung. Wie auch anderswo im Römischen Reich wurden sein Name und seine Titel durch einen Beschluss des Senats offiziell gelöscht (damnatio memoriae). Geblieben ist der Name von Lucius Sextius Dexter, einen Veteranen der dritten Prätorianer-Kohorte, der – vermutlich als Bewohner von Fulfinum – bestimmte Arbeiten am Aquädukt finanzierte. Auch Teile der frühmittelalterlichen Steinmöbel sind erwähnenswert. Diese gehörten zu einer Kirche Anfang des 9. Jahrhunderts, die an der Stelle der heutigen Mariä Himmelfahrt-Pfarrkirche stand. Besonders interessant ist die Grabplatte mit einer glagolitischen Inschrift und einem Relief mit Bischofsmitra und -stab aus dem Jahr 1477. Sie wurde für Stjepan aus Zadar erstellt, dem letzten Abt des Benediktinerklosters des Hl. Nikolaus, das am Ortseingang von Omišalj stand. Die Bedeutung dieser Steinfragmente und anderer historisch bedeutsamer Gegenstände aus Omišalj wurde im Buch Nepoznati Omišalj (Unbekanntes Omišalj) ausführlich erklärt, das über die lokale Geschichte und Kultur Auskunft gibt und im Ausstellungsraum erhältlich ist.",
-        "numberOfImages": 5,
-        "latitude": 45.20525,
-        "longitude": 14.55361
-      },
-      "mile_kumbatovic_oton_gliha_house": {
-        "title": "Gedenkhaus von Mila Kumbatović und Oton Gliha",
-        "description": "<b>In diesem traditionellen Haus in Omišalj lebten jahrzehntelang die großen Künstler Mila Kumbatović (1915-2004) und Oton Gliha (1914-1999).</b><br><br>Mila Kumbatović, gebürtig aus Omišalj, erwies ihrer Heimat alle Ehre, indem sie die für ihre Heimat typischen Landschaften kontinuierlich als Inspirationsquelle für ihre Bilder nutzte. Diese Motive tauchten im Verlauf ihrer künstlerischen Karriere überall auf, im Cézannismus wie auch in der abstrakten Malerei und bei ihren industriellen Skulptur-Experimenten. Ihr Ehemann Oton Gliha gehörte zu den größten kroatischen Malern in der zweiten Hälfte des 20. Jahrhunderts. Das Paar hat sich während des Studiums an der Kunstakademie in Zagreb kennengelernt. Der gebürtig aus Istrien stammende Oton Gliha verbrachte seine Jugendzeit in Slowenien, Slawonien und Zagreb. Weltweit berühmt wurde er für seine Bilder mit den Gromače-Trockensteinmauern, die nach seiner Interpretation zu einer Art abstrakter Spitzen aus Stein wurden.",
-        "numberOfImages": 1,
-        "latitude": 45.212378,
-        "longitude": 14.554098
-      },
-      "landauf_house": {
-        "title": "Haus Landauf",
-        "description": "<b>Das Haus wurde 1909 in der Blütezit von Omišalj von dem bekannten örtlichen Unternehmer Luka Turato.</b><br><br>Das Haus wurde 1909 in der Blütezit von Omišalj von dem bekannten örtlichen Unternehmer Luka Turato erbaut, der es als Kaufmann (vor allem im Getreidehandel) zu einem gewissen Reichtum gebracht hatte und der sein Kapital in den Tourismus investierte. Er baute das Luxushotel Jadran und die Blaue Terasse (Plava terasa) in Njivice, die aber nie fertiggestellt wurde. Er begann mit dem Bau in der Bucht Slivanjska unweit der Höhle Biserujka, bevor er in Konkurs ging.<br><br>Dank der Großzügigkeit der Professorin Anica Landauf, Nichte von Luka Turato, ging das Haus nach ihrem Tode in das Eigentum der Gemeinde Omišalj über.",
-        "numberOfImages": 1,
-        "latitude": 45.213205,
-        "longitude": 14.553954
-      },
-      "stogata": {
-        "title": "Stogata",
-        "description": "<b>A building on the site of the medieval Church of St. Agatha.</b><br><br>After the abolition of fraternities during French (Napoleonic) rule, a residential building was constructed in the late 19th century on the site of a ruined church.<br><br>The memory of the church still lives on in the local toponym Stogata, which was derived from Sveta Agata (St. Agatha).",
-        "numberOfImages": 2,
-        "latitude": 45.212676,
-        "longitude": 14.554061
-      }
-    },
-    "lookouts": {
-      "dubec_vantage_point": {
-        "title": "Aussichtspunkt Dubec",
-        "description": "Eine weitere Stelle in Omišalj mit einem beeindruckenden Blick auf die Kvarner Bucht, die Bucht von Omišalj, die Küste mit den Hotels und den Sommerhäusern aus der Zwischenkriegszeit, auf die Insel Cres, Istrien, den Park Dubec darunter, aber auch auf die Alpen und das Velebit-Gebirge in der Ferne.",
-        "numberOfImages": 2,
-        "latitude": 45.213409,
-        "longitude": 14.553289
-      },
-      "vele_steni_vantage_point": {
-        "title": "Aussichtspunkt Vele Steni",
-        "description": "<b>Aussichtspunkt an den westlichen Hängen des Omišalj-Hügels.</b><br><br>Dies ist ein Ort mit einem herrlichen Ausblick auf die Insel Krk, einen Großteil der Kvarner Bucht, die Bucht von Omišalj, Ert, den Strand, die Bucht Pesja, auf das Johannes Paul II. Ufer und auf bestimmte historische Schauplätze: den Hügel Fortičina mit einer mittelalterlichen Festungsruine, die Bucht Sepen mit den Ruinen einer frühchristlichen Basilika bei Mirine und Ruinen der antiken Stadt Fulfinum. Eine besondere Atmosphäre schafft die charakteristische volkstümliche Architektur in diesem Randgebiet der Stadt, das Spuren aus dem Mittelalter, der Renaissance und dem Barock enthält.",
-        "numberOfImages": 2,
-        "latitude": 45.211761,
-        "longitude": 14.552628
-      }
-    },
-    "tours": {
-      "municipium_flavium_fulfinum_and_mirine": {
-        "title": "Municipium Flavium Fulfinum und Mirine",
-        "description": "<b>Überreste der antiken Stadt Municipium Flavium Fulfinum aus der zweiten Hälfte des 1. Jh. n. Chr. und der frühchristlichen Basilika aus dem 5. Jh. n. Chr.</b><br><br>Im Gebiet der antiken Stadt Fulfinum (heutige Ortsbezeichnung Okladi) sind heute noch Ruinen diverser Bauwerke aus der römischen Zeit zu erkennen. Besonders eindrucksvoll sind die kürzlich erforschten Teile eines Forums, dem Herzen der antiken Stadt mit Tempel, Basilika und Tabernae sowie Teile monumentaler Skulpturen von öffentlichen Gebäuden. Obwohl der Standort in den letzten Jahren systematisch erforscht wurde, ist die Stadt Municipium Flavium Fulfinum noch zum Großteil unerforscht und nicht komplett ausgegraben. Ihr Name kennen wir aufgrund einer Inschrift aus der Zeit des römischen Kaisers Domitian, die über bestimmte Arbeiten am Aquädukt der Stadt Auskunft gibt. Die Inschrift wird im Lapidarium in Omišalj aufbewahrt.<br><br>Die Struktur der Bauwerke und die Anordnung der Verkehrswege sind anhand der Geländekonfiguration gut zu erkennen. Nachdem in den vergangenen Jahrhunderten dieses Gebiet zu landwirtschaftlichen Zwecken genutzt wurde, sind heute die Mauerruinen antiker Bauwerke teilweise mit Trockensteinen bedeckt. Die Anlegeplätze und die repräsentativen Bauwerke mit Bodenmosaiken sind zum Teil vom Schlamm des seichten Wassers in der Bucht Sepen bedeckt. Die Stadt wurde von den Gromatikern (römischen Landvermessern) komplett neu an einem Standort angelegt, an dem es davor keine Siedlung gab. Den römischen Veteranen wurde das Land gegeben, das zuvor den Urbewohnern von Omišalj gehörte, den Fertinaten. Eine solche im flachen Tal gelegene Küstenstadt hatte trotz der Befestigungsversuche in der späten Antike keine Überlebenschancen. Wie Salona und viele andere römischen Städte, die von der Völkerwanderung betroffen waren, starb auch dieser Ort mit der Zeit aus.<br><br>Südwestlich des Forums befindet sich in Mirine eine Nekropole aus der Spätantike mit einer Reihe kleiner und einigen größeren, privilegierten Gräbern und einer großen, bis zum Dach erhaltenen Basilika, die vermutlich dem Hl. Nikolaus geweiht war. Wegen ihres außerordentlich guten Erhaltungszustands stellt diese Kirche ein Muster für frühchristliche Sakralbauten dar. Der Grundriss der Kirche sieht wegen des Seitenschiffs wie ein lateinisches Kreuz aus. Im Narthex, der restauriert und zum Teil auch renoviert wurde, werden bewegliche archäologische Funde und ein frühchristlicher Sarkophag ausgestellt, der in situ konserviert wurde.<br><br>Das Atrium, das sich entlang der südlichen Wand der Kirche zum Meer hin erstreckt, ist das Ergebnis einer späteren Anpassung des Bauwerks an eine Religionsgemeinschaft, die die Kirche schließlich verlassen hat, weil sie diese wegen ihrer Größe nicht mehr instand halten konnte. Die Benediktiner versuchte, die Kontinuität durch den Umbau eines suburbanen Wohnkomplexes mit Thermen fortzusetzen, der sich westlich von der Basilika befindet. Der Komplex ist heute archäologisch erschlossen und zur Besichtigung freigegeben. Schließlich gaben die glagolitischen Benediktiner die frei angreifbare Küstenlage auf und siedelten an einen neuen Ort direkt am Ortseingang von Omišalj um. Den Namenspatron St. Nikolaus nahmen sie mit. Die heutige Ortsbezeichnung Mirine ist im hiesigen Dialekt das Wort für Ruinen (aus dem lateinischen murus kroatisiert). Die Kroaten, die sich im Mittelalter hier ansiedelten, müssen von diesen Ruinen sicherlich sehr beeindruckend gewesen sein.",
-        "related":{
-          "mirine_fulfinum_basilica": {
-            "title": "Mirine Fulfinum – Basilica",
-            "type": "archeology_remains"
-          },
-          "mirine_fulfinum_sarcophagus": {
-            "title": "Mirine Fulfinum - Sarcophagus",
-            "type": "archeology_remains"
-          },
-          "mirine_fulfinum_forum": {
-            "title": "Mirine Fulfinum - Forum",
-            "type": "archeology_remains"
-          },
-          "mirine_fulfinum_comb": {
-            "title": "Mirine comb",
-            "type": "archeology_remains"
-          },
-          "mirine_thermal_baths": {
-            "title": "TO-DO",
-            "type": "archeology_remains"
-          }
+    "krk_new_age": {
+      "title": "Die insel Krk in den ersten jahrhunderten der neuen ara",
+      "description": [
+        "Der Ausflug beginnt mit einem Schlammbad in der Bucht von Soline. Dieser Schlamm wurde von den alten Römern zu Heilungszwecken verwendet. An diesem Ort gab es auch zur Zeit des alten Roms eine Promenade, in deren Nähe sich Salzwerke befanden, in denen die Einwohner Salz produzierten und beträchtlichen Wohlstand genossen.  Der nächste Punkt Ihrer Reise sollte die römische Stadt Fulfinum unterhalb von Omišalj sein. Als Teil dieses äußerst wichtigen Ortes sehen Sie auch die frühchristliche Basilika Mira aus dem 5. Jahrhundert. Wenn Sie die Landschaft dieses Ortes ausreichend genossen haben, besuchen Sie noch das römische Curicum, die heutige Stadt Krk. Obwohl die Geschichte der Stadt in die uralte Vergangenheit zurückreicht, sind die ersten Jahrhunderte tief unter der Erde sichtbar. Sie können einen Teil der städtischen Infrastruktur und die Stadtmauern der ehemaligen Stadt Krk innerhalb des gastwirtschaftlichen Objektes Volsonis mitten im Zentrum der Stadt sehen. Nicht weit von hier, innerhalb der Taverne Mate, befindet sich ein römisches Mosaik mit Darstellung des mythischen Tritons, das Sie sich nicht entgehen lassen dürfen. Am Ende der Reise können Sie mehrere frühchristliche Würfel in Baška im Zentrum der Stadt neben der Kirche des Hl. Markus besichtigen. Dies sind erhaltene Teile des Mosaiks aus dem 5. Jahrhundert v. Chr., mit denen einst die Kirche gepflastert war."
+      ],
+      "map-url": "https://www.google.com/maps/d/u/0/viewer?mid=1BmErP9jUAvUdG9yaljOrlLUbSXC4XKjx&ll=45.08839558346452%2C14.643850499999985&z=11",
+      "related": {
+        "st_peter_soline": {
+          "title": "Kirche des Hl.Petrus-Soline",
+          "type": "archeology_remains"
+        },
+        "roman_city_fulfinum": {
+          "title": "Romische stadt Fulfinum",
+          "type": "archeology_remains"
+        },
+        "volsonis": {
+          "title": "Kastell, stadtmauern und archaologische uberreste im cafe Volsonis",
+          "type": "forts"
+        },
+        "triton_mosaic": {
+          "title": "Triton-mosaik",
+          "type": "archeology_remains"
+        },
+        "st_marcos_church": {
+          "title": "Kirche des Hl. Markus",
+          "type": "archeology_remains"
         }
       }
     }
+  },
+  "ethno": {
+    "dobrinj_collection": {
+      "title": "Ethnographische Sammlung in Dobrinj",
+      "description": [
+        "Das einundzwanzigste Jahrhundert ist gewöhnt an Massentourismus, hohen Konsum und das hastige Tempo, das sich, wenn auch eher lässig, auch im Urlaub bemerkbar macht. Während Sie die natürlichen und kulturellen Schönheiten der Insel Krk genießen, sollten Sie sich Zeit nehmen, um ein kleines Inselhaus zu besuchen, das Sie wie eine Zeitkapsel in einige der fast vergessenen alten Zeiten versetzt und Ihnen das Leben auf Krk vorstellt, an das sich nur die ältesten Inselbewohner erinnern. Im Stadtkern von Dobrinj an der Hausnummer 106, im Haus von Prof. Ivo Sučić, befindet sich die ethnographische Sammlung der Insel Krk. Diese 1974 eröffnete Museumssammlung enthält Haushaltsobjekte (Möbel, Feuerstellenzubehör und Besteck) sowie Wirtschaftsräume (Konoba, Stall) und andere Gegenstände, die mit anderen Aktivitäten auf der Insel verbunden sind. Im Fundus sind fast 1300 Artikel gelagert. Im Museum sind verschiedene Gegenstände zu sehen, die Zeugen vergangener Zeiten sind, zum Beispiel: ein Steinofen aus Backstein, Vogelscheuchen, Mäusefallen, Jagdfallen, Kinderspielzeug und verschiedene Arten von Möbeln, die nicht mehr verwendet werden."
+      ],
+      "numberOfImages": 2,
+      "latitude": 45.13025,
+      "longitude": 14.603861
+    },
+    "maritime_heritage": {
+      "title": "Interpretationszentrum fur maritimes Erbe",
+      "description": [
+        "Wenn Sie die Geschichte über die lange und reiche maritime Tradition der Insel erfahren möchten, besuchen Sie das Interpretationszentrum für maritimes Erbe in Krk. Hier erhalten Sie didaktische Multimedia-Inhalte, die Sie zum virtuellen Segeln an der Adria führen. In den Begleitvideos werden Regatten traditioneller Boote und Segelboote präsentiert. Neben dem Ausstellungsraum befindet sich im Zentrum ein Modellraum, der mit einer Werkstatt ausgestattet ist. Alle Exponate wurden gesammelt und angefertigt von den Händen des leidenschaftlichen Sammlers und Bootsmodellbauers Željko Skomeršić.  Nachdem Sie das Maritime Zentrum besucht haben, begeben Sie sich zur Promenade von Krk und wählen Sie einen der interessanten Bootsausflüge. Durchschiffen Sie den Kvarner, wie es die Einwohner von Krk schon seit Jahrhunderten tun, und besuchen Sie die Naturschönheiten der Insel."
+      ],
+      "numberOfImages": 2,
+      "latitude": 45.026983,
+      "longitude": 14.575903
+    },
+    "mila_kumbatovic": {
+      "title": "Gedenkhaus Mila Kumbatović unt Oton Gliha in Omišalj",
+      "description": [
+        "Mila Kumbatović (1915 – 2004) und Oton Gliha (1914 – 1999) haben durch ihr künstlerisches Schaffen die Inselkunst und die nationale Malerei geprägt. Die Insellandschaft mit Karst und Stein war für beide Maler eine unerschöpfliche Inspiration. Mit den Bildern des Trockenmauerwerks gromača von Krk schuf Gliha einen zeitlosen Raum ohne jegliche Vorkommnisse, und durch diese außergewöhnlichen Werke wurde sein Name in die Ranglisten der Weltmalerei des 20. Jahrhunderts geschrieben. Die Steinskelette der bekannten Trockenmauern der Insel erhielten auf den Gemälden von Gliha eine neue Dynamik, eine innere Tektonik, die sie antreibt und zu einzigartigen Kreationen macht. Eine ebenso breite und vor allem eine interessante visuelle künstlerische Ausdrucksform hatte Mila Kumbatović, eine Malerin der Landschaften von Krk und dynamischen abstrakten Kompositionen. Lernen Sie die zeitgenössische Kunst der Insel kennen und besuchen Sie Omišalj, um den Geburtsort und das Atelier dieser bedeutenden kroatischen Malerin zu sehen."
+      ],
+      "numberOfImages": 2,
+      "latitude": 45.212378,
+      "longitude": 14.554098
+    },
+    "kornic": {
+      "title": "Heimatliche ethnographiche sammulung Kornić",
+      "description": [
+        "Wenn Sie zum Süden der Insel fahren, müssen Sie unbedingt die Heimatliche ethnographische Sammlung in Kornić besuchen. Im Jahr 2007 wurde in einem traditionellen Gebäude aus dem 19. Jahrhundert eine Museumsausstellung geschaffen, die die Besucher wie eine Zeitkapsel in ein Ambiente wie vor hundert Jahren führt, als das Haus noch bewohnt war. Heute umfasst die Sammlung über 700 Exponate. In der Konoba (Taverne) im Erdgeschoss werden eine Fassbinderwerkstatt, Werkzeug zur Bodenbearbeitung und Viehzucht sowie Zubehör zur Herstellung von Käse und eine kleine Sammlung an Waagen präsentiert. Auf der Steinterrasse baratura, von der aus man in den Wohnbereich tretet, sind eine antike Toilette und ein Steinofen ausgestellt. In den Ausstellungsräumen können die Besucher eine Sammlung von Musikinstrumenten, žrno – eine manuelle Maismühle, Trachten und Textilien sowie eine traditionelle Küche mit Feuerstelle und das restliche Inventar des Hauses, wie es einst war, sehen. Diese bedeutende ethnographische Sammlung wurde gebildet, um diese nicht allzu alte Lebensweise in Kornić und auf der Insel nicht zu vergessen."
+      ],
+      "numberOfImages": 2,
+      "latitude": 45.045228,
+      "longitude": 14.613862
+    },
+    "regional_museum_baska": {
+      "title": "Heimatmuseum in Baška",
+      "description": [
+        "Wenn Sie den südlichsten Ort der Insel besuchen, der als Badeort und wahres Touristenparadies bekannt ist, sollten Sie unbedingt das Heimatmuseum in Baška besuchen. Obwohl eine relativ bescheidene Sammlung 1970 gegründet wurde, beherbergt dieses Museum eine bedeutende ethnographische Sammlung von Gebrauchsgegenständen aus dem Baška-Gebiet. Eine der wichtigsten Museumsausstellungen aus der traditionellen Kultur dieser Region sind Trachten. Darüber hinaus ist es möglich, Gegenstände aus dem Alltag, eine Küche aus früheren Zeiten mit Töpfen und anderen Utensilien zu sehen.  Ein Teil der Aufstellung ist auch der berühmten tschechischen Ärztin Dr. Zdenka Čermakov (1884 – 1968) gewidmet, die ihr berufliches Leben in Baška als Bad- und örtliche Ärztin verbracht hat."
+      ],
+      "numberOfImages": 2,
+      "latitude": 44.9673338,
+      "longitude": 14.7564563
+    },
+    "tos_gallery_punat": {
+      "title": "Gallerie Toš in Punat",
+      "description":[
+        "Die Galerie Toš ist eine der schönsten Ausstellungsräume der kroatischen Küste. Durch ihr Inneres mit Steinwänden und dem ursprünglichen alten toš (Olivenmühle) stellt sie ein bedeutendes Kulturerbe der gesamten Region dar. Die hier stattfindenden Ausstellungen sind ein besonderes Erlebnis für die Besucher und ein bedeutender Beitrag zu den kulturellen Veranstaltungen von Punat und der Insel Krk. Mit ihren langjährigen, kontinuierlichen und qualitativ hochwertigen Kunstprogrammen hat die Galerie Toš den Status des relevantesten Ausstellungsraums in der Republik Kroatien und des HZSU (Kroatischer Verein unabhängiger Künstler) erworben.\n\nIn der Galerie findet jedes Jahr ein neues Ausstellungsprogramm statt. Meistens sind ausgewählte Künstler bereits in der kroatischen oder internationalen Kunstszene bekannt und haben ein beneidenswertes künstlerisches Schaffen hinter sich. Die Eröffnung der Ausstellung ist eine interessante Manifestation, eine Kombination aus traditionellen und kulturell-künstlerischen Veranstaltungen, begleitet von Musik (klapa und sopci auf Sopilas) und traditioneller Küche (fritule und hrostule)."
+      ],
+      "numberOfImages": 2,
+      "latitude": 45.022376,
+      "longitude": 14.629796
+    },
+    "vrbnik_valley": {
+      "title": "Feld  von Vrbnik",
+      "descritpion": [
+        "Auf der Insel Krk gibt es eine tausendjährige Tradition der Weinproduktion. Schon in der Antike kam der Ruf von gutem Wein aus diesem Himmelsstrich sogar nach Rom. Das jüngste Zeugnis aus dem 18. Jahrhundert stammt von Alberto Fortis, der 20.000 Barrel Wein erwähnt, die jährlich von der Insel exportiert werden, und betont, dass der Wein von Baška der Beste ist. Heute sind viele Weinberge verschwunden, die Weinproduktion ist lokal und für den Export ist kaum etwas vorgesehen. Das Feld von Vrbnik bewahrt jedoch seit über hundert Jahren ein echtes Weinjuwel. Am Eingang zu diesem Ort durchqueren Sie eine Vielzahl von Weinbergen und verarbeiteten Ackerland. Besuchen Sie einige der Weinkellereien (Katunar, Toljanić …), probieren Sie ein Stück Käse und lassen Sie sich von den erstklassigen Weinen von Vrbnik verwöhnen. Die bekannteste Rebsorte dieser Weinberge ist vrbnička žlahtina."
+      ],
+      "numberOfImages": 2,
+      "latitude": 45.077778,
+      "longitude": 14.652417
+    }
   }
-  
+}

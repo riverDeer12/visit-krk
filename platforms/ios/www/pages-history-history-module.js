@@ -31,7 +31,7 @@ let HistoryPage = class HistoryPage {
         this.getLanguage();
     }
     getLanguage() {
-        let currentLanguage = localStorage.getItem('language');
+        const currentLanguage = localStorage.getItem('language');
         this.translate.use(currentLanguage);
     }
     ngOnInit() {
@@ -65,7 +65,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "createTranslateLoader", function() { return createTranslateLoader; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "HistoryPageModule", function() { return HistoryPageModule; });
 /* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "mrSG");
-/* harmony import */ var _shared_shared_module__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./../../shared/shared.module */ "PCNd");
+/* harmony import */ var _shared_shared_module__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../shared/shared.module */ "PCNd");
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/core */ "fXoL");
 /* harmony import */ var _angular_common__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @angular/common */ "ofXK");
 /* harmony import */ var _angular_forms__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @angular/forms */ "3Pt+");
@@ -87,7 +87,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 function createTranslateLoader(http) {
-    return new _ngx_translate_http_loader__WEBPACK_IMPORTED_MODULE_10__["TranslateHttpLoader"](http, "./assets/i18n/", ".json");
+    return new _ngx_translate_http_loader__WEBPACK_IMPORTED_MODULE_10__["TranslateHttpLoader"](http, './assets/i18n/', '.json');
 }
 let HistoryPageModule = class HistoryPageModule {
 };
@@ -174,7 +174,7 @@ HistoryPageRoutingModule = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<ion-header [hidden]=\"loadingData\">\n  <ion-toolbar class=\"header\" color=\"primary\">\n    <ion-menu-toggle>\n      <ion-button size=\"small\" color=\"light\" fill=\"clear\">\n        <ion-icon size=\"large\" slot=\"icon-only\" name=\"menu-outline\"></ion-icon>\n      </ion-button>\n    </ion-menu-toggle>\n    <ion-title>\n       {{'navigation.history' | translate }}\n    </ion-title>\n  </ion-toolbar>\n</ion-header>\n\n<ion-content [hidden]=\"loadingData\">\n  <ion-slides pager=\"true\" [options]=\"slideOpts\">\n    <ion-slide\n    class=\"slide-image\"\n    [style]=\"'background-image: url(assets/images/sights/bell_tower_1.jpg);'\">\n    </ion-slide>\n    <ion-slide\n    class=\"slide-image\"\n    [style]=\"'background-image: url(assets/images/sights/placa_1.jpg);'\">\n    </ion-slide>\n    <ion-slide\n    class=\"slide-image\"\n    [style]=\"'background-image: url(assets/images/sights/loza_1.jpg);'\">\n    </ion-slide>\n  </ion-slides>\n\n  <div class=\"ion-padding\">\n    <ion-text [innerHtml]=\"'history.description' | translate\"></ion-text>\n  </div>\n</ion-content>\n");
+/* harmony default export */ __webpack_exports__["default"] = ("<ion-header [hidden]=\"loadingData\">\n  <ion-toolbar class=\"header\" color=\"primary\">\n    <ion-menu-toggle>\n      <ion-button size=\"small\" color=\"light\" fill=\"clear\">\n        <ion-icon size=\"large\" slot=\"icon-only\" name=\"menu-outline\"></ion-icon>\n      </ion-button>\n    </ion-menu-toggle>\n    <ion-title>\n       {{'navigation.history' | translate }}\n    </ion-title>\n  </ion-toolbar>\n</ion-header>\n\n<ion-content [hidden]=\"loadingData\">\n  <ion-slides pager=\"true\" [options]=\"slideOpts\">\n    <ion-slide\n    class=\"slide-image\"\n    [style]=\"'background-image: url(assets/images/sights/places/krk_1.jpg);'\">\n    </ion-slide>\n    <ion-slide\n    class=\"slide-image\"\n    [style]=\"'background-image: url(assets/images/sights/forts/volsonis_1.jpg);'\">\n    </ion-slide>\n    <ion-slide\n    class=\"slide-image\"\n    [style]=\"'background-image: url(assets/images/sights/churches/st_john_1.jpg);'\">\n    </ion-slide>\n  </ion-slides>\n\n  <div class=\"ion-padding\">\n    <ion-text [innerHtml]=\"'history.description' | translate\"></ion-text>\n  </div>\n</ion-content>\n");
 
 /***/ })
 

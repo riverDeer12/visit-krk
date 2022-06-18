@@ -84,11 +84,12 @@ export class DetailsPage implements OnInit {
                 Object.keys(data).forEach((sight) => {
                     const relatedSight = new Sight();
                     relatedSight.type = data[sight].type;
-                    relatedSight.key = sight;
+                    relatedSight.key = data[sight].key;
                     this.relatedSights.push(relatedSight);
                 });
             });
 
+        console.log(this.relatedSights);
         this.loadingData = false;
     }
 

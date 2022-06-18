@@ -17,8 +17,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @angular/router */ "tyNb");
 /* harmony import */ var _ngx_translate_core__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @ngx-translate/core */ "sYmb");
 /* harmony import */ var src_app_shared_constants_sight_types__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! src/app/shared/constants/sight-types */ "/IrA");
-/* harmony import */ var _assets_i18n_cro_json__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../../../assets/i18n/cro.json */ "lVkN");
-var _assets_i18n_cro_json__WEBPACK_IMPORTED_MODULE_7___namespace = /*#__PURE__*/__webpack_require__.t(/*! ../../../assets/i18n/cro.json */ "lVkN", 1);
+/* harmony import */ var _assets_i18n_eng_json__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../../../assets/i18n/eng.json */ "1pnk");
+var _assets_i18n_eng_json__WEBPACK_IMPORTED_MODULE_7___namespace = /*#__PURE__*/__webpack_require__.t(/*! ../../../assets/i18n/eng.json */ "1pnk", 1);
 
 
 
@@ -37,11 +37,11 @@ let FortsPage = class FortsPage {
         this.getForts();
     }
     getLanguage() {
-        let currentLanguage = localStorage.getItem('language');
+        const currentLanguage = localStorage.getItem('language');
         this.translate.use(currentLanguage);
     }
     getForts() {
-        this.data = _assets_i18n_cro_json__WEBPACK_IMPORTED_MODULE_7__["forts"];
+        this.data = _assets_i18n_eng_json__WEBPACK_IMPORTED_MODULE_7__["forts"];
         this.sights = Object.keys(this.data);
     }
     goToDetails(sight) {
@@ -96,7 +96,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 function createTranslateLoader(http) {
-    return new _ngx_translate_http_loader__WEBPACK_IMPORTED_MODULE_9__["TranslateHttpLoader"](http, "./assets/i18n/", ".json");
+    return new _ngx_translate_http_loader__WEBPACK_IMPORTED_MODULE_9__["TranslateHttpLoader"](http, './assets/i18n/', '.json');
 }
 let FortsPageModule = class FortsPageModule {
 };
@@ -182,7 +182,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<ion-header>\n  <ion-toolbar class=\"header\" color=\"primary\">\n    <ion-menu-toggle>\n      <ion-button size=\"small\" color=\"light\" fill=\"clear\">\n        <ion-icon size=\"large\" slot=\"icon-only\" name=\"menu-outline\"></ion-icon>\n      </ion-button>\n    </ion-menu-toggle>\n    <ion-title>{{ 'navigation.forts' | translate }}</ion-title>\n  </ion-toolbar>\n</ion-header>\n\n  <ion-content fullscreen>\n    <ion-card *ngFor=\"let sight of sights\">\n      <img [src]=\"'assets/images/sights/' + sight + '_1.jpg'\" />\n      <ion-card-header>\n        <ion-card-subtitle class=\"ion-margin-bottom\">{{ 'navigation.fort' | translate }}</ion-card-subtitle>\n        <ion-card-title>{{ 'forts.' + sight + '.title' | translate }}</ion-card-title>\n      </ion-card-header>\n      <ion-card-header class=\"ion-text-center\">\n        <ion-button (click)=\"goToDetails(sight)\" fill=\"clear\" expand=\"full\" color=\"primary\">\n          <ion-icon size=\"large\" slot=\"icon-only\" name=\"information-outline\"></ion-icon>\n          {{ 'read_more' | translate}}\n        </ion-button>\n      </ion-card-header>\n    </ion-card>\n  </ion-content>\n");
+/* harmony default export */ __webpack_exports__["default"] = ("<ion-header>\n    <ion-toolbar class=\"header\" color=\"primary\">\n        <ion-menu-toggle>\n            <ion-button size=\"small\" color=\"light\" fill=\"clear\">\n                <ion-icon size=\"large\" slot=\"icon-only\" name=\"menu-outline\"></ion-icon>\n            </ion-button>\n        </ion-menu-toggle>\n        <ion-title>{{ 'navigation.forts' | translate }}</ion-title>\n    </ion-toolbar>\n</ion-header>\n\n<ion-content fullscreen>\n    <ion-card *ngFor=\"let sight of sights\">\n        <img [src]=\"'assets/images/sights/forts/' + sight + '_1.jpg'\" [alt]=\"sight\"/>\n        <ion-card-header>\n            <ion-card-subtitle class=\"ion-margin-bottom\">{{ 'navigation.fort' | translate }}</ion-card-subtitle>\n            <ion-card-title>{{ 'forts.' + sight + '.title' | translate }}</ion-card-title>\n        </ion-card-header>\n        <ion-card-header class=\"ion-text-center\">\n            <ion-button (click)=\"goToDetails(sight)\" fill=\"clear\" expand=\"full\" color=\"primary\">\n                <ion-icon size=\"large\" slot=\"icon-only\" name=\"information-outline\"></ion-icon>\n                {{ 'read_more' | translate}}\n            </ion-button>\n        </ion-card-header>\n    </ion-card>\n</ion-content>\n");
 
 /***/ })
 

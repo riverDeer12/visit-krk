@@ -2,7 +2,7 @@
 
 platform :ios, '11.0'
 
-target 'Omisalj Heritage' do
-	project 'Omisalj Heritage.xcodeproj'
+target 'Visit Krk' do
+	project 'Visit Krk.xcodeproj'
 
 end

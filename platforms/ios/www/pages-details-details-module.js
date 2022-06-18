@@ -1,5 +1,28 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([["pages-details-details-module"],{
 
+/***/ "/IrA":
+/*!*************************************************!*\
+  !*** ./src/app/shared/constants/sight-types.ts ***!
+  \*************************************************/
+/*! exports provided: SightTypes */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "SightTypes", function() { return SightTypes; });
+class SightTypes {
+}
+SightTypes.ARCHEOLOGY_REMAINS = 'archeology_remains';
+SightTypes.CHURCHES = 'churches';
+SightTypes.MONASTERIES = 'monasteries';
+SightTypes.PLACES = 'places';
+SightTypes.FORTS = 'forts';
+SightTypes.TOURS = 'tours';
+SightTypes.ETHNO = 'ethno';
+
+
+/***/ }),
+
 /***/ "6axG":
 /*!***************************************************************************************!*\
   !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/pages/details/details.page.html ***!
@@ -9,7 +32,7 @@
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<ion-header [hidden]=\"loadingData\">\n  <ion-toolbar class=\"header\" color=\"dark\">\n    <ion-menu-toggle>\n      <ion-button size=\"small\" color=\"light\" fill=\"clear\">\n        <ion-icon size=\"large\" slot=\"icon-only\" name=\"menu-outline\"></ion-icon>\n      </ion-button>\n    </ion-menu-toggle>\n    <ion-title>\n      {{sight.key + '.title' | translate }}\n    </ion-title>\n    <ion-button class=\"ion-float-right\" fill=\"clear\" size=\"small\" color=\"light\" (click)=\"goBack()\">\n      <ion-icon size=\"large\" slot=\"icon-only\" name=\"return-up-back-outline\"></ion-icon>\n    </ion-button>\n  </ion-toolbar>\n</ion-header>\n\n<ion-content [hidden]=\"loadingData\">\n\n  <ion-slides pager=\"true\" [options]=\"slideOpts\">\n    <ion-slide *ngFor=\"let number of imagesNumber()\" class=\"slide-image\"\n      [style]=\"'background-image: url(assets/images/sights/' + sight.name + '_' + number + '.jpg);'\">\n    </ion-slide>\n  </ion-slides>\n\n  <div class=\"ion-padding\">\n    <ion-text [innerHtml]=\"sight.key + '.description' | translate\"></ion-text>\n  </div>\n\n  <div class=\"ion-padding\" [hidden]=\"loadingData && hasRelatedSights\" *ngIf=\"hasRelatedSights\">\n    <ion-card-subtitle>{{'related_sights' | translate }}</ion-card-subtitle>\n    <ion-card *ngFor=\"let relatedSight of relatedSights\">\n      <img [src]=\"'assets/images/sights/' + relatedSight + '_1.jpg'\" />\n      <ion-card-header>\n        <ion-card-subtitle class=\"ion-margin-bottom\">{{ 'navigation.archeology_remains' | translate }}\n        </ion-card-subtitle>\n        <ion-card-title>{{ 'archeology_remains.' + relatedSight + '.title' | translate }}</ion-card-title>\n      </ion-card-header>\n      <ion-card-header class=\"ion-text-center\">\n        <ion-button (click)=\"goToRelatedSightDetails(relatedSight)\" fill=\"clear\" expand=\"full\" color=\"primary\">\n          <ion-icon size=\"large\" slot=\"icon-only\" name=\"information-outline\"></ion-icon>\n          {{ 'read_more' | translate}}\n        </ion-button>\n      </ion-card-header>\n    </ion-card>\n  </div>\n</ion-content>\n\n<ion-footer *ngIf=\"!hasRelatedSights\">\n  <ion-toolbar>\n    <ion-button (click)=\"goToMap()\" expand=\"full\" fill=\"clear\" color=\"dark\">\n      <ion-icon size=\"large\" slot=\"icon-only\" name=\"locate-outline\"></ion-icon>\n      <ion-text class=\"ion-margin-start\">{{ 'show_on_map' | translate}}</ion-text>\n    </ion-button>\n  </ion-toolbar>\n</ion-footer>");
+/* harmony default export */ __webpack_exports__["default"] = ("<ion-header [hidden]=\"loadingData\">\n  <ion-toolbar class=\"header\" color=\"dark\">\n    <ion-menu-toggle>\n      <ion-button size=\"small\" color=\"light\" fill=\"clear\">\n        <ion-icon size=\"large\" slot=\"icon-only\" name=\"menu-outline\"></ion-icon>\n      </ion-button>\n    </ion-menu-toggle>\n    <ion-title>\n      {{sight.key + '.title' | translate }}\n    </ion-title>\n    <ion-button class=\"ion-float-right\" fill=\"clear\" size=\"small\" color=\"light\" (click)=\"goBack()\">\n      <ion-icon size=\"large\" slot=\"icon-only\" name=\"return-up-back-outline\"></ion-icon>\n    </ion-button>\n  </ion-toolbar>\n</ion-header>\n\n<ion-content [hidden]=\"loadingData\">\n\n  <ion-slides pager=\"true\" [options]=\"slideOpts\">\n    <ion-slide *ngFor=\"let number of imagesNumber()\" class=\"slide-image\"\n      [style]=\"'background-image: url(assets/images/sights/' + sight.type + '/' + sight.name + '_' + number + '.jpg);'\">\n    </ion-slide>\n  </ion-slides>\n\n  <div class=\"ion-padding\">\n    <ion-text [innerHtml]=\"sight.key + '.description' | translate\"></ion-text>\n  </div>\n\n  <div class=\"ion-padding\" [hidden]=\"loadingData && hasRelatedSights()\" *ngIf=\"hasRelatedSights()\">\n    <ion-card-subtitle>{{'related_sights' | translate }}</ion-card-subtitle>\n    <ion-card *ngFor=\"let relatedSight of relatedSights\">\n      <img [src]=\"'assets/images/sights/' + relatedSight.type + '/'+ relatedSight.key + '_1.jpg'\"  alt=\"sight\"/>\n      <ion-card-header>\n        <ion-card-subtitle class=\"ion-margin-bottom\">{{ 'navigation.' + relatedSight.type | translate }}\n        </ion-card-subtitle>\n        <ion-card-title>{{ relatedSight.type + '.' + relatedSight.key + '.title' | translate }}</ion-card-title>\n      </ion-card-header>\n      <ion-card-header class=\"ion-text-center\">\n        <ion-button (click)=\"goToRelatedSightDetails(relatedSight)\" fill=\"clear\" expand=\"full\" color=\"primary\">\n          <ion-icon size=\"large\" slot=\"icon-only\" name=\"information-outline\"></ion-icon>\n          {{ 'read_more' | translate}}\n        </ion-button>\n      </ion-card-header>\n    </ion-card>\n  </div>\n</ion-content>\n\n<ion-footer *ngIf=\"!hasRelatedSights()\">\n  <ion-toolbar>\n    <ion-button (click)=\"goToMap()\" expand=\"full\" fill=\"clear\" color=\"dark\">\n      <ion-icon size=\"large\" slot=\"icon-only\" name=\"locate-outline\"></ion-icon>\n      <ion-text class=\"ion-margin-start\">{{ 'show_on_map' | translate}}</ion-text>\n    </ion-button>\n  </ion-toolbar>\n</ion-footer>\n\n<ion-footer *ngIf=\"hasRelatedSights()\">\n  <ion-toolbar>\n    <ion-button (click)=\"goToTourMap()\" expand=\"full\" fill=\"clear\" color=\"dark\">\n      <ion-icon size=\"large\" slot=\"icon-only\" name=\"locate-outline\"></ion-icon>\n      <ion-text class=\"ion-margin-start\">{{ 'show_on_map' | translate}}</ion-text>\n    </ion-button>\n  </ion-toolbar>\n</ion-footer>\n");
 
 /***/ }),
 
@@ -101,16 +124,18 @@ let DetailsPage = class DetailsPage {
         this.translate = translate;
         this.launchNavigator = launchNavigator;
         this.sight = new src_app_shared_models_sight__WEBPACK_IMPORTED_MODULE_7__["Sight"]();
+        this.relatedSights = [];
         this.slideOpts = {
             initialSlide: 1,
             speed: 400,
         };
+        this.hasRelatedSights = () => this.relatedSights.length;
         this.loadingData = true;
-        this.hasRelatedSights = false;
         this.getCurrentLanguage();
         this.getSight();
     }
-    ngOnInit() { }
+    ngOnInit() {
+    }
     getCurrentLanguage() {
         this.translate.use(localStorage.getItem('language'));
     }
@@ -148,10 +173,13 @@ let DetailsPage = class DetailsPage {
         this.translate
             .get(this.sight.key + '.related')
             .subscribe((data) => {
-            this.data = data;
-            this.relatedSights = Object.keys(this.data);
+            Object.keys(data).forEach((sight) => {
+                const relatedSight = new src_app_shared_models_sight__WEBPACK_IMPORTED_MODULE_7__["Sight"]();
+                relatedSight.type = data[sight].type;
+                relatedSight.key = sight;
+                this.relatedSights.push(relatedSight);
+            });
         });
-        this.hasRelatedSights = true;
         this.loadingData = false;
     }
     goBack() {
@@ -161,10 +189,15 @@ let DetailsPage = class DetailsPage {
         this.launchNavigator.navigate([this.sight.latitude, this.sight.longitude]);
     }
     goToRelatedSightDetails(relatedSight) {
-        this.router.navigateByUrl('/details/archeology_remains' + '/' + relatedSight);
+        this.router.navigateByUrl('/details/' + relatedSight.type + '/' + relatedSight.key);
     }
     imagesNumber() {
         return Array.from({ length: this.sight.numberOfImages }, (_, i) => i + 1);
+    }
+    goToTourMap() {
+        this.translate.get(this.sight.key + '.map-url').subscribe((data) => {
+            window.location.href = data;
+        });
     }
 };
 DetailsPage.ctorParameters = () => [

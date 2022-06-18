@@ -7,33 +7,33 @@
     "files": {}
   },
   "installed_plugins": {
-    "cordova-plugin-whitelist": {
-      "PACKAGE_NAME": "omisalj-heritage"
-    },
-    "cordova-plugin-statusbar": {
+    "cordova-plugin-apprate": {
       "PACKAGE_NAME": "omisalj-heritage"
     },
     "cordova-plugin-device": {
       "PACKAGE_NAME": "omisalj-heritage"
     },
-    "cordova-plugin-splashscreen": {
-      "PACKAGE_NAME": "omisalj-heritage"
-    },
-    "cordova-plugin-ionic-webview": {
+    "cordova-plugin-email-composer": {
       "PACKAGE_NAME": "omisalj-heritage"
     },
     "cordova-plugin-ionic-keyboard": {
       "PACKAGE_NAME": "omisalj-heritage"
     },
+    "cordova-plugin-ionic-webview": {
+      "PACKAGE_NAME": "omisalj-heritage"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "omisalj-heritage"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "omisalj-heritage"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "omisalj-heritage"
+    },
     "cordova-plugin-x-socialsharing": {
       "PHOTO_LIBRARY_ADD_USAGE_DESCRIPTION": "This app requires photo library access to function properly.",
       "PHOTO_LIBRARY_USAGE_DESCRIPTION": "This app requires photo library access to function properly.",
-      "PACKAGE_NAME": "omisalj-heritage"
-    },
-    "cordova-plugin-apprate": {
-      "PACKAGE_NAME": "omisalj-heritage"
-    },
-    "cordova-plugin-email-composer": {
       "PACKAGE_NAME": "omisalj-heritage"
     },
     "uk.co.workingedge.phonegap.plugin.launchnavigator": {
@@ -42,7 +42,7 @@
     }
   },
   "dependent_plugins": {
-    "es6-promise-plugin": {
+    "cordova-plugin-actionsheet": {
       "PACKAGE_NAME": "omisalj-heritage"
     },
     "cordova-plugin-dialogs": {
@@ -51,7 +51,7 @@
     "cordova-plugin-nativestorage": {
       "PACKAGE_NAME": "omisalj-heritage"
     },
-    "cordova-plugin-actionsheet": {
+    "es6-promise-plugin": {
       "PACKAGE_NAME": "omisalj-heritage"
     }
   }

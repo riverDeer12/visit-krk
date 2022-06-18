@@ -12,6 +12,7 @@ export class HomePage {
     private router: Router,
     public translate: TranslateService,
   ) {
+    localStorage.setItem('language', 'eng');
     this.translate.setDefaultLang('eng');
     this.translate.use('eng');
   }
