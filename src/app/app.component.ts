@@ -84,7 +84,7 @@ export class AppComponent {
 
     rate(): void {
         this.appRate.preferences.storeAppURL = {
-            ios: '<omisalj-heritage>',
+            ios: '<visit-krk>'
         };
 
         this.appRate.promptForRating(true);
@@ -92,7 +92,7 @@ export class AppComponent {
 
     sendEmail(): void {
         const email = {
-            to: 'info@visit-omisalj-njivice.hr'
+            to: 'tz.otok.krk@gmail.hr'
         };
         this.emailComposer.open(email);
     }
