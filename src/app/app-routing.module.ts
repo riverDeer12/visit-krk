@@ -18,6 +18,11 @@ const routes: Routes = [
       import('./pages/history/history.module').then((m) => m.HistoryPageModule),
   },
   {
+    path: 'closest-point',
+    loadChildren: () =>
+      import('./pages/closest-point/closest-point.module').then((m) => m.ClosestPointPageModule),
+  },
+  {
     path: 'archeology_remains',
     loadChildren: () =>
       import('./pages/arch-remains/arch-remains.module').then(
@@ -81,7 +86,12 @@ const routes: Routes = [
     path: 'tours',
     loadChildren: () =>
       import('./pages/tours/tours.module').then((m) => m.ToursPageModule),
+  },
+  {
+    path: 'closest-point',
+    loadChildren: () => import('./pages/closest-point/closest-point.module').then(m => m.ClosestPointPageModule)
   }
+
 ];
 
 @NgModule({

@@ -20,9 +20,10 @@
   "get_me_there": "Odvedi me tamo",
   "related_sights": "Povezane znamenitosti:",
   "read_more": "Više",
+  "from-you": "OD VAS",
   "navigation": {
     "history": "Povijest",
-    "closest_point_of_interest": "Najbliža točka interesa",
+    "closest-point-of-interest": "Najbliža točka interesa",
     "archeology_remains": "Arheološki ostatci",
     "archeology_remain": "Arheološki ostatak",
     "churches": "Crkve",
@@ -49,7 +50,7 @@
     "title": "Povijest otoka Krka",
     "description": "Dinamičnu povijest otoka Krka odredio je povoljan geografski položaj (sjecište trgovačkih putova), blaga klima, dovoljno obradive zemlje i,znatan broj uzvisina za utvrđivanje naselja. Njegovi najraniji tragovi sežu u prapovijest. Iako još uvijek sustavno neistraženi, ostaci ove,davne prošlosti pronađeni su na strateški pozicioniranim brežuljcima (oko crkve sv. Petra u Gabonjinu) i u špiljama otoka Krka. Razdoblje rimske prevlasti ostavilo je mnoštvo tragova na otoku Krku, sačuvanih podno Omišlja na arheološkom lokalitetu Fulfinum, u uvali, Soline uokolo srednjovjekovne crkve na lokalitetu sv. Petar te unutar današnjih gradskih tkiva Baške i Krka. Najbolje sačuvani tragovi rimske,\nkulture nalaze se u ugostiteljskim prostorima Volsonis i Mate u gradu Krku. Kafić Volsonis inkorporiran je u rimske bedeme grada, a u kafiću Mate nalazi se izvrsno očuvan rimski mozaik s prikazom mitskoga bića Tritona. Najraniji tragovi kršćanstva na otoku potječu iz petog stoljeća, kada vjeru prihvaća Carstvo. Tada se uza sama središta kasnoantičke moći grade važni sakralni objekti. Najraniji datirani i sačuvani objekti su starokršćanska bazilika u Mirinama sagrađena uz rimski grad Fulfinum, ostaci nekadašnje starokršćanske crkve podno crkve sv. Marka u Baški te pronađeni tragovi vrlo rano datiranoga sakralnog zdanja u temeljima krčke katedrale. Današnji otok Krk podijeljen je u sedam općina čiji su upravni centri veća mjesta: Omišalj, Malinska, Dobrinj, Vrbnik, Krk, Punat i Baška. Približno ovakva podjela otoka, izostavivši Punat i Malinsku kao mjesta mlađa po postanku, čuva se još od srednjeg vijeka kada je otočnim kaštelima pod budnim mletačkim okom upravljala kneževska obitelj Frankopan. Ova obitelj brinula se za održavanje mira na otoku, dobro uređene pravne odnose, njegovanje tradicije u obliku hrvatskog jezika i pisma glagoljice te održavanje sakralnih zdanja potrebnih za obavljanje bogoslužja. Nedaleko od, mjesta Vrbnik sačuvan je stari frankopanski kaštel-utvrda nazvan Gradec, a u gradu Krku nalazi se velebni Frankopanski kaštel, reprezentativno, obrambeno zdanje  i sastavni dio gradskih bedema. Nesiguran srednji vijek sugerirao je izgradnju mjesta na uzvisinama kako bi geografski položaj pružao mogućnost nadzora nad obradivim površinama i, zaštitu od mogućih napada. Gradski bedemi sačuvani su samo u Krku, u drugim su mjestima, primjerice u Dobrinju, tragovi bedema tek vidljivi unutar, debelih zidova kuća smještenih u vanjskom prstenu grada. Otočna su mjesta do danas sačuvala prepoznatljive elemente tradicijskoga graditeljstva u,malim kamenim kućama radijalno postavljenima na uskim ulicama oko glavnoga gradskog trga, a kao zaštitni znakovi svakog naselja ponosno strše zvonici, mjesnih crkvi (crkva sv. Stjepana – Dobrinj, crkva Uznesenja Blažene Djevice Marije – Vrbnik i crkva Uznesenja Marijina – Omišalj). Ovim je projektom na jednome mjestu sažeto bogato višestoljetno kulturno nasljeđe otoka Krka od njegove rimske do novovjekovne povijesti. Obuhvaćen je, niz arheoloških lokaliteta, utvrda, starokršćanskih, srednjovjekovnih i novovjekovnih crkvenih zdanja i samostana te drugih reprezentativnih kulturnih, dobara krčkih otočnih mjesta."
   },
-  "closest_point_of_interest": {
+  "closest-point-of-interest": {
     "closest_sight": "Najbliža znamenitost",
     "closest_tour": "Najbliži obilazak",
     "no_navigation_alert": "Nema dostupne navigacijske aplikacije.",
@@ -1013,27 +1014,42 @@
         {
           "key": "dobrinj",
           "title": "Dobrinj",
-          "type": "places"
+          "type": "places",
+          "numberOfImages": 2,
+          "latitude": 45.1294025,
+          "longitude": 14.6038721
         },
         {
           "key": "volsonis",
           "title": "Kaštel, bedemi i arheološki ostaci u kafiću Volsonis",
-          "type": "forts"
+          "type": "forts",
+          "numberOfImages": 2,
+          "latitude": 45.026056,
+          "longitude": 14.573861
         },
         {
           "key": "gradec_and_frankopans",
           "title": "Gradec i Frankopani",
-          "type": "forts"
+          "type": "forts",
+          "numberOfImages": 2,
+          "latitude": 45.099944,
+          "longitude": 14.629722
         },
         {
           "key": "krk",
           "title": "Krk",
-          "type": "places"
+          "type": "places",
+          "numberOfImages": 2,
+          "latitude": 45.0280099,
+          "longitude": 14.5749926
         },
         {
           "key": "st_john",
           "title": "Crkva Sv. Ivana",
-          "type": "churches"
+          "type": "churches",
+          "numberOfImages": 2,
+          "latitude": 45.075583,
+          "longitude": 14.674083
         }
       ]
     },
@@ -1054,32 +1070,50 @@
         {
           "key": "punat",
           "title": "Punat",
-          "type": "places"
+          "type": "places",
+          "numberOfImages": 2,
+          "latitude": 45.0213646,
+          "longitude": 14.6299445
         },
         {
           "key": "kosljun",
           "title": "Franjevački samostan – Košljun",
-          "type": "monasteries"
+          "type": "monasteries",
+          "numberOfImages": 2,
+          "latitude": 45.026694,
+          "longitude": 14.618194
         },
         {
           "key": "glagolitic_monks",
           "title": "Samostani na trgu glagoljaša",
-          "type": "monasteries"
+          "type": "monasteries",
+          "numberOfImages": 2,
+          "latitude": 45.029028,
+          "longitude": 14.574361
         },
         {
           "key": "st_michael_lady_health",
           "title": "Crkva Sv.Mihovila (Majke Božje od Zdravlja)",
-          "type": "churches"
+          "type": "churches",
+          "numberOfImages": 2,
+          "latitude": 45.027889,
+          "longitude": 14.574028
         },
         {
           "key": "glavotok",
           "title": "Franjevački samostan – Glavotok",
-          "type": "monasteries"
+          "type": "monasteries",
+          "numberOfImages": 2,
+          "latitude": 45.091111,
+          "longitude": 14.434306
         },
         {
           "key": "porat",
           "title": "Franjevački samostan – Porat",
-          "type": "monasteries"
+          "type": "monasteries",
+          "numberOfImages": 2,
+          "latitude": 45.123444,
+          "longitude": 14.493583
         }
       ]
     },
@@ -1100,32 +1134,50 @@
         {
           "key": "parish_church_of_assumption",
           "title": "Župna crkva uznesenja Blažene djevice Marije",
-          "type": "churches"
+          "type": "churches",
+          "numberOfImages": 2,
+          "latitude": 45.125833,
+          "longitude": 14.613472
         },
         {
           "key": "lapidarium",
           "title": "Arheološki lokalitet Cickini/Lapidarij",
-          "type": "archeology_remains"
+          "type": "archeology_remains",
+          "numberOfImages": 2,
+          "latitude": 45.126,
+          "longitude": 14.551889
         },
         {
           "key": "st_donatus",
           "title": "Crkva Sv. Dunata",
-          "type": "churches"
+          "type": "churches",
+          "numberOfImages": 2,
+          "latitude": 45.04,
+          "longitude": 14.620111
         },
         {
           "key": "st_peter_kanajt",
           "title": "Arheološki lokalitet Sv.Petar na Kanajtu",
-          "type": "archeology_remains"
+          "type": "archeology_remains",
+          "numberOfImages": 2,
+          "latitude": 45.03325,
+          "longitude": 14.631778
         },
         {
           "key": "all_saints_suzan",
           "title": "Crkva Svih Svetih u Sužanu",
-          "type": "archeology_remains"
+          "type": "archeology_remains",
+          "numberOfImages": 2,
+          "latitude": 45.153278,
+          "longitude": 14.579444
         },
         {
           "key": "st_peter_soline",
           "title": "Crkva Sv. Petra - Soline",
-          "type": "archeology_remains"
+          "type": "archeology_remains",
+          "numberOfImages": 2,
+          "latitude": 45.164194,
+          "longitude": 14.606417
         }
       ]
     },
@@ -1146,32 +1198,50 @@
         {
           "key": "vrbnik",
           "title": "Vrbnik",
-          "type": "places"
+          "type": "places",
+          "numberOfImages": 2,
+          "latitude": 45.0769445,
+          "longitude": 14.674188
         },
         {
           "key": "st_mavro_church",
           "title": "Crkva Sv. Mavra",
-          "type": "archeology_remains"
+          "type": "archeology_remains",
+          "numberOfImages": 2,
+          "latitude": 45.072722,
+          "longitude": 14.674472
         },
         {
           "key": "st_marcos_church",
           "title": "Crkva Sv. Marka",
-          "type": "archeology_remains"
+          "type": "archeology_remains",
+          "numberOfImages": 2,
+          "latitude": 45.10575,
+          "longitude": 14.667222
         },
         {
           "key": "st_vitus",
           "title": "Crkva Sv. Vida",
-          "type": "churches"
+          "type": "churches",
+          "numberOfImages": 2,
+          "latitude": 45.125833,
+          "longitude": 14.613472
         },
         {
           "key": "st_philip_and_jacob",
           "title": "Crkva Sv. Filipa i Jakova",
-          "type": "churches"
+          "type": "churches",
+          "numberOfImages": 2,
+          "latitude": 45.125833,
+          "longitude": 14.613472
         },
         {
           "key": "st_clement_klimno",
           "title": "Crkva Sv. Klementa u Klimnu",
-          "type": "churches"
+          "type": "churches",
+          "numberOfImages": 2,
+          "latitude": 45.154806,
+          "longitude": 14.620361
         }
       ]
     },
@@ -1192,27 +1262,42 @@
         {
           "key": "st_peter_soline",
           "title": "Crkva Sv. Petra – Soline",
-          "type": "archeology_remains"
+          "type": "archeology_remains",
+          "numberOfImages": 2,
+          "latitude": 45.164194,
+          "longitude": 14.606417
         },
         {
           "key": "roman_city_fulfinum",
           "title": "Rimski grad Fulfinum",
-          "type": "archeology_remains"
+          "type": "archeology_remains",
+          "numberOfImages": 2,
+          "latitude": 45.203972,
+          "longitude": 14.544167
         },
         {
           "key": "volsonis",
           "title": "Kaštel, bedemi i arheološki ostaci u kafiću VolsonisVolsonis",
-          "type": "forts"
+          "type": "forts",
+          "numberOfImages": 2,
+          "latitude": 45.026056,
+          "longitude": 14.573861
         },
         {
           "key": "triton_mosaic",
           "title": "Mozaik sa slikom Tritona",
-          "type": "archeology_remains"
+          "type": "archeology_remains",
+          "numberOfImages": 2,
+          "latitude": 45.025778,
+          "longitude": 14.574333
         },
         {
           "key": "st_marcos_church",
           "title": "Crkva Sv. Maraka",
-          "type": "archeology_remains"
+          "type": "archeology_remains",
+          "numberOfImages": 2,
+          "latitude": 45.10575,
+          "longitude": 14.667222
         }
       ]
     }

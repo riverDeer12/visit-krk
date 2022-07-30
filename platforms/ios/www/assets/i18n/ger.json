@@ -20,9 +20,10 @@
   "get_me_there": "Bring mich hin",
   "related_sights": "Verwandte Sehenswürdigkeiten:",
   "read_more": "Weiterlesen",
+  "from-you": "VON DIR",
   "navigation": {
     "history": "Geschite",
-    "closest_point_of_interest": "Closest point of interest",
+    "closest-point-of-interest": "Nächstgelegene Sehenswürdigkeit",
     "archeology_remains": "Archäologische Stätten",
     "archeology_remain": "Archäologische Stätten",
     "churches": "Kirche",
@@ -49,7 +50,7 @@
       "Die dynamische Geschichte der Insel Krk wurde durch ihre günstige geographische Lage (Schnittpunkt von Handelsrouten), mildes Klima, ausreichend fruchtbares Land und eine beträchtliche Anzahl von Anhöhen zur Begründung von Siedlungen bestimmt. Ihre frühesten Spuren reichen bis in die Vorgeschichte zurück. Obwohl noch systematisch unerforscht, wurden die Überreste dieser alten Vergangenheit in strategisch positionierten Hügeln (um <b>die Kirche des Hl. Petrus in Gabonjin</b>) und in den Höhlen der Insel Krk gefunden. Die römische Herrschaft hat viele Spuren auf der Insel Krk hinterlassen, die am Fuße von <b>Omišalj</b> an der archäologischen Stätte <b>Fulfinum</b>, in der Bucht Soline um die mittelalterliche Kirche an der archäologischen Stätte <b>Hl. Petrus</b> und in den heutigen Städten <b>Baška und Krk</b> gefunden wurden. Die am besten erhaltenen Spuren der römischen Kultur befinden sich in den gastwirtschaftlichen <b>Objekten Volsonis</b> und Mate in der Stadt Krk. Das Café Volsonis ist in die römischen Mauern der Stadt integriert und im Café Mate gibt es ein sehr gut erhaltenes <b>römisches Mosaik mit Darstellung des mythischen Tritons</b>.\n\nDie frühesten Spuren des Christentums auf der Insel stammen aus dem fünften Jahrhundert, als der Glaube vom Reich akzeptiert wurde. Zu dieser Zeit werden an den Zentren der Spätantike wichtige sakrale Objekte gebaut. Die ältesten und erhaltenen Gebäude waren <b>die altchristliche Basilika in Mirine</b>, die nahe der römischen Stadt Fulfinum erbaut wurde, die Ruinen der ehemaligen altchristlichen Kirche am Fuße <b>der Kirche des Hl. Markus in Baška</b> und Spuren eines sehr alten frühzeitlichen Sakralbaus, der in den Sockeln <b>der Kathedrale von Krk</b> gefunden wurde.\n\nDie heutige Insel Krk ist in sieben Gemeinden unterteilt, deren Verwaltungszentren größere Orte sind: <b>Omišalj, Malinska, Dobrinj, Vrbnik, Krk, Punat und Baška</b>. Ungefähr eine solche Aufteilung der Insel, ausgenommen von Punat und Malinska als jüngere Siedlungen, ist seit dem Mittelalter erhalten, als die fürstliche Familie Frankopan unter wachem Auge von Venedig die Kastelle der Insel verwaltete. Diese Familie sorgte um die Aufrechterhaltung des Friedens auf der Insel, um geregelte rechtliche Beziehungen, um die Pflege der Tradition der kroatischen Sprache und der glagolitischen Schrift und um die Erhaltung der sakralen Gebäude, die für die Durchführung des Gottesdienstes erforderlich sind. Nicht weit von Vrbnik wurde die alte Festung der Familie Frankopan namens <b>Gradec</b> erhalten. In der Stadt Krk gibt es ein prächtiges Frankopaner Kastell, ein repräsentatives Verteidigungsgebäude und ein wesentlicher Bestandteil der Stadtmauern.\n\nDas unsichere Mittelalter bedingte den Bau von Siedlungen auf Hügeln, da die geographische Position die Überwachung der bebaubaren Flächen und den Schutz vor möglichen Angriffen ermöglichte. Die Stadtmauer ist nur in Krk erhalten, an anderen Stellen, beispielsweise in Dobrinj, sind die Überreste der Stadtmauern nur innerhalb der dicken Häuserwände sichtbar, die sich im äußeren Ring der Stadt befinden. Die Inselorte haben heute erkennbare Elemente traditioneller Architektur wie kleine Steinhäuser, die radial in den engen Gassen rund um den Hauptplatz der Stadt gelegen sind. Als Markenzeichen jeder Siedlung erstreckt sich stolz der Glockenturm der örtlichen Kirchen (<b>Kirche des Hl. Stephan in Dobrinj, Mariä-Himmelfahrt-Kirche in Vrbnik und Mariä-Himmelfahrt-Kirche in Omišalj</b>).\n\nMit diesem Projekt wurde an einem Ort das reiche kulturelle Erbe der Insel Krk von der römischen bis zur modernen Geschichte zusammengefasst. Umfasst wurde eine Reihe von archäologischen Stätten, Festungen, frühchristlichen, mittelalterlichen und modernen Kirchengebäuden und Klöstern sowie anderen repräsentativen Kulturgütern der Inseln Krk."
     ]
   },
-  "closest_point_of_interest": {
+  "closest-point-of-interest": {
     "closest_sight": "Closest sight",
     "closest_tour": "Closest tour",
     "no_navigation_alert": "No navigation application available",
@@ -708,41 +709,41 @@
           "type": "churches"
         }
       ]
+    },
+    "krk_new_age": {
+      "title": "Die insel Krk in den ersten jahrhunderten der neuen ara",
+      "description": [
+        "Der Ausflug beginnt mit einem Schlammbad in der Bucht von Soline. Dieser Schlamm wurde von den alten Römern zu Heilungszwecken verwendet. An diesem Ort gab es auch zur Zeit des alten Roms eine Promenade, in deren Nähe sich Salzwerke befanden, in denen die Einwohner Salz produzierten und beträchtlichen Wohlstand genossen.  Der nächste Punkt Ihrer Reise sollte die römische Stadt Fulfinum unterhalb von Omišalj sein. Als Teil dieses äußerst wichtigen Ortes sehen Sie auch die frühchristliche Basilika Mira aus dem 5. Jahrhundert. Wenn Sie die Landschaft dieses Ortes ausreichend genossen haben, besuchen Sie noch das römische Curicum, die heutige Stadt Krk. Obwohl die Geschichte der Stadt in die uralte Vergangenheit zurückreicht, sind die ersten Jahrhunderte tief unter der Erde sichtbar. Sie können einen Teil der städtischen Infrastruktur und die Stadtmauern der ehemaligen Stadt Krk innerhalb des gastwirtschaftlichen Objektes Volsonis mitten im Zentrum der Stadt sehen. Nicht weit von hier, innerhalb der Taverne Mate, befindet sich ein römisches Mosaik mit Darstellung des mythischen Tritons, das Sie sich nicht entgehen lassen dürfen. Am Ende der Reise können Sie mehrere frühchristliche Würfel in Baška im Zentrum der Stadt neben der Kirche des Hl. Markus besichtigen. Dies sind erhaltene Teile des Mosaiks aus dem 5. Jahrhundert v. Chr., mit denen einst die Kirche gepflastert war."
+      ],
+      "map-url": "https://www.google.com/maps/d/u/0/viewer?mid=1BmErP9jUAvUdG9yaljOrlLUbSXC4XKjx&ll=45.08839558346452%2C14.643850499999985&z=11",
+      "related": [
+        {
+          "key": "st_peter_soline",
+          "title": "Kirche des Hl.Petrus-Soline",
+          "type": "archeology_remains"
+        },
+        {
+          "key": "roman_city_fulfinum",
+          "title": "Romische stadt Fulfinum",
+          "type": "archeology_remains"
+        },
+        {
+          "key": "volsonis",
+          "title": "Kastell, stadtmauern und archaologische uberreste im cafe Volsonis",
+          "type": "forts"
+        },
+        {
+          "key": "triton_mosaic",
+          "title": "Triton-mosaik",
+          "type": "archeology_remains"
+        },
+        {
+          "key": "st_marcos_church",
+          "title": "Kirche des Hl. Markus",
+          "type": "archeology_remains"
+        }
+      ]
     }
-  },
-  "krk_new_age": {
-    "title": "Die insel Krk in den ersten jahrhunderten der neuen ara",
-    "description": [
-      "Der Ausflug beginnt mit einem Schlammbad in der Bucht von Soline. Dieser Schlamm wurde von den alten Römern zu Heilungszwecken verwendet. An diesem Ort gab es auch zur Zeit des alten Roms eine Promenade, in deren Nähe sich Salzwerke befanden, in denen die Einwohner Salz produzierten und beträchtlichen Wohlstand genossen.  Der nächste Punkt Ihrer Reise sollte die römische Stadt Fulfinum unterhalb von Omišalj sein. Als Teil dieses äußerst wichtigen Ortes sehen Sie auch die frühchristliche Basilika Mira aus dem 5. Jahrhundert. Wenn Sie die Landschaft dieses Ortes ausreichend genossen haben, besuchen Sie noch das römische Curicum, die heutige Stadt Krk. Obwohl die Geschichte der Stadt in die uralte Vergangenheit zurückreicht, sind die ersten Jahrhunderte tief unter der Erde sichtbar. Sie können einen Teil der städtischen Infrastruktur und die Stadtmauern der ehemaligen Stadt Krk innerhalb des gastwirtschaftlichen Objektes Volsonis mitten im Zentrum der Stadt sehen. Nicht weit von hier, innerhalb der Taverne Mate, befindet sich ein römisches Mosaik mit Darstellung des mythischen Tritons, das Sie sich nicht entgehen lassen dürfen. Am Ende der Reise können Sie mehrere frühchristliche Würfel in Baška im Zentrum der Stadt neben der Kirche des Hl. Markus besichtigen. Dies sind erhaltene Teile des Mosaiks aus dem 5. Jahrhundert v. Chr., mit denen einst die Kirche gepflastert war."
-    ],
-    "map-url": "https://www.google.com/maps/d/u/0/viewer?mid=1BmErP9jUAvUdG9yaljOrlLUbSXC4XKjx&ll=45.08839558346452%2C14.643850499999985&z=11",
-    "related": [
-      {
-        "key": "st_peter_soline",
-        "title": "Kirche des Hl.Petrus-Soline",
-        "type": "archeology_remains"
-      },
-      {
-        "key": "roman_city_fulfinum",
-        "title": "Romische stadt Fulfinum",
-        "type": "archeology_remains"
-      },
-      {
-        "key": "volsonis",
-        "title": "Kastell, stadtmauern und archaologische uberreste im cafe Volsonis",
-        "type": "forts"
-      },
-      {
-        "key": "triton_mosaic",
-        "title": "Triton-mosaik",
-        "type": "archeology_remains"
-      },
-      {
-        "key": "st_marcos_church",
-        "title": "Kirche des Hl. Markus",
-        "type": "archeology_remains"
-      }
-    ]
   },
   "ethno": {
     "dobrinj_collection": {

@@ -1,0 +1,42 @@
+<ion-header>
+  <ion-toolbar class="header" color="primary">
+    <ion-menu-toggle>
+      <ion-button size="small" color="light" fill="clear">
+        <ion-icon size="large" slot="icon-only" name="menu-outline"></ion-icon>
+      </ion-button>
+    </ion-menu-toggle>
+    <ion-title>
+      {{'navigation.closest-point-of-interest' | translate }}
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content fullscreen *ngIf="loadingClosestTours">
+  <ion-grid style="height: 100%">
+    <ion-row class="ion-justify-content-center ion-align-items-center" style="height: 100%">
+      <ion-title style="padding-bottom: 100px">
+        <ion-spinner name="dots"></ion-spinner>
+      </ion-title>
+      <img height="125" width="125" src="assets/images/icon.png" alt="">
+    </ion-row>
+  </ion-grid>
+</ion-content>
+
+<ion-content fullscreen *ngIf="!loadingClosestTours">
+  <ion-card *ngFor="let tour of tourDistances">
+    <img [src]="'assets/images/sights/tours/' + tour.tourName + '_1.jpg'" alt="sight"/>
+    <ion-card-header>
+      <ion-card-subtitle color="light" class="ion-margin-bottom ion-text-center">{{ tour.distance }}
+        <ion-icon color="primary" name="footsteps-outline"></ion-icon>
+        {{'from-you' | translate }}
+      </ion-card-subtitle>
+      <ion-card-title>{{ 'tours.' + tour.tourName + '.title' | translate }}</ion-card-title>
+    </ion-card-header>
+    <ion-card-header class="ion-text-center">
+      <ion-button (click)="goToDetails(tour)" fill="clear" expand="full" color="primary">
+        <ion-icon size="large" slot="icon-only" name="information-outline"></ion-icon>
+        {{ 'read_more' | translate}}
+      </ion-button>
+    </ion-card-header>
+  </ion-card>
+</ion-content>

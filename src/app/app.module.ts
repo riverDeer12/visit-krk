@@ -16,6 +16,7 @@ import { TranslateHttpLoader } from '@ngx-translate/http-loader';
 import { SocialSharing } from '@ionic-native/social-sharing/ngx';
 import { AppRate } from '@ionic-native/app-rate/ngx';
 import { EmailComposer } from '@ionic-native/email-composer/ngx';
+import {Geolocation} from '@ionic-native/geolocation/ngx';
 
 export function createTranslateLoader(http: HttpClient) {
   return new TranslateHttpLoader(http, './assets/i18n/', '.json');
@@ -41,10 +42,11 @@ export function createTranslateLoader(http: HttpClient) {
   exports: [TranslateModule, HttpClientModule],
   providers: [
     { provide: RouteReuseStrategy, useClass: IonicRouteStrategy },
-    LaunchNavigator,
     SocialSharing,
+    LaunchNavigator,
     AppRate,
-    EmailComposer
+    EmailComposer,
+    Geolocation
   ],
   bootstrap: [AppComponent],
 })

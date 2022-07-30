@@ -18,6 +18,11 @@ export class AppComponent {
             icon: 'assets/images/nav_icons/history.png',
         },
         {
+            title: 'navigation.closest-point-of-interest',
+            url: '/closest-point',
+            icon: 'assets/images/nav_icons/closest_point_of_interest.png',
+        },
+        {
             title: 'navigation.archeology_remains',
             url: '/archeology_remains',
             icon: 'assets/images/nav_icons/archeology_remains.png',
@@ -73,7 +78,8 @@ export class AppComponent {
 
     share(): void {
         this.socialSharing
-            .share('Visit Krk iOS app', 'Visit Krk')
+            .share('Download Visit Krk Android/iOS application: https://www.visitkrk.com/hr',
+                'Visit Krk Island')
             .then(() => {
                 // Success!
             })
@@ -83,9 +89,11 @@ export class AppComponent {
     }
 
     rate(): void {
-        this.appRate.preferences.storeAppURL = {
-            ios: '<visit-krk>'
-        };
+        this.appRate.setPreferences({
+            storeAppURL: {
+                ios: '<visit-krk>',
+            }
+        });
 
         this.appRate.promptForRating(true);
     }

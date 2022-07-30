@@ -20,9 +20,10 @@
   "get_me_there": "Get me there",
   "related_sights": "Related sights:",
   "read_more": "Read more",
+  "from-you": "FROM YOU",
   "navigation": {
     "history": "History",
-    "closest_point_of_interest": "Closest point of interest",
+    "closest-point-of-interest": "Closest point of interest",
     "archeology_remains": "Archeology remains",
     "archeology_remain": "Archeology remains",
     "churches": "Churches",
@@ -49,7 +50,7 @@
     "title": "History of Island of Krk",
     "description": "The dynamic history of the island of Krk was determined by its favourable geographical position (the crossroads of merchant routes),\n mild climate, sufficient amount of arable land and a considerable number of hills for fortifying the villages. Its earliest traces date back,\n into prehistory. Although the remains of this ancient past have not yet been adequately investigated, they were found on strategically positioned,\n  hills (around the church of St Peter in Gabonjin) and in the caves of the island of Krk. The period of Roman domination left many traces on the island,\nof Krk, preserved below Omišalj at the archaeological site Fulfinum, in the cove Soline around the Medieval church of St Peter and within the today’s,\ncities Baška and Krk. The best preserved traces of Roman culture are located in the catering facilities Volsonis and Mate in the city of Krk. The caffé,\n Volsonis is incorporated into the Roman walls of the city and the café Mate has an excellently preserved Roman mosaic showing the mythical creature Triton.,\n  The earliest traces of Christianity originate from the fifth century, when the religion was accepted by the Empire. That is when the important sacral,\n  buildings were built along the very centres of power of the late Antiquity. The earliest and best-preserved edifices are the old Christian basilica in,\n  Mirine built next to the Roman city Fulfinum, the remains of the old Christian church below the church of St Marco in Baška and the remains of a very,\n  early sacral edifice found in the foundations of the Krk cathedral.,\n  The today’s island of Krk is divided into seven municipalities with larger towns as administrative centres: Omišalj, Malinska, Dobrinj, Vrbnik, Krk,,\n  Punat and Baška. The similar division of the island, except for Punat and Malinska which are younger, has been preserved since the Middle Ages when the,\n  island castles were managed by the princely family Frankopan under the watchful eye of Venice. The family Frankopan took care of preserving the peace on,\n  the island, proper arrangement of legal relations, cherishing the tradition through the Croatian language and the Glagolitic script, as well as maintaining,\n  the sacral objects necessary for liturgical purposes. The old Frankopan castle-fortress called Gradec has been preserved near the village Vrbnik, while the,\n  city of Krk contains a grand Frankopan castle, a representative defensive structure and a constituent part of the city walls.,\n  The uncertainty of the Middle Ages stimulated the construction of villages at high places so their geographical position would provide the possibility of,\n  control over the arable land and the protection from possible assaults. The city walls were preserved only in Krk, while in other villages, like Dobrinj,,\n  traces of walls can only be seen within the thick walls of the houses located in the outer ring of the town. Island villages have still preserved some,\n  recognizable elements of traditional masonry in small stone houses radially set on narrow streets around the main city square, with the bell towers of local,\n  churches proudly standing out as trademarks of any village (the church of St Stephen – Dobrinj, the church of the Assumption of the Blessed Virgin Mary – Vrbnik,\n and the church of the Assumption of Mary – Omišalj).,\n  This project summarizes in one place the rich centuries-old cultural heritage of the island of Krk from its Roman era to the modern age. It covers a series,\n  of archaeological sites, fortresses, old Christian, Medieval and modern church buildings and monasteries and other representative cultural goods of the Krk, island towns."
   },
-  "closest_point_of_interest": {
+  "closest-point-of-interest": {
     "closest_sight": "Closest sight",
     "closest_tour": "Closest tour",
     "no_navigation_alert": "No navigation application available",
@@ -453,27 +454,42 @@
         {
           "key": "dobrinj",
           "title": "Dobrinj",
-          "type": "places"
+          "type": "places",
+          "numberOfImages": 2,
+          "latitude": 45.1294025,
+          "longitude": 14.6038721
         },
         {
           "key": "volsonis",
           "title": "The castle, walls and archaeological remains in the caffé Volsonis",
-          "type": "forts"
+          "type": "forts",
+          "numberOfImages": 2,
+          "latitude": 45.026056,
+          "longitude": 14.573861
         },
         {
           "key": "gradec_and_frankopans",
           "title": "Gradec and Frankopans",
-          "type": "forts"
+          "type": "forts",
+          "numberOfImages": 2,
+          "latitude": 45.099944,
+          "longitude": 14.629722
         },
         {
           "key": "krk",
           "title": "Krk",
-          "type": "places"
+          "type": "places",
+          "numberOfImages": 2,
+          "latitude": 45.0280099,
+          "longitude": 14.5749926
         },
         {
           "key": "st_john",
           "title": "The church of St John",
-          "type": "churches"
+          "type": "churches",
+          "numberOfImages": 2,
+          "latitude": 44.972917,
+          "longitude": 14.761917
         }
       ]
     },
@@ -485,32 +501,50 @@
         {
           "key": "punat",
           "title": "Punat",
-          "type": "places"
+          "type": "places",
+          "numberOfImages": 2,
+          "latitude": 45.0213646,
+          "longitude": 14.6299445
         },
         {
           "key": "kosljun",
           "title": "Franciscan monastery – Kosljun",
-          "type": "monasteries"
+          "type": "monasteries",
+          "numberOfImages": 2,
+          "latitude": 45.026694,
+          "longitude": 14.618194
         },
         {
           "key": "glagolitic_monks",
           "title": "Monasteries on the Square of the Glagolitic Monks",
-          "type": "monasteries"
+          "type": "monasteries",
+          "numberOfImages": 2,
+          "latitude": 45.029028,
+          "longitude": 14.574361
         },
         {
           "key": "st_michael_lady_health",
           "title": "The church of St Michael (Our Lady of Health)",
-          "type": "churches"
+          "type": "churches",
+          "numberOfImages": 2,
+          "latitude": 45.027889,
+          "longitude": 14.574028
         },
         {
           "key": "glavotok",
           "title": "Franciscan monastery – Glavotok",
-          "type": "monasteries"
+          "type": "monasteries",
+          "numberOfImages": 2,
+          "latitude": 45.091111,
+          "longitude": 14.434306
         },
         {
           "key": "porat",
           "title": "Franciscan monastery – Porat",
-          "type": "monasteries"
+          "type": "monasteries",
+          "numberOfImages": 2,
+          "latitude": 45.123444,
+          "longitude": 14.493583
         }
       ]
     },
@@ -522,32 +556,50 @@
         {
           "key": "parish_church_of_assumption",
           "title": "The parish church of the Assumption of the Blessed Virgin Mary and the bell tower",
-          "type": "churches"
+          "type": "churches",
+          "numberOfImages": 2,
+          "latitude": 45.077639,
+          "longitude": 14.674667
         },
         {
           "key": "lapidarium",
           "title": "Archaeological site Cickini/lapidarium",
-          "type": "archeology_remains"
+          "type": "archeology_remains",
+          "numberOfImages": 2,
+          "latitude": 45.126,
+          "longitude": 14.551889
         },
         {
           "key": "st_donatus",
           "title": "The church of St Donatus",
-          "type": "churches"
+          "type": "churches",
+          "numberOfImages": 2,
+          "latitude": 45.04,
+          "longitude": 14.620111
         },
         {
           "key": "st_peter_kanajt",
           "title": "Archaeological locality of St Peter on Kanajt",
-          "type": "archeology_remains"
+          "type": "archeology_remains",
+          "numberOfImages": 2,
+          "latitude": 45.03325,
+          "longitude": 14.631778
         },
         {
           "key": "all_saints_suzan",
           "title": "The church of All Saints in Suzan",
-          "type": "archeology_remains"
+          "type": "archeology_remains",
+          "numberOfImages": 2,
+          "latitude": 45.153278,
+          "longitude": 14.579444
         },
         {
           "key": "st_peter_soline",
           "title": "The church of St Peter – Soline",
-          "type": "archeology_remains"
+          "type": "archeology_remains",
+          "numberOfImages": 2,
+          "latitude": 45.164194,
+          "longitude": 14.606417
         }
       ]
     },
@@ -559,67 +611,100 @@
         {
           "key": "vrbnik",
           "title": "Vrbnik",
-          "type": "places"
+          "type": "places",
+          "numberOfImages": 2,
+          "latitude": 45.0769445,
+          "longitude": 14.674188
         },
         {
           "key": "st_mavro_church",
           "title": "The church of St Mavro",
-          "type": "archeology_remains"
+          "type": "archeology_remains",
+          "numberOfImages": 2,
+          "latitude": 45.072722,
+          "longitude": 14.674472
         },
         {
           "key": "st_marcos_church",
           "title": "The church of St Marco",
-          "type": "archeology_remains"
+          "type": "archeology_remains",
+          "numberOfImages": 2,
+          "latitude": 45.10575,
+          "longitude": 14.667222
         },
         {
           "key": "st_vitus",
           "title": "The church of St Vitus",
-          "type": "churches"
+          "type": "churches",
+          "numberOfImages": 2,
+          "latitude": 45.125833,
+          "longitude": 14.613472
         },
         {
           "key": "st_philip_and_jacob",
           "title": "The church of St Philip and Jacob",
-          "type": "churches"
+          "type": "churches",
+          "numberOfImages": 2,
+          "latitude": 45.125833,
+          "longitude": 14.613472
         },
         {
           "key": "st_clement_klimno",
           "title": "The church of St Clement in Klimno",
-          "type": "churches"
+          "type": "churches",
+          "numberOfImages": 2,
+          "latitude": 45.154806,
+          "longitude": 14.620361
+        }
+      ]
+    },
+    "krk_new_age": {
+      "title": "The island of Krk in the first centuries of the new age",
+      "description": "Start this trip with a mud bath in the cove near the village Soline. This mud was used for medicinal purposes by the old Romans, therefore,\n  you can do the same. During the Roman Empire, there used to be a quay here and salt pans where the inhabitants used to produce salt, which presented a fortune.,\n  The following stop on your tour should be the Roman city Fulfinum below Omišalj. Within this extremely important site, you can also see the old,\n  Christian basilica from the 5th century, called Mira. If you enjoyed the landscape of the area sufficiently, set out for the Roman Curicum, today’s Krk.,\n  Although the history of the city dates back into the ancient past, the first centuries can be found deep under the ground. A part of the city infrastructure,\n  and the walls of the former Krk can be seen within the catering facility Volsonis in the very centre of the city. Near this site, within the tavern Mate,,\n  there is the Roman mosaic showing Triton, which should be seen. For the end of the tour, there are a few old Christian pieces to see in Baška, in the very,\n  centre of the city along the Church of St Marco. These are the preserved parts of a mosaic dating from the far 5th century, which used to cover the floor of the church.",
+      "map-url": "https://www.google.com/maps/d/u/0/viewer?mid=1BmErP9jUAvUdG9yaljOrlLUbSXC4XKjx&ll=45.08839558346452%2C14.643850499999985&z=11",
+      "related": [
+        {
+          "key": "st_peter_soline",
+          "title": "The church of St Peter – Soline",
+          "type": "archeology_remains",
+          "numberOfImages": 2,
+          "latitude": 45.164194,
+          "longitude": 14.606417
+        },
+        {
+          "key": "roman_city_fulfinum",
+          "title": "The Roman city Fulfinum",
+          "type": "archeology_remains",
+          "numberOfImages": 2,
+          "latitude": 45.203972,
+          "longitude": 14.544167
+        },
+        {
+          "key": "volsonis",
+          "title": "The castle, walls and archaeological remains in the café Volsonis",
+          "type": "forts",
+          "numberOfImages": 2,
+          "latitude": 45.026056,
+          "longitude": 14.573861
+        },
+        {
+          "key": "triton_mosaic",
+          "title": "Mosaic with an image of Triton",
+          "type": "archeology_remains",
+          "numberOfImages": 2,
+          "latitude": 45.025778,
+          "longitude": 14.574333
+        },
+        {
+          "key": "st_marcos_church",
+          "title": "The church of St Marco",
+          "type": "archeology_remains",
+          "numberOfImages": 2,
+          "latitude": 45.10575,
+          "longitude": 14.667222
         }
       ]
     }
-  },
-  "krk_new_age": {
-    "title": "The island of Krk in the first centuries of the new age",
-    "description": "Start this trip with a mud bath in the cove near the village Soline. This mud was used for medicinal purposes by the old Romans, therefore,\n  you can do the same. During the Roman Empire, there used to be a quay here and salt pans where the inhabitants used to produce salt, which presented a fortune.,\n  The following stop on your tour should be the Roman city Fulfinum below Omišalj. Within this extremely important site, you can also see the old,\n  Christian basilica from the 5th century, called Mira. If you enjoyed the landscape of the area sufficiently, set out for the Roman Curicum, today’s Krk.,\n  Although the history of the city dates back into the ancient past, the first centuries can be found deep under the ground. A part of the city infrastructure,\n  and the walls of the former Krk can be seen within the catering facility Volsonis in the very centre of the city. Near this site, within the tavern Mate,,\n  there is the Roman mosaic showing Triton, which should be seen. For the end of the tour, there are a few old Christian pieces to see in Baška, in the very,\n  centre of the city along the Church of St Marco. These are the preserved parts of a mosaic dating from the far 5th century, which used to cover the floor of the church.",
-    "map-url": "https://www.google.com/maps/d/u/0/viewer?mid=1BmErP9jUAvUdG9yaljOrlLUbSXC4XKjx&ll=45.08839558346452%2C14.643850499999985&z=11",
-    "related": [
-      {
-        "key": "st_peter_soline",
-        "title": "The church of St Peter – Soline",
-        "type": "archeology_remains"
-      },
-      {
-        "key": "roman_city_fulfinum",
-        "title": "The Roman city Fulfinum",
-        "type": "archeology_remains"
-      },
-      {
-        "key": "volsonis",
-        "title": "The castle, walls and archaeological remains in the café Volsonis",
-        "type": "forts"
-      },
-      {
-        "key": "triton_mosaic",
-        "title": "Mosaic with an image of Triton",
-        "type": "archeology_remains"
-      },
-      {
-        "key": "st_marcos_church",
-        "title": "The church of St Marco",
-        "type": "archeology_remains"
-      }
-    ]
   },
   "ethno": {
     "dobrinj_collection": {

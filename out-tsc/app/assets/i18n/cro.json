@@ -22,7 +22,7 @@
     "read_more": "Pročitaj više",
     "navigation": {
         "history": "Povijest",
-        "closest_point_of_interest": "Closest point of interest",
+        "closest-point-of-interest": "Closest point of interest",
         "archeology_remains": "Arheološki ostatci",
         "archeology_remain": "Arheološki ostatak",
         "churches": "Crkve",
@@ -60,7 +60,7 @@
         "title": "Povijest Omišlja",
         "description": "Welcome to the historic center of Omišalj, a picturesque and layered urban structure with elements of medieval architecture, Renaissance, Baroque, historical styles of the 19th and the early 20th century. Omišalj was founded on the basis of an earlier village whose roots go back to prehistory. The original fort-type habitat defended by strong dry-walled ramparts was the seat of the Liburnian tribal community of Fertinata. It stagnated during the Roman Empire, when the nearby coastal country and port city of Fulfinum was developing, and flourished again during the early and developed Middle Ages.<br><br>Omišalj was the first among the already existing villages on the island, which in the early Middle Ages were populated en masse by immigrant Croats, achieving a harmonious coexistence with the Romanized indigenous community. During the Middle Ages, it was a stronghold of the princes of Krk, later Frankapans, who built two strong fortifications in front of it and next to it. The Venetians who ruled Omišalj in 1480 justifiably called it the 'key to the island of Krk' due to its strategic importance. Even today, this is clear to anyone who enters the historic center of city and finds himself on one of its lookouts from which one could easily see a good part of the Kvarner Bay. As nowhere else on the island of Krk, in Omišalj, parts of medieval and renaissance architecture intertwine with unusual out-of-style architectural structures. We are great as much as we hold on to the values we inherit, and as much as we preserve them for future generations. If we connect historical, artistic, archeological and historiographical data with the specifics of Omišalj tradition, speech, folk songs and customs, we will discover much about the turbulent history of this part of the island which has remained the key to the island of Krk."
     },
-    "closest_point_of_interest": {
+    "closest-point-of-interest": {
         "closest_sight": "Closest sight",
         "closest_tour": "Closest tour",
         "no_navigation_alert": "No navigation application available",

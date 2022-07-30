@@ -116,6 +116,11 @@ let AppComponent = class AppComponent {
                 icon: 'assets/images/nav_icons/history.png',
             },
             {
+                title: 'navigation.closest-point-of-interest',
+                url: '/closest-point',
+                icon: 'assets/images/nav_icons/closest_point_of_interest.png',
+            },
+            {
                 title: 'navigation.archeology_remains',
                 url: '/archeology_remains',
                 icon: 'assets/images/nav_icons/archeology_remains.png',
@@ -160,7 +165,7 @@ let AppComponent = class AppComponent {
     }
     share() {
         this.socialSharing
-            .share('Visit Krk iOS app', 'Visit Krk')
+            .share('Download Visit Krk Android/iOS application: https://www.visitkrk.com/hr', 'Visit Krk Island')
             .then(() => {
             // Success!
         })
@@ -169,14 +174,16 @@ let AppComponent = class AppComponent {
         });
     }
     rate() {
-        this.appRate.preferences.storeAppURL = {
-            ios: '<omisalj-heritage>',
-        };
+        this.appRate.setPreferences({
+            storeAppURL: {
+                ios: '<visit-krk>',
+            }
+        });
         this.appRate.promptForRating(true);
     }
     sendEmail() {
         const email = {
-            to: 'info@visit-omisalj-njivice.hr'
+            to: 'tz.otok.krk@gmail.hr'
         };
         this.emailComposer.open(email);
     }
@@ -248,6 +255,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _ionic_native_social_sharing_ngx__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! @ionic-native/social-sharing/ngx */ "/XPu");
 /* harmony import */ var _ionic_native_app_rate_ngx__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! @ionic-native/app-rate/ngx */ "k0k6");
 /* harmony import */ var _ionic_native_email_composer_ngx__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! @ionic-native/email-composer/ngx */ "aaed");
+/* harmony import */ var _ionic_native_geolocation_ngx__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! @ionic-native/geolocation/ngx */ "Bfh1");
+
 
 
 
@@ -289,10 +298,11 @@ AppModule = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"])([
         exports: [_ngx_translate_core__WEBPACK_IMPORTED_MODULE_10__["TranslateModule"], _angular_common_http__WEBPACK_IMPORTED_MODULE_9__["HttpClientModule"]],
         providers: [
             { provide: _angular_router__WEBPACK_IMPORTED_MODULE_5__["RouteReuseStrategy"], useClass: _ionic_angular__WEBPACK_IMPORTED_MODULE_6__["IonicRouteStrategy"] },
-            _ionic_native_launch_navigator_ngx__WEBPACK_IMPORTED_MODULE_1__["LaunchNavigator"],
             _ionic_native_social_sharing_ngx__WEBPACK_IMPORTED_MODULE_12__["SocialSharing"],
+            _ionic_native_launch_navigator_ngx__WEBPACK_IMPORTED_MODULE_1__["LaunchNavigator"],
             _ionic_native_app_rate_ngx__WEBPACK_IMPORTED_MODULE_13__["AppRate"],
-            _ionic_native_email_composer_ngx__WEBPACK_IMPORTED_MODULE_14__["EmailComposer"]
+            _ionic_native_email_composer_ngx__WEBPACK_IMPORTED_MODULE_14__["EmailComposer"],
+            _ionic_native_geolocation_ngx__WEBPACK_IMPORTED_MODULE_15__["Geolocation"]
         ],
         bootstrap: [_app_component__WEBPACK_IMPORTED_MODULE_7__["AppComponent"]],
     })
@@ -619,6 +629,10 @@ const routes = [
         loadChildren: () => __webpack_require__.e(/*! import() | pages-history-history-module */ "pages-history-history-module").then(__webpack_require__.bind(null, /*! ./pages/history/history.module */ "6F3i")).then((m) => m.HistoryPageModule),
     },
     {
+        path: 'closest-point',
+        loadChildren: () => Promise.all(/*! import() | pages-closest-point-closest-point-module */[__webpack_require__.e("default~pages-closest-point-closest-point-module~pages-list-list-module"), __webpack_require__.e("pages-closest-point-closest-point-module")]).then(__webpack_require__.bind(null, /*! ./pages/closest-point/closest-point.module */ "tnek")).then((m) => m.ClosestPointPageModule),
+    },
+    {
         path: 'archeology_remains',
         loadChildren: () => Promise.all(/*! import() | pages-arch-remains-arch-remains-module */[__webpack_require__.e("default~pages-arch-remains-arch-remains-module~pages-churches-churches-module~pages-ethno-ethno-modu~6dbce7bc"), __webpack_require__.e("pages-arch-remains-arch-remains-module")]).then(__webpack_require__.bind(null, /*! ./pages/arch-remains/arch-remains.module */ "Hcyd")).then((m) => m.ArchRemainsPageModule),
     },
@@ -648,7 +662,7 @@ const routes = [
     },
     {
         path: 'list',
-        loadChildren: () => __webpack_require__.e(/*! import() | pages-list-list-module */ "pages-list-list-module").then(__webpack_require__.bind(null, /*! ./pages/list/list.module */ "jD90")).then((m) => m.ListPageModule),
+        loadChildren: () => Promise.all(/*! import() | pages-list-list-module */[__webpack_require__.e("default~pages-closest-point-closest-point-module~pages-list-list-module"), __webpack_require__.e("pages-list-list-module")]).then(__webpack_require__.bind(null, /*! ./pages/list/list.module */ "jD90")).then((m) => m.ListPageModule),
     },
     {
         path: 'share',
@@ -661,6 +675,10 @@ const routes = [
     {
         path: 'tours',
         loadChildren: () => Promise.all(/*! import() | pages-tours-tours-module */[__webpack_require__.e("default~pages-arch-remains-arch-remains-module~pages-churches-churches-module~pages-ethno-ethno-modu~6dbce7bc"), __webpack_require__.e("pages-tours-tours-module")]).then(__webpack_require__.bind(null, /*! ./pages/tours/tours.module */ "tQfs")).then((m) => m.ToursPageModule),
+    },
+    {
+        path: 'closest-point',
+        loadChildren: () => Promise.all(/*! import() | pages-closest-point-closest-point-module */[__webpack_require__.e("default~pages-closest-point-closest-point-module~pages-list-list-module"), __webpack_require__.e("pages-closest-point-closest-point-module")]).then(__webpack_require__.bind(null, /*! ./pages/closest-point/closest-point.module */ "tnek")).then(m => m.ClosestPointPageModule)
     }
 ];
 let AppRoutingModule = class AppRoutingModule {
