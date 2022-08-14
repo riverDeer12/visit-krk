@@ -12,17 +12,16 @@
 </ion-header>
 
   <ion-content fullscreen>
-    <ion-card *ngFor="let sight of sights">
-      <img [src]="'assets/images/sights/monasteries/' + sight + '_1.jpg'"  [alt]="sight"/>
-      <ion-card-header>
-        <ion-card-subtitle class="ion-margin-bottom">{{ 'navigation.monasteries' | translate }}</ion-card-subtitle>
-        <ion-card-title>{{ 'monasteries.' + sight + '.title' | translate }}</ion-card-title>
-      </ion-card-header>
-      <ion-card-header class="ion-text-center">
-        <ion-button (click)="goToDetails(sight)" fill="clear" expand="full" color="primary">
-          <ion-icon size="large" slot="icon-only" name="information-outline"></ion-icon>
-          {{ 'read_more' | translate}}
-        </ion-button>
-      </ion-card-header>
-    </ion-card>
+    <ion-list>
+      <ion-item (click)="goToDetails(sight)" *ngFor="let sight of sights">
+        <ion-avatar slot="start">
+          <img [src]="'assets/images/sights/monasteries/' + sight + '_1.jpg'" [alt]="sight"/>
+        </ion-avatar>
+        <ion-label>
+          <h2>{{ 'monasteries.' + sight + '.title' | translate }}</h2>
+          <h3>{{ 'navigation.monasteries' | translate }}</h3>
+          <p>{{ 'monasteries.' + sight + '.description' | translate }}</p>
+        </ion-label>
+      </ion-item>
+    </ion-list>
   </ion-content>
