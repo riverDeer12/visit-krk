@@ -117,4 +117,10 @@ export class AppComponent {
         this.translate.use(currentLanguage);
 
     }
+
+    goToTwitter = () => window.location.href = 'https://mobile.twitter.com/visitkrk_island';
+    goToYoutube = () => window.location.href = 'https://www.youtube.com/user/IslandKrkTB/';
+    goToFacebook = () => window.location.href = 'https://m.facebook.com/krk.otok.isola.insel.island';
+    goToLinkedIn = () => window.location.href = 'https://www.linkedin.com/company/the-island-of-krk-tourist-board/about/';
+
 }
